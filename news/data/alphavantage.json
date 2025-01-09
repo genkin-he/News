@@ -1,8 +1,276 @@
 {
-    "items": "49",
+    "items": "47",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Sun Country Airlines Will Hold Its Fourth Quarter and Full Year 2024 Earnings Conference Call February 4",
+            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007294/0/en/Sun-Country-Airlines-Will-Hold-Its-Fourth-Quarter-and-Full-Year-2024-Earnings-Conference-Call-February-4.html",
+            "time_published": "20250109T182300",
+            "authors": [
+                "Sun Country Airlines"
+            ],
+            "summary": "SUN COUNTRY AIRLINES WILL HOLD ITS FOURTH QUARTER AND FULL YEAR 2024 EARNINGS CONFERENCE CALL FEBRUARY ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/37749baf-1824-4108-b13a-b8ba1823db69",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.328676,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SNCY",
+                    "relevance_score": "0.608634",
+                    "ticker_sentiment_score": "0.499574",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Price Over Earnings Overview: CECO Environmental - CECO Environmental  ( NASDAQ:CECO ) ",
+            "url": "https://www.benzinga.com/insights/news/25/01/42900569/price-over-earnings-overview-ceco-environmental",
+            "time_published": "20250109T181513",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Looking into the current session, CECO Environmental Inc. CECO shares are trading at $31.77, after a 1.21% decrease. Over the past month, the stock fell by 2.90%, but over the past year, it actually spiked by 66.60%.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736446510_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                }
+            ],
+            "overall_sentiment_score": 0.100156,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CECO",
+                    "relevance_score": "0.333257",
+                    "ticker_sentiment_score": "0.024326",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Social Media Sentiment Report Shows Only One Out Of Bitcoin, XRP, Dogecoin Is Bullish",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42900509/social-media-sentiment-report-shows-only-one-out-of-bitcoin-xrp-dogecoin-is-bullish",
+            "time_published": "20250109T181237",
+            "authors": [
+                "Khyathi Dalal"
+            ],
+            "summary": "Santiment data reveals shifting sentiment across the largest crypto market caps, with trends ranging from neutral to bullish. Dogecoin exhibits bearish sentiment, while XRP maintains a slightly bullish outlook. Get Monthly Picks of Market's Fastest Movers",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Cryptocurrency-Photo-by-Avi-Rozen-on-Shu.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.359614,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.236588",
+                    "ticker_sentiment_score": "0.160828",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.236588",
+                    "ticker_sentiment_score": "0.056336",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.311829",
+                    "ticker_sentiment_score": "0.138056",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ADA",
+                    "relevance_score": "0.236588",
+                    "ticker_sentiment_score": "0.078337",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BNB",
+                    "relevance_score": "0.159043",
+                    "ticker_sentiment_score": "0.040088",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:XRP",
+                    "relevance_score": "0.236588",
+                    "ticker_sentiment_score": "0.343846",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "SHAREHOLDER ALERT: Class Action Lawsuit Filed on Behalf of BioAge Labs, Inc.  ( BIOA )  Investors - Holzer & Holzer, LLC Encourages Investors With Significant Losses to Contact the Firm - Bioage Labs  ( NASDAQ:BIOA ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42900501/shareholder-alert-class-action-lawsuit-filed-on-behalf-of-bioage-labs-inc-bioa-investors-holzer-ho",
+            "time_published": "20250109T181120",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "ATLANTA, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- A shareholder class action lawsuit has been filed against BioAge Labs, Inc. ( \"BioAge\" or the \"Company\" ) BIOA. The lawsuit alleges that the Company's registration statement issued in connection with its IPO was false and/or misleading because ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": 0.01232,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BIOA",
+                    "relevance_score": "0.441059",
+                    "ticker_sentiment_score": "-0.10262",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Anticancer Peptides Market Size Clinical Trials Approval FDA Approved Drugs Insight",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42900395/anticancer-peptides-market-size-clinical-trials-approval-fda-approved-drugs-insight",
+            "time_published": "20250109T180137",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Delhi, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- The cancer peptide drugs market has experienced significant growth in recent years, with over 30 peptide-based therapies currently approved for clinical use worldwide.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.220875,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PFE",
+                    "relevance_score": "0.051003",
+                    "ticker_sentiment_score": "0.105019",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Cuxport Enhances Operations With New Terminal Operating System From Kaleris",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42900383/cuxport-enhances-operations-with-new-terminal-operating-system-from-kaleris",
+            "time_published": "20250109T180043",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "CUXHAVEN, Germany, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Cuxport, a modern multimodal deep-water terminal located in Northern Germany, has implemented Kaleris' Navis Mixed Cargo Terminal Operating System to replace its legacy system.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [],
+            "overall_sentiment_score": 0.37493,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HHULY",
+                    "relevance_score": "0.046452",
+                    "ticker_sentiment_score": "0.138439",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SE",
+                    "relevance_score": "0.092748",
+                    "ticker_sentiment_score": "0.146311",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Best Marketing Automation Tool  ( 2025 ) : Klaviyo's Marketing Automation Platform Recognized by Consumer365",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42900340/best-marketing-automation-tool-2025-klaviyos-marketing-automation-platform-recognized-by-consumer3",
+            "time_published": "20250109T180000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Boston, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Klaviyo, a leading marketing automation platform for e-commerce businesses, has been recognized as one of the best marketing automation tools by Consumer365, a publication known for its in-depth reviews of business tools and software.",
+            "banner_image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtTDfhcrg5wd63VW_UXMNIormcsohH9_B0UeSIDXXm1Ww3UyJSzCQ6UwR3HkkN399UrIs8w9ZL0BIlnfJJq4TCK8kBCUKcVIDWisXwpIVtjVdsLH3sQbp4krxQAyU60P4Ox9FE_A?key=xgB1KjNQ0wi2vO7dYkUIAby8",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.457903,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SHOP",
+                    "relevance_score": "0.052112",
+                    "ticker_sentiment_score": "0.271763",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MAT",
+                    "relevance_score": "0.052112",
+                    "ticker_sentiment_score": "0.177971",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "Nvidia Teams Up with Dutch Government to Build Cutting-Edge AI Supercomputer Facility - NVIDIA  ( NASDAQ:NVDA ) ",
             "url": "https://www.benzinga.com/25/01/42900314/nvidia-teams-up-with-dutch-government-to-build-cutting-edge-ai-supercomputer-facility",
@@ -527,6 +795,53 @@
                     "relevance_score": "0.103778",
                     "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why SoFi Stock Skyrocketed 55% in 2024",
+            "url": "https://www.fool.com/investing/2025/01/09/why-sofi-stock-skyrocketed-55-in-2024/",
+            "time_published": "20250109T173404",
+            "authors": [
+                "Jennifer Saibil"
+            ],
+            "summary": "Shares of online bank SoFi Technologies ( NASDAQ: SOFI ) soared 55% in 2024, according to data provided by S&P Global Market Intelligence. The company reported positive net income every quarter, grew its platform in multiple ways, and successfully managed through high interest rates.SoFi is an ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803422/students-looking-at-their-phones.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.990786"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.297994,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SOFI",
+                    "relevance_score": "0.193465",
+                    "ticker_sentiment_score": "0.50538",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.097457",
+                    "ticker_sentiment_score": "0.370409",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -1451,358 +1766,6 @@
                     "relevance_score": "0.116348",
                     "ticker_sentiment_score": "0.232606",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Why Axon Could Be the Best Stock to Buy in January",
-            "url": "https://www.fool.com/investing/2025/01/09/why-axon-could-be-the-best-stock-to-buy-in-january/",
-            "time_published": "20250109T165500",
-            "authors": [
-                "Rick Munarriz"
-            ],
-            "summary": "Despite more than doubling in 2024, the body camera specialist is ready to record another strong year.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803437%2Fgettyimages-170620012.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.875462"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.109753,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AXON",
-                    "relevance_score": "0.11983",
-                    "ticker_sentiment_score": "0.12229",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "BUREAU VERITAS: Number of shares and voting rights as of December 31, 2024",
-            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007250/0/en/BUREAU-VERITAS-Number-of-shares-and-voting-rights-as-of-December-31-2024.html",
-            "time_published": "20250109T165500",
-            "authors": [
-                "BUREAU VERITAS"
-            ],
-            "summary": "REGULATED INFORMATION ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/abe98ab4-3acc-4d0f-97e5-d96a945bd095",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [],
-            "overall_sentiment_score": 0.347662,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BVRDF",
-                    "relevance_score": "0.716023",
-                    "ticker_sentiment_score": "0.50726",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "CMG Investors Have Opportunity to Lead Chipotle Mexican Grill, Inc. Securities Fraud Lawsuit with the Schall Law Firm - Chipotle Mexican Grill  ( NYSE:CMG ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42899393/cmg-investors-have-opportunity-to-lead-chipotle-mexican-grill-inc-securities-fraud-lawsuit-with-th",
-            "time_published": "20250109T165443",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "LOS ANGELES, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- The Schall Law Firm, a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Chipotle Mexican Grill, Inc. ( \"Chipotle\" or \"the Company\" ) CMG for violations of \u00a7\u00a710 ( b ) and 20 ( a ) of the Securities ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": -0.056135,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CMG",
-                    "relevance_score": "0.430454",
-                    "ticker_sentiment_score": "-0.347526",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Aecon schedules fourth quarter and year-end 2024 financial results release and conference call",
-            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007247/0/en/Aecon-schedules-fourth-quarter-and-year-end-2024-financial-results-release-and-conference-call.html",
-            "time_published": "20250109T165100",
-            "authors": [
-                "Aecon Construction Group Inc."
-            ],
-            "summary": "TORONTO, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Aecon Group Inc. ( TSX: ARE ) announced today that it intends to release its fourth quarter and year-end 2024 financial results on Wednesday, March 5, 2025 after market close, and has scheduled a live webcast and conference call for 9 a.m. ( Eastern ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/35850858-cc14-4149-b4d6-74914cf5f129",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.14395,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AEGXF",
-                    "relevance_score": "0.465196",
-                    "ticker_sentiment_score": "0.098513",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.163909",
-                    "ticker_sentiment_score": "0.082002",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NOA",
-                    "relevance_score": "0.163909",
-                    "ticker_sentiment_score": "0.082002",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "PACS Group  ( PACS )  Investors with Losses Encouraged to Contact Hagens Berman Before Jan. 13, 2025 Deadline in Securities Class Action - PACS Group  ( NYSE:PACS ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42899291/pacs-group-pacs-investors-with-losses-encouraged-to-contact-hagens-berman-before-jan-13-2025-deadl",
-            "time_published": "20250109T164627",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "SAN FRANCISCO, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- PACS Group PACS, a nursing home operator that saw its stock soar after its initial public offering in April, has experienced a precipitous decline in recent weeks, losing 70 percent of its market capitalization since early November.",
-            "banner_image": "https://ml.globenewswire.com/media/51670c91-d369-4a8c-8102-d393de9f6d19/small/download-jpg.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.918141"
-                }
-            ],
-            "overall_sentiment_score": 0.014781,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PACS",
-                    "relevance_score": "0.571178",
-                    "ticker_sentiment_score": "-0.173824",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "OPKO Health to Present at the 43rd Annual J.P. Morgan Healthcare Conference",
-            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007243/0/en/OPKO-Health-to-Present-at-the-43rd-Annual-J-P-Morgan-Healthcare-Conference.html",
-            "time_published": "20250109T164500",
-            "authors": [
-                "Inc.",
-                "Opko Health"
-            ],
-            "summary": "MIAMI, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- OPKO Health, Inc. ( Nasdaq: OPK ) announced today that management will be participating in the 43rd Annual J.P. Morgan Healthcare Conference, being held January 13-16, 2025 at Westin St. Francis hotel in San Francisco.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/ed68aecb-6753-42d8-8b52-a6ec3e054b34",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.081459,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "OPK",
-                    "relevance_score": "0.582526",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "OPKO Health to Present at the 43rd Annual J.P. Morgan Healthcare Conference - OPKO Health  ( NASDAQ:OPK ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42899278/opko-health-to-present-at-the-43rd-annual-j-p-morgan-healthcare-conference",
-            "time_published": "20250109T164500",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "MIAMI, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- OPKO Health, Inc. OPK announced today that management will be participating in the 43rd Annual J.P. Morgan Healthcare Conference, being held January 13-16, 2025 at Westin St. Francis hotel in San Francisco.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.156098,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "OPK",
-                    "relevance_score": "0.443626",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Viridien provides Full Year 2024 Financial Update",
-            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007244/0/en/Viridien-provides-Full-Year-2024-Financial-Update.html",
-            "time_published": "20250109T164500",
-            "authors": [
-                "Viridien"
-            ],
-            "summary": "Paris ( France ) , January ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/7798dce6-6d8b-4f2c-aed6-c3e62dfd88b2",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.438219,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CGPVF",
-                    "relevance_score": "0.290033",
-                    "ticker_sentiment_score": "0.366246",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "NRHI",
-                    "relevance_score": "0.098659",
-                    "ticker_sentiment_score": "0.295004",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Alaris Equity Partners Announces Board Member Appointment",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42899271/alaris-equity-partners-announces-board-member-appointment",
-            "time_published": "20250109T164233",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NOT FOR DISTRIBUTION IN THE UNITED STATES. FAILURE TO COMPLY WITH THIS RESTRICTION MAY CONSTITUTE A VIOLATION OF UNITED STATES SECURITIES LAW",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999956"
-                }
-            ],
-            "overall_sentiment_score": 0.302987,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ADLRF",
-                    "relevance_score": "0.155954",
-                    "ticker_sentiment_score": "0.218656",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SFTCF",
-                    "relevance_score": "0.078354",
-                    "ticker_sentiment_score": "0.100409",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Alaris Equity Partners Announces Board Member Appointment",
-            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007242/0/en/Alaris-Equity-Partners-Announces-Board-Member-Appointment.html",
-            "time_published": "20250109T164200",
-            "authors": [
-                "Alaris Equity Partners Income Trust"
-            ],
-            "summary": "NOT FOR DISTRIBUTION IN THE UNITED STATES. FAILURE TO COMPLY WITH THIS RESTRICTION MAY CONSTITUTE A VIOLATION OF UNITED STATES SECURITIES LAW ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/fc57f4b5-01e8-49a9-add4-0f28983cb8f7",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999612"
-                }
-            ],
-            "overall_sentiment_score": 0.309562,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ADLRF",
-                    "relevance_score": "0.090134",
-                    "ticker_sentiment_score": "0.243922",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SFTCF",
-                    "relevance_score": "0.090134",
-                    "ticker_sentiment_score": "0.106811",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
