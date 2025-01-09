@@ -110,7 +110,7 @@ def run():
 
 # util.execute_with_timeout(run)
 try:
-    run()
+    # run()
     print("infocastfn 汇港资讯网站挂了")
 except Exception as e:
     print("infocastfn exec error: ", repr(e))
