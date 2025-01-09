@@ -1,8 +1,363 @@
 {
-    "items": "47",
+    "items": "48",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Warren Buffett-Backed BYD Launches Australia's First EV Under $30K: How The Move Could Strengthen Fight Against Elon Musk's Tesla - BYD  ( OTC:BYDDF ) ",
+            "url": "https://www.benzinga.com/news/management/25/01/42901570/warren-buffett-backed-byd-launches-australias-first-ev-under-30k-how-the-move-could-strengthen-fi",
+            "time_published": "20250109T195901",
+            "authors": [
+                "Chris Katje"
+            ],
+            "summary": "BYD is launching new models in Australia, a market that has seen strong electric vehicle growth. BYD has grown sales in the country, while Tesla's sales fell in 2024.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/BYD-30000-EV-Australia-3-copy.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.130196,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BYDDF",
+                    "relevance_score": "0.129866",
+                    "ticker_sentiment_score": "0.09378",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.06515",
+                    "ticker_sentiment_score": "0.113154",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.317254",
+                    "ticker_sentiment_score": "0.061217",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "APLT Class Action Lawsuit Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Applied Therapeutics, Inc.  ( APLT )  Investors that a Securities Fraud Class Action Lawsuit Has Been Filed - Applied Therapeutics  ( NASDAQ:APLT ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42901555/aplt-class-action-lawsuit-reminder-kessler-topaz-meltzer-check-llp-reminds-applied-therapeutics-in",
+            "time_published": "20250109T195500",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "RADNOR, Pa., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- The law firm of Kessler Topaz Meltzer & Check, LLP ( www.ktmc.com ) informs investors that a securities class action lawsuit has been filed in the United States District Court for the Southern District of New York against Applied Therapeutics, ...",
+            "banner_image": "https://ml.globenewswire.com/media/405ec490-b904-4a5e-85a7-710cdebe280d/small/ktmc-logo-rgb-jpg.jpg",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.082816,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "APLT",
+                    "relevance_score": "0.605937",
+                    "ticker_sentiment_score": "0.182187",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "SECU Foundation Awards $500,000 Grant for Expansion of Community Crossroads Center in Pitt County",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42901523/secu-foundation-awards-500-000-grant-for-expansion-of-community-crossroads-center-in-pitt-county",
+            "time_published": "20250109T195205",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "GREENVILLE, N.C., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Community Crossroads Center ( CCC ) has been awarded a $500,000 challenge grant by SECU Foundation to help expand its campus in Pitt County.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.365357,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Why Novavax  ( NVAX )  Stock Is Volatile This Week - Novavax  ( NASDAQ:NVAX ) ",
+            "url": "https://www.benzinga.com/news/25/01/42901509/why-novavax-nvax-stock-is-volatile-this-week",
+            "time_published": "20250109T195039",
+            "authors": [
+                "Henry Khederian"
+            ],
+            "summary": "Novavax shares fell 11.2% during Wednesday's session. Vaccine stocks are volatile after the first US bird flu death and a CDC report on rising respiratory illnesses. Get New Picks of the Market's Top Stocks Novavax Inc NVAX shares dipped 11.2% to $9.60 during Wednesday's session, pulling back ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/ai-generated-8477673.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99793"
+                }
+            ],
+            "overall_sentiment_score": 0.007419,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.077845",
+                    "ticker_sentiment_score": "0.170372",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVAX",
+                    "relevance_score": "0.620858",
+                    "ticker_sentiment_score": "-0.131671",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SNY",
+                    "relevance_score": "0.077845",
+                    "ticker_sentiment_score": "-0.074488",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, THE FIRST FILING FIRM, Encourages Customers Bancorp, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - CUBI - Customers Bancorp  ( NYSE:CUBI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42901505/rosen-the-first-filing-firm-encourages-customers-bancorp-inc-investors-to-secure-counsel-before-im",
+            "time_published": "20250109T194948",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Customers Bancorp, Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.138759,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.061473",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Man Who Accidentally Threw Away 8,000 Bitcoin Hard Drive Suffers New 'Kick In The Teeth' As UK Court Dismisses His Claim",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42901382/man-who-accidentally-threw-away-8000-bitcoin-hard-drive-suffers-new-kick-in-the-teeth-as-u",
+            "time_published": "20250109T193207",
+            "authors": [
+                "Khyathi Dalal"
+            ],
+            "summary": "James Howells, who is infamously known for having accidentally thrown away a hard drive containing 8,000 Bitcoin BTC/USD, has suffered a new setback in his quest to reclaim his fortune.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/chart-upset-sad-trader-shutter.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [],
+            "overall_sentiment_score": 0.012441,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.447528",
+                    "ticker_sentiment_score": "-0.228383",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": " ( TNXP )  - Analyzing Tonix Pharmaceuticals's Short Interest - Tonix Pharmaceuticals  ( NASDAQ:TNXP ) ",
+            "url": "https://www.benzinga.com/insights/short-sellers/25/01/42901350/tnxp-analyzing-tonix-pharmaceuticalss-short-interest",
+            "time_published": "20250109T193020",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Tonix Pharmaceuticals's TNXP short percent of float has risen 151.76% since its last report. The company recently reported that it has 4.00 million shares sold short, which is 2.14% of all regular shares that are available for trading.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736451017_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.287757,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TNXP",
+                    "relevance_score": "0.209365",
+                    "ticker_sentiment_score": "0.148634",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": " ( JPM )  - Analyzing JPMorgan Chase's Short Interest - JPMorgan Chase  ( NYSE:JPM ) ",
+            "url": "https://www.benzinga.com/insights/short-sellers/25/01/42901349/jpm-analyzing-jpmorgan-chases-short-interest",
+            "time_published": "20250109T193015",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "JPMorgan Chase's JPM short percent of float has fallen 4.59% since its last report. The company recently reported that it has 29.19 million shares sold short, which is 1.04% of all regular shares that are available for trading.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736451012_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.264456,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "PACS Deadline in 4 Days: Kessler Topaz Meltzer & Check, LLP Reminds PACS Group, Inc.  ( PACS )  Investors of Filing Deadline in Class Action Lawsuit - PACS Group  ( NYSE:PACS ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42901311/pacs-deadline-in-4-days-kessler-topaz-meltzer-check-llp-reminds-pacs-group-inc-pacs-investors-of-f",
+            "time_published": "20250109T192700",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "RADNOR, Pa., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- The law firm of Kessler Topaz Meltzer & Check, LLP ( www.ktmc.com ) informs investors that a securities class action lawsuit has been filed in the United States District Court for the Southern District of New York against PACS Group, Inc. ( \"PACS\" ...",
+            "banner_image": "https://ml.globenewswire.com/media/405ec490-b904-4a5e-85a7-710cdebe280d/small/ktmc-logo-rgb-jpg.jpg",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": 0.075559,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PACS",
+                    "relevance_score": "0.669232",
+                    "ticker_sentiment_score": "0.161725",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why Rigetti Computing Stock Is Plummeting This Week",
+            "url": "https://www.fool.com/investing/2025/01/09/why-rigetti-computing-stock-is-plummeting-this-wee/",
+            "time_published": "20250109T192530",
+            "authors": [
+                "Keith Noonan"
+            ],
+            "summary": "Rigetti Computing ( NASDAQ: RGTI ) stock is crashing in this week's trading. The quantum computing company's share price is down 47.2% from last Friday's market close as of Wednesday, according to data from S&P Global Market Intelligence.With the stock market closed today in remembrance of ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803448/gettyimages-83077315.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990999"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.007289,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RGTI",
+                    "relevance_score": "0.233556",
+                    "ticker_sentiment_score": "0.009265",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.15697",
+                    "ticker_sentiment_score": "-0.031608",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.07887",
+                    "ticker_sentiment_score": "0.035407",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "The Silent Revenue Killer In US Healthcare - And The Tech That Is Fighting Back",
             "url": "https://www.benzinga.com/partner/health-care/25/01/42901251/the-silent-revenue-killer-in-us-healthcare-and-the-tech-that-is-fighting-back",
@@ -71,6 +426,61 @@
             ]
         },
         {
+            "title": "Why Sam Altman-Backed Oklo Surged 101% Higher in 2024",
+            "url": "https://www.fool.com/investing/2025/01/09/why-sam-altman-backed-oklo-surged-101-higher-in-20/",
+            "time_published": "20250109T191437",
+            "authors": [
+                "Courtney Carlsen"
+            ],
+            "summary": "More than ever, tech giants are searching for clean, sustainable energy sources. One company looking to lead the way with its next-generation nuclear technology is Oklo ( NYSE: OKLO ) . According to data provided by S&P Global Market Intelligence, the company surged 101% higher in 2024.Investor ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803469%2Fcooling-towers-at-an-energy-facility-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.31299,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SMR",
+                    "relevance_score": "0.223522",
+                    "ticker_sentiment_score": "0.139629",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.075397",
+                    "ticker_sentiment_score": "0.262723",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "OKLO",
+                    "relevance_score": "0.150122",
+                    "ticker_sentiment_score": "0.265805",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "USEG",
+                    "relevance_score": "0.075397",
+                    "ticker_sentiment_score": "0.076659",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Ramesh Kasarla Innovates Engineering Systems While Inspiring Change",
             "url": "https://www.benzinga.com/partner/general/25/01/42901222/ramesh-kasarla-innovates-engineering-systems-while-inspiring-change",
             "time_published": "20250109T191330",
@@ -99,6 +509,51 @@
                     "ticker": "APG",
                     "relevance_score": "0.181137",
                     "ticker_sentiment_score": "0.250817",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Obesity Treatments, M&A Activity To Take Center Stage During Upcoming JPM Healthcare Conference - Amgen  ( NASDAQ:AMGN ) , Bristol-Myers Squibb  ( NYSE:BMY ) ",
+            "url": "https://www.benzinga.com/general/biotech/25/01/42901177/obesity-treatments-ma-activity-to-take-center-stage-during-upcoming-jpm-healthcare-conference",
+            "time_published": "20250109T191220",
+            "authors": [
+                "Vandana Singh"
+            ],
+            "summary": "Analysts project key drug launches like Bristol Myers Squibb's Cobenfy to fuel growth in 2025. Get Monthly Picks of Market's Fastest Movers According to JP Morgan, U.S. large-cap biopharma stocks have underperformed the broader market for two consecutive years, with mixed sentiment shaping ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/62-Americans-Now-Back-Government-Guarant.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.29363,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LLY",
+                    "relevance_score": "0.16117",
+                    "ticker_sentiment_score": "0.243023",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BMY",
+                    "relevance_score": "0.16117",
+                    "ticker_sentiment_score": "0.082105",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GILD",
+                    "relevance_score": "0.16117",
+                    "ticker_sentiment_score": "0.16468",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
@@ -171,6 +626,49 @@
             "overall_sentiment_score": 0.312216,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
+        },
+        {
+            "title": "Why Micron Stock Was Moving Higher This Week",
+            "url": "https://www.fool.com/investing/2025/01/09/why-micron-stock-was-moving-higher-this-week/",
+            "time_published": "20250109T190222",
+            "authors": [
+                "Jeremy Bowman"
+            ],
+            "summary": "Shares of Micron ( NASDAQ: MU ) were among the winners this week after the memory-chip specialist benefited from general excitement about the chip sector and artificial intelligence ( AI ) with the start of CES earlier this week.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803454%2Fai-square-chip.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.265552,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.492659",
+                    "ticker_sentiment_score": "0.268428",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.131643",
+                    "ticker_sentiment_score": "0.118161",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
         },
         {
             "title": "CRTC consults on market dynamics within Canada's broadcasting system",
@@ -616,6 +1114,51 @@
                     "relevance_score": "0.206685",
                     "ticker_sentiment_score": "0.076938",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "MSC Industrial Direct  ( MSM )  Q1 2025 Earnings Call Transcript",
+            "url": "https://www.fool.com/earnings/call-transcripts/2025/01/09/msc-industrial-direct-msm-q1-2025-earnings-call-tr/",
+            "time_published": "20250109T184512",
+            "authors": [
+                "Motley Fool Transcribing"
+            ],
+            "summary": "MSM earnings call for the period ending December 31, 2024.",
+            "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99994"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999995"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.227448,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.005186",
+                    "ticker_sentiment_score": "0.313737",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         },
@@ -1398,536 +1941,6 @@
                     "ticker": "BIOA",
                     "relevance_score": "0.441059",
                     "ticker_sentiment_score": "-0.10262",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "BP Secures Landmark Deal With India's ONGC: Details - BP  ( NYSE:BP ) ",
-            "url": "https://www.benzinga.com/news/contracts/25/01/42900479/bp-secures-landmark-deal-with-indias-ongc-details",
-            "time_published": "20250109T180805",
-            "authors": [
-                "Lekha Gupta"
-            ],
-            "summary": "BP selected as Technical Services Provider by ONGC for Mumbai High Field, aiming for a ~60% production increase. Agreement targets $10.3B additional revenue, with full-scale output expected by FY28 and visible growth from FY26. Get Monthly Picks of Market's Fastest Movers BP p.l.c.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/BP-Logo.png?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.744043"
-                }
-            ],
-            "overall_sentiment_score": 0.318882,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "How The Trade Desk Stock Gained 63% in 2024",
-            "url": "https://www.fool.com/investing/2025/01/09/how-the-trade-desk-stock-gained-63-in-2024/",
-            "time_published": "20250109T180724",
-            "authors": [
-                "Anders Bylund"
-            ],
-            "summary": "The Trade Desk outperformed the S&P 500 by 40 percentage points last year. Here's how the advertising specialist delivered game-changing results in a difficult market.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803459/remote-control-and-lots-of-tv-screens.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.614606"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Economy - Macro",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.100689,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.082111",
-                    "ticker_sentiment_score": "0.051923",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ROKU",
-                    "relevance_score": "0.082111",
-                    "ticker_sentiment_score": "0.051923",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SPGI",
-                    "relevance_score": "0.082111",
-                    "ticker_sentiment_score": "0.264641",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TTD",
-                    "relevance_score": "0.590482",
-                    "ticker_sentiment_score": "0.271261",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Anticancer Peptides Market Size Clinical Trials Approval FDA Approved Drugs Insight",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42900395/anticancer-peptides-market-size-clinical-trials-approval-fda-approved-drugs-insight",
-            "time_published": "20250109T180137",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "Delhi, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- The cancer peptide drugs market has experienced significant growth in recent years, with over 30 peptide-based therapies currently approved for clinical use worldwide.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.220875,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PFE",
-                    "relevance_score": "0.051003",
-                    "ticker_sentiment_score": "0.105019",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Cuxport Enhances Operations With New Terminal Operating System From Kaleris",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42900383/cuxport-enhances-operations-with-new-terminal-operating-system-from-kaleris",
-            "time_published": "20250109T180043",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "CUXHAVEN, Germany, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Cuxport, a modern multimodal deep-water terminal located in Northern Germany, has implemented Kaleris' Navis Mixed Cargo Terminal Operating System to replace its legacy system.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [],
-            "overall_sentiment_score": 0.37493,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HHULY",
-                    "relevance_score": "0.046452",
-                    "ticker_sentiment_score": "0.138439",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SE",
-                    "relevance_score": "0.092748",
-                    "ticker_sentiment_score": "0.146311",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "IGM Biosciences Provides Strategic Update on Autoimmunity Pipeline Programs",
-            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007285/0/en/IGM-Biosciences-Provides-Strategic-Update-on-Autoimmunity-Pipeline-Programs.html",
-            "time_published": "20250109T180000",
-            "authors": [
-                "Inc.",
-                "IGM Biosciences"
-            ],
-            "summary": "- Company halting further development of imvotamab ( CD20 x CD3 ) and IGM-2644 ( CD38 x ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/312125d7-48ef-48f1-aa8e-a7532c2f21e8",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.174554,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "IGMS",
-                    "relevance_score": "0.188928",
-                    "ticker_sentiment_score": "0.141584",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SNY",
-                    "relevance_score": "0.047654",
-                    "ticker_sentiment_score": "0.139019",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Best Marketing Automation Tool  ( 2025 ) : Klaviyo's Marketing Automation Platform Recognized by Consumer365",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42900340/best-marketing-automation-tool-2025-klaviyos-marketing-automation-platform-recognized-by-consumer3",
-            "time_published": "20250109T180000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "Boston, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Klaviyo, a leading marketing automation platform for e-commerce businesses, has been recognized as one of the best marketing automation tools by Consumer365, a publication known for its in-depth reviews of business tools and software.",
-            "banner_image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtTDfhcrg5wd63VW_UXMNIormcsohH9_B0UeSIDXXm1Ww3UyJSzCQ6UwR3HkkN399UrIs8w9ZL0BIlnfJJq4TCK8kBCUKcVIDWisXwpIVtjVdsLH3sQbp4krxQAyU60P4Ox9FE_A?key=xgB1KjNQ0wi2vO7dYkUIAby8",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.457903,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SHOP",
-                    "relevance_score": "0.052112",
-                    "ticker_sentiment_score": "0.271763",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MAT",
-                    "relevance_score": "0.052112",
-                    "ticker_sentiment_score": "0.177971",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Why Palantir Stock Is Plummeting This Week",
-            "url": "https://www.fool.com/investing/2025/01/09/why-palantir-stock-is-plummeting-this-week/",
-            "time_published": "20250109T175815",
-            "authors": [
-                "Keith Noonan"
-            ],
-            "summary": "Shares of Palantir ( NASDAQ: PLTR ) are seeing big sell-offs in this week's trading. The stock's price is down 14.6% from last week's market close, according to data from S&P Global Market Intelligence.Meanwhile, the S&P 500 index is down 0.4% over this stretch, and the Nasdaq Composite index is ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803449/gettyimages-1169868458.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.10111,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SPGI",
-                    "relevance_score": "0.096671",
-                    "ticker_sentiment_score": "0.163712",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Nvidia Teams Up with Dutch Government to Build Cutting-Edge AI Supercomputer Facility - NVIDIA  ( NASDAQ:NVDA ) ",
-            "url": "https://www.benzinga.com/25/01/42900314/nvidia-teams-up-with-dutch-government-to-build-cutting-edge-ai-supercomputer-facility",
-            "time_published": "20250109T175457",
-            "authors": [
-                "Anusuya Lahiri"
-            ],
-            "summary": "Nvidia partners with the Dutch government to develop an AI supercomputer facility, supported by \u20ac204.5M in AI investments. Potential US semiconductor sanctions could impact global chip access, but allies like the Netherlands remain in Tier 1 with full access.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/untitled.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.149925,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.577527",
-                    "ticker_sentiment_score": "0.199758",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ASML",
-                    "relevance_score": "0.25168",
-                    "ticker_sentiment_score": "0.27015",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TSM",
-                    "relevance_score": "0.25168",
-                    "ticker_sentiment_score": "0.27015",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Bectran Appoints John Bagazinski to its Board of Directors",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42900313/bectran-appoints-john-bagazinski-to-its-board-of-directors",
-            "time_published": "20250109T175425",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "CHICAGO, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Bectran, Inc., the industry leader in credit, collections, and accounts receivable management technology, is proud to announce the appointment of John Bagazinski to its Board of Directors.",
-            "banner_image": "https://ml.globenewswire.com/media/f9f1f81a-e30d-4324-9453-d7284ee5111a/small/bectran-transparent-logo-1-png.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.530977,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ALGN",
-                    "relevance_score": "0.08183",
-                    "ticker_sentiment_score": "0.391737",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "CAPMF",
-                    "relevance_score": "0.08183",
-                    "ticker_sentiment_score": "0.267601",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "GM",
-                    "relevance_score": "0.08183",
-                    "ticker_sentiment_score": "0.267601",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "PTEFF",
-                    "relevance_score": "0.08183",
-                    "ticker_sentiment_score": "0.223226",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Verses AI Inc. Announces Closing of $20,000,000 Prospectus Supplement Offering",
-            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007278/0/en/Verses-AI-Inc-Announces-Closing-of-20-000-000-Prospectus-Supplement-Offering.html",
-            "time_published": "20250109T174800",
-            "authors": [
-                "VERSES AI Inc."
-            ],
-            "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/64a50caf-80fd-4c93-85aa-01f7b8e50f31",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.317752,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ALGGF",
-                    "relevance_score": "0.064797",
-                    "ticker_sentiment_score": "0.199428",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CAPFF",
-                    "relevance_score": "0.064797",
-                    "ticker_sentiment_score": "0.199428",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "GLP",
-                    "relevance_score": "0.064797",
-                    "ticker_sentiment_score": "0.199428",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Johnson & Johnson Pauses US Varipulse Procedures Amid Safety Review, Investigates Brain-Related Events - Johnson & Johnson  ( NYSE:JNJ ) ",
-            "url": "https://www.benzinga.com/general/health-care/25/01/42900141/johnson-johnson-pauses-us-varipulse-procedures-amid-safety-review-investigates-brain-related-",
-            "time_published": "20250109T174632",
-            "authors": [
-                "Vandana Singh"
-            ],
-            "summary": "Johnson & Johnson halted U.S. Varipulse cases after four reported neurovascular events during external evaluation trials. Over 130 U.S. cases and 3,000 global commercial cases have been performed with the Varipulse system to date. Get New Picks of the Market's Top Stocks",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Santa-Clara--Ca--Usa---Apr-29--2022-John.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.126068,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "JNJ",
-                    "relevance_score": "0.461283",
-                    "ticker_sentiment_score": "0.100082",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Verifone Unveils New Payment Device Portfolio and Innovations to Revolutionize Commerce",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42900140/verifone-unveils-new-payment-device-portfolio-and-innovations-to-revolutionize-commerce",
-            "time_published": "20250109T174508",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "New Verifone Victa hardware portfolio, Verifone Tap softPOS, and Verifone biometrics products from the fintech leader to be showcased at NRF'25 Retail's Big Show beginning Sunday, January 12, in New York City.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/d2de1a2c-2913-43cf-a439-0a9c1a15f3cf/verifone-innovation-press-release.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.402468,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.05257",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "QCOM",
-                    "relevance_score": "0.05257",
-                    "ticker_sentiment_score": "0.221715",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "MQ Class Action Lawsuit Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Marqeta, Inc.  ( MQ )  Investors that a Securities Fraud Class Action Lawsuit Has Been Filed - Marqeta  ( NASDAQ:MQ ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42900138/mq-class-action-lawsuit-reminder-kessler-topaz-meltzer-check-llp-reminds-marqeta-inc-mq-investors-",
-            "time_published": "20250109T174500",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "RADNOR, Pa., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- The law firm of Kessler Topaz Meltzer & Check, LLP ( www.ktmc.com ) informs investors that securities class action lawsuits have been filed in the United States District Court for the Northern District of California against Marqeta, Inc. ( ...",
-            "banner_image": "https://ml.globenewswire.com/media/405ec490-b904-4a5e-85a7-710cdebe280d/small/ktmc-logo-rgb-jpg.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.061143,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MQ",
-                    "relevance_score": "0.544246",
-                    "ticker_sentiment_score": "0.122726",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
