@@ -36,7 +36,7 @@ jobs:
       - name: Execute Python scripts
         run: |
           chmod +x ./news/scripts/*.py
-          find ./news/scripts/*.py -type f -perm -u=x -print0 | xargs -0 -n 1 -P 2 python3
+          find ./news/scripts/*.py -type f -perm -u=x -print0 | xargs -0 -n 1 -P 2 -I {} sh -c 'python3 {} || true'
 
       - name: Execute shell scripts
         run: |
