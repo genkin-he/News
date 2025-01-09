@@ -31,7 +31,7 @@ jobs:
       - name: Execute before actions
         run: |
           chmod +x ./news/scripts/callbacks/before_actions.py
-          python3 ./news/scripts/callbacks/before_actions.py
+          python3 ./news/scripts/callbacks/before_actions.py || true
         
       - name: Execute Python scripts
         run: |
@@ -41,12 +41,12 @@ jobs:
       - name: Execute shell scripts
         run: |
           chmod +x ./news/scripts/*.sh
-          find ./news/scripts/*.sh -type f -perm -u=x -print0 | xargs -0 -n 1 -P 2 sh
+          find ./news/scripts/*.sh -type f -perm -u=x -print0 | xargs -0 -n 1 -P 2 sh || true
 
       - name: Execute after actions
         run: |
           chmod +x ./news/scripts/callbacks/after_actions.py
-          python3 ./news/scripts/callbacks/after_actions.py
+          python3 ./news/scripts/callbacks/after_actions.py || true
 
       - name: Configure Git
         run: |
