@@ -1,8 +1,76 @@
 {
-    "items": "48",
+    "items": "49",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "NewAmsterdam Pharma Reports Inducement Grants Under Nasdaq Listing Rule 5635 ( c )  ( 4 ) ",
+            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007330/0/en/NewAmsterdam-Pharma-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
+            "time_published": "20250109T203800",
+            "authors": [
+                "NewAmsterdam Pharma N.V."
+            ],
+            "summary": "NAARDEN, the Netherlands and MIAMI, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- NewAmsterdam Pharma Company N.V. ( Nasdaq: NAMS. \"NewAmsterdam\" or the \"Company\" ) , a late-stage, clinical biopharmaceutical company developing oral, non-statin medicines for patients at risk of cardiovascular disease ( ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/f7b8b881-9461-4712-9965-707ed3bdd573",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                }
+            ],
+            "overall_sentiment_score": 0.234734,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NAMS",
+                    "relevance_score": "0.370418",
+                    "ticker_sentiment_score": "0.248465",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Nokia Corporation: Repurchase of own shares on 09.01.2025",
+            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007327/0/en/Nokia-Corporation-Repurchase-of-own-shares-on-09-01-2025.html",
+            "time_published": "20250109T203000",
+            "authors": [
+                "Nokia Oyj"
+            ],
+            "summary": "Nokia CorporationStock Exchange Release9 January 2025 at ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e6523d78-c43a-4057-8aa9-68206d3af4a8",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.40331,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "INFN",
+                    "relevance_score": "0.2872",
+                    "ticker_sentiment_score": "0.118145",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NOK",
+                    "relevance_score": "0.859085",
+                    "ticker_sentiment_score": "0.647454",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
         {
             "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Fuquay-Varina, North Carolina",
             "url": "https://www.globenewswire.com/news-release/2025/01/09/3007325/1924/en/Toll-Brothers-Announces-New-Luxury-Home-Community-Coming-Soon-to-Fuquay-Varina-North-Carolina.html",
@@ -34,6 +102,151 @@
                     "relevance_score": "0.672864",
                     "ticker_sentiment_score": "0.531261",
                     "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin ETFs Outperform SPY, Magnificent 7 Plays Catch-Up - Roundhill Magnificent Seven ETF  ( NASDAQ:MAGS ) , iShares Bitcoin Trust  ( NASDAQ:IBIT ) , SPDR S&P 500  ( ARCA:SPY ) ",
+            "url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/25/01/42901797/bitcoin-etfs-quadruple-spy-returns-magnificent-7-plays-catch-up",
+            "time_published": "20250109T202451",
+            "authors": [
+                "Surbhi Jain"
+            ],
+            "summary": "Bitcoin BTC/USD ETFs delivered over 100% gains in 2024. That's four times the returns of the S&P 500 index. The Roundhill Magnificent Seven ETF MAGS, meanwhile, lagged at 65%, proving the tech elite can't always keep up with crypto.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/01/09133705/Screenshot-2025-01-10-at-12.06.12-AM.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.928769"
+                }
+            ],
+            "overall_sentiment_score": 0.18803,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.192694",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.192694",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.606706",
+                    "ticker_sentiment_score": "0.247539",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Chevy Chase, Maryland - Toll Brothers  ( NYSE:TOL ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42901785/toll-brothers-announces-new-luxury-home-community-coming-soon-to-chevy-chase-maryland",
+            "time_published": "20250109T202333",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "CHEVY CHASE, Md., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Toll Brothers, Inc. TOL, the nation's leading builder of luxury homes, today announced its newest D.C. Metro area community, Chevy Chase Crossing, is coming soon to Maryland.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/df367d62-5648-4059-9f7c-15ad38d9aaa3/metro-walk-towns-noma-kitchen-04.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.839681"
+                }
+            ],
+            "overall_sentiment_score": 0.321075,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TOL",
+                    "relevance_score": "0.749418",
+                    "ticker_sentiment_score": "0.474113",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Toll Brothers Announces New Luxury Home Community Coming Soon to Chevy Chase, Maryland",
+            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007323/1924/en/Toll-Brothers-Announces-New-Luxury-Home-Community-Coming-Soon-to-Chevy-Chase-Maryland.html",
+            "time_published": "20250109T202300",
+            "authors": [
+                "Toll Brothers",
+                "Inc."
+            ],
+            "summary": "CHEVY CHASE, Md., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Toll Brothers, Inc. ( NYSE:TOL ) , the nation's leading builder of luxury homes, today announced its newest D.C. Metro area community, Chevy Chase Crossing, is coming soon to Maryland.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/df367d62-5648-4059-9f7c-15ad38d9aaa3/metro-walk-towns-noma-kitchen-04.jpg",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.744043"
+                }
+            ],
+            "overall_sentiment_score": 0.324907,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TOL",
+                    "relevance_score": "0.699089",
+                    "ticker_sentiment_score": "0.476828",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ON Semiconductor Corporation  ( ON )  technical analysis - ON Semiconductor  ( NASDAQ:ON ) ",
+            "url": "https://www.benzinga.com/25/01/42901743/stock-of-the-day-will-the-on-semiconductor-meltdown-continue",
+            "time_published": "20250109T202000",
+            "authors": [
+                "Mark Putrino"
+            ],
+            "summary": "ON Semiconductor faces potential new downtrend after breaking key $61 support level. Increased supply outweighs demand, pushing ON Semiconductor shares lower. There has been more supply, or shares for sale, than there has been demand, or shares to buy, for ON Semiconductor Corporation ON, ...",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/01/09151205/On-chart-1024x556.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.193633,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ON",
+                    "relevance_score": "0.485711",
+                    "ticker_sentiment_score": "-0.00971",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
@@ -276,6 +489,28 @@
             ],
             "overall_sentiment_score": 0.486503,
             "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "$1000 Invested In Williams Companies 5 Years Ago Would Be Worth This Much Today - Williams Companies  ( NYSE:WMB ) ",
+            "url": "https://www.benzinga.com/insights/news/25/01/42901590/1000-invested-in-williams-companies-5-years-ago-would-be-worth-this-much-today",
+            "time_published": "20250109T200013",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Williams Companies WMB has outperformed the market over the past 5 years by 6.31% on an annualized basis producing an average annual return of 18.79%. Currently, Williams Companies has a market capitalization of $69.22 billion.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736452810_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.234486,
+            "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
         },
         {
@@ -1215,6 +1450,49 @@
             ]
         },
         {
+            "title": "First Majestic Q4 Silver-Equivalent Production Rises Sequentially",
+            "url": "https://www.zacks.com/stock/news/2394653/first-majestic-q4-silver-equivalent-production-rises-sequentially",
+            "time_published": "20250109T185000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "AG Q4 silver-equivalent production gains from sequential increases in silver and growth productions across all three operating mines.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6a/2384.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.331553,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRS",
+                    "relevance_score": "0.353059",
+                    "ticker_sentiment_score": "0.261485",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AG",
+                    "relevance_score": "0.181137",
+                    "ticker_sentiment_score": "0.136492",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "ENPH Announcement: Kessler Topaz Meltzer & Check, LLP Files Securities Fraud Class Action Lawsuit Against Enphase Energy, Inc. and Encourages Investors to Contact the Firm - Enphase Energy  ( NASDAQ:ENPH ) ",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42900970/enph-announcement-kessler-topaz-meltzer-check-llp-files-securities-fraud-class-action-lawsuit-agai",
             "time_published": "20250109T184900",
@@ -1261,6 +1539,61 @@
                     "ticker": "MS",
                     "relevance_score": "0.033799",
                     "ticker_sentiment_score": "0.010688",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Biotech Stock Roundup: NMRA Plunges on Study Failure, HOTH, VIR Soar on Study Data & More",
+            "url": "https://www.zacks.com/stock/news/2394652/biotech-stock-roundup-nmra-plunges-on-study-failure-hoth-vir-soar-on-study-data-more",
+            "time_published": "20250109T184800",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "NMRA and HOTH are in the spotlight in the biotech sector on study data announcement.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/37/2337.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.092859,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HOTH",
+                    "relevance_score": "0.239541",
+                    "ticker_sentiment_score": "0.0976",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NMRA",
+                    "relevance_score": "0.145145",
+                    "ticker_sentiment_score": "-0.090559",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CPRX",
+                    "relevance_score": "0.097062",
+                    "ticker_sentiment_score": "0.108775",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VIR",
+                    "relevance_score": "0.330496",
+                    "ticker_sentiment_score": "0.095035",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -1504,351 +1837,6 @@
                     "relevance_score": "0.655824",
                     "ticker_sentiment_score": "0.290705",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Quantum Stocks Regetti Computing, IonQ, D-Wave Poised To Open Higher After Nvidia CEO Comments Drove Huge Losses - Rigetti Computing  ( NASDAQ:RGTI ) ",
-            "url": "https://www.benzinga.com/trading-ideas/movers/25/01/42900817/quantum-stocks-regetti-computing-ionq-d-wave-poised-to-open-higher-after-nvidia-ceo-comments",
-            "time_published": "20250109T183816",
-            "authors": [
-                "Erica Kollmann"
-            ],
-            "summary": "Some experts suggest Huang may have had ulterior motives behind his comments on quantum computing's long-term outlook. Quantum stocks look poised to open higher Friday after recovering slightly in Wednesday's after hours session. Get Monthly Picks of Market's Fastest Movers",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Quantum-Computing-Concept-Businessman-Po.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.115919,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.307924",
-                    "ticker_sentiment_score": "-0.136318",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "IONQ",
-                    "relevance_score": "0.307924",
-                    "ticker_sentiment_score": "0.198554",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MA",
-                    "relevance_score": "0.07887",
-                    "ticker_sentiment_score": "-0.147389",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RGTI",
-                    "relevance_score": "0.307924",
-                    "ticker_sentiment_score": "0.198554",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "QBTS",
-                    "relevance_score": "0.379435",
-                    "ticker_sentiment_score": "0.07476",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Fed Governor Bowman says December interest rate cut should be the last",
-            "url": "https://www.cnbc.com/2025/01/09/fed-governor-bowman-says-december-interest-rate-cut-should-be-the-last.html",
-            "time_published": "20250109T183518",
-            "authors": [],
-            "summary": "Bowman said Thursday she supported the recent interest rate cuts but doesn't see the need to go any further.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Finance",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.999326"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": -0.065572,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Westwood One to Broadcast NFL Wild Card Weekend - Cumulus Media  ( NASDAQ:CMLS ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42900792/westwood-one-to-broadcast-nfl-wild-card-weekend",
-            "time_published": "20250109T183500",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Cumulus Media's CMLS Westwood One, America's largest audio network and the official audio partner of the National Football League, will present live play-by-play coverage of NFL Wild Card Weekend on Saturday, January 11th, Sunday, January 12th, and ...",
-            "banner_image": "https://ml.globenewswire.com/media/9b6f658a-4f93-4844-bff6-a0d8b1a855a9/small/cumulus-logo-png.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.171996,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ICNB",
-                    "relevance_score": "0.055881",
-                    "ticker_sentiment_score": "0.17494",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.055881",
-                    "ticker_sentiment_score": "0.098885",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CMLS",
-                    "relevance_score": "0.42503",
-                    "ticker_sentiment_score": "0.339404",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Westwood One to Broadcast NFL Wild Card Weekend",
-            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007297/9032/en/Westwood-One-to-Broadcast-NFL-Wild-Card-Weekend.html",
-            "time_published": "20250109T183500",
-            "authors": [
-                "Cumulus Media Inc."
-            ],
-            "summary": "Westwood One, Official Audio Partner of the NFL, Delivers All the Action With Live Play-by-Play Coverage of NFL Wild Card Weekend ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/9b6f658a-4f93-4844-bff6-a0d8b1a855a9",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.15804,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ICNB",
-                    "relevance_score": "0.059488",
-                    "ticker_sentiment_score": "0.190023",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.059488",
-                    "ticker_sentiment_score": "0.104",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CMLS",
-                    "relevance_score": "0.345674",
-                    "ticker_sentiment_score": "0.408321",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Stephen King Slams Elon Musk's H-1B Visa Stance: 'Musk Thinks Smart Immigrants Can Stay - The Rest of You Washing Dishes \u2026 Get Lost'",
-            "url": "https://www.benzinga.com/news/25/01/42900737/stephen-king-slams-elon-musks-h-1b-visa-stance-musk-thinks-smart-immigrants-can-stay-the-rest-of-you-washing",
-            "time_published": "20250109T183015",
-            "authors": [
-                "Jeannine Mancini"
-            ],
-            "summary": "The intersection of celebrity and policy debates took center stage this week when bestselling author Stephen King criticized billionaire Elon Musk over his stance on H-1B visas. In a post on Bluesky, King aimed Musk's apparent preference for highly skilled immigrants, writing: \"Musk thinks it's ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Stephen-King-Elon-Musk.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.149082,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ABNB",
-                    "relevance_score": "0.05133",
-                    "ticker_sentiment_score": "0.285694",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.153145",
-                    "ticker_sentiment_score": "0.059571",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "UBER",
-                    "relevance_score": "0.05133",
-                    "ticker_sentiment_score": "0.285694",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "WMT",
-                    "relevance_score": "0.05133",
-                    "ticker_sentiment_score": "0.280681",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "What's Going On With Robinhood Markets Stock? - Robinhood Markets  ( NASDAQ:HOOD ) ",
-            "url": "https://www.benzinga.com/news/25/01/42900719/whats-going-on-with-robinhood-markets-stock-3",
-            "time_published": "20250109T182815",
-            "authors": [
-                "Henry Khederian"
-            ],
-            "summary": "Robinhood Markets stock fell as much as 3% Wednesday before closing flat. The latest employment data signaled a cooling U.S. labor market, raising potential concerns about reduced retail trading activity. Get New Picks of the Market's Top Stocks",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Robinhood-Markets-Inc-.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999822"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.189946,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HOOD",
-                    "relevance_score": "0.340915",
-                    "ticker_sentiment_score": "-0.065251",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Rocket Lab Advances $515 Million Satellite Contract With Key Design Milestone: Details - Rocket Lab USA  ( NASDAQ:RKLB ) ",
-            "url": "https://www.benzinga.com/25/01/42900671/rocket-lab-completes-pdr-for-515m-sda-satellite-contract",
-            "time_published": "20250109T182530",
-            "authors": [
-                "Nabaparna Bhattacharya"
-            ],
-            "summary": "Rocket Lab completes PDR for $515M SDA contract, advancing design of 18 satellites for U.S. defense communications and missile tracking. The milestone brings Rocket Lab closer to detailed design phase, utilizing vertically integrated subsystems for cost, and quality control. Rocket Lab USA, Inc.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/RKLB.png?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                }
-            ],
-            "overall_sentiment_score": 0.339525,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "RKLB",
-                    "relevance_score": "0.443626",
-                    "ticker_sentiment_score": "0.587553",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "What's Going On With Hims & Hers Health Stock? - Hims & Hers Health  ( NYSE:HIMS ) ",
-            "url": "https://www.benzinga.com/news/25/01/42900670/whats-going-on-with-hims-hers-health-stock",
-            "time_published": "20250109T182527",
-            "authors": [
-                "Henry Khederian"
-            ],
-            "summary": "Hims & Hers Health has seen its stock drop 21% over the past month. The pullback is driven by regulatory updates from the FDA regarding tirzepatide injection shortages. Get New Picks of the Market's Top Stocks",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Spokane--Wa---usa---October-2020-Hims-Lo.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.875462"
-                },
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.98396"
-                }
-            ],
-            "overall_sentiment_score": 0.27221,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HIMS",
-                    "relevance_score": "0.283323",
-                    "ticker_sentiment_score": "-0.09326",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
