@@ -1,8 +1,391 @@
 {
-    "items": "46",
+    "items": "48",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Prosafe SE: Safe Zephyrus contract extension with Petrobras",
+            "url": "https://www.globenewswire.com/news-release/2025/01/09/3006894/0/en/Prosafe-SE-Safe-Zephyrus-contract-extension-with-Petrobras.html",
+            "time_published": "20250109T105300",
+            "authors": [
+                "Prosafe SE"
+            ],
+            "summary": "09 January 2025 - Prosafe has signed a contract extension with Petr\u00f3leo Brasileiro S.A. ( 'Petrobras' ) for the provision of the Safe Zephyrus semi-submersible vessel for safety and maintenance support offshore Brazil.The original 650-day firm period was due to complete in February 2025, but has ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/aa061d7a-d70c-4727-91f6-8949741a31fe",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.452335,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PBR",
+                    "relevance_score": "0.233556",
+                    "ticker_sentiment_score": "0.424706",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "From Innovation to Action: BESG Joins XT.COM to Drive Global Change",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42893372/from-innovation-to-action-besg-joins-xt-com-to-drive-global-change",
+            "time_published": "20250109T105039",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "VICTORIA, Seychelles, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- XT.COM is thrilled to introduce BLOCKESG ( BESG ) , a groundbreaking project that harnesses the power of blockchain and artificial intelligence to drive real-world social impact.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/da4db3e4-4c90-47ac-8971-be9c7008c861/besg.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.9545"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.998356"
+                }
+            ],
+            "overall_sentiment_score": 0.488775,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Karolinska Development's portfolio company AnaCardio raises SEK 205 million and reports positive Phase 1b data of AC01",
+            "url": "https://www.globenewswire.com/news-release/2025/01/09/3006892/0/en/Karolinska-Development-s-portfolio-company-AnaCardio-raises-SEK-205-million-and-reports-positive-Phase-1b-data-of-AC01.html",
+            "time_published": "20250109T105000",
+            "authors": [
+                "Karolinska Development AB (publ)"
+            ],
+            "summary": "STOCKHOLM, SWEDEN January 9, 2025. Karolinska Development AB ( Nasdaq Stockholm: KDEV ) today announces that its portfolio company AnaCardio has secured SEK 205 million in a series A extension financing round and reports positive results from the first part of a Phase 1b/2a study of AC01 in ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/3626524f-14a1-4bc4-9461-b2613ec9035e",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.327456,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "WeRide Expands European Presence with Autonomous Robobus Shuttle Deployment at Zurich Airport - WeRide  ( NASDAQ:WRD ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42893293/weride-expands-european-presence-with-autonomous-robobus-shuttle-deployment-at-zurich-airport",
+            "time_published": "20250109T104343",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "ZURICH, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- WeRide Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.412363,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WRD",
+                    "relevance_score": "0.439026",
+                    "ticker_sentiment_score": "0.486961",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "RNSDF",
+                    "relevance_score": "0.092569",
+                    "ticker_sentiment_score": "0.248512",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UZAPF",
+                    "relevance_score": "0.272788",
+                    "ticker_sentiment_score": "0.308022",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "WeRide Expands European Presence with Autonomous Robobus Shuttle Deployment at Zurich Airport",
+            "url": "https://www.globenewswire.com/news-release/2025/01/09/3006888/0/en/WeRide-Expands-European-Presence-with-Autonomous-Robobus-Shuttle-Deployment-at-Zurich-Airport.html",
+            "time_published": "20250109T104300",
+            "authors": [
+                "WeRide Inc."
+            ],
+            "summary": "ZURICH, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- WeRide Inc. ( NASDAQ: WRD ) , a global leader in autonomous driving technology, today announced deployment of its Robobus autonomous shuttle service at Zurich Airport in partnership with Flughafen Z\u00fcrich AG and Swiss Transit Lab ( STL ) , marking a ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/5fb40e0d-4e0c-4911-8354-b3b1bd37c4cd",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.415692,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WRD",
+                    "relevance_score": "0.473208",
+                    "ticker_sentiment_score": "0.516404",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "RNSDF",
+                    "relevance_score": "0.100729",
+                    "ticker_sentiment_score": "0.253921",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UZAPF",
+                    "relevance_score": "0.295867",
+                    "ticker_sentiment_score": "0.337136",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Water Treatment System Market Size to Hit $ 97.55 Billion, Globally, by 2031 | Exclusive Report by The Insight Partners - Xylem  ( NYSE:XYL ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42893275/water-treatment-system-market-size-to-hit-97-55-billion-globally-by-2031-exclusive-report-by-the-i",
+            "time_published": "20250109T103925",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "US & Canada, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- According to a new comprehensive report from The Insight Partners, \"the global Water Treatment System Market Size and Forecast ( 2021 - 2031 ) , Global and Regional Share, Trend, and Growth Opportunity Analysis Report Coverage: By Filtration ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/508300b1-677f-43b2-a39c-1a50d3cdf150/image1.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.264932,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DD",
+                    "relevance_score": "0.021978",
+                    "ticker_sentiment_score": "0.069069",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HIZOF",
+                    "relevance_score": "0.021978",
+                    "ticker_sentiment_score": "0.069069",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XYL",
+                    "relevance_score": "0.065866",
+                    "ticker_sentiment_score": "0.316471",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "HTHIF",
+                    "relevance_score": "0.021978",
+                    "ticker_sentiment_score": "0.069069",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VEOEF",
+                    "relevance_score": "0.021978",
+                    "ticker_sentiment_score": "0.069069",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TMO",
+                    "relevance_score": "0.021978",
+                    "ticker_sentiment_score": "0.069069",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Charlie Munger's Top Pick Costco Reports Strong December Sales: Analysts Expect A 7% Jump In January - Costco Wholesale  ( NASDAQ:COST ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/01/42893264/charlie-mungers-top-pick-costco-reports-strong-december-sales-analysts-expect-a-7-j",
+            "time_published": "20250109T103806",
+            "authors": [
+                "Rishabh Mishra"
+            ],
+            "summary": "Costco reported a 9.9% jump to $27.52 billion in net sales in December. TAG analysts maintain an 'outperform' rating with a 12-month price target of $1,100 apiece.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/01/09043130/costco-anr-anr-anr.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.224702,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.627549",
+                    "ticker_sentiment_score": "0.290079",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Safety Helmets Market Size to Hit $6.56 Billion, Globally, by 2031 | Exclusive Report by The Insight Partners - MSA Safety  ( NYSE:MSA ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42893262/safety-helmets-market-size-to-hit-6-56-billion-globally-by-2031-exclusive-report-by-the-insight-pa",
+            "time_published": "20250109T103745",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "US&Canada, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- According to a new comprehensive report from The Insight Partners, \"the global Safety Helmets Market Size and Forecast ( 2021 - 2031 ) , Global and Regional Share, Trend, and Growth Opportunity Analysis Report Coverage: By Material ( Polyethylene, ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/b4c187ca-8bc4-42f6-908f-dab4f4c07d79/image1.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.393011,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HON",
+                    "relevance_score": "0.055881",
+                    "ticker_sentiment_score": "0.155826",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSA",
+                    "relevance_score": "0.083735",
+                    "ticker_sentiment_score": "-0.017159",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "AI to reshape the world, Alibaba founder Jack Ma tells Chinese rural teachers",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3294054/ai-set-reshape-world-alibaba-founder-jack-ma-tells-chinese-rural-teachers",
+            "time_published": "20250109T103008",
+            "authors": [
+                "Yi Luo"
+            ],
+            "summary": "Ma addressed a group of educators to mark the 10th anniversary of his eponymous foundation's Rural Teachers Initiative.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2023/03/28/clean_0.jpg?itok=J7WhvzNy",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [],
+            "overall_sentiment_score": 0.156712,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.273807",
+                    "ticker_sentiment_score": "0.101021",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "El Salvador's Nayib Bukele Says 'Maybe We'll All Get The Chance To Buy Bitcoin At A Discount' After DOJ Clears Sale Of Over 69K BTC",
+            "url": "https://www.benzinga.com/news/25/01/42893089/el-salvadors-nayib-bukele-says-maybe-well-all-get-the-chance-to-buy-bitcoin-at-a-discount-after-doj-clears-s",
+            "time_published": "20250109T101702",
+            "authors": [
+                "Pooja Rajkumari"
+            ],
+            "summary": "Nayib Bukele, President of El Salvador, suggested that Bitcoin BTC/USD might soon be available at a reduced price. What Happened: Bukele's comment came after a federal judge allowed the U.S. government to sell 69,370 Bitcoins, valued at $6.5 billion, seized from the Silk Road case. The U.S.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Why-It-Matters_2.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.360809,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.904419",
+                    "ticker_sentiment_score": "0.58561",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
         {
             "title": "O2 Czech Republic Launches Allot Solution to Offer Consumer Cybersecurity Services",
             "url": "https://www.globenewswire.com/news-release/2025/01/09/3006869/0/en/O2-Czech-Republic-Launches-Allot-Solution-to-Offer-Consumer-Cybersecurity-Services.html",
@@ -33,6 +416,81 @@
                     "relevance_score": "0.68701",
                     "ticker_sentiment_score": "0.657822",
                     "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Hong Kong's US-dollar peg gets emphatic defence from HKMA CEO",
+            "url": "https://www.scmp.com/business/markets/article/3294083/hong-kongs-us-dollar-peg-gets-emphatic-defence-hkma-ceo",
+            "time_published": "20250109T100047",
+            "authors": [
+                "Enoch Yiu"
+            ],
+            "summary": "Speculation about ending the peg reflects 'misconceptions due to a lack of understanding', says head of de facto central bank.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/09/29c66ef8-cc31-4229-b0a6-d8356978ff48_018b0f5a.jpg?itok=-eXDSV2m&v=1736414040",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.9545"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.576289"
+                }
+            ],
+            "overall_sentiment_score": 0.062826,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FOREX:AUD",
+                    "relevance_score": "0.061473",
+                    "ticker_sentiment_score": "-0.097011",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:HKD",
+                    "relevance_score": "0.30021",
+                    "ticker_sentiment_score": "0.015845",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:UYU",
+                    "relevance_score": "0.061473",
+                    "ticker_sentiment_score": "-0.097011",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:KRW",
+                    "relevance_score": "0.061473",
+                    "ticker_sentiment_score": "-0.097011",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:JPY",
+                    "relevance_score": "0.061473",
+                    "ticker_sentiment_score": "-0.097011",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:MXN",
+                    "relevance_score": "0.061473",
+                    "ticker_sentiment_score": "-0.097011",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.462743",
+                    "ticker_sentiment_score": "0.115756",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:CNY",
+                    "relevance_score": "0.061473",
+                    "ticker_sentiment_score": "-0.073186",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
@@ -539,6 +997,41 @@
                     "relevance_score": "0.140485",
                     "ticker_sentiment_score": "0.306238",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "China's EVs to see self-driving 'democratisation' in 2025, UBS analyst says",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3294060/chinas-evs-see-self-driving-democratisation-2025-ubs-analyst-says",
+            "time_published": "20250109T093008",
+            "authors": [
+                "Xinmei Shen"
+            ],
+            "summary": "China has rapidly progressed from a market for carmakers into an 'innovative hub' for technologies such as electrification and intelligence.",
+            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/09/b6187a7a-9268-4c01-8bfb-11d230a1fac9_609f2994.jpg",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.195609,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.085629",
+                    "ticker_sentiment_score": "0.024957",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.085629",
+                    "ticker_sentiment_score": "0.109928",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
@@ -1811,356 +2304,6 @@
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
-        },
-        {
-            "title": "BIGO Ads Partners with Unity LevelPlay to Drive Growth for App Developers",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42892449/bigo-ads-partners-with-unity-levelplay-to-drive-growth-for-app-developers",
-            "time_published": "20250109T085800",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "SINGAPORE, Jan. 9, 2025 /CNW/ -- BIGO Ads SDK is now an approved bidding partner for Unity LevelPlay, a leading mediation platform. This collaboration brings together BIGO Ads' vast ad inventory and LevelPlay's massive traffic, empowering developers to enhance their revenue potential and optimize ...",
-            "banner_image": "https://mma.prnewswire.com/media/2585998/image_849502_30492898.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.515972,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Nvidia's CES Setback Mirrors 2007 iPhone Launch, Says Dan Ives: 'Jensen Plays Chess While Others Are Playing Checkers' - NVIDIA  ( NASDAQ:NVDA ) , IonQ  ( NYSE:IONQ ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/01/42892424/nvidias-ces-setback-mirrors-2007-iphone-launch-says-dan-ives-jensen-plays-chess-while-others-are",
-            "time_published": "20250109T085521",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "NVIDIA Corp. NVDA shares fell 6.22% on Tuesday following CEO Jensen Huang's CES 2025 keynote, prompting Wedbush Securities Managing Director Dan Ives to draw parallels with another transformative tech moment - Apple Inc.'s iPhone launch in 2007, which initially saw minimal market reaction before ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Why-It-Matters_0.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.918141"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.25"
-                }
-            ],
-            "overall_sentiment_score": 0.050443,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.325208",
-                    "ticker_sentiment_score": "-0.016425",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "IONQ",
-                    "relevance_score": "0.166169",
-                    "ticker_sentiment_score": "-0.203236",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "BAC",
-                    "relevance_score": "0.083541",
-                    "ticker_sentiment_score": "0.052076",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RGTI",
-                    "relevance_score": "0.166169",
-                    "ticker_sentiment_score": "-0.203236",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Blackstone Invests $300 Million In AI Data Firm That Powers Elon Musk's xAI Supercomputer - Microsoft  ( NASDAQ:MSFT ) , Blackstone  ( NYSE:BX ) ",
-            "url": "https://www.benzinga.com/news/25/01/42892338/blackstone-invests-300-million-in-ai-data-firm-that-powers-elon-musks-xai-supercomputer",
-            "time_published": "20250109T084930",
-            "authors": [
-                "Pooja Rajkumari"
-            ],
-            "summary": "Blackstone Inc. BX is making a significant move in the AI sector with a $300 million investment in DDN, a company known for its expertise in data storage and analysis. What Happened: The investment represents the first external funding for DDN, valuing the Chatsworth, California-based firm at $5 ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/New-York--Ny---September-17--2023-Blacks.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.990999"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.280721,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.105141",
-                    "ticker_sentiment_score": "0.027179",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "DTST",
-                    "relevance_score": "0.105141",
-                    "ticker_sentiment_score": "0.06673",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BX",
-                    "relevance_score": "0.208464",
-                    "ticker_sentiment_score": "0.098877",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "India will have an average growth of above 7 pc in subsequent four quarters: Franklin Templeton - ETCFO",
-            "url": "https://cfo.economictimes.indiatimes.com/news/economy/india-will-have-an-average-growth-of-above-7-pc-in-subsequent-four-quarters-franklin-templeton/117076604",
-            "time_published": "20250109T084500",
-            "authors": [
-                "ETCFO"
-            ],
-            "summary": "Despite the recent challenges and lower-than-expected growth of 5.4 per cent in Q2FY25, the subsequent four quarters growth is expected to remain on an average of over 7 per cent, says the annual outlook of India by Franklin Templeton.",
-            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
-            "source": "Economic Times",
-            "category_within_source": "Economy",
-            "source_domain": "cfo.economictimes.indiatimes.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.983605"
-                }
-            ],
-            "overall_sentiment_score": 0.034393,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Final terms for bonds to be listed 10th January 2025",
-            "url": "https://www.globenewswire.com/news-release/2025/01/09/3006830/0/en/Final-terms-for-bonds-to-be-listed-10th-January-2025.html",
-            "time_published": "20250109T084100",
-            "authors": [
-                "Jyske Realkredit A/S"
-            ],
-            "summary": "To Nasdaq Copenhagen A/S 9th January 2025 Final terms for bonds to be listed 10th January 2025 On 10th January 2025, Jyske Realkredit A/S will be listing new Covered Bonds ( SDO ) . Final terms for the bonds are attached to this announcement.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/7e04bcc8-98c6-4a29-9732-3808e21a13cd",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.576289"
-                }
-            ],
-            "overall_sentiment_score": 0.044197,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Workers At Ford JV In Kentucky Petition NLRB For Vote To Form Union - Ford Motor  ( NYSE:F ) ",
-            "url": "https://www.benzinga.com/25/01/42892282/workers-at-ford-jv-petition-nlrb-for-vote-to-form-union",
-            "time_published": "20250109T083409",
-            "authors": [
-                "Anan Ashraf"
-            ],
-            "summary": "A \"supermajority\" of workers at BlueOval SK battery plant in Kentucky has filed a petition with the National Labor Relations Board ( NLRB ) for a vote to form their union with the United Auto Workers ( UAW ) , the union said on Wednesday.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Ford-Motor-Company-F.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.182681,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TM",
-                    "relevance_score": "0.127456",
-                    "ticker_sentiment_score": "0.085937",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.127456",
-                    "ticker_sentiment_score": "0.085937",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "F",
-                    "relevance_score": "0.25168",
-                    "ticker_sentiment_score": "0.124211",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GM",
-                    "relevance_score": "0.127456",
-                    "ticker_sentiment_score": "0.166726",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Introducing Sowlana: The Wise and Witty Addition to the Solana Blockchain",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42892273/introducing-sowlana-the-wise-and-witty-addition-to-the-solana-blockchain",
-            "time_published": "20250109T083232",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "ROTTERDAM, The Netherlands, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Sowlana, the newest addition to the Solana blockchain, is taking flight in the crypto world. With its adorable yet wise owl mascot, Sowlana brings a fresh sense of creativity and connection to the thriving Solana ecosystem.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/d295c130-d302-4c97-9bec-f04e95f13a9c/sowlana-featured-image.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.451494"
-                }
-            ],
-            "overall_sentiment_score": 0.562193,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "'The sky is the limit' on Damac investment in the U.S., property giant's chief says",
-            "url": "https://www.cnbc.com/2025/01/09/the-sky-is-the-limit-on-damac-investment-in-the-us-property-giants-chief-says.html",
-            "time_published": "20250109T082600",
-            "authors": [],
-            "summary": "DUBAI, United Arab Emirates - The sky's the limit when it comes to Dubai property giant Damac's investment in the United States, the company's chairman told CNBC on Thursday.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Top News",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.056683,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Best Income Stocks to Buy for January 9th",
-            "url": "https://www.zacks.com/commentary/2394113/best-income-stocks-to-buy-for-january-9th",
-            "time_published": "20250109T082100",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "TRV, CNO and BAM made it to the Zacks Rank #1 (Strong Buy) income stocks list on January 9, 2024.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6e/50121.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.163093,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CNO",
-                    "relevance_score": "0.721785",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TRV",
-                    "relevance_score": "0.721785",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BAM",
-                    "relevance_score": "0.721785",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Form 8.5  ( EPT/RI ) -De La Rue plc",
-            "url": "https://www.globenewswire.com/news-release/2025/01/09/3006825/0/en/Form-8-5-EPT-RI-De-La-Rue-plc.html",
-            "time_published": "20250109T081500",
-            "authors": [
-                "INVESTEC BANK PLC"
-            ],
-            "summary": "FORM ...",
-            "banner_image": "",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.160819,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
         }
     ]
 }
