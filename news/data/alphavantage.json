@@ -1,8 +1,966 @@
 {
-    "items": "45",
+    "items": "48",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Gilat to Participate in the 27th Annual Needham Growth Conference on January 14, 2025 - Gilat Satellite Networks  ( NASDAQ:GILT ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42894081/gilat-to-participate-in-the-27th-annual-needham-growth-conference-on-january-14-2025",
+            "time_published": "20250109T115427",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "PETAH TIKVA, Israel, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Gilat Satellite Networks Ltd. GILTGILT ) , a worldwide leader in satellite networking technology, solutions, and services, today announced management's participation in the 27th Annual Needham Growth Conference on Tuesday, January 14, 2025.",
+            "banner_image": "https://ml.globenewswire.com/media/3a83f1da-76ec-4c48-9e65-e6ae0139a63b/small/gilat-logo-full-color-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.134839,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GILT",
+                    "relevance_score": "0.164282",
+                    "ticker_sentiment_score": "0.252654",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Gilat to Participate in the 27th Annual Needham Growth Conference on January 14, 2025",
+            "url": "https://www.globenewswire.com/news-release/2025/01/09/3006939/11105/en/Gilat-to-Participate-in-the-27th-Annual-Needham-Growth-Conference-on-January-14-2025.html",
+            "time_published": "20250109T115400",
+            "authors": [
+                "Gilat Satellite Networks Ltd."
+            ],
+            "summary": "PETAH TIKVA, Israel, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Gilat Satellite Networks Ltd. ( Nasdaq: GILT, TASE: GILT ) , a worldwide leader in satellite networking technology, solutions, and services, today announced management's participation in the 27th Annual Needham Growth Conference on ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/3a83f1da-76ec-4c48-9e65-e6ae0139a63b",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.118393,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GILT",
+                    "relevance_score": "0.341699",
+                    "ticker_sentiment_score": "0.453562",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "After Apple Halts 'Hardware' Subscription Plans, Samsung Unveils Similar Strategy For AI-Powered Galaxy Smartphones - Samsung Electronics Co  ( OTC:SSNLF ) ",
+            "url": "https://www.benzinga.com/tech/25/01/42893958/after-apple-halts-hardware-subscription-plans-samsung-unveils-similar-strategy-for-ai-powered-galaxy-smartph",
+            "time_published": "20250109T115251",
+            "authors": [
+                "Pooja Rajkumari"
+            ],
+            "summary": "Samsung Electronics Co. Ltd. SSNLF is set to introduce a subscription model for its Galaxy smartphones. This move comes after Apple Inc. AAPL paused its own subscription service plans last month.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Samsung-Galaxy-Z-Flip-4.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.135399,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.325924",
+                    "ticker_sentiment_score": "0.011626",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.516656",
+                    "ticker_sentiment_score": "0.293027",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Endeavour Silver Produces 4,471,824 Oz Silver and 39,047 Oz Gold  ( 7.6 Million Silver Equivalent Oz )  in 2024; Improved Fourth Quarter Production Delivers on Updated Annual Guidance",
+            "url": "https://www.globenewswire.com/news-release/2025/01/09/3006936/0/en/Endeavour-Silver-Produces-4-471-824-Oz-Silver-and-39-047-Oz-Gold-7-6-Million-Silver-Equivalent-Oz-in-2024-Improved-Fourth-Quarter-Production-Delivers-on-Updated-Annual-Guidance.html",
+            "time_published": "20250109T115000",
+            "authors": [
+                "Endeavour Silver Corporation"
+            ],
+            "summary": "VANCOUVER, British Columbia, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Endeavour Silver Corp. ( \"Endeavour\" or the \"Company\" ) ( NYSE: EXK. TSX: EDR ) reports full year 2024 production of 4,471,824 silver ounces ( \"oz\" ) and 39,047 gold oz, for silver equivalent ( 1 ) ( \"AgEq\" ) production of 7.6 ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/5584e194-3e6f-4531-8afe-2b9b1662a648",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.165241,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EXK",
+                    "relevance_score": "0.068797",
+                    "ticker_sentiment_score": "0.069204",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:UYU",
+                    "relevance_score": "0.068797",
+                    "ticker_sentiment_score": "0.013244",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:MXN",
+                    "relevance_score": "0.03443",
+                    "ticker_sentiment_score": "0.012774",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:CLP",
+                    "relevance_score": "0.03443",
+                    "ticker_sentiment_score": "0.012774",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:CAD",
+                    "relevance_score": "0.03443",
+                    "ticker_sentiment_score": "0.012774",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.03443",
+                    "ticker_sentiment_score": "0.012774",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Brunswick Exploration Drills 37 Meters at 1.14% Extending the MR-3 Dyke at the Mirage Project",
+            "url": "https://www.globenewswire.com/news-release/2025/01/09/3006937/0/en/Brunswick-Exploration-Drills-37-Meters-at-1-14-Extending-the-MR-3-Dyke-at-the-Mirage-Project.html",
+            "time_published": "20250109T115000",
+            "authors": [
+                "Brunswick Exploration"
+            ],
+            "summary": "MONTREAL, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Brunswick Exploration Inc. ( TSX-V: BRW, OTCQB: BRWXF. FRANKFURT: 1XQ. \"BRW\" or the \"Company\" ) is pleased to report the last results from the Mirage summer drilling campaign. The Mirage Project is located in the Eeyou Istchee-James Bay region of ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/0276c271-a28f-482c-8ce9-7046ef8247f8/image1.jpg",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.004748,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BRWXF",
+                    "relevance_score": "0.09186",
+                    "ticker_sentiment_score": "0.021998",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Endeavour Silver Produces 4,471,824 Oz Silver and 39,047 Oz Gold  ( 7.6 Million Silver Equivalent Oz )  in 2024; Improved Fourth Quarter Production Delivers on Updated Annual Guidance - Endeavour Silver  ( NYSE:EXK ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42893952/endeavour-silver-produces-4-471-824-oz-silver-and-39-047-oz-gold-7-6-million-silver-equivalent-oz-",
+            "time_published": "20250109T115000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "VANCOUVER, British Columbia, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Endeavour Silver Corp. ( \"Endeavour\" or the \"Company\" ) EXKEDR reports full year 2024 production of 4,471,824 silver ounces ( \"oz\" ) and 39,047 gold oz, for silver equivalent ( 1 ) ( \"AgEq\" ) production of 7.6 million oz.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.174548,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EXK",
+                    "relevance_score": "0.067064",
+                    "ticker_sentiment_score": "0.050082",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:UYU",
+                    "relevance_score": "0.067064",
+                    "ticker_sentiment_score": "0.013204",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:MXN",
+                    "relevance_score": "0.033562",
+                    "ticker_sentiment_score": "0.012742",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:CLP",
+                    "relevance_score": "0.033562",
+                    "ticker_sentiment_score": "0.012742",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:CAD",
+                    "relevance_score": "0.033562",
+                    "ticker_sentiment_score": "0.012742",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.033562",
+                    "ticker_sentiment_score": "0.012742",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Faraday Future's FX 6 To Target $30K-$50K Price Range With AI-Driven EV Tech: Details - Faraday Future  ( NASDAQ:FFIE ) ",
+            "url": "https://www.benzinga.com/news/small-cap/25/01/42893897/faraday-futures-fx-6-to-target-30k-50k-price-range-with-ai-driven-ev-tech-details",
+            "time_published": "20250109T114633",
+            "authors": [
+                "Lekha Gupta"
+            ],
+            "summary": "On Wednesday, Faraday Future Intelligent Electric Inc. FFIE disclosed new updates for its FX brand, including an all-new logo and product details. Faraday Future unveiled camouflaged FX prototype mules in Las Vegas, outlining its product development and U.S. regulatory testing phases.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Faraday-Future.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.5855"
+                }
+            ],
+            "overall_sentiment_score": 0.211121,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FFIE",
+                    "relevance_score": "0.416844",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Brookfield Asset Management Announces Renewal of Normal Course Issuer Bid - Brookfield Asset Mgmt  ( NYSE:BAM ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42893893/brookfield-asset-management-announces-renewal-of-normal-course-issuer-bid",
+            "time_published": "20250109T114500",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Brookfield Asset Management Ltd.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999999"
+                }
+            ],
+            "overall_sentiment_score": 0.19032,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAM",
+                    "relevance_score": "0.519002",
+                    "ticker_sentiment_score": "0.221141",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "IGT Becomes First Gaming Industry Supplier to Achieve iCAP Ready Accreditation from National Council on Problem Gambling - Intl Game Tech  ( NYSE:IGT ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/n42893895/igt-becomes-first-gaming-industry-supplier-to-achieve-icap-ready-accreditation-from-national-counc",
+            "time_published": "20250109T114500",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "LONDON, Jan. 9, 2025 /PRNewswire/ -- International Game Technology PLC ( \"IGT\" ) IGT announced today that it is the first gaming industry supplier to receive the Internet Compliance Assessment Program ( \"iCAP\" ) Ready accreditation for its iLottery operations from the National Council on Problem ...",
+            "banner_image": "https://mma.prnewswire.com/media/453980/IGT_Logo.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": 0.327115,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IGT",
+                    "relevance_score": "0.52949",
+                    "ticker_sentiment_score": "0.331157",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Brookfield Asset Management Announces Renewal of Normal Course Issuer Bid",
+            "url": "https://www.globenewswire.com/news-release/2025/01/09/3006934/0/en/Brookfield-Asset-Management-Announces-Renewal-of-Normal-Course-Issuer-Bid.html",
+            "time_published": "20250109T114500",
+            "authors": [
+                "Brookfield Asset Management Ltd"
+            ],
+            "summary": "NEW YORK, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Brookfield Asset Management Ltd. ( NYSE: BAM, TSX: BAM ) ( \"Brookfield Asset Management\" ) today announced it has received the requisite approval for the renewal of its normal course issuer bid providing the option to purchase up to 37,123,295 Class ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/3a57691b-db18-4432-b333-64c887278a17",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999997"
+                }
+            ],
+            "overall_sentiment_score": 0.190489,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAM",
+                    "relevance_score": "0.607014",
+                    "ticker_sentiment_score": "0.254235",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Here's How To Watch Former President Jimmy Carter's State Funeral Online",
+            "url": "https://www.benzinga.com/news/25/01/42893805/jimmy-carters-state-funeral-service-to-be-held-today-how-to-watch-the-memorial",
+            "time_published": "20250109T113818",
+            "authors": [
+                "Rounak Jain"
+            ],
+            "summary": "Former President Jimmy Carter's state funeral service will be held today and his remains will be transported to the Washington National Cathedral after lying in state at the Capitol this week. Following the service, Carter will be laid to rest in a private ceremony in Plains, Georgia, his hometown.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Jimmy-Carter.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.196561,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.135347",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "From the Tax Law Offices of David W. Klasing - First Pure Tax Crypto Tax Evasion Prosecution in the U.S.: A Cautionary Precedent",
+            "url": "https://www.benzinga.com/pressreleases/25/01/n42893798/from-the-tax-law-offices-of-david-w-klasing-first-pure-tax-crypto-tax-evasion-prosecution-in-the-u",
+            "time_published": "20250109T113700",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "IRVINE, Calif., Jan. 9, 2025 /PRNewswire/ -- In a landmark enforcement action, the Internal Revenue Service ( IRS ) and the U.S. Department of Justice ( DOJ ) recently secured what is essentially the first criminal tax evasion conviction exclusively centered on cryptocurrency.",
+            "banner_image": "https://mma.prnewswire.com/media/656161/Klasing_Tax_v1_Logo.jpg",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.990678"
+                }
+            ],
+            "overall_sentiment_score": -0.110164,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.020885",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.020885",
+                    "ticker_sentiment_score": "0.114771",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.226621",
+                    "ticker_sentiment_score": "-0.134065",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.020885",
+                    "ticker_sentiment_score": "-0.105002",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:LTC",
+                    "relevance_score": "0.020885",
+                    "ticker_sentiment_score": "-0.105002",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nano-encapsulated Additives Market is Expected to Reach US$ 10,090.2 Million, Growing at a 7.9% CAGR by 2034 | Fact.MR Report",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42893756/nano-encapsulated-additives-market-is-expected-to-reach-us-10-090-2-million-growing-at-a-7-9-cagr-",
+            "time_published": "20250109T113000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Rockville, MD , Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- According to Fact.MR, a market research and competitive intelligence provider, The Nano-encapsulated Additives Market is estimated to reach a valuation of US$ 4,697.0 million in 2024. and is expected to grow at a CAGR of 7.9% during the ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/290caeb6-4f6a-4f67-b0ad-5e6f1a7ed325/nano-encapsulated-additives-market.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.40009,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BCPC",
+                    "relevance_score": "0.041323",
+                    "ticker_sentiment_score": "0.07872",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SYIEF",
+                    "relevance_score": "0.041323",
+                    "ticker_sentiment_score": "0.07872",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:NANO",
+                    "relevance_score": "0.531786",
+                    "ticker_sentiment_score": "0.537091",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Teleflex awarded Short Term Central Venous Catheters contract from Vizient",
+            "url": "https://www.globenewswire.com/news-release/2025/01/09/3006925/0/en/Teleflex-awarded-Short-Term-Central-Venous-Catheters-contract-from-Vizient.html",
+            "time_published": "20250109T113000",
+            "authors": [
+                "Teleflex Incorporated"
+            ],
+            "summary": "Including market leading Arrow\u2122 CVCs and Arterial Catheters Including market leading Arrow\u2122 CVCs and Arterial Catheters ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/f0ce447b-4d67-402c-87ce-7b868de9a040",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.137942,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TFX",
+                    "relevance_score": "0.461699",
+                    "ticker_sentiment_score": "0.079145",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Airbus CEO Warns Of 'Very Strong' US Protectionism Under Trump - Airbus  ( OTC:EADSY ) ",
+            "url": "https://www.benzinga.com/news/global/25/01/42893697/airbus-ceo-warns-of-very-strong-us-protectionism-under-trump",
+            "time_published": "20250109T112253",
+            "authors": [
+                "Pooja Rajkumari"
+            ],
+            "summary": "European aerospace companies are bracing for \"very strong\" protectionism in the United States as Donald Trump prepares to take office. Guillaume Faury, CEO of Airbus SE EADSY, voiced his concerns about the potential impact on the industry.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/What-Trump-Said-On-Tuesday.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.089494,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.109455",
+                    "ticker_sentiment_score": "-0.334085",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "EADSF",
+                    "relevance_score": "0.109455",
+                    "ticker_sentiment_score": "0.169383",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Qualcomm's Budget PC Chips Don't Solve Its Biggest Problem",
+            "url": "https://www.fool.com/investing/2025/01/09/qualcomms-budget-pc-chips-dont-solve-its-biggest-p/",
+            "time_published": "20250109T112000",
+            "authors": [
+                "Timothy Green"
+            ],
+            "summary": "Qualcomm ( NASDAQ: QCOM ) is dead set on winning a significant portion of the PC CPU market. The company's Arm-based Snapdragon X chips are efficient and powerful, and they can run Microsoft Windows and most standard Windows applications without issue thanks to an emulation layer.The initial ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803216/gettyimages-1523678281.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.043686,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BBY",
+                    "relevance_score": "0.06515",
+                    "ticker_sentiment_score": "-0.032606",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.06515",
+                    "ticker_sentiment_score": "0.109169",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.06515",
+                    "ticker_sentiment_score": "0.095113",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.779861",
+                    "ticker_sentiment_score": "0.088826",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.376194",
+                    "ticker_sentiment_score": "0.085246",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "This Unpopular Dividend Stock Is a Buy",
+            "url": "https://www.fool.com/investing/2025/01/09/this-unpopular-dividend-stock-is-a-buy/",
+            "time_published": "20250109T111500",
+            "authors": [
+                "George Budwell"
+            ],
+            "summary": "Like a champion boxer on the ropes, Bristol-Myers Squibb ( NYSE: BMY ) finds itself in a challenging position. Specifically, the pharmaceutical giant's shares have declined by a disappointing 11.6% over the prior five years while the benchmark S&P 500 has delivered total returns of 97.5%, ...",
+            "banner_image": "https://media.ycharts.com/charts/5601f9a7f296b6e4e0251c67b41d4a06.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                }
+            ],
+            "overall_sentiment_score": 0.458253,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BMY",
+                    "relevance_score": "0.365166",
+                    "ticker_sentiment_score": "0.614642",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "3 Ultra-Reliable Dividend King Stocks That Should Increase Their Payouts to All-Time Highs in 2025, Even if There's a Stock Market Sell-Off",
+            "url": "https://www.fool.com/investing/2025/01/09/buy-dividend-king-stocks-dividend-raise-2025/",
+            "time_published": "20250109T111500",
+            "authors": [
+                "Daniel Foelber"
+            ],
+            "summary": "When the S&P 500 is roaring higher, it's easy to overlook the benefits of investing in hihg-quality, dividend-paying companies. After all, a 2%, 3%, or even 4% dividend yield doesn't look impressive relative to a 23.3% gain -- which we saw from the S&P 500 in 2024.However, passive income from ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802920%2Fgettyimages-1403045742-1201x801-d21b45d-1.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999365"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.917436"
+                }
+            ],
+            "overall_sentiment_score": 0.312763,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CL",
+                    "relevance_score": "0.41838",
+                    "ticker_sentiment_score": "0.315441",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "KMB",
+                    "relevance_score": "0.331765",
+                    "ticker_sentiment_score": "0.255033",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PG",
+                    "relevance_score": "0.04882",
+                    "ticker_sentiment_score": "0.145972",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.573921",
+                    "ticker_sentiment_score": "0.370512",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Europe could be torn apart by new divisions",
+            "url": "https://www.economist.com/finance-and-economics/2025/01/09/europe-could-be-torn-apart-by-new-divisions",
+            "time_published": "20250109T111014",
+            "authors": [
+                "The Economist"
+            ],
+            "summary": "The continent is at its most vulnerable in decades ...",
+            "banner_image": "https://www.economist.com/content-assets/images/20250111_FND001.jpg",
+            "source": "The Economist",
+            "category_within_source": "Finance",
+            "source_domain": "www.economist.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.06181,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Prediction: 2 Stocks That'll Be Worth More Than Nvidia 10 Years From Now",
+            "url": "https://www.fool.com/investing/2025/01/09/prediction-2-stocks-thatll-be-worth-more-than-nvid/",
+            "time_published": "20250109T110800",
+            "authors": [
+                "Matt Frankel"
+            ],
+            "summary": "AI chip leader Nvidia ( NASDAQ: NVDA ) has delivered remarkable performance for investors, with a split-adjusted gain of about 2,470% over the past five years as the AI revolution has kicked into high gear. As of this writing, Nvidia is the most valuable publicly traded company in the U.S. stock ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803163/using-laptop-in-data-center-2024.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.989041"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.744043"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.301094,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.106541",
+                    "ticker_sentiment_score": "0.129329",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.26224",
+                    "ticker_sentiment_score": "0.340581",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.360752",
+                    "ticker_sentiment_score": "0.253223",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.407844",
+                    "ticker_sentiment_score": "0.211887",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Here's the Best Vanguard ETF to Buy if You Think the \"Magnificent Seven\" Will Crush the S&P 500 Again in 2025",
+            "url": "https://www.fool.com/investing/2025/01/09/buy-vanguard-growth-stock-etf-fund-2025/",
+            "time_published": "20250109T110500",
+            "authors": [
+                "Daniel Foelber"
+            ],
+            "summary": "The \"Magnificent Seven\" is a term coined by Bank of America analyst Michael Hartnett to describe seven tech-focused companies that have been market leaders in recent years. The companies, in order of market cap at the end of 2024, are Apple ( NASDAQ: AAPL ) , Nvidia ( NASDAQ: NVDA ) , Microsoft ( ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802591%2Fgettyimages-1316488076-1200x800-5b2df79.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.33949,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.152499",
+                    "ticker_sentiment_score": "0.018238",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.102013",
+                    "ticker_sentiment_score": "0.07041",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.102013",
+                    "ticker_sentiment_score": "0.07041",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.102013",
+                    "ticker_sentiment_score": "0.07041",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.102013",
+                    "ticker_sentiment_score": "0.231901",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CSCO",
+                    "relevance_score": "0.051111",
+                    "ticker_sentiment_score": "0.226822",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.102013",
+                    "ticker_sentiment_score": "0.07041",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.051111",
+                    "ticker_sentiment_score": "0.065532",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.102013",
+                    "ticker_sentiment_score": "0.07041",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Partake Brewing Introduces 'Hop Twist': A Refreshing Twist on Sparkling Hop Water",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42893469/partake-brewing-introduces-hop-twist-a-refreshing-twist-on-sparkling-hop-water",
@@ -134,6 +1092,80 @@
                     "relevance_score": "0.03545",
                     "ticker_sentiment_score": "0.07419",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Ultra-High-Yield EPR Properties: Buy, Sell, or Hold?",
+            "url": "https://www.fool.com/investing/2025/01/09/ultra-high-yield-epr-properties-buy-sell-or-hold/",
+            "time_published": "20250109T110000",
+            "authors": [
+                "Reuben Gregg Brewer"
+            ],
+            "summary": "EPR Properties ( NYSE: EPR ) is a unique real estate investment trust ( REIT ) . There are reasons to like its highly focused approach and reasons to dislike it.Unfortunately, the coronavirus pandemic and a subsequent dividend cut highlighted one of the biggest reasons to be worried about EPR ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803082%2F22_09_12-an-adult-and-two-children-on-an-amusement-park-roller-coaster-_mf-dload.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.146426,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EPR",
+                    "relevance_score": "0.50287",
+                    "ticker_sentiment_score": "0.205561",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Can a $25,000 Investment in Nvidia Stock Today Turn Into $1 Million by the Time You Retire?",
+            "url": "https://www.fool.com/investing/2025/01/09/can-a-25000-investment-in-nvidia-stock-today-turn/",
+            "time_published": "20250109T105900",
+            "authors": [
+                "David Jagielski"
+            ],
+            "summary": "Shares of chipmaker Nvidia ( NASDAQ: NVDA ) have soared more than 2,400% in just the past five years. The stock has proven to be a growth machine due to advancements in artificial intelligence ( AI ) and the importance the company's chips play in next-gen technologies.But with the company now ...",
+            "banner_image": "https://media.ycharts.com/charts/34881203a974b8a8135c7b492d4dcffc.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999186"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.297431,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.799771",
+                    "ticker_sentiment_score": "0.474375",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -1088,1017 +2120,6 @@
                     "relevance_score": "0.105836",
                     "ticker_sentiment_score": "0.054966",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "This Magnificent 6.5%-Yielding Dividend Stock Is Giving Its Investors Another Raise",
-            "url": "https://www.fool.com/investing/2025/01/09/this-magnificent-65-yielding-dividend-stock-is-giv/",
-            "time_published": "20250109T100200",
-            "authors": [
-                "Matt DiLallo"
-            ],
-            "summary": "Enterprise Products Partners ( NYSE: EPD ) has done a magnificent job distributing cash to its investors. The master limited partnership ( MLP ) extended its distribution growth streak to 26 years in 2024 -- every year since it came public.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803338/compound-interest-growth-1200x800-5b2df79.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.332414,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "OXY",
-                    "relevance_score": "0.04912",
-                    "ticker_sentiment_score": "0.179041",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Hong Kong's US-dollar peg gets emphatic defence from HKMA CEO",
-            "url": "https://www.scmp.com/business/markets/article/3294083/hong-kongs-us-dollar-peg-gets-emphatic-defence-hkma-ceo",
-            "time_published": "20250109T100047",
-            "authors": [
-                "Enoch Yiu"
-            ],
-            "summary": "Speculation about ending the peg reflects 'misconceptions due to a lack of understanding', says head of de facto central bank.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/09/29c66ef8-cc31-4229-b0a6-d8356978ff48_018b0f5a.jpg?itok=-eXDSV2m&v=1736414040",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.9545"
-                },
-                {
-                    "topic": "Economy - Macro",
-                    "relevance_score": "0.576289"
-                }
-            ],
-            "overall_sentiment_score": 0.062826,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FOREX:AUD",
-                    "relevance_score": "0.061473",
-                    "ticker_sentiment_score": "-0.097011",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:HKD",
-                    "relevance_score": "0.30021",
-                    "ticker_sentiment_score": "0.015845",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:UYU",
-                    "relevance_score": "0.061473",
-                    "ticker_sentiment_score": "-0.097011",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:KRW",
-                    "relevance_score": "0.061473",
-                    "ticker_sentiment_score": "-0.097011",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:JPY",
-                    "relevance_score": "0.061473",
-                    "ticker_sentiment_score": "-0.097011",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:MXN",
-                    "relevance_score": "0.061473",
-                    "ticker_sentiment_score": "-0.097011",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.462743",
-                    "ticker_sentiment_score": "0.115756",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:CNY",
-                    "relevance_score": "0.061473",
-                    "ticker_sentiment_score": "-0.073186",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "5 Value Stocks With Enticing EV-to-EBITDA Ratios to Own Now",
-            "url": "https://www.zacks.com/stock/news/2394125/5-value-stocks-with-enticing-ev-to-ebitda-ratios-to-own-now",
-            "time_published": "20250109T100000",
-            "authors": [
-                "Anindya Barman"
-            ],
-            "summary": "We have screened value stocks JKS, ENS, KT, BIP and GTES based on the EV-to-EBITDA ratio, which gives the true picture of valuation and earnings potential.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d5/2605.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.219482,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "KT",
-                    "relevance_score": "0.12969",
-                    "ticker_sentiment_score": "0.127682",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GTES",
-                    "relevance_score": "0.16171",
-                    "ticker_sentiment_score": "0.125903",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ENS",
-                    "relevance_score": "0.16171",
-                    "ticker_sentiment_score": "0.146171",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BIPC",
-                    "relevance_score": "0.097457",
-                    "ticker_sentiment_score": "0.12844",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BNXYF",
-                    "relevance_score": "0.032558",
-                    "ticker_sentiment_score": "0.179926",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "PSIX",
-                    "relevance_score": "0.032558",
-                    "ticker_sentiment_score": "-0.01366",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Did Jensen Huang Just Crash All Quantum Computing Stocks?",
-            "url": "https://www.fool.com/investing/2025/01/09/did-jensen-huang-just-crash-all-quantum-computing/",
-            "time_published": "20250109T100000",
-            "authors": [
-                "Neil Rozenbaum"
-            ],
-            "summary": "In this video, I will talk about quantum computing stocks such as Rigetti ( NASDAQ: RGTI ) , which dropped over 40% on Wednesday. Watch the short video to learn more, consider subscribing, and click the special offer link below.*Stock prices used were from the trading day of Jan. 8, 2025.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803360/gettyimages-1067591998.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.105931,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "1 Vanguard ETF to Confidently Buy With $430 During the S&P 500 Bull Market in 2025",
-            "url": "https://www.fool.com/investing/2025/01/09/1-vanguard-etf-buy-430-sp-500-bull-market-in-2025/",
-            "time_published": "20250109T095900",
-            "authors": [
-                "Anthony Di Pizio"
-            ],
-            "summary": "The S&P 500 is coming off back-to-back annual gains of more than 25% in 2023 and 2024 ( including dividends ) , something it has only done one other time in its history dating back to 1957. In other words, the bull market is roaring.The S&P 500 is weighted by market capitalization, so the largest ...",
-            "banner_image": "https://media.ycharts.com/charts/acfe08a1d4509fa15f21daf1f72b72c8.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.998917"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.146075,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.051774",
-                    "ticker_sentiment_score": "0.084859",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.154455",
-                    "ticker_sentiment_score": "0.080616",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.051774",
-                    "ticker_sentiment_score": "0.026978",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.154455",
-                    "ticker_sentiment_score": "0.101464",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.051774",
-                    "ticker_sentiment_score": "0.084859",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "2 No-Brainer AI Stocks to Buy Right Now",
-            "url": "https://www.fool.com/investing/2025/01/09/2-no-brainer-ai-stocks-to-buy-right-now/",
-            "time_published": "20250109T095500",
-            "authors": [
-                "John Ballard"
-            ],
-            "summary": "Artificial intelligence ( AI ) is being touted as a technology that could bring significant increases in productivity and exponentially grow the global economy. The latest developments in AI are still in the early stages, making this a once-in-a-generation opportunity.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803031/cloud-ai.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.316726"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.995973"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.338382,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.405963",
-                    "ticker_sentiment_score": "0.314971",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.060694",
-                    "ticker_sentiment_score": "-0.002018",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.060694",
-                    "ticker_sentiment_score": "0.248175",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.405963",
-                    "ticker_sentiment_score": "0.357463",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX CEO Elon Musk Offers Free Starlink Terminals To Los Angeles Areas Affected By Wildfires",
-            "url": "https://www.benzinga.com/general/space/25/01/42892886/spacex-ceo-elon-musk-offers-free-starlink-terminals-to-los-angeles-areas-affected-by-wildfires",
-            "time_published": "20250109T095348",
-            "authors": [
-                "Anan Ashraf"
-            ],
-            "summary": "SpaceX CEO Elon Musk said on Thursday that the company will provide free Starlink terminals to areas affected by wildfires in Los Angeles. What Happened: \"SpaceX will provide free Starlink terminals to affected areas in LA tomorrow morning,\" Musk said on his social media platform X, without ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Starlink-Photo-by-Wirestock-Creators-on-.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.08644,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TMUS",
-                    "relevance_score": "0.075635",
-                    "ticker_sentiment_score": "-0.049078",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "2 High-Yield Stocks That Could Be Easy Wealth Builders",
-            "url": "https://www.fool.com/investing/2025/01/09/high-yield-stocks-could-be-easy-wealth-builder/",
-            "time_published": "20250109T095200",
-            "authors": [
-                "Reuben Gregg Brewer"
-            ],
-            "summary": "When a lot of investors think about building wealth, their thoughts tend to go toward capital appreciation. That's understandable, but it misses the full picture when it comes to investing. Dividends, particularly if you reinvest them, can help you build wealth slowly ( and easily ) over ...",
-            "banner_image": "https://media.ycharts.com/charts/9fe874e6b9e4a83a3828adddce7ed774.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999975"
-                }
-            ],
-            "overall_sentiment_score": 0.324569,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "VICI",
-                    "relevance_score": "0.318897",
-                    "ticker_sentiment_score": "0.308073",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "O",
-                    "relevance_score": "0.318897",
-                    "ticker_sentiment_score": "0.343528",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Bhutan's Special Administrative Region Announces Strategic Reserve Consisting Of Bitcoin, Ethereum, BNB Coin: Bhutan Is Open To Other Cryptos, Says Changpeng 'CZ' Zhao - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",
-            "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42892791/bhutans-special-administrative-region-announces-strategic-reserve-consisting-of-bitcoin-et",
-            "time_published": "20250109T094926",
-            "authors": [
-                "Aniket Verma"
-            ],
-            "summary": "A special administrative region in Bhutan announced on Wednesday that it will hold Bitcoin BTC/USD, Ethereum ETH/USD, and BNB Coin BNB/USD as part of its strategic reserve.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Bitcoin-and-Ethereum-Photo-by-Marisha-on.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.682689"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.249552,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.73545",
-                    "ticker_sentiment_score": "0.569866",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.464633",
-                    "ticker_sentiment_score": "0.264381",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:BNB",
-                    "relevance_score": "0.464633",
-                    "ticker_sentiment_score": "0.264381",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "2 Reasons to Buy Hershey Stock Like There's No Tomorrow",
-            "url": "https://www.fool.com/investing/2025/01/09/2-reasons-to-buy-hershey-stock-like-theres-no-tomo/",
-            "time_published": "20250109T094500",
-            "authors": [
-                "Dan Victor"
-            ],
-            "summary": "Shareholders in Hershey ( NYSE: HSY ) are hoping for sweeter days ahead following a frustrating 2024. Underwhelming sales by the confectioner have pressured the stock, which is down about 12% over the past year and currently near a 52-week low.Despite some bitter headline numbers, there are ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802859%2Fhershey-stock-bullish-outlook-2025.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.928769"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.185813,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MDLZ",
-                    "relevance_score": "0.116914",
-                    "ticker_sentiment_score": "-0.057928",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "HSY",
-                    "relevance_score": "0.622414",
-                    "ticker_sentiment_score": "0.241841",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Is Ford a Millionaire Maker Stock?",
-            "url": "https://www.fool.com/investing/2025/01/09/is-ford-a-millionaire-maker-stock/",
-            "time_published": "20250109T094000",
-            "authors": [
-                "Reuben Gregg Brewer"
-            ],
-            "summary": "Ford Motor Company ( NYSE: F ) is an iconic name in the auto sector with a long history of success. To the company's credit, its business is resilient even during economic downturns and managed to avoid filing for bankruptcy protection during the 2008-09 Great Recession, unlike a notable U.S. ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803056%2Fev-electric-truck-f-150-lightning-lariat-source-ford-_-image-source_-getty.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.091586,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "F",
-                    "relevance_score": "0.124486",
-                    "ticker_sentiment_score": "0.054372",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.062434",
-                    "ticker_sentiment_score": "0.082118",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "This More Than 7%-Yielding Dividend Stock Is Making $670 Million of Acquisitions to Help Fuel a Monster Payment Boost for 2025",
-            "url": "https://www.fool.com/investing/2025/01/09/this-more-than-7-yielding-dividend-stock-is-making/",
-            "time_published": "20250109T093500",
-            "authors": [
-                "Matt DiLallo"
-            ],
-            "summary": "Plains All American Pipeline ( NASDAQ: PAA ) already offers investors a lucrative income stream. The master limited partnership's ( MLP ) distribution yield is currently over 7%, which is well above the S&P 500's 1.2% dividend yield.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803283/a-person-sharing-money.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.42968,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PAA",
-                    "relevance_score": "0.391923",
-                    "ticker_sentiment_score": "0.398152",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "The Smartest Growth Stock to Buy With $1,000 Right Now",
-            "url": "https://www.fool.com/investing/2025/01/09/the-smartest-growth-stock-to-buy-with-1000-right-n/",
-            "time_published": "20250109T093500",
-            "authors": [
-                "James Brumley"
-            ],
-            "summary": "Quality and certainty are more important than entertainment and excitement.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803029%2F010625-broadcom-avgo-results.png&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.257982,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.046184",
-                    "ticker_sentiment_score": "0.068861",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.092213",
-                    "ticker_sentiment_score": "0.119761",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.475918",
-                    "ticker_sentiment_score": "0.276643",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "3 Stocks to Buy for 2025 That Are Practically Money Machines",
-            "url": "https://www.fool.com/investing/2025/01/09/3-stocks-to-buy-for-2025-that-are-practically-mone/",
-            "time_published": "20250109T093400",
-            "authors": [
-                "Keith Speights"
-            ],
-            "summary": "The 1976 movie All the President's Men perhaps provided one of the best three-word investing strategies around: \"Follow the money.\" No, the film didn't use the phrase in the context of investing. However, the best stocks tend to generate the most money in terms of revenue, profit, and free cash ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803172/cash-100-bills.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.990893"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.139054,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LLY",
-                    "relevance_score": "0.328819",
-                    "ticker_sentiment_score": "-0.014217",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.47574",
-                    "ticker_sentiment_score": "0.253905",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.47574",
-                    "ticker_sentiment_score": "0.15006",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Minisforum to Unveil Groundbreaking Innovations at CES 2025: AI X1 Mini PC and N5 Pro NAS",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42892733/minisforum-to-unveil-groundbreaking-innovations-at-ces-2025-ai-x1-mini-pc-and-n5-pro-nas",
-            "time_published": "20250109T093223",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "HONG KONG, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Minisforum, a leader in innovative compact computing solutions, is thrilled to announce its participation in CES 2025, the world's premier technology showcase.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [],
-            "overall_sentiment_score": 0.483473,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:ECC",
-                    "relevance_score": "0.140485",
-                    "ticker_sentiment_score": "0.306238",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "China's EVs to see self-driving 'democratisation' in 2025, UBS analyst says",
-            "url": "https://www.scmp.com/tech/tech-trends/article/3294060/chinas-evs-see-self-driving-democratisation-2025-ubs-analyst-says",
-            "time_published": "20250109T093008",
-            "authors": [
-                "Xinmei Shen"
-            ],
-            "summary": "China has rapidly progressed from a market for carmakers into an 'innovative hub' for technologies such as electrification and intelligence.",
-            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/09/b6187a7a-9268-4c01-8bfb-11d230a1fac9_609f2994.jpg",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.195609,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LI",
-                    "relevance_score": "0.085629",
-                    "ticker_sentiment_score": "0.024957",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.085629",
-                    "ticker_sentiment_score": "0.109928",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Can the 5 Worst-Performing Stock Market Sectors in 2024 Beat the S&P 500 in 2025?",
-            "url": "https://www.fool.com/investing/2025/01/09/worst-performing-stock-sectors-2024-2025/",
-            "time_published": "20250109T093000",
-            "authors": [
-                "Daniel Foelber"
-            ],
-            "summary": "The stock market is divided into sectors, with each group of stocks having commonalities with each other, usually because they are in similar industries. The broader market is divided into 11 sectors and overall it had a great year in 2024, managing a 25% total return.Much of 2024's overall ...",
-            "banner_image": "https://media.ycharts.com/charts/6a2e9176a5b852ae1a716e966d5c67cc.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.166667"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.166667"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.166667"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.166667"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.166667"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.166667"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.576289"
-                }
-            ],
-            "overall_sentiment_score": 0.197127,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NFLX",
-                    "relevance_score": "0.030369",
-                    "ticker_sentiment_score": "0.082906",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.060694",
-                    "ticker_sentiment_score": "0.087093",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.060694",
-                    "ticker_sentiment_score": "0.087093",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.060694",
-                    "ticker_sentiment_score": "0.087093",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "KO",
-                    "relevance_score": "0.030369",
-                    "ticker_sentiment_score": "0.022188",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "COP",
-                    "relevance_score": "0.030369",
-                    "ticker_sentiment_score": "0.210935",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "VRTX",
-                    "relevance_score": "0.030369",
-                    "ticker_sentiment_score": "-0.07412",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CL",
-                    "relevance_score": "0.030369",
-                    "ticker_sentiment_score": "0.022188",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "UNH",
-                    "relevance_score": "0.060694",
-                    "ticker_sentiment_score": "-0.026101",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.060694",
-                    "ticker_sentiment_score": "0.087093",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "COST",
-                    "relevance_score": "0.030369",
-                    "ticker_sentiment_score": "0.022188",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.060694",
-                    "ticker_sentiment_score": "0.087093",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PG",
-                    "relevance_score": "0.030369",
-                    "ticker_sentiment_score": "0.022188",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "XOM",
-                    "relevance_score": "0.060694",
-                    "ticker_sentiment_score": "0.193713",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "PEP",
-                    "relevance_score": "0.030369",
-                    "ticker_sentiment_score": "0.022188",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "HD",
-                    "relevance_score": "0.030369",
-                    "ticker_sentiment_score": "0.00938",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "WMT",
-                    "relevance_score": "0.030369",
-                    "ticker_sentiment_score": "0.022188",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Bear of the Day: Hooker Furniture  ( HOFT ) ",
-            "url": "https://www.zacks.com/commentary/2393975/bear-of-the-day-hooker-furniture-hoft",
-            "time_published": "20250109T093000",
-            "authors": [
-                "Ethan Feller"
-            ],
-            "summary": "Hooker Furniture has struggled in recent years with falling sales growth and now has the lowest Zacks Rank ...",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default81.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.838487"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                }
-            ],
-            "overall_sentiment_score": -0.017459,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Bull of the Day: Marvell Technology  ( MRVL ) ",
-            "url": "https://www.zacks.com/commentary/2393974/bull-of-the-day-marvell-technology-mrvl",
-            "time_published": "20250109T093000",
-            "authors": [
-                "Ethan Feller"
-            ],
-            "summary": "Marvell Technology is extremely well positioned to benefit from the ongoing AI boom ...",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default262.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.990678"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.307268,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.072",
-                    "ticker_sentiment_score": "0.074714",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.072",
-                    "ticker_sentiment_score": "0.170104",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MRVL",
-                    "relevance_score": "0.412298",
-                    "ticker_sentiment_score": "0.310367",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Openreach chooses Nokia to build open-access fiber network to connect millions to faster broadband",
-            "url": "https://www.globenewswire.com/news-release/2025/01/09/3006852/0/en/Openreach-chooses-Nokia-to-build-open-access-fiber-network-to-connect-millions-to-faster-broadband.html",
-            "time_published": "20250109T092800",
-            "authors": [
-                "Nokia Oyj"
-            ],
-            "summary": "Openreach chooses Nokia to build open-access fiber network to connect millions to faster broadband \u2022 Nokia building open access platform to accelerate fiber broadband services for millions of UK homes and businesses. \u2022 Nokia's domain controllers allow Openreach to fully automate and simplify ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e6523d78-c43a-4057-8aa9-68206d3af4a8",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.367709,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NOK",
-                    "relevance_score": "0.44266",
-                    "ticker_sentiment_score": "0.511639",
-                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         }
