@@ -1,8 +1,248 @@
 {
-    "items": "34",
+    "items": "38",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Netflix's 'WWE Monday Night Raw' Premiere More Than Doubles 2024 USA Network Audience - Netflix  ( NASDAQ:NFLX ) , TKO Group Holdings  ( NYSE:TKO ) ",
+            "url": "https://www.benzinga.com/general/entertainment/25/01/42906243/netflixs-wwe-monday-night-raw-premiere-more-than-doubles-2024-usa-network-audience",
+            "time_published": "20250110T082741",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "Netflix Inc.'s NFLX premiere of \"WWE Monday Night Raw\" has drawn a much larger audience than its previous home on the USA Network. What Happened: The debut of WWE Monday Night Raw on Netflix attracted 2.6 million households in the U.S., more than doubling the 1.2 million household average it had ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/10-Jaw-Dropping-WWE-Raw-Scenes-That-Left.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.05194,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.613172",
+                    "ticker_sentiment_score": "0.112018",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TKO",
+                    "relevance_score": "0.227007",
+                    "ticker_sentiment_score": "0.054526",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Dow Surges Over 100 Points Following Fed Minutes: Investor Sentiment Declines, Greed Index Remains In 'Fear' Zone - Acuity Brands  ( NYSE:AYI ) , Delta Air Lines  ( NYSE:DAL ) ",
+            "url": "https://www.benzinga.com/news/earnings/25/01/42906229/dow-surges-over-100-points-following-fed-minutes-investor-sentiment-declines-greed-index-remains-in",
+            "time_published": "20250110T081928",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "The CNN Money Fear and Greed index showed a decline in overall market sentiment, while the index remained in the \"Fear\" zone on Wednesday. U.S. stocks settled mostly higher on Wednesday, with the Dow Jones index gaining more than 100 points during the session.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Market-Sentiment--Fear-And-Greed-Index--.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": -0.153614,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "STZ",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.101154",
+                    "ticker_sentiment_score": "-0.381618",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AYI",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DAL",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WBA",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Delta Air Lines, Walgreens And 3 Stocks To Watch Heading Into Friday - Costco Wholesale  ( NASDAQ:COST ) , Delta Air Lines  ( NYSE:DAL ) ",
+            "url": "https://www.benzinga.com/25/01/42906135/delta-air-lines-walgreens-and-3-stocks-to-watch-heading-into-friday",
+            "time_published": "20250110T080712",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "With U.S. stock futures trading lower this morning on Friday, some of the stocks that may grab investor focus today are as follows: Wall Street expects Delta Air Lines Inc. DAL to report quarterly earnings at $1.76 per share on revenue of $14.21 billion before the opening bell, according to data ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Delta-Airlines.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.995921"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.394216,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "STZ",
+                    "relevance_score": "0.414559",
+                    "ticker_sentiment_score": "0.51896",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.414559",
+                    "ticker_sentiment_score": "0.447181",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "SNX",
+                    "relevance_score": "0.414559",
+                    "ticker_sentiment_score": "0.451699",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "DAL",
+                    "relevance_score": "0.414559",
+                    "ticker_sentiment_score": "0.535444",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "WBA",
+                    "relevance_score": "0.28387",
+                    "ticker_sentiment_score": "0.395811",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Apollo Weighs $9.5 Billion Stake In Seven & i Buyout, Joining Ito Family's $60 Billion Deal: Report - Apollo Global Management  ( NYSE:APO ) , Alimentation Couche-Tard  ( OTC:ANCTF ) ",
+            "url": "https://www.benzinga.com/markets/asia/25/01/42906104/apollo-weighs-9-5-billion-stake-in-seven-i-buyout-joining-ito-familys-60-billion-deal-report",
+            "time_published": "20250110T080031",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "Apollo Global Management Inc. APO is weighing a \u00a51.5 trillion ( $9.5 billion ) equity stake in a management buyout of Seven & i Holdings Co. Ltd. SVNDY.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/7-eleven-Unsplash.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.977154"
+                }
+            ],
+            "overall_sentiment_score": 0.228268,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ANCTF",
+                    "relevance_score": "0.16849",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "APOS",
+                    "relevance_score": "0.084722",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ITOCF",
+                    "relevance_score": "0.16849",
+                    "ticker_sentiment_score": "0.127055",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:JPY",
+                    "relevance_score": "0.47672",
+                    "ticker_sentiment_score": "0.25208",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "California Wildfires Ignite Concerns For Insurance Stocks: Here Are Some Insurance ETFs Which Could Be Impacted - Allstate  ( NYSE:ALL ) , iShares U.S. Insurance ETF  ( ARCA:IAK ) ",
             "url": "https://www.benzinga.com/markets/equities/25/01/42906089/california-wildfires-ignite-concerns-for-insurance-stocks-here-are-some-insurance-etfs-which-cou",
