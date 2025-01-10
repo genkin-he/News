@@ -1,8 +1,238 @@
 {
-    "items": "45",
+    "items": "39",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Shoals Technologies Group Files Additional Patent Infringement Complaint Against Voltage, LLC with the ITC - Shoals Technologies Gr  ( NASDAQ:SHLS ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42904864/shoals-technologies-group-files-additional-patent-infringement-complaint-against-voltage-llc-with-",
+            "time_published": "20250110T044735",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "PORTLAND, Tenn., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Shoals Technologies Group, Inc. ( \"Shoals\" ) SHLS, a global leader in electrical balance of system ( \"EBOS\" ) solutions for the energy transition market, announced today that it has filed a new patent infringement complaint with the U.S.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.161328,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SHLS",
+                    "relevance_score": "0.225321",
+                    "ticker_sentiment_score": "0.337225",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "EBOSY",
+                    "relevance_score": "0.13637",
+                    "ticker_sentiment_score": "0.042139",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Shoals Technologies Group Files Additional Patent Infringement Complaint Against Voltage, LLC with the ITC",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007416/0/en/Shoals-Technologies-Group-Files-Additional-Patent-Infringement-Complaint-Against-Voltage-LLC-with-the-ITC.html",
+            "time_published": "20250110T044700",
+            "authors": [
+                "Shoals Technologies Group"
+            ],
+            "summary": "Shoals Technologies Group, Inc., maintains commitment to protecting U.S. Solar Manufacturing, files additional patent infringement complaint with ITC.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/ed989abb-a0ae-4d05-9ca2-5a77f42cd208",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.151979,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SHLS",
+                    "relevance_score": "0.234458",
+                    "ticker_sentiment_score": "0.360888",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "EBOSY",
+                    "relevance_score": "0.142005",
+                    "ticker_sentiment_score": "0.045842",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Dogecoin Has Dropped 16% Over A Month, But This Trader Is Confident The Meme King Will Hit $1 In 2025",
+            "url": "https://www.benzinga.com/25/01/42904831/dogecoin-has-dropped-16-over-the-past-month-but-this-analyst-says-retracement-often-occurs-before-a-massive-spike",
+            "time_published": "20250110T043418",
+            "authors": [
+                "Aniket Verma"
+            ],
+            "summary": "Ignoring recent downsides, a popular cryptocurrency trader on Thursday reiterated their bullish forecast for Dogecoin DOGE/USD this year. What Happened: Trader Tardigrade, noted for recognizing patterns and forecasting price movements, expressed confidence that the dog-themed cryptocurrency will ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Elon-Musk-rilancia-Dogecoin-la-meme-coin.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                }
+            ],
+            "overall_sentiment_score": 0.217935,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.091509",
+                    "ticker_sentiment_score": "-0.076498",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.181819",
+                    "ticker_sentiment_score": "0.15701",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.86489",
+                    "ticker_sentiment_score": "0.316889",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ADA",
+                    "relevance_score": "0.181819",
+                    "ticker_sentiment_score": "0.15701",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Toymaker Bloks jumps 82% in Hong Kong stock debut after sizzling IPO deal",
+            "url": "https://www.scmp.com/business/banking-finance/article/3294174/toymaker-bloks-surges-82-hong-kong-debut-after-sizzling-ipo-reception",
+            "time_published": "20250110T041923",
+            "authors": [
+                "Aileen Chuang"
+            ],
+            "summary": "Demand from Hong Kong retail investors was 6,000 times more than the amount of shares allocated to them, the second highest on record.",
+            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/10/c3ecf113-0f4b-49bf-8760-cdb2ebd11f15_686e78c9.jpg",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.313588,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.100729",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MNSO",
+                    "relevance_score": "0.100729",
+                    "ticker_sentiment_score": "0.081902",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Great Indian Work-Wife Balance - ETCFO",
+            "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/the-great-indian-work-wife-balance/117102492",
+            "time_published": "20250110T035427",
+            "authors": [
+                "Amol Dethe",
+                "ETCFO"
+            ],
+            "summary": "How many hours a week do you work? Do you follow a 5-day workweek or a 6-day workweek? Several top leaders of India Inc are advocating for employees to work 70 to 90 hours a week. It the new business mantra going to be about about all work, no play? Here's my view.",
+            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
+            "source": "Economic Times",
+            "category_within_source": "Top Stories",
+            "source_domain": "cfo.economictimes.indiatimes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.070512,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.069697",
+                    "ticker_sentiment_score": "0.056191",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INFY",
+                    "relevance_score": "0.034882",
+                    "ticker_sentiment_score": "0.00783",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LTOUF",
+                    "relevance_score": "0.034882",
+                    "ticker_sentiment_score": "0.07537",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Meta Documents Reveal Secret Policy Protecting Big-Spender Advertisers From Automated Content Moderation: Report - Meta Platforms  ( NASDAQ:META ) ",
             "url": "https://www.benzinga.com/25/01/42904686/metas-internal-documents-reveal-secret-policy-protecting-high-spending-advertisers-from-automated-content-moderat",
@@ -1330,379 +1560,6 @@
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
-        },
-        {
-            "title": "WOLF Investor Reminder: Kessler Topaz Meltzer & Check, LLP Reminds Investors of Deadline in Securities Fraud Class Action Lawsuit Filed Against Wolfspeed, Inc. - Wolfspeed  ( NYSE:WOLF ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42903444/wolf-investor-reminder-kessler-topaz-meltzer-check-llp-reminds-investors-of-deadline-in-securities",
-            "time_published": "20250109T234000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "RADNOR, Pa., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- The law firm of Kessler Topaz Meltzer & Check, LLP ( www.ktmc.com ) informs investors that a securities class action lawsuit has been filed in the United States District Court for the Northern District of New York against Wolfspeed, Inc. ( ...",
-            "banner_image": "https://ml.globenewswire.com/media/405ec490-b904-4a5e-85a7-710cdebe280d/small/ktmc-logo-rgb-jpg.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.080772,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WOLF",
-                    "relevance_score": "0.489163",
-                    "ticker_sentiment_score": "0.159602",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Los Angeles wildfires could be costliest blaze in U.S. history",
-            "url": "https://www.cnbc.com/2025/01/09/los-angeles-wildfires-could-be-costliest-blaze-in-us-history-.html",
-            "time_published": "20250109T233555",
-            "authors": [],
-            "summary": "Five wildfires fueled by dry conditions and strong winds have burned through 29,000 acres of land around Los Angeles since Tuesday.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Top News",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.204477,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AON",
-                    "relevance_score": "0.11983",
-                    "ticker_sentiment_score": "-0.093337",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.11983",
-                    "ticker_sentiment_score": "0.034597",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "With US tariffs unlikely to reach 60% Hong Kong, China markets will rise: analysts",
-            "url": "https://www.scmp.com/business/banking-finance/article/3294095/trumps-tariffs-unlikely-reach-60-boosting-hong-kong-china-stock-markets-analysts",
-            "time_published": "20250109T233008",
-            "authors": [
-                "Aileen Chuang"
-            ],
-            "summary": "Analysts from Pictet and BNP Paribas expect US tariffs on Chinese goods to reach 20 per cent and 25 per cent, respectively.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2024/12/17/clean-thumb.jpg?itok=hj6dcSTD",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.997405"
-                }
-            ],
-            "overall_sentiment_score": 0.12417,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CSHEF",
-                    "relevance_score": "0.061949",
-                    "ticker_sentiment_score": "0.061738",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:VND",
-                    "relevance_score": "0.061949",
-                    "ticker_sentiment_score": "0.037093",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Ford reveals a special edition of its $325,000 Mustang GTD called 'Spirit of America'",
-            "url": "https://www.cnbc.com/2025/01/09/ford-special-edition-mustang-gtd-spirit-of-america.html",
-            "time_published": "20250109T233001",
-            "authors": [],
-            "summary": "The GTD models are part of Ford's plans to expand the Mustang nameplate into the higher echelons of the sports car and racing worlds.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Top News",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.135989,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "F",
-                    "relevance_score": "0.238133",
-                    "ticker_sentiment_score": "0.387527",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "ROSEN, THE FIRST FILING FIRM, Encourages AstraZeneca PLC Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - AZN - AstraZeneca  ( NASDAQ:AZN ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42903398/rosen-the-first-filing-firm-encourages-astrazeneca-plc-investors-to-secure-counsel-before-importan",
-            "time_published": "20250109T233000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of AstraZeneca PLC AZN between February 23, 2022 and December 17, 2024, both dates inclusive ( the \"Class Period\" ) , of the February 21, 2025 lead plaintiff ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.129547,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AZN",
-                    "relevance_score": "0.493965",
-                    "ticker_sentiment_score": "-0.009741",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.058903",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Astera Labs Announces Conference Call to Review Fourth Quarter 2024 Financial Results - Astera Labs  ( NASDAQ:ALAB ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42903397/astera-labs-announces-conference-call-to-review-fourth-quarter-2024-financial-results",
-            "time_published": "20250109T233000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "SANTA CLARA, Calif., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Astera Labs, Inc. ALAB, a global leader in semiconductor-based connectivity solutions for AI and cloud infrastructure, today announced that it will release its financial results for the fourth quarter 2024 after the close of market on ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [],
-            "overall_sentiment_score": 0.283127,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ALAB",
-                    "relevance_score": "0.922387",
-                    "ticker_sentiment_score": "0.432396",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Astera Labs Announces Conference Call to Review Fourth Quarter 2024 Financial Results",
-            "url": "https://www.globenewswire.com/news-release/2025/01/09/3007396/0/en/Astera-Labs-Announces-Conference-Call-to-Review-Fourth-Quarter-2024-Financial-Results.html",
-            "time_published": "20250109T233000",
-            "authors": [
-                "INC.",
-                "ASTERA LABS"
-            ],
-            "summary": "SANTA CLARA, Calif., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Astera Labs, Inc. ( Nasdaq: ALAB ) , a global leader in semiconductor-based connectivity solutions for AI and cloud infrastructure, today announced that it will release its financial results for the fourth quarter 2024 after the close of ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/2c06b09e-7cf8-4c27-99c0-84ca5ea62af5",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [],
-            "overall_sentiment_score": 0.258076,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ALAB",
-                    "relevance_score": "0.936889",
-                    "ticker_sentiment_score": "0.441205",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Amazon Workers Return To Office With Some Exceptions Reported - Amazon.com  ( NASDAQ:AMZN ) ",
-            "url": "https://www.benzinga.com/news/large-cap/25/01/42903361/amazon-workers-return-to-office-with-some-exceptions-reported",
-            "time_published": "20250109T232422",
-            "authors": [
-                "Erica Kollmann"
-            ],
-            "summary": "Amazon's mandatory five-day in-office policy announced last September is now in effect as of Monday. Some office locations maintain the company's previous policy, which requires only three days a week in the office due to a lack of space. Amazon.com, Inc.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/What-Happened_2.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.168868,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.595343",
-                    "ticker_sentiment_score": "0.361647",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "SZIHF",
-                    "relevance_score": "0.094762",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "ROSEN, GLOBALLY RESPECTED INVESTOR RIGHTS COUNSEL, Encourages Aehr Test Systems Investors to Secure Counsel Before Important Deadline in Securities Class Action - AEHR - Aehr Test System  ( NASDAQ:AEHR ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42903290/rosen-globally-respected-investor-rights-counsel-encourages-aehr-test-systems-investors-to-secure-",
-            "time_published": "20250109T231900",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Aehr Test Systems AEHR between January 9, 2024 and March 24, 2024, both dates inclusive ( the \"Class Period\" ) , of the important February 3, 2025 lead ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.129539,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AEHR",
-                    "relevance_score": "0.125134",
-                    "ticker_sentiment_score": "0.150197",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.062761",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "General Dynamics  ( GD )  Exceeds Market Returns: Some Facts to Consider",
-            "url": "https://www.zacks.com/stock/news/2394735/general-dynamics-gd-exceeds-market-returns-some-facts-to-consider",
-            "time_published": "20250109T231525",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "General Dynamics (GD) closed the most recent trading day at $261.47, moving +0.7% from the previous trading session.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default97.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.891286"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.175416,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GD",
-                    "relevance_score": "0.498188",
-                    "ticker_sentiment_score": "0.331293",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Why D.R. Horton  ( DHI )  Outpaced the Stock Market Today",
-            "url": "https://www.zacks.com/stock/news/2394736/why-dr-horton-dhi-outpaced-the-stock-market-today",
-            "time_published": "20250109T231524",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "D.R. Horton (DHI) closed the most recent trading day at $139.90, moving +1.49% from the previous trading session.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default302.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.983783"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.11289,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
         }
     ]
 }
