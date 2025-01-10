@@ -4,6 +4,28 @@
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
         {
+            "title": "Digital subscription results of AS Ekspress Grupp for the fourth quarter of 2024",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007419/0/en/Digital-subscription-results-of-AS-Ekspress-Grupp-for-the-fourth-quarter-of-2024.html",
+            "time_published": "20250110T060000",
+            "authors": [
+                "Ekspress Grupp"
+            ],
+            "summary": "The total number of digital subscriptions of AS Ekspress Grupp increased by 15% in the Baltic States year-over-year ( 4th quarter: 7% ) and totalled 238 182 at the end of December.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/6cbb4f0d-3ad3-45fd-9891-746043bfd69e",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.267688,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
             "title": "Nvidia Slams Biden's Country-Specific Chip Rules: 'Legacy That Will Be Criticized' - NVIDIA  ( NASDAQ:NVDA ) ",
             "url": "https://www.benzinga.com/news/25/01/42905013/nvidia-slams-bidens-country-specific-chip-rules-legacy-that-will-be-criticized",
             "time_published": "20250110T053327",
@@ -1436,37 +1458,6 @@
                     "relevance_score": "0.30928",
                     "ticker_sentiment_score": "-0.030251",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Ford CEO says China operations earned $600 million in 2024",
-            "url": "https://www.cnbc.com/2025/01/09/ford-ceo-says-china-operations-earned-600-million-in-2024.html",
-            "time_published": "20250110T012245",
-            "authors": [],
-            "summary": "Ford Motor's operations in China earned roughly $600 million last year despite challenging market conditions, CEO Jim Farley said Thursday night.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Top News",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.107296,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GM",
-                    "relevance_score": "0.279015",
-                    "ticker_sentiment_score": "0.173021",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
