@@ -2,6 +2,38 @@
     "news": [
         {
             "beta_headline": null,
+            "category": "economy",
+            "date": "2025-01-10",
+            "headline": "In December, U.S. employers added 256,000 jobs, lowering unemployment to 4.2%. Markets reacted as hopes for interest rate cuts faded.",
+            "id": "45a80433-f621-4dc5-91a2-1b36227f1150",
+            "is_major": true,
+            "source": "NYT",
+            "source_type": "news",
+            "summary": "In December, there was a surprising increase of 256,000 jobs, surpassing expectations. The unemployment rate dropped to 4.2 percent. However, despite these positive numbers, financial markets reacted negatively as the possibility of interest rate reductions appeared to be less likely.",
+            "tickers": [],
+            "time": "19:14:57",
+            "timestamp": "2025-01-10T19:14:57Z",
+            "url": "https://www.nytimes.com/2025/01/10/business/economy/jobs-report-december.html"
+        },
+        {
+            "beta_headline": null,
+            "category": "securities",
+            "date": "2025-01-10",
+            "headline": "New Shopevolution\u2122 8 software by Datalogic enhances self-shopping experience, increases trustability, and reduces losses for retailers.",
+            "id": "273f1adb-261e-4b23-bbfe-4ab28a7f957e",
+            "is_major": false,
+            "source": "PR NewsWire",
+            "source_type": "news",
+            "summary": "Datalogic's Shopevolution\u2122 8 introduces cutting-edge self-shopping software solutions, setting a new standard in reliability and advancement. This technology marks a significant milestone in enhancing trustability and minimizing loss in self-scanning applications for retailers. By integrating with Joya\u2122 and other devices, it enables a seamless shopping experience while boosting revenues and decreasing shrinkage.",
+            "tickers": [
+                "NDXP"
+            ],
+            "time": "19:13:58",
+            "timestamp": "2025-01-10T19:13:58Z",
+            "url": "https://www.prnewswire.com/news-releases/shopevolution-8---join-the-retail-self-shopping-revolution-302348280.html"
+        },
+        {
+            "beta_headline": null,
             "category": "securities",
             "date": "2025-01-10",
             "headline": "Is the Stock Market\u2019s \u2018January Effect\u2019 legit? - A Bloomberg article debates its significance.",
@@ -844,38 +876,6 @@
             "time": "18:03:29",
             "timestamp": "2025-01-10T18:03:29Z",
             "url": "https://www.benzinga.com/economics/macro-economic-events/25/01/42922299/wall-street-tumbles-on-blowout-payrolls-oil-rallies-to-76-us-dollar-hits-26-month"
-        },
-        {
-            "beta_headline": null,
-            "category": "securities",
-            "date": "2025-01-10",
-            "headline": "Virion Therapeutics finishes first 2 cohorts of Phase 1b trial for Hepatitis B treatment, 27 patients dosed with VRON-0200.",
-            "id": "ea9e989d-36a9-43e6-a191-6c6921dd8f86",
-            "is_major": false,
-            "source": "PR NewsWire",
-            "source_type": "news",
-            "summary": "Virion Therapeutics, LLC, a clinical-stage biotechnology company based in Philadelphia, announced on January 10, 2025, that 27 patients suffering from Chronic Hepatitis B Virus infection have received a dose of VRON-0200. The treatment was administered either as a single injection (Prime) or a combination of Prime and Boost intramuscularly.",
-            "tickers": [
-                "NDXP"
-            ],
-            "time": "18:03:14",
-            "timestamp": "2025-01-10T18:03:14Z",
-            "url": "https://www.prnewswire.com/news-releases/virion-therapeutics-completes-enrollment-of-first-2-cohorts-of-phase-1b-chronic-hepatitis-b-trial-of-vron-0200-for-hbv-functional-cure-302348218.html"
-        },
-        {
-            "beta_headline": null,
-            "category": "securities",
-            "date": "2025-01-10",
-            "headline": "Virbac announced the disclosure of total shares and voting rights.",
-            "id": "df37fa29-6a06-4423-812a-013f8761b4bf",
-            "is_major": false,
-            "source": "GlobeNewswire",
-            "source_type": "news",
-            "summary": null,
-            "tickers": [],
-            "time": "18:03:06",
-            "timestamp": "2025-01-10T18:03:06Z",
-            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007866/0/en/Virbac-Declaration-of-the-number-of-shares-and-voti.html"
         }
     ]
 }
