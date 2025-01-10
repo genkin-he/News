@@ -1,8 +1,84 @@
 {
-    "items": "39",
+    "items": "34",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Elon Musk Pushes California, Delaware Attorneys-General To Force OpenAI Stake Auction Amid Bitter Legal Battle With Sam Altman - Meta Platforms  ( NASDAQ:META ) , MONARCH STAFFING INC by Monarch Staffing, Inc.  ( OTC:MSTF ) ",
+            "url": "https://www.benzinga.com/news/legal/25/01/42904926/elon-musk-pushes-california-delaware-attorneys-general-to-force-openai-stake-auction-amid-bitter-legal",
+            "time_published": "20250110T050459",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "Elon Musk has requested the attorneys-general of California and Delaware to mandate an auction of a substantial portion of OpenAI's stake.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Energy-Policy-Talk.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.244595,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.126784",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.250386",
+                    "ticker_sentiment_score": "0.133297",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Ford Debuts Limited-Edition Mustang GTD Spirit Of America, New RTR Performance Model Amid Stock Pressure - Ford Motor  ( NYSE:F ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/01/42904892/ford-debuts-limited-edition-mustang-gtd-spirit-of-america-new-rtr-performance-model-amid-stock-p",
+            "time_published": "20250110T050044",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "Ford Motor Co. F unveiled two new Mustang variants Thursday in Detroit, showcasing American performance innovation while the automaker's stock trades near its 52-week low of $9.49.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Ford-Mustang-Logo.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.192631,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.212115",
+                    "ticker_sentiment_score": "0.030603",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Shoals Technologies Group Files Additional Patent Infringement Complaint Against Voltage, LLC with the ITC - Shoals Technologies Gr  ( NASDAQ:SHLS ) ",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42904864/shoals-technologies-group-files-additional-patent-infringement-complaint-against-voltage-llc-with-",
@@ -1355,208 +1431,6 @@
                     "ticker": "TRUMF",
                     "relevance_score": "0.038843",
                     "ticker_sentiment_score": "0.048961",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Supreme Court rejects Trump hush money sentencing delay bid",
-            "url": "https://www.cnbc.com/2025/01/09/trump-supreme-court-hush-money-sentencing.html",
-            "time_published": "20250110T002331",
-            "authors": [],
-            "summary": "The U.S. Supreme Court denied a request by President-elect Donald Trump to halt proceedings in his criminal hush money case.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Top News",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": -0.100059,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "ROSEN, NATIONAL TRIAL LAWYERS, Encourages Paladin Energy Ltd Investors to Inquire About Securities Class Action Investigation - PALAF - Paladin Energy  ( OTC:PALAF ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42903565/rosen-national-trial-lawyers-encourages-paladin-energy-ltd-investors-to-inquire-about-securities-c",
-            "time_published": "20250110T000300",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of Paladin Energy Ltd PALAF resulting from allegations that Paladin may have issued materially misleading ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.744043"
-                }
-            ],
-            "overall_sentiment_score": 0.203968,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.079392",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Meet Alibaba's AI coder: an automated system that can build an app 'in minutes'",
-            "url": "https://www.scmp.com/tech/big-tech/article/3294096/meet-alibabas-ai-coder-automated-system-can-build-app-minutes",
-            "time_published": "20250110T000014",
-            "authors": [
-                "Ann Cao"
-            ],
-            "summary": "AI coder forms part of Alibaba Cloud's artificial intelligence programming tool called Tongyi Lingma.",
-            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/09/6651ebaa-69fb-480a-9b18-3d6732591c6f_0e2c23f9.jpg",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.21133,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BABA",
-                    "relevance_score": "0.60999",
-                    "ticker_sentiment_score": "0.316794",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.068502",
-                    "ticker_sentiment_score": "-0.116404",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SZIHF",
-                    "relevance_score": "0.068502",
-                    "ticker_sentiment_score": "0.430784",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Is Palantir Stock Worth the Hype?",
-            "url": "https://www.fool.com/investing/2025/01/09/is-palantir-stock-worth-the-hype/",
-            "time_published": "20250110T000000",
-            "authors": [
-                "Motley Fool YouTube"
-            ],
-            "summary": "Explore the exciting world of Palantir ( NASDAQ: PLTR ) with our expert analysts in this Motley Fool Scoreboard episode. Check out the video below to gain valuable insights into market trends and potential investment opportunities!*Stock prices used were the prices of Nov. 20, 2024.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/802998/pltr.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.358941,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "RHEI Unveils Data Monetization Platform, Activating Over $35 Million to Help Creators Unlock the Value of Their Existing Content",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42903513/rhei-unveils-data-monetization-platform-activating-over-35-million-to-help-creators-unlock-the-val",
-            "time_published": "20250109T235800",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "VANCOUVER, BC and LAS VEGAS, Jan. 9, 2025 /PRNewswire/ - RHEI, a global leader in content distribution and marketing for the creator economy, today announced the launch of RHEI Data Pro, a first-of-its-kind Data Monetization Platform designed to enable creators and content owners to earn revenue ...",
-            "banner_image": "https://mma.prnewswire.com/media/2595144/RHEI_Creations_Corp__RHEI_Unveils_Data_Monetization_Platform__Ac.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.47552,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "NXT REMINDER: Kessler Topaz Meltzer & Check, LLP Urges NXT Investors with Losses to Contact the Firm - NEXTracker  ( NASDAQ:NXT ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42903512/nxt-reminder-kessler-topaz-meltzer-check-llp-urges-nxt-investors-with-losses-to-contact-the-firm",
-            "time_published": "20250109T235700",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "RADNOR, Pa., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- The law firm of Kessler Topaz Meltzer & Check, LLP ( www.ktmc.com ) informs investors that a securities class action lawsuit has been filed in the United States District Court for the Northern District of California against Nextracker Inc. ( ...",
-            "banner_image": "https://ml.globenewswire.com/media/405ec490-b904-4a5e-85a7-710cdebe280d/small/ktmc-logo-rgb-jpg.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                }
-            ],
-            "overall_sentiment_score": 0.056407,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NXT(EXP20091224)",
-                    "relevance_score": "0.456544",
-                    "ticker_sentiment_score": "0.098622",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:NXT",
-                    "relevance_score": "0.060541",
-                    "ticker_sentiment_score": "0.058018",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Cassava Sciences, Inc.  ( SAVA )  Investors: February 10, 2025 Filing Deadline in Securities Class Action - Contact Kessler Topaz Meltzer & Check, LLP - Cassava Sciences  ( NASDAQ:SAVA ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42903468/cassava-sciences-inc-sava-investors-february-10-2025-filing-deadline-in-securities-class-action-co",
-            "time_published": "20250109T234800",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "RADNOR, Pa., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- The law firm of Kessler Topaz Meltzer & Check, LLP ( www.ktmc.com ) informs investors that a securities class action lawsuit has been filed in the United States District Court for the Western District of Texas against Cassava Sciences, Inc. ( ...",
-            "banner_image": "https://ml.globenewswire.com/media/405ec490-b904-4a5e-85a7-710cdebe280d/small/ktmc-logo-rgb-jpg.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.058642,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SAVA",
-                    "relevance_score": "0.259727",
-                    "ticker_sentiment_score": "0.021723",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
