@@ -1,8 +1,404 @@
 {
-    "items": "49",
+    "items": "46",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Canadian Premium Sand Inc. Announces Conclusion of Warrant Exercise and Fiscal Year End 2024 Results",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007834/0/en/Canadian-Premium-Sand-Inc-Announces-Conclusion-of-Warrant-Exercise-and-Fiscal-Year-End-2024-Results.html",
+            "time_published": "20250110T162700",
+            "authors": [
+                "Canadian Premium Sand Inc."
+            ],
+            "summary": "CALGARY, Alberta, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- Canadian Premium Sand Inc. ( \"CPS\" or the \"Company\" ) ( TSXV: CPS ) is pleased to announce the conclusion of the previously announced warrant exercise and its fiscal year end 2024 financial results.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/1c463333-739a-4e4c-9ef6-a696ea711129",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.216888,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CLMPF",
+                    "relevance_score": "0.0378",
+                    "ticker_sentiment_score": "0.070995",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Building Products Inc. Acquires Heartland Millwork, Expanding Custom Millwork Capabilities",
+            "url": "https://www.benzinga.com/pressreleases/25/01/r42919071/building-products-inc-acquires-heartland-millwork-expanding-custom-millwork-capabilities",
+            "time_published": "20250110T162355",
+            "authors": [
+                "PR.com"
+            ],
+            "summary": "Larchwood, IA January 10, 2025 -- ( PR.com ) -- Building Products Inc. ( BPI ) announces the successful acquisition of Heartland Millwork, a premier custom millwork manufacturer based in Larchwood, Iowa. The acquisition strengthens BPI's position in the millwork market and expands its ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Mergers",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.481899,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Supreme Court Hears TikTok Arguments With App's Ban Ahead: 'Essentially, The Platform Shuts Down' - Meta Platforms  ( NASDAQ:META ) ",
+            "url": "https://www.benzinga.com/25/01/42919029/supreme-court-hears-tiktok-oral-arguments",
+            "time_published": "20250110T162257",
+            "authors": [
+                "Erica Kollmann"
+            ],
+            "summary": "\"In short, this act should not stand,\" TikTok attorney Noel Francisco says. Justice Brett Kavanaugh defends national security concerns related to data collection through the TikTok app. Get Real-Time News and Alerts for Your Portfolio The U.S.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/TikTok.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.092115,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.220141",
+                    "ticker_sentiment_score": "-0.029982",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "December Jobs Report A 'Wake-Up Call For Anyone Betting On Rate Cuts,' Analyst Says",
+            "url": "https://www.benzinga.com/economics/macro-economic-events/25/01/42918778/december-jobs-report-a-wake-up-call-for-anyone-betting-on-rate-cuts-analyst-says",
+            "time_published": "20250110T161922",
+            "authors": [
+                "Surbhi Jain"
+            ],
+            "summary": "A strong December jobs report defies rate cut hopes, signaling the Fed will likely hold rates steady in 2025. Economists warn robust wage growth and inflation pressures continue to challenge the Fed's ability to ease policy anytime soon. Get Real-Time News and Alerts for Your Portfolio",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Side-View-Of-A-Thoughtful-Businessman-St.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.158226,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CMA",
+                    "relevance_score": "0.063258",
+                    "ticker_sentiment_score": "0.227306",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LPLA",
+                    "relevance_score": "0.063258",
+                    "ticker_sentiment_score": "0.00805",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why CureVac  ( CVAC )  Shares Are Volatile - CureVac  ( NASDAQ:CVAC ) ",
+            "url": "https://www.benzinga.com/news/25/01/42918652/why-curevac-cvac-shares-are-volatile",
+            "time_published": "20250110T161620",
+            "authors": [
+                "Henry Khederian"
+            ],
+            "summary": "CureVac shares have been volatile over the past week, gaining some 25%. The stock has seen increased trading volume following the U.S.'s first human death from H5N1 bird flu. Get daily trade setups, exclusive stock picks, and real-time alerts today.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/HT-DNA-Lab7269-highres.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999701"
+                }
+            ],
+            "overall_sentiment_score": 0.153104,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MRNA",
+                    "relevance_score": "0.082111",
+                    "ticker_sentiment_score": "0.142562",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GSK",
+                    "relevance_score": "0.163354",
+                    "ticker_sentiment_score": "-0.238597",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.082111",
+                    "ticker_sentiment_score": "0.175897",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Market Whales and Their Recent Bets on NBIS Options - Nebius Group  ( NASDAQ:NBIS ) ",
+            "url": "https://www.benzinga.com/insights/options/25/01/42918622/market-whales-and-their-recent-bets-on-nbis-options",
+            "time_published": "20250110T161527",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "High-rolling investors have positioned themselves bullish on Nebius Group NBIS, and it's important for retail traders to take note. \\This activity came to our attention today through Benzinga's tracking of publicly available options data.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736525724_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.217894,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "ONGOING DEADLINE ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Zeta Global Holdings - Zeta Global Holdings  ( NYSE:ZETA ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42918466/ongoing-deadline-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-zeta-global",
+            "time_published": "20250110T161000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Faruqi & Faruqi, LLP Securities Litigation Partner James ( Josh ) Wilson Encourages Investors Who Suffered Losses Exceeding $100,000 In Zeta To Contact Him Directly To Discuss Their Options",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/1b78d6d9-524e-4bfa-9772-9599dc664268/image1.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                }
+            ],
+            "overall_sentiment_score": 0.158571,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.055492",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ZETA",
+                    "relevance_score": "0.219312",
+                    "ticker_sentiment_score": "0.151028",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Guggenheim Securities Hires Jami Rubin to Expand Healthcare Investment Banking Practice",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42918358/guggenheim-securities-hires-jami-rubin-to-expand-healthcare-investment-banking-practice",
+            "time_published": "20250110T160548",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- Guggenheim Securities, the investment banking and capital markets division of Guggenheim Partners, announced today that Jami Rubin will join the firm's healthcare investment banking practice as a Senior Managing Director.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999996"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.325938,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.084127",
+                    "ticker_sentiment_score": "0.073657",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BOLD",
+                    "relevance_score": "0.084127",
+                    "ticker_sentiment_score": "0.073657",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PJT",
+                    "relevance_score": "0.084127",
+                    "ticker_sentiment_score": "0.073657",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ONGOING DEADLINE ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Cassava - Cassava Sciences  ( NASDAQ:SAVA ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42918301/ongoing-deadline-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-cassava",
+            "time_published": "20250110T160300",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Faruqi & Faruqi, LLP Securities Litigation Partner James ( Josh ) Wilson Encourages Investors Who Suffered Losses Exceeding $75,000 In Cassava To Contact Him Directly To Discuss Their Options",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/f08ef15c-387e-4214-8ce6-30cbdada61ea/image1.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                }
+            ],
+            "overall_sentiment_score": 0.198412,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SAVA",
+                    "relevance_score": "0.254307",
+                    "ticker_sentiment_score": "0.169907",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": " ( LSCC )  - Analyzing Lattice Semiconductor's Short Interest - Lattice Semiconductor  ( NASDAQ:LSCC ) ",
+            "url": "https://www.benzinga.com/insights/short-sellers/25/01/42918164/lscc-analyzing-lattice-semiconductors-short-interest",
+            "time_published": "20250110T160018",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Lattice Semiconductor's LSCC short percent of float has fallen 3.43% since its last report. The company recently reported that it has 11.16 million shares sold short, which is 10.7% of all regular shares that are available for trading.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736524815_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.266742,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LSCC",
+                    "relevance_score": "0.209365",
+                    "ticker_sentiment_score": "0.079385",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Peering Into Arthur J. Gallagher's Recent Short Interest - Arthur J. Gallagher  ( NYSE:AJG ) ",
+            "url": "https://www.benzinga.com/insights/short-sellers/25/01/42918159/peering-into-arthur-j-gallaghers-recent-short-interest",
+            "time_published": "20250110T160013",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Arthur J. Gallagher's AJG short percent of float has risen 122.15% since its last report. The company recently reported that it has 7.34 million shares sold short, which is 3.31% of all regular shares that are available for trading.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736524810_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.289952,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
         {
             "title": "Everest Group's New Management Team Needs To Take These 'Bold Steps': Analyst - Everest Group  ( NYSE:EG ) ",
             "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/01/42917978/everest-groups-new-management-team-needs-to-take-these-bold-steps-analyst",
@@ -398,6 +794,148 @@
             ]
         },
         {
+            "title": "Check Out What Whales Are Doing With SHOP - Shopify  ( NYSE:SHOP ) ",
+            "url": "https://www.benzinga.com/insights/options/25/01/42917524/check-out-what-whales-are-doing-with-shop",
+            "time_published": "20250110T154527",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Deep-pocketed investors have adopted a bearish approach towards Shopify SHOP, and it's something market players shouldn't ignore. Our tracking of public options records at Benzinga unveiled this significant move today.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736523924_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                }
+            ],
+            "overall_sentiment_score": 0.224151,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SHOP",
+                    "relevance_score": "0.824531",
+                    "ticker_sentiment_score": "0.324538",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.077094",
+                    "ticker_sentiment_score": "0.127664",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Future According to Nvidia's Jensen Huang",
+            "url": "https://www.fool.com/investing/2025/01/10/the-future-according-to-nvidias-jensen-huang/",
+            "time_published": "20250110T154500",
+            "authors": [
+                "Motley Fool Staff"
+            ],
+            "summary": "His CES keynote had a lot of interesting stuff.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803547/mfm-08.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.905476"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.173797,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PYPL",
+                    "relevance_score": "0.340915",
+                    "ticker_sentiment_score": "0.149891",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SHOP",
+                    "relevance_score": "0.024555",
+                    "ticker_sentiment_score": "0.150014",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.008186",
+                    "ticker_sentiment_score": "0.045382",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.241764",
+                    "ticker_sentiment_score": "0.102144",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.024555",
+                    "ticker_sentiment_score": "0.047779",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.008186",
+                    "ticker_sentiment_score": "0.093351",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.008186",
+                    "ticker_sentiment_score": "0.064648",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MA",
+                    "relevance_score": "0.024555",
+                    "ticker_sentiment_score": "0.096524",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.032736",
+                    "ticker_sentiment_score": "0.100236",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SQ",
+                    "relevance_score": "0.008186",
+                    "ticker_sentiment_score": "0.014533",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Consumer Inflation Worries Highest Since 2008, U Of M Survey Says: Wall Street Tumbles To 2-Month Lows - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , SPDR S&P 500  ( ARCA:SPY ) ",
             "url": "https://www.benzinga.com/economics/macro-economic-events/25/01/42917321/consumer-inflation-worries-highest-since-2008-u-of-m-survey-says-wall-street-tumb",
             "time_published": "20250110T153922",
@@ -742,6 +1280,45 @@
             ]
         },
         {
+            "title": "Top 2 Health Care Stocks That Are Ticking Portfolio Bombs - Mesoblast  ( NASDAQ:MESO ) , Sana Biotechnology  ( NASDAQ:SANA ) ",
+            "url": "https://www.benzinga.com/25/01/42917071/top-2-health-care-stocks-that-are-ticking-portfolio-bombs-2",
+            "time_published": "20250110T153159",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "As of Jan. 10, 2025, two stocks in the health care sector could be flashing a real warning to investors who value momentum as a key criteria in their trading decisions. The RSI is a momentum indicator, which compares a stock's strength on days when prices go up to its strength on days when prices ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Bernies-Concerns-With-Healthcare-Costs.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.239433,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MESO",
+                    "relevance_score": "0.388879",
+                    "ticker_sentiment_score": "0.14642",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SANA",
+                    "relevance_score": "0.388879",
+                    "ticker_sentiment_score": "0.166625",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "Gourav Saini Brings Authentic Texas Barbecue to Phoenix, AZ, with Dickey's Barbecue Franchise",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42917003/gourav-saini-brings-authentic-texas-barbecue-to-phoenix-az-with-dickeys-barbecue-franchise",
             "time_published": "20250110T153106",
@@ -799,6 +1376,28 @@
                 }
             ],
             "overall_sentiment_score": 0.287712,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Looking Into Cigna's Recent Short Interest - Cigna  ( NYSE:CI ) ",
+            "url": "https://www.benzinga.com/insights/short-sellers/25/01/42916946/looking-into-cignas-recent-short-interest",
+            "time_published": "20250110T153019",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Cigna's CI short percent of float has risen 44.35% since its last report. The company recently reported that it has 4.61 million shares sold short, which is 1.66% of all regular shares that are available for trading. Based on its trading volume, it would take traders 1.91 days to cover their ...",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736523016_0_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.289997,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
         },
@@ -1214,690 +1813,6 @@
                     "relevance_score": "0.657011",
                     "ticker_sentiment_score": "0.21042",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Apollo Global Management's Options: A Look at What the Big Money is Thinking - Apollo Global Management  ( NYSE:APO ) ",
-            "url": "https://www.benzinga.com/insights/options/25/01/42916179/apollo-global-managements-options-a-look-at-what-the-big-money-is-thinking",
-            "time_published": "20250110T151540",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "Financial giants have made a conspicuous bullish move on Apollo Global Management. Our analysis of options history for Apollo Global Management APO revealed 10 unusual trades. Delving into the details, we found 70% of traders were bullish, while 30% showed bearish tendencies.",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736522137_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.980922"
-                }
-            ],
-            "overall_sentiment_score": 0.197152,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "APOS",
-                    "relevance_score": "0.632359",
-                    "ticker_sentiment_score": "0.240631",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "WFC",
-                    "relevance_score": "0.071784",
-                    "ticker_sentiment_score": "0.061686",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Smart Money Is Betting Big In NOW Options - ServiceNow  ( NYSE:NOW ) ",
-            "url": "https://www.benzinga.com/insights/options/25/01/42916172/smart-money-is-betting-big-in-now-options",
-            "time_published": "20250110T151535",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "Investors with a lot of money to spend have taken a bullish stance on ServiceNow NOW. We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know.",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736522132_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.87644"
-                }
-            ],
-            "overall_sentiment_score": 0.218642,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NOW",
-                    "relevance_score": "0.677342",
-                    "ticker_sentiment_score": "0.292868",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Shaq Passed On A Lucrative Wheaties Sponsorship After His First Championship, Declaring 'Frosted Flakes Will Always Be My First Option'",
-            "url": "https://www.benzinga.com/news/25/01/42916166/shaq-passed-on-a-lucrative-wheaties-sponsorship-after-his-first-championship-declaring-frosted-flakes-will-a",
-            "time_published": "20250110T151517",
-            "authors": [
-                "Adrian Volenik"
-            ],
-            "summary": "Shaquille O'Neal has made many bold moves throughout his career, but few are as memorable as his decision to pass on a lucrative Wheaties sponsorship after his first NBA championship. The iconic cereal brand wanted him on their box, a symbolic and lucrative nod to champions everywhere.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/What-Happened-.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.441094,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "DNUT",
-                    "relevance_score": "0.135347",
-                    "ticker_sentiment_score": "0.328058",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.135347",
-                    "ticker_sentiment_score": "0.23207",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ABNB",
-                    "relevance_score": "0.067919",
-                    "ticker_sentiment_score": "0.287686",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "UBER",
-                    "relevance_score": "0.067919",
-                    "ticker_sentiment_score": "0.287686",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Lululemon Athletica's US Sales Recover, Trends Could Accelerate This Quarter, Says Bullish Analyst - Lululemon Athletica  ( NASDAQ:LULU ) ",
-            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/01/42916070/lululemon-athleticas-us-sales-recover-trends-could-accelerate-this-quarter-says-bul",
-            "time_published": "20250110T151207",
-            "authors": [
-                "Priya Nigam"
-            ],
-            "summary": "Lululemon Athletica witnesses a recovery in U.S. demand in December. The company could exceed its sales growth and margins guidance for Q4. Get daily trade setups, exclusive stock picks, and real-time alerts today.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Couple-Charged-In-1-Million-Lululemon-Sh.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.398035,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LULU",
-                    "relevance_score": "0.842524",
-                    "ticker_sentiment_score": "0.515395",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Snail Games USA Celebrates Strong Early Adoption for ARK: Ultimate Mobile Edition, Surpassing Three Million Downloads in Three Weeks - Snail  ( NASDAQ:SNAL ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42916007/snail-games-usa-celebrates-strong-early-adoption-for-ark-ultimate-mobile-edition-surpassing-three-",
-            "time_published": "20250110T151000",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "CULVER CITY, Calif., Jan. 10, 2024 /PRNewswire/ -- Snail, Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.332895,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SNAL",
-                    "relevance_score": "0.268",
-                    "ticker_sentiment_score": "0.377994",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.054607",
-                    "ticker_sentiment_score": "0.215906",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "ONGOING DEADLINE ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Symbotic - Symbotic  ( NASDAQ:SYM ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42915738/ongoing-deadline-alert-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-symbotic",
-            "time_published": "20250110T150700",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "Faruqi & Faruqi, LLP Securities Litigation Partner James ( Josh ) Wilson Encourages Investors Who Suffered Losses Exceeding $100,000 In Symbotic To Contact Him Directly To Discuss Their Options",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/fde2fe7b-165f-4f25-b274-82a516dcf056/image1.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.684621"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                }
-            ],
-            "overall_sentiment_score": 0.118939,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.067158",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SYM",
-                    "relevance_score": "0.600602",
-                    "ticker_sentiment_score": "-0.13315",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Security America Mortgage Revolutionizes Homebuilding for Veterans with VA Construction Loans",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42915665/security-america-mortgage-revolutionizes-homebuilding-for-veterans-with-va-construction-loans",
-            "time_published": "20250110T150518",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "HOUSTON, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- Security America Mortgage has announced advancements in services designed to assist veterans in achieving homeownership through innovative VA construction loans.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/7c99e93d-60ef-4386-9f03-382aebd17a4d/security-america-mortgage-featured-image.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.3465,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "TD SYNNEX Delivers Strong Q4, Raises Dividend Amid IT Growth Momentum; Stock Gains - TD Synnex  ( NYSE:SNX ) ",
-            "url": "https://www.benzinga.com/25/01/42915528/td-synnex-shares-delivers-earnings-beat-and-boosts-dividend-by-10",
-            "time_published": "20250110T150147",
-            "authors": [
-                "Lekha Gupta"
-            ],
-            "summary": "TD SYNNEX Q4 revenue rose 10% Y/Y to $15.85B, beating estimates; adjusted EPS of $3.09 exceeded $3.05 consensus. Increased dividend by 10% to $0.44/share; expects Q1 adjusted EPS of $2.65-$3.15 and revenue of $14.4-$15.2B. Get 5 New Stock Recommendations Every Week",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/SNX.png?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.938793"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.998962"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.240352,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "IVZ",
-                    "relevance_score": "0.188193",
-                    "ticker_sentiment_score": "0.392829",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "SNX",
-                    "relevance_score": "0.595343",
-                    "ticker_sentiment_score": "0.170596",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Insights Into Netflix's Performance Versus Peers In Entertainment Sector - Netflix  ( NASDAQ:NFLX ) ",
-            "url": "https://www.benzinga.com/insights/news/25/01/42915481/insights-into-netflixs-performance-versus-peers-in-entertainment-sector",
-            "time_published": "20250110T150054",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "In today's rapidly changing and highly competitive business world, it is vital for investors and industry enthusiasts to carefully assess companies. In this article, we will perform a comprehensive industry comparison, evaluating Netflix NFLX against its key competitors in the Entertainment ...",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736521251_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.961735"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.5855"
-                }
-            ],
-            "overall_sentiment_score": 0.247181,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NFLX",
-                    "relevance_score": "0.459624",
-                    "ticker_sentiment_score": "0.372706",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "In-Depth Analysis: Tesla Versus Competitors In Automobiles Industry - Tesla  ( NASDAQ:TSLA ) ",
-            "url": "https://www.benzinga.com/insights/news/25/01/42915472/in-depth-analysis-tesla-versus-competitors-in-automobiles-industry",
-            "time_published": "20250110T150040",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "In the ever-changing and fiercely competitive business landscape, conducting thorough company analysis is crucial for investors and industry experts. In this article, we will undertake a comprehensive industry comparison, evaluating Tesla TSLA and its primary competitors in the Automobiles ...",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736521237_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.891286"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.5855"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.230779,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.535653",
-                    "ticker_sentiment_score": "0.342545",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Comparing Meta Platforms With Industry Competitors In Interactive Media & Services Industry - Meta Platforms  ( NASDAQ:META ) ",
-            "url": "https://www.benzinga.com/insights/news/25/01/42915464/comparing-meta-platforms-with-industry-competitors-in-interactive-media-amp-services-industry",
-            "time_published": "20250110T150030",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "In today's rapidly changing and fiercely competitive business landscape, it is essential for investors and industry enthusiasts to thoroughly analyze companies. In this article, we will conduct a comprehensive industry comparison, evaluating Meta Platforms META against its key competitors in the ...",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736521227_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.875462"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.998356"
-                }
-            ],
-            "overall_sentiment_score": 0.336634,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.541766",
-                    "ticker_sentiment_score": "0.441246",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Performance Comparison: Microsoft And Competitors In Software Industry - Microsoft  ( NASDAQ:MSFT ) ",
-            "url": "https://www.benzinga.com/insights/news/25/01/42915448/performance-comparison-microsoft-and-competitors-in-software-industry",
-            "time_published": "20250110T150021",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "In the ever-evolving and intensely competitive business landscape, conducting a thorough company analysis is of utmost importance for investors and industry followers. In this article, we will carry out an in-depth industry comparison, assessing Microsoft MSFT alongside its primary competitors in ...",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736521217_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.917436"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.623304"
-                }
-            ],
-            "overall_sentiment_score": 0.280222,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.492659",
-                    "ticker_sentiment_score": "0.392252",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Price Over Earnings Overview: Sanofi - Sanofi  ( NASDAQ:SNY ) ",
-            "url": "https://www.benzinga.com/insights/news/25/01/42915441/price-over-earnings-overview-sanofi",
-            "time_published": "20250110T150012",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "Looking into the current session, Sanofi Inc. SNY shares are trading at $49.35, after a 0.24% increase. Moreover, over the past month, the stock went up by 5.45%, but in the past year, fell by 4.29%.",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736521209_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                }
-            ],
-            "overall_sentiment_score": 0.207758,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SNY",
-                    "relevance_score": "0.485711",
-                    "ticker_sentiment_score": "0.261974",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Assessing NVIDIA's Performance Against Competitors In Semiconductors & Semiconductor Equipment Industry - NVIDIA  ( NASDAQ:NVDA ) ",
-            "url": "https://www.benzinga.com/insights/news/25/01/42915440/assessing-nvidias-performance-against-competitors-in-semiconductors-amp-semiconductor-equipment-ind",
-            "time_published": "20250110T150012",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "In today's rapidly changing and fiercely competitive business landscape, it is vital for investors and industry enthusiasts to carefully evaluate companies. In this article, we will perform a comprehensive industry comparison, evaluating NVIDIA NVDA against its key competitors in the ...",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736521208_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.891286"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.54554"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.266333,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.535653",
-                    "ticker_sentiment_score": "0.5273",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Sui Up More Than 8% In 24 hours",
-            "url": "https://www.benzinga.com/insights/cryptocurrency/25/01/42915437/sui-up-more-than-8-in-24-hours",
-            "time_published": "20250110T150011",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "Sui's SUI/USD price has increased 8.25% over the past 24 hours to $4.98. Over the past week, SUI has experienced an uptick of over 9.0%, moving from $4.5 to its current price. As it stands right now, the coin's all-time high is $5.35.",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1736521206_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.098702,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Cava Stock Is Down 25% Over the Past Month. Is It Time to Buy?",
-            "url": "https://www.fool.com/investing/2025/01/10/cava-stock-is-down-25-over-the-past-month-is-it/",
-            "time_published": "20250110T150000",
-            "authors": [
-                "Jennifer Saibil"
-            ],
-            "summary": "Investors have been going wild over Cava Group ( NYSE: CAVA ) stock since it debuted on the market in 2023. I mean that almost literally -- it's up 174% over the past year, and its valuation is through the roof.Although Cava has a lot going for it, some investors may be waiting on the sidelines ...",
-            "banner_image": "https://media.ycharts.com/charts/60137a43b07e67dd27ebb673db5a3d0f.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.962106"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.857896"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.2422,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CMG",
-                    "relevance_score": "0.056808",
-                    "ticker_sentiment_score": "0.174058",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SG",
-                    "relevance_score": "0.113329",
-                    "ticker_sentiment_score": "0.038361",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CAVA",
-                    "relevance_score": "0.113329",
-                    "ticker_sentiment_score": "-0.059598",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Detroit Rapper and Entrepreneur Lou Gram to Open Fly Shifter Cannabis Store",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42915436/detroit-rapper-and-entrepreneur-lou-gram-to-open-fly-shifter-cannabis-store",
-            "time_published": "20250110T150000",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "DETROIT, Jan. 10, 2025 /PRNewswire/ -- Lou Gram a.k.a. \"Big Shifter\", the celebrated Detroit rapper, entrepreneur, and community advocate, is proud to announce the opening of Fly Shifter Cannabis, a premium cannabis store that reflects his bold, creative vision and dedication to the Detroit ...",
-            "banner_image": "https://mma.prnewswire.com/media/2595147/F_S_Logo.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.433613,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.104228",
-                    "ticker_sentiment_score": "0.124903",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Freddie Mac Multifamily Issued $56 Billion in 2024 Securities - Federal Home Loan  ( OTC:FMCC ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42915428/freddie-mac-multifamily-issued-56-billion-in-2024-securities",
-            "time_published": "20250110T150000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "MCLEAN, Va., Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- Freddie Mac FMCC issued $56 billion of securities through its multifamily risk transfer platform in 2024, transferring interest rate risk, liquidity risk and the majority of expected credit risk away from U.S. taxpayers to private investors.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                }
-            ],
-            "overall_sentiment_score": 0.25958,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.054607",
-                    "ticker_sentiment_score": "0.106799",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.054607",
-                    "ticker_sentiment_score": "0.106799",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
