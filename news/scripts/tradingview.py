@@ -40,10 +40,9 @@ def get_detail(link):
         soup = BeautifulSoup(resp, "lxml")
         soup = soup.select_one("article div[class*='body-']")
 
-        ad_elements = soup.select(".related_stories_left_block")
-        # 移除这些元素
-        for element in ad_elements:
-            element.decompose()
+        symbol_links = soup.select("a[href*='/symbols/']")
+        for link in symbol_links:
+            link.decompose()
 
         return str(soup).encode("utf-8").decode("utf-8")
     else:
