@@ -1,8 +1,162 @@
 {
-    "items": "33",
+    "items": "30",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Poolbeg Pharma plc  ( \"Poolbeg\" )  and HOOKIPA Pharma Inc.  ( \"HOOKIPA\" )  Update on Potential Combination of Poolbeg and HOOKIPA",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007426/0/en/Poolbeg-Pharma-plc-Poolbeg-and-HOOKIPA-Pharma-Inc-HOOKIPA-Update-on-Potential-Combination-of-Poolbeg-and-HOOKIPA.html",
+            "time_published": "20250110T070000",
+            "authors": [
+                "HOOKIPA Pharma Inc"
+            ],
+            "summary": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN WHOLE OR IN PART IN, INTO OR FROM ANY JURISDICTION WHERE TO DO SO WOULD CONSTITUTE A VIOLATION OF THE RELEVANT LAWS OR REGULATIONS OF THAT JURISDICTION.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/62ba88bb-8adc-44c4-9fd7-3f6ca365c93d",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.917436"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.101072,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HOOK",
+                    "relevance_score": "0.018816",
+                    "ticker_sentiment_score": "0.041143",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BKRIF",
+                    "relevance_score": "0.018816",
+                    "ticker_sentiment_score": "0.043767",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GILD",
+                    "relevance_score": "0.018816",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CCORF",
+                    "relevance_score": "0.018816",
+                    "ticker_sentiment_score": "0.009699",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "POLBF",
+                    "relevance_score": "0.093873",
+                    "ticker_sentiment_score": "0.012765",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MC",
+                    "relevance_score": "0.075161",
+                    "ticker_sentiment_score": "0.011181",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Transaction in Own Shares",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007422/0/en/Transaction-in-Own-Shares.html",
+            "time_published": "20250110T070000",
+            "authors": [
+                "ICG Enterprise Trust Plc"
+            ],
+            "summary": "ICG Enterprise Trust plc ( the \"Company\" ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/8e1ac0a6-5f20-45e4-983b-dcdccae40d13",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.427149,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Lassila & Tikanoja's Shareholders' Nomination Board submits proposals for the 2025 Annual General Meeting",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007425/0/en/Lassila-Tikanoja-s-Shareholders-Nomination-Board-submits-proposals-for-the-2025-Annual-General-Meeting.html",
+            "time_published": "20250110T070000",
+            "authors": [
+                "Lassila & Tikanoja Oyj"
+            ],
+            "summary": "Lassila & Tikanoja plcStock exchange release10 January 2025 at 9:00 a.m.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/8fc5dd28-04dd-481e-95ad-325f2ed05828",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.102611,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CVS",
+                    "relevance_score": "0.04406",
+                    "ticker_sentiment_score": "0.060622",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Transaction in Own Shares",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007423/0/en/Transaction-in-Own-Shares.html",
+            "time_published": "20250110T070000",
+            "authors": [
+                "PayPoint plc"
+            ],
+            "summary": "10th January ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/01c8cd71-2417-44ba-b4a3-462b7db307c0",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.121802,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ITCFY",
+                    "relevance_score": "0.608634",
+                    "ticker_sentiment_score": "-0.281315",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
         {
             "title": "Tesla Launches Refreshed Model Y In China Amid Rising Competition - Tesla  ( NASDAQ:TSLA ) ",
             "url": "https://www.benzinga.com/tech/25/01/42905406/tesla-launches-refreshed-model-y-in-china-amid-rising-competition",
@@ -1059,344 +1213,6 @@
                     "relevance_score": "0.294682",
                     "ticker_sentiment_score": "0.236313",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages Applied Therapeutics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - APLT - Applied Therapeutics  ( NASDAQ:APLT ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42904580/rosen-skilled-investor-counsel-encourages-applied-therapeutics-inc-investors-to-secure-counsel-bef",
-            "time_published": "20250110T031200",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Applied Therapeutics, Inc. APLT between January 3, 2024 and December 2, 2024, both dates inclusive ( the \"Class Period\" ) , of the important February 18, ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.187578,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "APLT",
-                    "relevance_score": "0.40225",
-                    "ticker_sentiment_score": "0.12933",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.060085",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "LEADING PROXY ADVISORY FIRM GLASS LEWIS RECOMMENDS AIR PRODUCTS AND CHEMICALS, INC. SHAREHOLDERS VOTE \"FOR\" ALL FOUR MANTLE RIDGE DIRECTOR NOMINEES ANDREW EVANS, PAUL HILAL, TRACY MCKIBBEN, AND DENNIS REILLEY - Air Products & Chemicals  ( NYSE:APD ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42904564/leading-proxy-advisory-firm-glass-lewis-recommends-air-products-and-chemicals-inc-shareholders-vot",
-            "time_published": "20250110T030100",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "Glass Lewis Finds a \"Compelling\" Case for Change at Air Products Following \"Years of Poor Performance Fueled by a Spate of High-Cost, Low-Visibility Strategic Expeditions Pointedly Departing from APD's Core Risk Profile\"",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.205781,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HUN",
-                    "relevance_score": "0.01353",
-                    "ticker_sentiment_score": "0.012517",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ARMK",
-                    "relevance_score": "0.01353",
-                    "ticker_sentiment_score": "0.179183",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "APD",
-                    "relevance_score": "0.278259",
-                    "ticker_sentiment_score": "0.201892",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "DLTR",
-                    "relevance_score": "0.01353",
-                    "ticker_sentiment_score": "0.179183",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Respond.io Unveils AI-Powered Solution for TikTok Messaging Ads, Aiming to Bridge $4.1 Trillion SME Financing Gap",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42904562/respond-io-unveils-ai-powered-solution-for-tiktok-messaging-ads-aiming-to-bridge-4-1-trillion-sme-",
-            "time_published": "20250110T030000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "With over 10,000 customers, respond.io is poised to meet the rising demand for automation in APAC, whereby in 2026, a third of SMBs are expected to invest more in digital tools to address worker shortages, minimize manual processes, and enhance productivity.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.312951,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.064449",
-                    "ticker_sentiment_score": "0.176896",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Bitget Wallet Introduces AI Agent Trading Zone, Pioneers Base and Solana Limit Orders",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42904559/bitget-wallet-introduces-ai-agent-trading-zone-pioneers-base-and-solana-limit-orders",
-            "time_published": "20250110T025830",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "VICTORIA, Seychelles, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- Bitget Wallet, a leading Web3 non-custodial wallet, has launched new features to enhance user interaction with the growing AI Agent ecosystem.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/058fd0b4-5838-4218-a282-b94baafa695a/image1.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                }
-            ],
-            "overall_sentiment_score": 0.359518,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.057352",
-                    "ticker_sentiment_score": "-0.014023",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.057352",
-                    "ticker_sentiment_score": "-0.014023",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AWON",
-                    "relevance_score": "0.057352",
-                    "ticker_sentiment_score": "0.100956",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.057352",
-                    "ticker_sentiment_score": "0.244223",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:USDT",
-                    "relevance_score": "0.057352",
-                    "ticker_sentiment_score": "0.244223",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:BNB",
-                    "relevance_score": "0.057352",
-                    "ticker_sentiment_score": "0.244223",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Elon Musk Cheers 'DOGE' Storm As Iconic Dogecoin Meme Associated With Department Of Government Efficiency Appears On Senate Floor",
-            "url": "https://www.benzinga.com/25/01/42904509/musk-cheers-doge-storm-in-senate-as-iconic-meme-symbolizes-department-of-government-efficiency",
-            "time_published": "20250110T024314",
-            "authors": [
-                "Aniket Verma"
-            ],
-            "summary": "Elon Musk, tech mogul and head of the incoming \"Department of Government Efficiency,\" celebrated the surprising appearance of an iconic DOGE meme in the U.S. Senate on Thursday.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Dogecoins-Surge--Thanks-to-Elon-Musk-and.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.360851,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:DOGE",
-                    "relevance_score": "0.948591",
-                    "ticker_sentiment_score": "0.581362",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Hong Kong stocks head for worst drop in 2 months on China outlook, trade risks",
-            "url": "https://www.scmp.com/business/china-business/article/3294152/hong-kong-stocks-set-worst-week-2-months-china-outlook-trade-tensions",
-            "time_published": "20250110T023739",
-            "authors": [
-                "Zhang Shidong"
-            ],
-            "summary": "Local stocks have weakened 2.9 per cent this week amid concerns about China's economic struggles, US trade ties.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/60e59f54-d863-443a-80d3-31fdb3562ed4_2672e52f.jpg?itok=PYusjF6H&v=1736476658",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": -0.298218,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BABA",
-                    "relevance_score": "0.138464",
-                    "ticker_sentiment_score": "-0.220177",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "CILJF",
-                    "relevance_score": "0.138464",
-                    "ticker_sentiment_score": "-0.220177",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "LNNGF",
-                    "relevance_score": "0.138464",
-                    "ticker_sentiment_score": "-0.220177",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "LNVGF",
-                    "relevance_score": "0.138464",
-                    "ticker_sentiment_score": "-0.271312",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "SZIHF",
-                    "relevance_score": "0.138464",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TCTZF",
-                    "relevance_score": "0.272788",
-                    "ticker_sentiment_score": "-0.118763",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Union Budget 2025: India Inc CFOs and experts to discuss industry expectations today - ETCFO",
-            "url": "https://cfo.economictimes.indiatimes.com/news/policy/union-budget-2025-india-inc-cfos-and-experts-to-discuss-industry-expectations-today/117095692",
-            "time_published": "20250110T023000",
-            "authors": [
-                "ETCFO Staff",
-                "ETCFO"
-            ],
-            "summary": "Join top experts and leaders of India Inc featuring Niranjani C, Ramani Dathi, Ramesh Bafna, Aniket Talati, and Kunal Kumar Kundu, moderated by Amol Dethe, in a meaningful conversation discussing expectations from Union Budget 2025, Live on January 10 at 3 pm.",
-            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
-            "source": "Economic Times",
-            "category_within_source": "Top Stories",
-            "source_domain": "cfo.economictimes.indiatimes.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.170819,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SCGLF",
-                    "relevance_score": "0.116914",
-                    "ticker_sentiment_score": "0.07603",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.116914",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.116914",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "HSY",
-                    "relevance_score": "0.116914",
-                    "ticker_sentiment_score": "0.07603",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
