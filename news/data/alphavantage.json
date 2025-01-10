@@ -1,8 +1,95 @@
 {
-    "items": "41",
+    "items": "39",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Anthony Scaramucci Was Asked About His Profit-Taking Strategy On Bitcoin, Altcoins: Here's What He Said",
+            "url": "https://www.benzinga.com/25/01/42906639/anthony-scaramucci-was-asked-about-his-take-profit-strategy-on-bitcointhis-is-what-he-said",
+            "time_published": "20250110T092543",
+            "authors": [
+                "Aniket Verma"
+            ],
+            "summary": "Anthony Scaramucci, CEO of investment firm SkyBridge Capital, discussed his take-profit strategy for cryptocurrencies on Thursday, stating that he will not sell his Bitcoin BTC/USD but rather target altcoins such as Solana SOL/USD in the long run.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Anthony-Scaramucci.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.188537,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.92528",
+                    "ticker_sentiment_score": "0.347462",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:SOL",
+                    "relevance_score": "0.233556",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "PCI Biotech: Employee share option scheme in connection with promotion of new CSO",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007449/0/en/PCI-Biotech-Employee-share-option-scheme-in-connection-with-promotion-of-new-CSO.html",
+            "time_published": "20250110T092400",
+            "authors": [
+                "PCI Biotech Holding ASA"
+            ],
+            "summary": "Oslo, 10 January 2025 - PCI Biotech ( OSE: PCIB ) , today announced that the Board of Directors has granted share options to Morten Luhr who has been promoted to Chief Scientific Officer ( CSO ) from January 2025. Anders H\u00f8gset, former CSO, will commence as Scientific Advisor in a 20% position.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/88e2e6d2-6de1-4513-82ac-9f3c2fd50ff8",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.31984,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "U.S. Bancorp Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts - U.S. Bancorp  ( NYSE:USB ) ",
+            "url": "https://www.benzinga.com/25/01/42906472/u-s-bancorp-gears-up-for-q4-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
+            "time_published": "20250110T090457",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "U.S. Bancorp USB will release its fourth-quarter financial results before the opening bell on Thursday, Jan. 16. Analysts expect the Minneapolis, Minnesota-based company to report quarterly earnings at $1.05 per share, up from 49 cents per share in the year-ago period. U.S.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Charlotte--North-Carolina--Usa---January.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.904684"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.204602,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
         {
             "title": "Crypto Fear And Greed Index Hits Lowest Level Since October As Bitcoin Falls Under $92K, Dogecoin And Shiba Inu Trade In Red - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",
             "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42906328/crypto-fear-and-greed-index-hits-lowest-level-since-october-as-bitcoin-falls-under-92k-dog",
@@ -102,6 +189,36 @@
             ]
         },
         {
+            "title": "This Could Be the Biggest Challenge the Stock Market Will Face in 2025. Here's What History Says Could Happen.",
+            "url": "https://www.fool.com/investing/2025/01/10/this-could-be-the-biggest-challenge-the-stock-mark/",
+            "time_published": "20250110T084200",
+            "authors": [
+                "Jake Lerch"
+            ],
+            "summary": "We've closed the book on 2024, and it was a great year for the stock market. Overall, the S&P 500 advanced by about 25% -- making 2024 an above-average year.Yet, that success does have a downside, and it could result in the biggest challenge for the stock market in 2025.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802165%2Fspx-stock-market-investment.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999955"
+                }
+            ],
+            "overall_sentiment_score": 0.112116,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
             "title": "Correction: Br\u00f8ndbyernes I.F. Fodbold A/S offentligg\u00f8r prospekt og igangs\u00e6tter fortegningsemission",
             "url": "https://www.globenewswire.com/news-release/2025/01/10/3007434/0/en/Correction-Br%C3%B8ndbyernes-I-F-Fodbold-A-S-offentligg%C3%B8r-prospekt-og-igangs%C3%A6tter-fortegningsemission.html",
             "time_published": "20250110T083800",
@@ -126,6 +243,147 @@
                     "ticker": "FOREX:UZS",
                     "relevance_score": "0.278075",
                     "ticker_sentiment_score": "0.026149",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Where Will AMD Stock Be in 3 Years?",
+            "url": "https://www.fool.com/investing/2025/01/10/where-will-amd-stock-be-in-3-years/",
+            "time_published": "20250110T083700",
+            "authors": [
+                "Harsh Chauhan"
+            ],
+            "summary": "The past three years have been forgettable for Advanced Micro Devices ( NASDAQ: AMD ) investors. Shares of the chipmaker have declined 5% during this period, while the PHLX Semiconductor Sector index has recorded impressive gains of 36%.The chipmaker has missed the artificial intelligence ( AI ) ...",
+            "banner_image": "https://media.ycharts.com/charts/f45b357496f4562fb0cc81b569d18817.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998962"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.274959,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.513173",
+                    "ticker_sentiment_score": "0.438261",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.039614",
+                    "ticker_sentiment_score": "0.001946",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SNEJF",
+                    "relevance_score": "0.039614",
+                    "ticker_sentiment_score": "0.001946",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.118452",
+                    "ticker_sentiment_score": "0.126704",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DELL",
+                    "relevance_score": "0.039614",
+                    "ticker_sentiment_score": "0.043289",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia Stock Investors Just Got Great News From CEO Jensen Huang",
+            "url": "https://www.fool.com/investing/2025/01/10/nvidia-stock-investors-great-news-jensen-huang/",
+            "time_published": "20250110T083500",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "Jensen Huang founded accelerated computing company Nvidia ( NASDAQ: NVDA ) in 1993, and has served as the CEO and president ever since. Nvidia has achieved many breakthroughs under his leadership, but the invention of the graphics processing unit ( GPU ) in 1999 was particularly momentous.Nvidia ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803404%2Finvestor-49.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.976671"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.283813,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.578948",
+                    "ticker_sentiment_score": "0.411953",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.091509",
+                    "ticker_sentiment_score": "0.183666",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Here's 1 Top Dividend Stock to Buy in January. Its Dividend Yield Is Approaching 5%.",
+            "url": "https://www.fool.com/investing/2025/01/10/heres-1-top-dividend-stock-with-nearly-a-5-yield-t/",
+            "time_published": "20250110T083000",
+            "authors": [
+                "Daniel Sparks"
+            ],
+            "summary": "This owner and operator of a handful of the world's most iconic mountain resorts saw its stock decline over the last year, creating a buying opportunity for investors.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803405/dividend-stock.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.818451"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999701"
+                }
+            ],
+            "overall_sentiment_score": 0.240889,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MTN",
+                    "relevance_score": "0.116914",
+                    "ticker_sentiment_score": "0.056352",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -578,6 +836,55 @@
                     "relevance_score": "0.801457",
                     "ticker_sentiment_score": "0.75066",
                     "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Best Growth Stocks to Buy for January 10th",
+            "url": "https://www.zacks.com/commentary/2394761/best-growth-stocks-to-buy-for-january-10th",
+            "time_published": "20250110T072300",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "ITRI, GAP, and NCNO it to the Zacks Rank #1 (Strong Buy) growth stocks list on January 10, 2024.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9e/1321.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.096322,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ITRI",
+                    "relevance_score": "0.844077",
+                    "ticker_sentiment_score": "0.089725",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NCNO",
+                    "relevance_score": "0.844077",
+                    "ticker_sentiment_score": "-0.008169",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GAP",
+                    "relevance_score": "0.776097",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
@@ -1170,461 +1477,6 @@
                     "relevance_score": "0.321673",
                     "ticker_sentiment_score": "0.170892",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Green To Green Announces Luxury Retreat in Istria, Croatia : Villa Carlotta",
-            "url": "https://markets.businessinsider.com/news/stocks/green-to-green-announces-luxury-retreat-in-istria-croatia-villa-carlotta-1034211877",
-            "time_published": "20250110T052823",
-            "authors": [
-                "Plentisoft"
-            ],
-            "summary": "Villa Carlotta in Vi\u017einada, Istria, Croatia, offers a luxurious year-round escape with modern elegance and traditional charm. Surrounded by vineyards and olive groves, enjoy private amenities like a heated pool. Engage in seasonal activities like truffle hunting and wine tours, all near Istria's ...",
-            "banner_image": "https://storage.googleapis.com/mmstudio-images/gallery/10666/89150325-1736473319-0.jpg",
-            "source": "Business Insider",
-            "category_within_source": "RSS",
-            "source_domain": "markets.businessinsider.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.405532,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FOREX:BWP",
-                    "relevance_score": "0.06179",
-                    "ticker_sentiment_score": "0.060003",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Policy support in upcoming budget could help India's growth recover to 7 pc in FY26: SBI MF Report - ETCFO",
-            "url": "https://cfo.economictimes.indiatimes.com/news/economy/policy-support-in-upcoming-budget-could-help-indias-growth-recover-to-7-pc-in-fy26-sbi-mf-report/117106546",
-            "time_published": "20250110T052800",
-            "authors": [
-                "ETCFO"
-            ],
-            "summary": "Government's policy support in the upcoming Union Budget 2025 could play a key role in boosting India's economic growth to approximately 7 per cent in FY26, from an expected 6.3 per cent in FY25, says a report by SBI Mutual Fund.",
-            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
-            "source": "Economic Times",
-            "category_within_source": "Economy",
-            "source_domain": "cfo.economictimes.indiatimes.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": 0.409492,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Elon Musk Pushes California, Delaware Attorneys-General To Force OpenAI Stake Auction Amid Bitter Legal Battle With Sam Altman - Meta Platforms  ( NASDAQ:META ) , MONARCH STAFFING INC by Monarch Staffing, Inc.  ( OTC:MSTF ) ",
-            "url": "https://www.benzinga.com/news/legal/25/01/42904926/elon-musk-pushes-california-delaware-attorneys-general-to-force-openai-stake-auction-amid-bitter-legal",
-            "time_published": "20250110T050459",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "Elon Musk has requested the attorneys-general of California and Delaware to mandate an auction of a substantial portion of OpenAI's stake.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Energy-Policy-Talk.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.244595,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.126784",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.250386",
-                    "ticker_sentiment_score": "0.133297",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Ford Debuts Limited-Edition Mustang GTD Spirit Of America, New RTR Performance Model Amid Stock Pressure - Ford Motor  ( NYSE:F ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/01/42904892/ford-debuts-limited-edition-mustang-gtd-spirit-of-america-new-rtr-performance-model-amid-stock-p",
-            "time_published": "20250110T050044",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "Ford Motor Co. F unveiled two new Mustang variants Thursday in Detroit, showcasing American performance innovation while the automaker's stock trades near its 52-week low of $9.49.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Ford-Mustang-Logo.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.192631,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "F",
-                    "relevance_score": "0.212115",
-                    "ticker_sentiment_score": "0.030603",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "BlackRock's private equity pain",
-            "url": "https://www.ft.com/content/00b45c09-ab16-43c9-9b50-1209c155978f",
-            "time_published": "20250110T050030",
-            "authors": [
-                "Amelia Pollard"
-            ],
-            "summary": "Why Meta tapped UFC's chief for its board and corporates start the year with historic bond issuance ...",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbc558a2e-4d0a-449e-beff-348f4d77d1d2.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Markets",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.131552,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "EADSF",
-                    "relevance_score": "0.025985",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.025985",
-                    "ticker_sentiment_score": "0.052203",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.025985",
-                    "ticker_sentiment_score": "0.16333",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ARES-P-B",
-                    "relevance_score": "0.025985",
-                    "ticker_sentiment_score": "0.015503",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BX",
-                    "relevance_score": "0.025985",
-                    "ticker_sentiment_score": "0.27962",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "OBDC",
-                    "relevance_score": "0.025985",
-                    "ticker_sentiment_score": "0.2113",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "LDNXF",
-                    "relevance_score": "0.025985",
-                    "ticker_sentiment_score": "-0.044476",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.025985",
-                    "ticker_sentiment_score": "0.2113",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "LUV",
-                    "relevance_score": "0.025985",
-                    "ticker_sentiment_score": "0.052203",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "On the hunt for the UK's 'worker bee' stocks",
-            "url": "https://www.ft.com/content/0686ed16-fd0f-4921-8599-8fbe7e99b6c7",
-            "time_published": "20250110T050030",
-            "authors": [
-                "Kate Burgess"
-            ],
-            "summary": "Unsung heroes in the small-cap market can provide decent returns - but where to find them?",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fdcf26177-c015-46af-bda1-27e022103266.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next&fit=scale-down&dpr=2&width=240",
-            "source": "Financial Times",
-            "category_within_source": "Companies",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.955357"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.129897,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BZLFF",
-                    "relevance_score": "0.030759",
-                    "ticker_sentiment_score": "0.153332",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.030759",
-                    "ticker_sentiment_score": "0.009458",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "HRGLF",
-                    "relevance_score": "0.030759",
-                    "ticker_sentiment_score": "0.009458",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "HLMAF",
-                    "relevance_score": "0.030759",
-                    "ticker_sentiment_score": "0.153332",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Private credit and insurers could help fund the capex boom",
-            "url": "https://www.ft.com/content/43c7b43e-0b69-4865-be4a-8cac8de84f84",
-            "time_published": "20250110T050030",
-            "authors": [
-                "Huw van Steenis"
-            ],
-            "summary": "Profound funding shift might contribute to huge investment needed for data centres, energy and reshoring of industry ...",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fpublic.flourish.studio%2Fvisualisation%2F21095769%2Fthumbnail%3FcacheBuster%3D964714?source=cp-content-pipeline&fit=scale-down&quality=highest&width=1020&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Companies",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.87644"
-                }
-            ],
-            "overall_sentiment_score": 0.261896,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BX",
-                    "relevance_score": "0.046724",
-                    "ticker_sentiment_score": "0.060875",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.093289",
-                    "ticker_sentiment_score": "0.124782",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "BlackRock filing for hedge fund strategy ETF underlines new tilt",
-            "url": "https://www.ft.com/content/ad98ff4f-360f-4318-817b-aacf53e39d05",
-            "time_published": "20250110T050030",
-            "authors": [
-                "Steve Johnson"
-            ],
-            "summary": "Move demonstrates manager's new determination to democratise alternatives and could be timely, analysts say ...",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F25302000-ce93-11ef-b4ba-4b55c41a9f4c-standard.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Markets",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999998"
-                }
-            ],
-            "overall_sentiment_score": 0.182981,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "IVZ",
-                    "relevance_score": "0.039418",
-                    "ticker_sentiment_score": "0.056824",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MORN",
-                    "relevance_score": "0.07874",
-                    "ticker_sentiment_score": "0.020513",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PGPHF",
-                    "relevance_score": "0.039418",
-                    "ticker_sentiment_score": "0.196661",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.039418",
-                    "ticker_sentiment_score": "0.114481",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "The rising threat of deadly diseases jumping from animals to humans",
-            "url": "https://www.ft.com/content/a7148663-dd17-4334-b423-b92204ed56cd",
-            "time_published": "20250110T050030",
-            "authors": [
-                "Michael Peel"
-            ],
-            "summary": "Zoonotic pathogens very likely caused the last pandemic. Can we get better at halting them before the next one?",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F6ffc7340-ceb6-11ef-b7da-759b878c6dbd-standard.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Companies",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": -0.150583,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SKFG",
-                    "relevance_score": "0.015613",
-                    "ticker_sentiment_score": "-0.411039",
-                    "ticker_sentiment_label": "Bearish"
-                }
-            ]
-        },
-        {
-            "title": "UK debt market sell-off threatens mortgage pain for households",
-            "url": "https://www.ft.com/content/9f2ac95e-2235-4ecd-8fcf-3f0558a5b792",
-            "time_published": "20250110T050029",
-            "authors": [
-                "Joshua Oliver"
-            ],
-            "summary": "Some 700,000 borrowers face jump in repayments when fixed-rate deals end this year ...",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2Fe6526460-ceb0-11ef-84d6-65935f940fe4-standard.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Markets",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.769861"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.980509"
-                }
-            ],
-            "overall_sentiment_score": -0.133144,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SVLPF",
-                    "relevance_score": "0.317254",
-                    "ticker_sentiment_score": "-0.096659",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
