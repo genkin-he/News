@@ -1,8 +1,135 @@
 {
-    "items": "38",
+    "items": "41",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Crypto Fear And Greed Index Hits Lowest Level Since October As Bitcoin Falls Under $92K, Dogecoin And Shiba Inu Trade In Red - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42906328/crypto-fear-and-greed-index-hits-lowest-level-since-october-as-bitcoin-falls-under-92k-dog",
+            "time_published": "20250110T084830",
+            "authors": [
+                "Pooja Rajkumari"
+            ],
+            "summary": "The CMC Crypto Fear and Greed Index has plummeted below 50, reaching its lowest point since Oct. 14. This drop coincides with Bitcoin's BTC/USD price slipping under $92,000, marking a notable change in market sentiment. What Happened: As of 3:20 am ET on Friday, Bitcoin was trading at $94,708.791 ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Bitcoins-Value-Skyrockets.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": -0.059627,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.673559",
+                    "ticker_sentiment_score": "-0.133781",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:SHIB",
+                    "relevance_score": "0.220809",
+                    "ticker_sentiment_score": "-0.17786",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.220809",
+                    "ticker_sentiment_score": "-0.17786",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Upgrade of revenue and operating profit guidance",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007435/0/en/Upgrade-of-revenue-and-operating-profit-guidance.html",
+            "time_published": "20250110T084800",
+            "authors": [
+                "Chemometec A/S"
+            ],
+            "summary": "ANNOUNCEMENT NO. ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/dda6d08e-1d43-433e-bc7b-b1e84b4963be",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.322297,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.269776",
+                    "ticker_sentiment_score": "0.692082",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Says FSD Strikeouts Will Be 'Forgiven' In California To Help Evacuation Efforts Amidst Wildfires - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/tech/25/01/42906316/tesla-says-fsd-strikeouts-will-be-forgiven-in-california-to-help-evacuation-efforts-amidst-wildfires",
+            "time_published": "20250110T084643",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "EV giant Tesla Inc. TSLA said on Thursday that it will forgive all autopilot and full self-driving driver assistance technology \"strikeouts\" to help people evacuate from the wildfires in the Los Angeles area.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Tesla-FSD.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.12757,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.330286",
+                    "ticker_sentiment_score": "0.216982",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Correction: Br\u00f8ndbyernes I.F. Fodbold A/S offentligg\u00f8r prospekt og igangs\u00e6tter fortegningsemission",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007434/0/en/Correction-Br%C3%B8ndbyernes-I-F-Fodbold-A-S-offentligg%C3%B8r-prospekt-og-igangs%C3%A6tter-fortegningsemission.html",
+            "time_published": "20250110T083800",
+            "authors": [
+                "Br\u00f8ndbyernes IF Fodbold A/S"
+            ],
+            "summary": "Br\u00f8ndbyernes I.F. Fodbold A/S CVR-nr. 83 93 34 10Br\u00f8ndby, den ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/34d957e0-007c-4731-a30f-93c2cb3e98f9",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.9545"
+                }
+            ],
+            "overall_sentiment_score": 0.025372,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FOREX:UZS",
+                    "relevance_score": "0.278075",
+                    "ticker_sentiment_score": "0.026149",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Netflix's 'WWE Monday Night Raw' Premiere More Than Doubles 2024 USA Network Audience - Netflix  ( NASDAQ:NFLX ) , TKO Group Holdings  ( NYSE:TKO ) ",
             "url": "https://www.benzinga.com/general/entertainment/25/01/42906243/netflixs-wwe-monday-night-raw-premiere-more-than-doubles-2024-usa-network-audience",
@@ -189,6 +316,67 @@
             ]
         },
         {
+            "title": "Meet the Unstoppable AI Stock Poised to Join Nvidia, Taiwan Semiconductor, and Broadcom in the $1 Trillion Club by 2031",
+            "url": "https://www.fool.com/investing/2025/01/10/meet-the-unstoppable-ai-stock-poised-to-join-nvidi/",
+            "time_published": "20250110T080200",
+            "authors": [
+                "Danny Vena"
+            ],
+            "summary": "Decades of cloud systems and information technology (IT) expertise could propel this artificial intelligence (AI) specialist to new heights.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803187%2Fa-person-taking-notes-and-smiling-looking-at-stock-charts-on-a-computer.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999966"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.262908,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.051886",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ORCL",
+                    "relevance_score": "0.565145",
+                    "ticker_sentiment_score": "0.434981",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.051886",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.103554",
+                    "ticker_sentiment_score": "0.092263",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.051886",
+                    "ticker_sentiment_score": "0.022034",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Apollo Weighs $9.5 Billion Stake In Seven & i Buyout, Joining Ito Family's $60 Billion Deal: Report - Apollo Global Management  ( NYSE:APO ) , Alimentation Couche-Tard  ( OTC:ANCTF ) ",
             "url": "https://www.benzinga.com/markets/asia/25/01/42906104/apollo-weighs-9-5-billion-stake-in-seven-i-buyout-joining-ito-familys-60-billion-deal-report",
             "time_published": "20250110T080031",
@@ -239,6 +427,55 @@
                     "ticker": "FOREX:JPY",
                     "relevance_score": "0.47672",
                     "ticker_sentiment_score": "0.25208",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Down 57%, Is It Time to Buy the Dip on This Growth Stock?",
+            "url": "https://www.fool.com/investing/2025/01/10/down-is-it-time-to-buy-the-dip-growth-stock/",
+            "time_published": "20250110T080000",
+            "authors": [
+                "Neil Patel"
+            ],
+            "summary": "The S&P 500 continues rewarding investors. After climbing 24% in 2023, the benchmark index finished 2024 up 23%. That's a tremendous 24-month gain.But not all companies have benefited from the rally. Five Below ( NASDAQ: FIVE ) , which sells a broad range of merchandise targeting teens and tweens ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803106/falling-chart-on-screen.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.216411,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FIVE",
+                    "relevance_score": "0.53784",
+                    "ticker_sentiment_score": "0.394676",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "DG",
+                    "relevance_score": "0.058615",
+                    "ticker_sentiment_score": "0.05898",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.058615",
+                    "ticker_sentiment_score": "0.168165",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
@@ -1359,185 +1596,34 @@
             ]
         },
         {
-            "title": "Shoals Technologies Group Files Additional Patent Infringement Complaint Against Voltage, LLC with the ITC - Shoals Technologies Gr  ( NASDAQ:SHLS ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42904864/shoals-technologies-group-files-additional-patent-infringement-complaint-against-voltage-llc-with-",
-            "time_published": "20250110T044735",
+            "title": "UK debt market sell-off threatens mortgage pain for households",
+            "url": "https://www.ft.com/content/9f2ac95e-2235-4ecd-8fcf-3f0558a5b792",
+            "time_published": "20250110T050029",
             "authors": [
-                "Globe Newswire"
+                "Joshua Oliver"
             ],
-            "summary": "PORTLAND, Tenn., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Shoals Technologies Group, Inc. ( \"Shoals\" ) SHLS, a global leader in electrical balance of system ( \"EBOS\" ) solutions for the energy transition market, announced today that it has filed a new patent infringement complaint with the U.S.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.161328,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SHLS",
-                    "relevance_score": "0.225321",
-                    "ticker_sentiment_score": "0.337225",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "EBOSY",
-                    "relevance_score": "0.13637",
-                    "ticker_sentiment_score": "0.042139",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Shoals Technologies Group Files Additional Patent Infringement Complaint Against Voltage, LLC with the ITC",
-            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007416/0/en/Shoals-Technologies-Group-Files-Additional-Patent-Infringement-Complaint-Against-Voltage-LLC-with-the-ITC.html",
-            "time_published": "20250110T044700",
-            "authors": [
-                "Shoals Technologies Group"
-            ],
-            "summary": "Shoals Technologies Group, Inc., maintains commitment to protecting U.S. Solar Manufacturing, files additional patent infringement complaint with ITC.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/ed989abb-a0ae-4d05-9ca2-5a77f42cd208",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.151979,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SHLS",
-                    "relevance_score": "0.234458",
-                    "ticker_sentiment_score": "0.360888",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "EBOSY",
-                    "relevance_score": "0.142005",
-                    "ticker_sentiment_score": "0.045842",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Dogecoin Has Dropped 16% Over A Month, But This Trader Is Confident The Meme King Will Hit $1 In 2025",
-            "url": "https://www.benzinga.com/25/01/42904831/dogecoin-has-dropped-16-over-the-past-month-but-this-analyst-says-retracement-often-occurs-before-a-massive-spike",
-            "time_published": "20250110T043418",
-            "authors": [
-                "Aniket Verma"
-            ],
-            "summary": "Ignoring recent downsides, a popular cryptocurrency trader on Thursday reiterated their bullish forecast for Dogecoin DOGE/USD this year. What Happened: Trader Tardigrade, noted for recognizing patterns and forecasting price movements, expressed confidence that the dog-themed cryptocurrency will ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Elon-Musk-rilancia-Dogecoin-la-meme-coin.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
+            "summary": "Some 700,000 borrowers face jump in repayments when fixed-rate deals end this year ...",
+            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2Fe6526460-ceb0-11ef-84d6-65935f940fe4-standard.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "source": "Financial Times",
             "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
+            "source_domain": "www.ft.com",
             "topics": [
                 {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.576289"
-                }
-            ],
-            "overall_sentiment_score": 0.217935,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.091509",
-                    "ticker_sentiment_score": "-0.076498",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.181819",
-                    "ticker_sentiment_score": "0.15701",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:DOGE",
-                    "relevance_score": "0.86489",
-                    "ticker_sentiment_score": "0.316889",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:ADA",
-                    "relevance_score": "0.181819",
-                    "ticker_sentiment_score": "0.15701",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Toymaker Bloks jumps 82% in Hong Kong stock debut after sizzling IPO deal",
-            "url": "https://www.scmp.com/business/banking-finance/article/3294174/toymaker-bloks-surges-82-hong-kong-debut-after-sizzling-ipo-reception",
-            "time_published": "20250110T041923",
-            "authors": [
-                "Aileen Chuang"
-            ],
-            "summary": "Demand from Hong Kong retail investors was 6,000 times more than the amount of shares allocated to them, the second highest on record.",
-            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/10/c3ecf113-0f4b-49bf-8760-cdb2ebd11f15_686e78c9.jpg",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.928139"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
                 },
                 {
                     "topic": "Financial Markets",
-                    "relevance_score": "0.650727"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
+                    "relevance_score": "0.980509"
                 }
             ],
-            "overall_sentiment_score": 0.313588,
-            "overall_sentiment_label": "Somewhat-Bullish",
+            "overall_sentiment_score": -0.133144,
+            "overall_sentiment_label": "Neutral",
             "ticker_sentiment": [
                 {
-                    "ticker": "GS",
-                    "relevance_score": "0.100729",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MNSO",
-                    "relevance_score": "0.100729",
-                    "ticker_sentiment_score": "0.081902",
+                    "ticker": "SVLPF",
+                    "relevance_score": "0.317254",
+                    "ticker_sentiment_score": "-0.096659",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
