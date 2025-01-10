@@ -1,8 +1,79 @@
 {
-    "items": "39",
+    "items": "43",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Jeff Bezos' Blue Origin Pushes New Glenn Launch To No Earlier Than Sunday Due To Adverse Weather Conditions",
+            "url": "https://www.benzinga.com/25/01/42906684/blue-origin-pushes-new-glenn-launch-to-no-earlier-than-sunday",
+            "time_published": "20250110T093421",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Jeff Bezos' Blue Origin said on Thursday that the company has postponed the first launch of its New Glenn rocket to orbit to no earlier than Jan. 12. What Happened: Blue Origin was previously looking to launch New Glenn on Friday.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Blue-Origin-New-Glenn-rocket.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.079875,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FXNC",
+                    "relevance_score": "0.099066",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Chinese software firm Yonyou picks former senior SAP executive as new president",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3294235/chinese-software-firm-yonyou-picks-former-senior-sap-executive-new-president",
+            "time_published": "20250110T093008",
+            "authors": [
+                "Yi Luo"
+            ],
+            "summary": "Huang Chenhong is the latest multinational veteran to join China's tech sector, as these firms scale back operations on the mainland.",
+            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/10/9ba1cf4b-bcc7-4c90-82a3-3b412462b68e_372b1c12.jpg",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [],
+            "overall_sentiment_score": 0.094664,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HHUSF",
+                    "relevance_score": "0.079392",
+                    "ticker_sentiment_score": "0.067542",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NAHD",
+                    "relevance_score": "0.079392",
+                    "ticker_sentiment_score": "0.095472",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SBGSF",
+                    "relevance_score": "0.079392",
+                    "ticker_sentiment_score": "0.137295",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:VND",
+                    "relevance_score": "0.079392",
+                    "ticker_sentiment_score": "0.067542",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Anthony Scaramucci Was Asked About His Profit-Taking Strategy On Bitcoin, Altcoins: Here's What He Said",
             "url": "https://www.benzinga.com/25/01/42906639/anthony-scaramucci-was-asked-about-his-take-profit-strategy-on-bitcointhis-is-what-he-said",
@@ -65,6 +136,105 @@
             "ticker_sentiment": []
         },
         {
+            "title": "The Stock Market Is Doing Something Seen Just 2 Times Since 1957, and History Is Clear About What Happens Next",
+            "url": "https://www.fool.com/investing/2025/01/10/stock-market-seen-only-2-times-what-happens-next/",
+            "time_published": "20250110T092000",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "The S&P 500 ( SNPINDEX: ^GSPC ) is widely considered the best benchmark for the overall U.S. stock market. The index advanced 23% in 2024, marking the second consecutive year in which it returned more than 20%. That last happened 25 years ago in 1997 and 1998.Importantly, after the S&P 500 ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803303/investor-33.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999606"
+                }
+            ],
+            "overall_sentiment_score": -0.045772,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "1 Change Donald Trump Wants to Make to Social Security That Could Have a Surprising Effect on Retirees",
+            "url": "https://www.fool.com/retirement/2025/01/10/change-donald-trump-social-security-retirees/",
+            "time_published": "20250110T091500",
+            "authors": [
+                "Katie Brockman"
+            ],
+            "summary": "With President-Elect Donald Trump set to take the Oval Office later this month, millions of Americans can expect a slew of changes in the pipeline for the next four years.Social Security has been a hot-button issue for years, and Trump has already made big promises about the future about the ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802991%2Fsocial-security-cards.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.237515,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Prediction: 1 Unstoppable Artificial Intelligence  ( AI )  Stock Will Lead the \"Third Wave\" of AI Development and Be Worth More Than Nvidia by 2030",
+            "url": "https://www.fool.com/investing/2025/01/10/prediction-1-unstoppable-artificial-intelligence-a/",
+            "time_published": "20250110T090500",
+            "authors": [
+                "Danny Vena"
+            ],
+            "summary": "Nvidia ( NASDAQ: NVDA ) has been among the best-performing stocks of 2024, and it's easy to see why. The company provides the graphics processing units ( GPUs ) that quickly became the gold standard for powering artificial intelligence ( AI ) systems.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803118%2Fa-persons-hand-cupped-open-with-a-hologram-of-an-ai-chatbot-above-saying-hi-can-i-help-you.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.891286"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.236083,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.494288",
+                    "ticker_sentiment_score": "0.318775",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.241284",
+                    "ticker_sentiment_score": "0.198783",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "U.S. Bancorp Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts - U.S. Bancorp  ( NYSE:USB ) ",
             "url": "https://www.benzinga.com/25/01/42906472/u-s-bancorp-gears-up-for-q4-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
             "time_published": "20250110T090457",
@@ -89,6 +259,83 @@
             "overall_sentiment_score": 0.204602,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
+        },
+        {
+            "title": "Could Upstart Be a Millionaire-Maker Stock?",
+            "url": "https://www.fool.com/investing/2025/01/10/could-upstart-be-a-millionaire-maker-stock/",
+            "time_published": "20250110T090000",
+            "authors": [
+                "Neil Patel"
+            ],
+            "summary": "All investors want to find winning stock picks. The ideal situation is for a business to deliver such robust growth that it can eventually turn a relatively modest investment into a million-dollar-plus holding. Examples of companies that have been that wildly successful for long-term shareholders ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803393/loan-approval-mobile-app.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.995077"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.155809,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.23405",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.23405",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.124864",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.124864",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.124864",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.23405",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UPST",
+                    "relevance_score": "0.595343",
+                    "ticker_sentiment_score": "0.165571",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
         },
         {
             "title": "Crypto Fear And Greed Index Hits Lowest Level Since October As Bitcoin Falls Under $92K, Dogecoin And Shiba Inu Trade In Red - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",
@@ -501,6 +748,59 @@
             ]
         },
         {
+            "title": "Best Income Stocks to Buy for January 10th",
+            "url": "https://www.zacks.com/commentary/2394770/best-income-stocks-to-buy-for-january-10th",
+            "time_published": "20250110T081200",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "HSBC, AU and SCHW made it to the Zacks Rank #1 (Strong Buy) income stocks list on January 10, 2024.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ac/1026.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.201554,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AU",
+                    "relevance_score": "0.74841",
+                    "ticker_sentiment_score": "0.216174",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "HSBC",
+                    "relevance_score": "0.74841",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SCHW",
+                    "relevance_score": "0.74841",
+                    "ticker_sentiment_score": "0.182773",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "Delta Air Lines, Walgreens And 3 Stocks To Watch Heading Into Friday - Costco Wholesale  ( NASDAQ:COST ) , Delta Air Lines  ( NYSE:DAL ) ",
             "url": "https://www.benzinga.com/25/01/42906135/delta-air-lines-walgreens-and-3-stocks-to-watch-heading-into-friday",
             "time_published": "20250110T080712",
@@ -686,6 +986,51 @@
                     "relevance_score": "0.47672",
                     "ticker_sentiment_score": "0.25208",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Best Value Stocks to Buy for January 10th",
+            "url": "https://www.zacks.com/commentary/2394767/best-value-stocks-to-buy-for-january-10th",
+            "time_published": "20250110T080000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "UAL, CON and ICFI made it to the Zacks Rank #1 (Strong Buy) value stocks list on January 10, 2024.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/dc/1075.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.131951,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UAL",
+                    "relevance_score": "0.713572",
+                    "ticker_sentiment_score": "0.127426",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CON",
+                    "relevance_score": "0.713572",
+                    "ticker_sentiment_score": "0.13114",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ICFI",
+                    "relevance_score": "0.713572",
+                    "ticker_sentiment_score": "-0.01523",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
@@ -1364,118 +1709,6 @@
                     "ticker": "LDNXF",
                     "relevance_score": "0.063933",
                     "ticker_sentiment_score": "0.231468",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Indebted developer Sunac China faces liquidation threat in Hong Kong",
-            "url": "https://www.scmp.com/business/china-business/article/3294203/indebted-developer-sunac-china-faces-liquidation-threat-hong-kong",
-            "time_published": "20250110T060647",
-            "authors": [
-                "Yulu Ao"
-            ],
-            "summary": "A hearing on the matter has been scheduled for March 19.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/6e46d9f8-4324-424e-b73e-511a02401104_a617d8e8.jpg?itok=DxRy8FIc&v=1736489185",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.031333,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Exclusive | TSMC cuts ties with Singapore firm over Huawei processor: sources",
-            "url": "https://www.scmp.com/tech/tech-war/article/3294199/tsmc-cuts-ties-singapore-firm-over-chip-found-huawei-processor-sources",
-            "time_published": "20250110T060014",
-            "authors": [
-                "Che Pan"
-            ],
-            "summary": "The world's largest chip foundry ended its relationship with a Singapore-based firm after a client review.",
-            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/10/ade4156d-e82b-4d76-96b1-7f15b556d5de_16c83903.jpg",
-            "source": "South China Morning Post",
-            "category_within_source": "Companies",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.011881,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TSM",
-                    "relevance_score": "0.060694",
-                    "ticker_sentiment_score": "0.075",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.060694",
-                    "ticker_sentiment_score": "-0.162036",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Digital subscription results of AS Ekspress Grupp for the fourth quarter of 2024",
-            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007419/0/en/Digital-subscription-results-of-AS-Ekspress-Grupp-for-the-fourth-quarter-of-2024.html",
-            "time_published": "20250110T060000",
-            "authors": [
-                "Ekspress Grupp"
-            ],
-            "summary": "The total number of digital subscriptions of AS Ekspress Grupp increased by 15% in the Baltic States year-over-year ( 4th quarter: 7% ) and totalled 238 182 at the end of December.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/6cbb4f0d-3ad3-45fd-9891-746043bfd69e",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.267688,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Nvidia Slams Biden's Country-Specific Chip Rules: 'Legacy That Will Be Criticized' - NVIDIA  ( NASDAQ:NVDA ) ",
-            "url": "https://www.benzinga.com/news/25/01/42905013/nvidia-slams-bidens-country-specific-chip-rules-legacy-that-will-be-criticized",
-            "time_published": "20250110T053327",
-            "authors": [
-                "Pooja Rajkumari"
-            ],
-            "summary": "Nvidia Corp. NVDA has expressed strong disapproval of the Biden administration's anticipated chip export restrictions. The proposed regulations aim to limit the global sale of U.S. artificial intelligence chips.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/NVIDIA-Corporation.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.088349,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.321673",
-                    "ticker_sentiment_score": "0.170892",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
