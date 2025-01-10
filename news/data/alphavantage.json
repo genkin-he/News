@@ -1,8 +1,305 @@
 {
-    "items": "43",
+    "items": "44",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Rocket Lab Expands NASA Partnership With Neutron Under VADR Contract - Rocket Lab USA  ( NASDAQ:RKLB ) ",
+            "url": "https://www.benzinga.com/25/01/42907180/rocket-lab-expands-nasa-partnership-with-neutron-under-vadr-contract",
+            "time_published": "20250110T102211",
+            "authors": [
+                "Lekha Gupta"
+            ],
+            "summary": "Rocket Lab USA, Inc. RKLB disclosed an agreement with NASA to include its Neutron rocket under the existing Venture-Class Acquisition of Dedicated and Rideshare contract.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/RKLB.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                }
+            ],
+            "overall_sentiment_score": 0.380763,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RKLB",
+                    "relevance_score": "0.352223",
+                    "ticker_sentiment_score": "0.454545",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "SuperWalk Makes Strategic Move with HashKey Exchange Listing to Drive Global Expansion",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42907017/superwalk-makes-strategic-move-with-hashkey-exchange-listing-to-drive-global-expansion",
+            "time_published": "20250110T101333",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "SEOUL, South Korea, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- SuperWalk ( GRND ) , a pioneering 'Move-to-Earn' platform that integrates fitness and blockchain innovation, has officially listed its utility token, GRND, on the globally renowned HashKey Exchange.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/ae1ea4ae-fc94-46f6-887c-fce5247e1a20/superwalk-hashkey-global-listing.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.838487"
+                }
+            ],
+            "overall_sentiment_score": 0.514804,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Outspoken economist Gao Shanwen leaves his Hong Kong financial firm: source",
+            "url": "https://www.scmp.com/business/article/3294263/outspoken-economist-gao-shanwen-leaves-his-hong-kong-financial-firm-source",
+            "time_published": "20250110T100032",
+            "authors": [
+                "Enoch Yiu"
+            ],
+            "summary": "Gao's license in Hong Kong lapsed at the end of last month, and he is no longer working at a financial firm in the city, SFC records show.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/f57c5136-9811-4917-8ce3-55c0973763a9_de290010.jpg?itok=4C3TOD9F&v=1736500963",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.917436"
+                }
+            ],
+            "overall_sentiment_score": -0.069964,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SZIHF",
+                    "relevance_score": "0.16849",
+                    "ticker_sentiment_score": "0.04959",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WB",
+                    "relevance_score": "0.084722",
+                    "ticker_sentiment_score": "0.032523",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Apple and Nvidia chip supplier TSMC's sales top estimates, boosting AI in 2025",
+            "url": "https://www.scmp.com/tech/big-tech/article/3294278/apple-and-nvidia-chip-supplier-tsmcs-sales-top-estimates-boosting-ais-2025-outlook",
+            "time_published": "20250110T095707",
+            "authors": [
+                "Bloomberg"
+            ],
+            "summary": "The world's largest contract chipmaker reported a 39 per cent rise in October-December revenue to US$26.3 billion.",
+            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/10/4966b10e-6ce7-4132-a97a-62572419c61f_26097572.jpg",
+            "source": "South China Morning Post",
+            "category_within_source": "Companies",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.938793"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.107344,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.113062",
+                    "ticker_sentiment_score": "0.138446",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.056674",
+                    "ticker_sentiment_score": "0.137949",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.168884",
+                    "ticker_sentiment_score": "-0.072827",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HNHPF",
+                    "relevance_score": "0.056674",
+                    "ticker_sentiment_score": "0.110933",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.056674",
+                    "ticker_sentiment_score": "0.076922",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.056674",
+                    "ticker_sentiment_score": "0.225998",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.056674",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "2 Dow Stocks to Buy Hand Over Fist in 2025 and 1 to Avoid",
+            "url": "https://www.fool.com/investing/2025/01/10/2-dow-stocks-to-buy-hand-over-fist-2025-1-to-avoid/",
+            "time_published": "20250110T095100",
+            "authors": [
+                "Sean Williams"
+            ],
+            "summary": "Among the Dow Jones Industrial Average's 30 components, there are two historically cheap brand-name companies, as well as a new member that's priced for perfection in an imperfect industry.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803256%2Fnyse-floor-trader-stock-market-invest-buy-sell-fed-wall-street-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999612"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.857896"
+                }
+            ],
+            "overall_sentiment_score": 0.279479,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.282959",
+                    "ticker_sentiment_score": "0.225464",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.221964",
+                    "ticker_sentiment_score": "0.145535",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.159569",
+                    "ticker_sentiment_score": "0.200137",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Artificial Intelligence  ( AI ) , Quantum Computing, and RoboTaxis: Here's 1 \"Magnificent Seven\" Stock That Has It All",
+            "url": "https://www.fool.com/investing/2025/01/10/ai-quantum-computing-magnificent-seven-stock/",
+            "time_published": "20250110T094500",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "Artificial intelligence ( AI ) could be the greatest game-changing technology ever. However, some believe quantum computing will be even bigger than AI. Autonomous ride-hailing services, commonly known as \"robotaxis\", could bring another tectonic shift to society.Investing in any of these hot ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803314/excited-investor-looks-at-financial-charts-on-computer.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.282945,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.052918",
+                    "ticker_sentiment_score": "0.221757",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.574235",
+                    "ticker_sentiment_score": "-0.003499",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.157827",
+                    "ticker_sentiment_score": "0.296574",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.052918",
+                    "ticker_sentiment_score": "0.221757",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.105604",
+                    "ticker_sentiment_score": "0.241142",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "Jeff Bezos' Blue Origin Pushes New Glenn Launch To No Earlier Than Sunday Due To Adverse Weather Conditions",
             "url": "https://www.benzinga.com/25/01/42906684/blue-origin-pushes-new-glenn-launch-to-no-earlier-than-sunday",
@@ -75,6 +372,53 @@
             ]
         },
         {
+            "title": "2 Reasons to Buy Palantir Stock Like There's No Tomorrow",
+            "url": "https://www.fool.com/investing/2025/01/10/2-reasons-to-buy-palantir-stock-like-theres-no-tom/",
+            "time_published": "20250110T093000",
+            "authors": [
+                "Harsh Chauhan"
+            ],
+            "summary": "Palantir Technologies ( NASDAQ: PLTR ) stock's stunning surge of 372% in 2024 has made the stock extremely expensive, which explains why investors may be wary of buying this high-flying artificial intelligence ( AI ) software specialist right now.Wall Street is expecting Palantir stock to dip in ...",
+            "banner_image": "https://media.ycharts.com/charts/7eee1cf1ee7cba2919d8134960afedd5.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999691"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.329989,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.043108",
+                    "ticker_sentiment_score": "0.224146",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.08609",
+                    "ticker_sentiment_score": "0.116328",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Anthony Scaramucci Was Asked About His Profit-Taking Strategy On Bitcoin, Altcoins: Here's What He Said",
             "url": "https://www.benzinga.com/25/01/42906639/anthony-scaramucci-was-asked-about-his-take-profit-strategy-on-bitcointhis-is-what-he-said",
             "time_published": "20250110T092543",
@@ -110,6 +454,59 @@
                     "relevance_score": "0.233556",
                     "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Better AI Growth Buy for 2025: Nvidia vs Broadcom",
+            "url": "https://www.fool.com/investing/2025/01/10/better-ai-growth-buy-for-2025-nvidia-vs-broadcom/",
+            "time_published": "20250110T092500",
+            "authors": [
+                "Adria Cimino"
+            ],
+            "summary": "Artificial intelligence ( AI ) stocks led the market higher last year as investors bet on the potential of this technology to revolutionize many industries -- and our daily lives. The S&P 500 index climbed 23% and the Nasdaq advanced 28%, led by AI players.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803325%2Fgettyimages-613345556.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99676"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.33655,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.477606",
+                    "ticker_sentiment_score": "0.512569",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "VMW",
+                    "relevance_score": "0.152178",
+                    "ticker_sentiment_score": "0.153921",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.55727",
+                    "ticker_sentiment_score": "0.502022",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -1501,215 +1898,6 @@
                     "relevance_score": "0.04406",
                     "ticker_sentiment_score": "0.060622",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Transaction in Own Shares",
-            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007423/0/en/Transaction-in-Own-Shares.html",
-            "time_published": "20250110T070000",
-            "authors": [
-                "PayPoint plc"
-            ],
-            "summary": "10th January ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/01c8cd71-2417-44ba-b4a3-462b7db307c0",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [],
-            "overall_sentiment_score": 0.121802,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ITCFY",
-                    "relevance_score": "0.608634",
-                    "ticker_sentiment_score": "-0.281315",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Bang & Olufsen interim report for H1 2024/25: Bang & Olufsen reports a Q2 in line with expectations",
-            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007421/0/en/Bang-Olufsen-interim-report-for-H1-2024-25-Bang-Olufsen-reports-a-Q2-in-line-with-expectations.html",
-            "time_published": "20250110T065900",
-            "authors": [
-                "Bang & Olufsen A/S"
-            ],
-            "summary": "While the EMEA region and the Americas generated positive revenue growth year-on-year, group revenue was 1% lower due to negative growth in China. The gross margin increased year-on-year to 53.7%. As planned, the directed share issue was successfully completed in November 2024, raising DKK 228 ...",
-            "banner_image": "",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.955357"
-                }
-            ],
-            "overall_sentiment_score": 0.231707,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BGOUF",
-                    "relevance_score": "0.115787",
-                    "ticker_sentiment_score": "0.153223",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Tesla Launches Refreshed Model Y In China Amid Rising Competition - Tesla  ( NASDAQ:TSLA ) ",
-            "url": "https://www.benzinga.com/tech/25/01/42905406/tesla-launches-refreshed-model-y-in-china-amid-rising-competition",
-            "time_published": "20250110T064610",
-            "authors": [
-                "Anan Ashraf"
-            ],
-            "summary": "EV giant Tesla Inc. TSLA has launched a refreshed version of its best-selling Model Y SUV in China, in a bid to refresh its aging vehicle amid rising competition. What Happened: The new Model Y, Tesla says on the website, has a \"longer range, new design and higher quality interior,\" among other ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Paris--France---November-29--2014-Tesla-.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.183621,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.672712",
-                    "ticker_sentiment_score": "0.278482",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "US May Add Fewer Jobs In December With An Unchanged Unemployment Rate, Predict Economists",
-            "url": "https://www.benzinga.com/news/25/01/42905396/us-may-add-fewer-jobs-in-december-with-an-unchanged-unemployment-rate-predict-economists",
-            "time_published": "20250110T064510",
-            "authors": [
-                "Rishabh Mishra"
-            ],
-            "summary": "Economists expect December's non-farm payrolls to soften as compared to November in Friday's official monthly jobs report, to be released by the Bureau of Labor Statistics at 8:30 a.m. ET.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/unemployment-shutter.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.858979"
-                }
-            ],
-            "overall_sentiment_score": 0.122066,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.073321",
-                    "ticker_sentiment_score": "0.005165",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Starbucks Faces 34 New Union Complaints Amid Rising Tensions with Workers - Starbucks  ( NASDAQ:SBUX ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/01/42905366/starbucks-faces-34-new-union-complaints-amid-rising-tensions-with-workers",
-            "time_published": "20250110T063722",
-            "authors": [
-                "Pooja Rajkumari"
-            ],
-            "summary": "Starbucks Corp. SBUX is once again embroiled in labor disputes as its union has filed 34 new complaints with the National Labor Relations Board, marking a resurgence in tensions. What Happened: The complaints, lodged by Starbucks Workers United, accuse the company of breaching federal labor laws, ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Starbucks-Corp.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.246288,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SBUX",
-                    "relevance_score": "0.835133",
-                    "ticker_sentiment_score": "-0.606861",
-                    "ticker_sentiment_label": "Bearish"
-                }
-            ]
-        },
-        {
-            "title": "China hit record trade barriers in 2024 as overcapacity fears spread abroad",
-            "url": "https://www.scmp.com/economy/global-economy/article/3294204/china-hit-record-trade-barriers-2024-overcapacity-fears-spread-developing-world",
-            "time_published": "20250110T063009",
-            "authors": [
-                "Mia Nulimaimaiti"
-            ],
-            "summary": "More developing countries initiated investigations targeting Chinese goods last year, and analyst says these included pre-emptive measures to prevent an import surge.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/609261ae-a811-4aaf-9d51-6f4ed524163d_0838e7dd.jpg?itok=rfBKNN6n&v=1736489582",
-            "source": "South China Morning Post",
-            "category_within_source": "Economy",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                }
-            ],
-            "overall_sentiment_score": 0.057924,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Transaction in Own Shares",
-            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007420/0/en/Transaction-in-Own-Shares.html",
-            "time_published": "20250110T063000",
-            "authors": [
-                "Endeavour Mining PLC"
-            ],
-            "summary": "London, 10 January 2025 - Endeavour Mining plc ( LSE:EDV, TSX:EDV ) ( \"the Company\" ) announces it has purchased the following number of its ordinary shares of USD 0.01 each from Stifel Nicolaus Europe Limited.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/cff109e5-0693-447f-8afe-290bcfdfd66f",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.77141"
-                }
-            ],
-            "overall_sentiment_score": 0.152933,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CURN",
-                    "relevance_score": "0.063933",
-                    "ticker_sentiment_score": "0.020175",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "LDNXF",
-                    "relevance_score": "0.063933",
-                    "ticker_sentiment_score": "0.231468",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
