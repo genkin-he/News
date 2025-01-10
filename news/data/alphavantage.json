@@ -1,5 +1,5 @@
 {
-    "items": "47",
+    "items": "45",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
@@ -1686,7 +1686,7 @@
                 "Zacks Equity Research"
             ],
             "summary": "D.R. Horton (DHI) closed the most recent trading day at $139.90, moving +1.49% from the previous trading session.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default283.jpg",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default302.jpg",
             "source": "Zacks Commentary",
             "category_within_source": "n/a",
             "source_domain": "www.zacks.com",
@@ -1703,69 +1703,6 @@
             "overall_sentiment_score": 0.11289,
             "overall_sentiment_label": "Neutral",
             "ticker_sentiment": []
-        },
-        {
-            "title": "Fortuna Mining  ( FSM )  Rises Higher Than Market: Key Facts",
-            "url": "https://www.zacks.com/stock/news/2394738/fortuna-mining-fsm-rises-higher-than-market-key-facts",
-            "time_published": "20250109T231524",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "Fortuna Mining (FSM) closed the most recent trading day at $4.51, moving +0.67% from the previous trading session.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default82.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                }
-            ],
-            "overall_sentiment_score": 0.211391,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Equinix  ( EQIX )  Outpaces Stock Market Gains: What You Should Know",
-            "url": "https://www.zacks.com/stock/news/2394737/equinix-eqix-outpaces-stock-market-gains-what-you-should-know",
-            "time_published": "20250109T231524",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "In the latest trading session, Equinix (EQIX) closed at $951.04, marking a +1.17% move from the previous day.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default280.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.95493"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.316726"
-                }
-            ],
-            "overall_sentiment_score": 0.226944,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "EQIX",
-                    "relevance_score": "0.634884",
-                    "ticker_sentiment_score": "0.413919",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
         }
     ]
 }
