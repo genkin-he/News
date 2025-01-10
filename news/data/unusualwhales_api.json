@@ -2,6 +2,39 @@
     "news": [
         {
             "beta_headline": null,
+            "category": "securities",
+            "date": "2025-01-10",
+            "headline": "Dow Jones Futures fall after markets closed for Carter's funeral. Jobs report and Nvidia chipmaker Taiwan Semiconductor awaited. NVDA under pressure with potential AI chip curbs.",
+            "id": "2920e597-452d-4b09-8c78-c6ee24a5ce4c",
+            "is_major": true,
+            "source": "Investors.com",
+            "source_type": "news",
+            "summary": "Investors are keeping an eye on the impending release of the jobs report and Taiwan Semiconductor, a key chipmaker for Nvidia, after markets were closed on Thursday in honor of Carter's funeral. Concerns arise around potential constraints on NVDA due to new AI chip regulations. Dow Jones Futures are experiencing a decline.",
+            "tickers": [
+                "NVDA",
+                "DOW"
+            ],
+            "time": "00:57:33",
+            "timestamp": "2025-01-10T00:57:33Z",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-taiwan-semiconductor-jobs-report/"
+        },
+        {
+            "beta_headline": null,
+            "category": "investing",
+            "date": "2025-01-10",
+            "headline": "China economist Guan Tao cautions against over-interpreting moderately loose monetary policy in China",
+            "id": "0220844c-5db5-4a89-b2c6-791cc0c93c2d",
+            "is_major": false,
+            "source": "Tradex",
+            "source_type": "news",
+            "summary": null,
+            "tickers": [],
+            "time": "00:56:12",
+            "timestamp": "2025-01-10T00:56:12Z",
+            "url": null
+        },
+        {
+            "beta_headline": null,
             "category": "investing",
             "date": "2025-01-10",
             "headline": "Hayashi Appoints Okano from Foreign Affairs as National Security Adviser",
@@ -783,36 +816,6 @@
             "time": "23:39:06",
             "timestamp": "2025-01-09T23:39:06Z",
             "url": "https://www.investors.com/news/economy/federal-reserve-meeting-december-final-rate-cut-sp-500/"
-        },
-        {
-            "beta_headline": null,
-            "category": "economy",
-            "date": "2025-01-09",
-            "headline": "Fed cuts rates, plans 2 more in 2025. S&P 500 dips on doubts about dovish policy.",
-            "id": "7e29188c-36d0-4598-a672-5c6f1b7fe6b9",
-            "is_major": true,
-            "source": "Investors.com",
-            "source_type": "news",
-            "summary": "The Federal Reserve has implemented the anticipated rate reduction and indicated plans for two additional cuts by 2025. Despite this, the S&amp;P 500 experienced a decline amid skepticism regarding the Fed's commitment to their accommodating policy direction, as investors expressed concerns about the likelihood of further rate cuts.",
-            "tickers": [],
-            "time": "23:39:04",
-            "timestamp": "2025-01-09T23:39:04Z",
-            "url": "https://www.investors.com/news/economy/federal-reserve-meeting-december-rate-cut-jerome-powell-trump-sp-500/"
-        },
-        {
-            "beta_headline": null,
-            "category": "securities",
-            "date": "2025-01-09",
-            "headline": "Federal Reserve meeting caused Treasury yields to rise; S&P 500 fell. Trump's agenda a key factor. Stocks may be volatile.",
-            "id": "89a01685-d41d-4fce-b38d-7197a77e1561",
-            "is_major": true,
-            "source": "Investors.com",
-            "source_type": "news",
-            "summary": "The Federal Reserve meeting resulted in a significant increase in Treasury yields and a notable decline in the S&P 500. The impact was largely attributed to President-elect Trump's agenda. The sharp reaction in the market suggests caution and uncertainty surrounding potential policy changes under the new administration. Investors should be prepared for a period of volatility as details of Trump's economic plans continue to unfold.",
-            "tickers": [],
-            "time": "23:39:03",
-            "timestamp": "2025-01-09T23:39:03Z",
-            "url": "https://www.investors.com/news/economy/federal-reserve-treasury-yields-trump-sp-500/"
         }
     ]
 }
