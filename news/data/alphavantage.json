@@ -1,8 +1,225 @@
 {
-    "items": "34",
+    "items": "33",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Tesla Launches Refreshed Model Y In China Amid Rising Competition - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/tech/25/01/42905406/tesla-launches-refreshed-model-y-in-china-amid-rising-competition",
+            "time_published": "20250110T064610",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "EV giant Tesla Inc. TSLA has launched a refreshed version of its best-selling Model Y SUV in China, in a bid to refresh its aging vehicle amid rising competition. What Happened: The new Model Y, Tesla says on the website, has a \"longer range, new design and higher quality interior,\" among other ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Paris--France---November-29--2014-Tesla-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.183621,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.672712",
+                    "ticker_sentiment_score": "0.278482",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "US May Add Fewer Jobs In December With An Unchanged Unemployment Rate, Predict Economists",
+            "url": "https://www.benzinga.com/news/25/01/42905396/us-may-add-fewer-jobs-in-december-with-an-unchanged-unemployment-rate-predict-economists",
+            "time_published": "20250110T064510",
+            "authors": [
+                "Rishabh Mishra"
+            ],
+            "summary": "Economists expect December's non-farm payrolls to soften as compared to November in Friday's official monthly jobs report, to be released by the Bureau of Labor Statistics at 8:30 a.m. ET.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/unemployment-shutter.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.858979"
+                }
+            ],
+            "overall_sentiment_score": 0.122066,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.073321",
+                    "ticker_sentiment_score": "0.005165",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Starbucks Faces 34 New Union Complaints Amid Rising Tensions with Workers - Starbucks  ( NASDAQ:SBUX ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/01/42905366/starbucks-faces-34-new-union-complaints-amid-rising-tensions-with-workers",
+            "time_published": "20250110T063722",
+            "authors": [
+                "Pooja Rajkumari"
+            ],
+            "summary": "Starbucks Corp. SBUX is once again embroiled in labor disputes as its union has filed 34 new complaints with the National Labor Relations Board, marking a resurgence in tensions. What Happened: The complaints, lodged by Starbucks Workers United, accuse the company of breaching federal labor laws, ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Starbucks-Corp.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.246288,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SBUX",
+                    "relevance_score": "0.835133",
+                    "ticker_sentiment_score": "-0.606861",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "China hit record trade barriers in 2024 as overcapacity fears spread abroad",
+            "url": "https://www.scmp.com/economy/global-economy/article/3294204/china-hit-record-trade-barriers-2024-overcapacity-fears-spread-developing-world",
+            "time_published": "20250110T063009",
+            "authors": [
+                "Mia Nulimaimaiti"
+            ],
+            "summary": "More developing countries initiated investigations targeting Chinese goods last year, and analyst says these included pre-emptive measures to prevent an import surge.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/609261ae-a811-4aaf-9d51-6f4ed524163d_0838e7dd.jpg?itok=rfBKNN6n&v=1736489582",
+            "source": "South China Morning Post",
+            "category_within_source": "Economy",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.057924,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Transaction in Own Shares",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007420/0/en/Transaction-in-Own-Shares.html",
+            "time_published": "20250110T063000",
+            "authors": [
+                "Endeavour Mining PLC"
+            ],
+            "summary": "London, 10 January 2025 - Endeavour Mining plc ( LSE:EDV, TSX:EDV ) ( \"the Company\" ) announces it has purchased the following number of its ordinary shares of USD 0.01 each from Stifel Nicolaus Europe Limited.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/cff109e5-0693-447f-8afe-290bcfdfd66f",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                }
+            ],
+            "overall_sentiment_score": 0.152933,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.063933",
+                    "ticker_sentiment_score": "0.020175",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LDNXF",
+                    "relevance_score": "0.063933",
+                    "ticker_sentiment_score": "0.231468",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Indebted developer Sunac China faces liquidation threat in Hong Kong",
+            "url": "https://www.scmp.com/business/china-business/article/3294203/indebted-developer-sunac-china-faces-liquidation-threat-hong-kong",
+            "time_published": "20250110T060647",
+            "authors": [
+                "Yulu Ao"
+            ],
+            "summary": "A hearing on the matter has been scheduled for March 19.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/6e46d9f8-4324-424e-b73e-511a02401104_a617d8e8.jpg?itok=DxRy8FIc&v=1736489185",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.031333,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Exclusive | TSMC cuts ties with Singapore firm over Huawei processor: sources",
+            "url": "https://www.scmp.com/tech/tech-war/article/3294199/tsmc-cuts-ties-singapore-firm-over-chip-found-huawei-processor-sources",
+            "time_published": "20250110T060014",
+            "authors": [
+                "Che Pan"
+            ],
+            "summary": "The world's largest chip foundry ended its relationship with a Singapore-based firm after a client review.",
+            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/10/ade4156d-e82b-4d76-96b1-7f15b556d5de_16c83903.jpg",
+            "source": "South China Morning Post",
+            "category_within_source": "Companies",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.011881,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.060694",
+                    "ticker_sentiment_score": "0.075",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.060694",
+                    "ticker_sentiment_score": "-0.162036",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
         {
             "title": "Digital subscription results of AS Ekspress Grupp for the fourth quarter of 2024",
             "url": "https://www.globenewswire.com/news-release/2025/01/10/3007419/0/en/Digital-subscription-results-of-AS-Ekspress-Grupp-for-the-fourth-quarter-of-2024.html",
@@ -1179,284 +1396,6 @@
                     "ticker": "HSY",
                     "relevance_score": "0.116914",
                     "ticker_sentiment_score": "0.07603",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Caribou Biosciences, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - CRBU - Caribou Biosciences  ( NASDAQ:CRBU ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42904448/rosen-trusted-investor-counsel-encourages-caribou-biosciences-inc-investors-to-secure-counsel-befo",
-            "time_published": "20250110T022200",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Caribou Biosciences, Inc. CRBU between July 14, 2023 and July 16, 2024, both dates inclusive ( the \"Class Period\" ) , of the important February 24, 2025 ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.148236,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRBU",
-                    "relevance_score": "0.116348",
-                    "ticker_sentiment_score": "0.145618",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.05833",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "GlocalMe Unveils New Brand Identity and Cutting-Edge Innovations at CES 2025 - Ucloudlink Group  ( NASDAQ:UCL ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42904440/glocalme-unveils-new-brand-identity-and-cutting-edge-innovations-at-ces-2025",
-            "time_published": "20250110T021600",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "LAS VEGAS, Jan. 9, 2025 /PRNewswire/ -- GlocalMe, a global leader in mobile data connectivity under uCloudlink UCL, is proud to announce its participation in CES 2025, the world's largest technology trade show.",
-            "banner_image": "https://mma.prnewswire.com/media/2595181/GlocalMe.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.41574,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SIMTF",
-                    "relevance_score": "0.05257",
-                    "ticker_sentiment_score": "0.095939",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Elon Musk Hosts X Spaces With Afd's Alice Weidel After Successfully Endorsing Trump: Share Views On Nuclear Power And Future Of Europe With Far Right German Leader - Tesla  ( NASDAQ:TSLA ) ",
-            "url": "https://www.benzinga.com/news/25/01/42904409/elon-musk-hosts-x-spaces-with-afds-alice-weidel-after-successfully-endorsing-trump-share-views-on-nuclear-po",
-            "time_published": "20250110T020927",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "On Thursday, Tesla Inc. TSLA CEO Elon Musk stirred controversy by hosting a live discussion on X with Alice Weidel, co-leader of Germany's far-right Alternative f\u00fcr Deutschland ( AfD ) party.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Elon-Musk-Recommends-Direct-Democracy-As.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.185674,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.255641",
-                    "ticker_sentiment_score": "0.081375",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Integrated Rail and Resources Acquisition Corp. Announces Extension",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42904388/integrated-rail-and-resources-acquisition-corp-announces-extension",
-            "time_published": "20250110T020229",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "WINTER PARK, Fla., Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- Pursuant to the Investment Management Trust Agreement between Integrated Rail and Resources Acquisition Corp. ( the \"Company\" ) and American Stock Transfer & Trust Company, LLC, dated as of November 11, 2021, as amended on February 8, 2024, ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.94762"
-                }
-            ],
-            "overall_sentiment_score": 0.346143,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Tesla Bull Gary Black Warns Against Inflated Optimus Robot Assumptions: Get Pounded Each Time 'I Try To Right-Size Expectations' - Tesla  ( NASDAQ:TSLA ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/01/42904377/tesla-bull-gary-black-warns-against-inflated-optimus-robot-assumptions-get-pounded-each-time-i-t",
-            "time_published": "20250110T020041",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "Tesla Inc. TSLA investor Gary Black cautioned against setting unrealistic expectations for the company's Optimus robot program on Thursday, sparking debate about the electric vehicle maker's valuation metrics and growth prospects.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Tesla-Optimus-Futuristic-Humanoid-Autono.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.857896"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.152149,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BAC",
-                    "relevance_score": "0.090134",
-                    "ticker_sentiment_score": "0.193553",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "OPTGF",
-                    "relevance_score": "0.428632",
-                    "ticker_sentiment_score": "0.216181",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.634884",
-                    "ticker_sentiment_score": "0.105651",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Chinese firms 'going global' learn important lesson: integrate, or die",
-            "url": "https://www.scmp.com/economy/global-economy/article/3294089/chinese-firms-going-global-learn-important-lesson-integrate-or-die",
-            "time_published": "20250110T020009",
-            "authors": [
-                "He Huifeng"
-            ],
-            "summary": "As China's companies move to emerging markets, they find clients wanting infrastructure and pathways to local development as well as products.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/09/e68fafa4-d9bb-4348-93a0-a1f4de804b77_9aa1289d.jpg?itok=gNhV05Pe&v=1736416547",
-            "source": "South China Morning Post",
-            "category_within_source": "Economy",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                }
-            ],
-            "overall_sentiment_score": 0.149831,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Bitcoin, Ethereum, Dogecoin Slip Ahead Of Key Jobs Data Release: Top Analyst Remains Positive On 2025 - 'It's Bull Market Year' - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",
-            "url": "https://www.benzinga.com/trading-ideas/movers/25/01/42904360/bitcoin-ethereum-dogecoin-slip-ahead-of-key-jobs-data-release-top-analyst-remains-positive-o",
-            "time_published": "20250110T015626",
-            "authors": [
-                "Aniket Verma"
-            ],
-            "summary": "Leading cryptocurrencies mounted losses on Thursday as investors remained cautious ahead of the release of a crucial jobs report What Happened: Bitcoin fell to an intraday low of $91,220 late afternoon before recouping some losses by evening.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Cryptocurrency-Photo-by-Igor-Faun-on-Shu.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.928139"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.87644"
-                }
-            ],
-            "overall_sentiment_score": 0.09172,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.434763",
-                    "ticker_sentiment_score": "0.325109",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages MGP Ingredients, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - MGPI - MGP Ingredients  ( NASDAQ:MGPI ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42904134/rosen-recognized-investor-counsel-encourages-mgp-ingredients-inc-investors-to-secure-counsel-befor",
-            "time_published": "20250110T014300",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 09, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of MGP Ingredients, Inc. MGPI between May 4, 2023 and October 30, 2024 ( the \"Class Period\" ) , of the important February 14, 2025 lead plaintiff deadline.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.891286"
-                }
-            ],
-            "overall_sentiment_score": 0.131495,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.063425",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MGPI",
-                    "relevance_score": "0.30928",
-                    "ticker_sentiment_score": "-0.030251",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
