@@ -1,8 +1,211 @@
 {
-    "items": "30",
+    "items": "34",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "California Wildfires Ignite Concerns For Insurance Stocks: Here Are Some Insurance ETFs Which Could Be Impacted - Allstate  ( NYSE:ALL ) , iShares U.S. Insurance ETF  ( ARCA:IAK ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/01/42906089/california-wildfires-ignite-concerns-for-insurance-stocks-here-are-some-insurance-etfs-which-cou",
+            "time_published": "20250110T075659",
+            "authors": [
+                "Rishabh Mishra"
+            ],
+            "summary": "California-based property and casualty insurance stocks and exchange-traded funds are in focus as the Los Angeles wildfires have wreaked havoc and ruined over 10,000 structures.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/What-Does-Fire-Insurance-Cover-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.857896"
+                }
+            ],
+            "overall_sentiment_score": -0.256213,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.229149",
+                    "ticker_sentiment_score": "-0.047327",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TRV",
+                    "relevance_score": "0.229149",
+                    "ticker_sentiment_score": "0.17493",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Br\u00f8ndbyernes I.F. Fodbold A/S offentligg\u00f8r prospekt og igangs\u00e6tter fortegningsemission",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007430/0/en/Br%C3%B8ndbyernes-I-F-Fodbold-A-S-offentligg%C3%B8r-prospekt-og-igangs%C3%A6tter-fortegningsemission.html",
+            "time_published": "20250110T073500",
+            "authors": [
+                "Br\u00f8ndbyernes IF Fodbold A/S"
+            ],
+            "summary": "Br\u00f8ndbyernes I.F. Fodbold A/S CVR-nr. 83 93 34 10Br\u00f8ndby, den ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/34d957e0-007c-4731-a30f-93c2cb3e98f9",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.9545"
+                }
+            ],
+            "overall_sentiment_score": 0.025372,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FOREX:UZS",
+                    "relevance_score": "0.278075",
+                    "ticker_sentiment_score": "0.026149",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Report by Leading Analyst Firm Shows Quadient Recorded the Fastest Growth in 2023 Among CCM Market Leaders",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007429/0/en/Report-by-Leading-Analyst-Firm-Shows-Quadient-Recorded-the-Fastest-Growth-in-2023-Among-CCM-Market-Leaders.html",
+            "time_published": "20250110T073000",
+            "authors": [
+                "QUADIENT"
+            ],
+            "summary": "Quadient ( Euronext Paris: QDT ) , a global automation platform powering secure and sustainable business connections, announces that a newly released report by market research and consulting firm IDC shows Quadient rapidly closing the gap on the top position.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/925ae23a-6009-4111-9a9e-fd93c37bd902",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.87644"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.484098,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NPACF",
+                    "relevance_score": "0.801457",
+                    "ticker_sentiment_score": "0.75066",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "India to continue as fastest-growing major economy globally: Report - ETCFO",
+            "url": "https://cfo.economictimes.indiatimes.com/news/economy/india-to-continue-as-fastest-growing-major-economy-globally-report/117109644",
+            "time_published": "20250110T071000",
+            "authors": [
+                "ETCFO"
+            ],
+            "summary": "India will continue to stand out as the fastest-growing major economy globally in the coming years with growth momentum to improve in 2025 as government spending is picking up again and consumer sentiment stays resilient, according to a Franklin Templeton report.",
+            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
+            "source": "Economic Times",
+            "category_within_source": "Economy",
+            "source_domain": "cfo.economictimes.indiatimes.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.682689"
+                }
+            ],
+            "overall_sentiment_score": 0.416732,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "World's biggest chipmaker TSMC beats sales estimates as AI boost continues",
+            "url": "https://www.cnbc.com/2025/01/10/tsmc-beats-sales-estimates-as-ai-chip-boost-continues.html",
+            "time_published": "20250110T070809",
+            "authors": [],
+            "summary": "TSMC manufacturers semiconductors for some of the world's biggest companies from Apple to Nvidia.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Earnings",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.142583,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.436009",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.436009",
+                    "ticker_sentiment_score": "0.499076",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Financing Update",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007424/0/en/Financing-Update.html",
+            "time_published": "20250110T070000",
+            "authors": [
+                "Vast Resources PLC"
+            ],
+            "summary": "Vast Resources plc / Ticker: VAST / Index: AIM / Sector: Mining ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/5e885eea-e7fa-4034-a581-9e72518c162d",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                }
+            ],
+            "overall_sentiment_score": 0.236189,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LDNXF",
+                    "relevance_score": "0.062761",
+                    "ticker_sentiment_score": "-0.027009",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MALRF",
+                    "relevance_score": "0.062761",
+                    "ticker_sentiment_score": "0.016119",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Poolbeg Pharma plc  ( \"Poolbeg\" )  and HOOKIPA Pharma Inc.  ( \"HOOKIPA\" )  Update on Potential Combination of Poolbeg and HOOKIPA",
             "url": "https://www.globenewswire.com/news-release/2025/01/10/3007426/0/en/Poolbeg-Pharma-plc-Poolbeg-and-HOOKIPA-Pharma-Inc-HOOKIPA-Update-on-Potential-Combination-of-Poolbeg-and-HOOKIPA.html",
@@ -97,6 +300,45 @@
             "ticker_sentiment": []
         },
         {
+            "title": "Transaction in own shares",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007427/0/en/Transaction-in-own-shares.html",
+            "time_published": "20250110T070000",
+            "authors": [
+                "OSB GROUP PLC"
+            ],
+            "summary": "OSB GROUP PLC ISIN: GB00BLDRH36010 January ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/0aaaee3e-26ac-4abf-b60a-e49fa58770b5",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.13274,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.421485",
+                    "ticker_sentiment_score": "0.04364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LDNXF",
+                    "relevance_score": "0.218817",
+                    "ticker_sentiment_score": "0.090761",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Lassila & Tikanoja's Shareholders' Nomination Board submits proposals for the 2025 Annual General Meeting",
             "url": "https://www.globenewswire.com/news-release/2025/01/10/3007425/0/en/Lassila-Tikanoja-s-Shareholders-Nomination-Board-submits-proposals-for-the-2025-Annual-General-Meeting.html",
             "time_published": "20250110T070000",
@@ -154,6 +396,35 @@
                     "relevance_score": "0.608634",
                     "ticker_sentiment_score": "-0.281315",
                     "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Bang & Olufsen interim report for H1 2024/25: Bang & Olufsen reports a Q2 in line with expectations",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007421/0/en/Bang-Olufsen-interim-report-for-H1-2024-25-Bang-Olufsen-reports-a-Q2-in-line-with-expectations.html",
+            "time_published": "20250110T065900",
+            "authors": [
+                "Bang & Olufsen A/S"
+            ],
+            "summary": "While the EMEA region and the Americas generated positive revenue growth year-on-year, group revenue was 1% lower due to negative growth in China. The gross margin increased year-on-year to 53.7%. As planned, the directed share issue was successfully completed in November 2024, raising DKK 228 ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.955357"
+                }
+            ],
+            "overall_sentiment_score": 0.231707,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BGOUF",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "0.153223",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         },
@@ -1028,191 +1299,6 @@
                     "relevance_score": "0.100729",
                     "ticker_sentiment_score": "0.081902",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "The Great Indian Work-Wife Balance - ETCFO",
-            "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/the-great-indian-work-wife-balance/117102492",
-            "time_published": "20250110T035427",
-            "authors": [
-                "Amol Dethe",
-                "ETCFO"
-            ],
-            "summary": "How many hours a week do you work? Do you follow a 5-day workweek or a 6-day workweek? Several top leaders of India Inc are advocating for employees to work 70 to 90 hours a week. It the new business mantra going to be about about all work, no play? Here's my view.",
-            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
-            "source": "Economic Times",
-            "category_within_source": "Top Stories",
-            "source_domain": "cfo.economictimes.indiatimes.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.070512,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SPOT",
-                    "relevance_score": "0.069697",
-                    "ticker_sentiment_score": "0.056191",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "INFY",
-                    "relevance_score": "0.034882",
-                    "ticker_sentiment_score": "0.00783",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "LTOUF",
-                    "relevance_score": "0.034882",
-                    "ticker_sentiment_score": "0.07537",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Meta Documents Reveal Secret Policy Protecting Big-Spender Advertisers From Automated Content Moderation: Report - Meta Platforms  ( NASDAQ:META ) ",
-            "url": "https://www.benzinga.com/25/01/42904686/metas-internal-documents-reveal-secret-policy-protecting-high-spending-advertisers-from-automated-content-moderat",
-            "time_published": "20250110T034940",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "Internal documents from Meta Platforms, Inc. META reportedly indicate a policy designed to protect high-spending advertisers from automated content moderation. What Happened: The documents from 2023 reveal that Meta implemented \"guardrails\" to protect top advertisers, reported Financial Times.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Meta-Platforms-Inc--META.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.102181,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.199859",
-                    "ticker_sentiment_score": "0.205251",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Coinbase Subpoenaed Over Polymarket Involvement, Federal Agency Seeks Customer Information",
-            "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42904654/coinbase-subpoenaed-over-polymarket-involvement-federal-agency-seeks-customer-information",
-            "time_published": "20250110T033946",
-            "authors": [
-                "Aniket Verma"
-            ],
-            "summary": "The Commodity Futures Trading Commission has issued a subpoena to cryptocurrency exchange Coinbase COIN regarding its association with the prediction platform Polymarket, according to a Thursday report.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Coinbase-Global-Inc--COIN.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.072355,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "COIN",
-                    "relevance_score": "0.671304",
-                    "ticker_sentiment_score": "0.198436",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.219809",
-                    "ticker_sentiment_score": "0.30311",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Nvidia's AI Growth Boosts Advantest's Strategic Position In AI Chip Supply Chain, Stock Shows Strong Correlation With Jensen Huang-Led Tech Giant - NVIDIA  ( NASDAQ:NVDA ) , Advantest  ( OTC:ATEYY ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/01/42904587/nvidias-ai-growth-boosts-advantests-strategic-position-in-ai-chip-supply-chain-stock-shows-stron",
-            "time_published": "20250110T031954",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "Japanese semiconductor testing equipment maker Advantest Corp. ATEYY has emerged as a key beneficiary of the artificial intelligence boom, with its stock showing a remarkable 0.93 correlation coefficient with NVIDIA Corp. NVDA over the past three years, highlighting its strategic position in the ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/09/Semiconductor-Or-Microchip-Concepts-tech.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.962106"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.278581,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TER",
-                    "relevance_score": "0.199037",
-                    "ticker_sentiment_score": "0.210734",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.199037",
-                    "ticker_sentiment_score": "0.339769",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ADTTF",
-                    "relevance_score": "0.294682",
-                    "ticker_sentiment_score": "0.316836",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "FOREX:JPY",
-                    "relevance_score": "0.294682",
-                    "ticker_sentiment_score": "0.236313",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
