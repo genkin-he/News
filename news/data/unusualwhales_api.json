@@ -2,6 +2,71 @@
     "news": [
         {
             "beta_headline": null,
+            "category": "economy",
+            "date": "2025-01-10",
+            "headline": "Fed unlikely to cut rates despite weak jobs report. Officials say more evidence needed to show labor market decline.",
+            "id": "3a5f6839-f247-4f16-84f8-fc2bff5ceebb",
+            "is_major": false,
+            "source": "NYT",
+            "source_type": "news",
+            "summary": "Officials from the Federal Reserve have indicated that they will need to see more than one unfavorable report in order to be convinced that the labor market is declining.",
+            "tickers": [],
+            "time": "11:08:16",
+            "timestamp": "2025-01-10T11:08:16Z",
+            "url": "https://www.nytimes.com/2025/01/10/business/fed-rates-jobs.html"
+        },
+        {
+            "beta_headline": null,
+            "category": "investing",
+            "date": "2025-01-10",
+            "headline": "Chinese hackers breached CFIUS in December - CNN",
+            "id": "f6c463db-1bc0-409a-935b-b14f57d25f40",
+            "is_major": false,
+            "source": "Tradex",
+            "source_type": "news",
+            "summary": null,
+            "tickers": [],
+            "time": "11:07:34",
+            "timestamp": "2025-01-10T11:07:34Z",
+            "url": null
+        },
+        {
+            "beta_headline": null,
+            "category": "securities",
+            "date": "2025-01-10",
+            "headline": "Treasury market, facing difficulties, awaits jobs report for relief.",
+            "id": "a94155de-b13a-43f1-ac31-0d4bfde3522f",
+            "is_major": true,
+            "source": "Bloomberg",
+            "source_type": "news",
+            "summary": null,
+            "tickers": [
+                "NDXP"
+            ],
+            "time": "11:07:16",
+            "timestamp": "2025-01-10T11:07:16Z",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbndzTGxGdDFLUGhoNjV5dUtweHVHaVhYSno2NzlIeHdaTHhwckFieTFUbmZOdGY1bDlBbmI0bEhETW1mTGJNX29WeVJ1Q1dacFBIUGZjWEtKVnQ2TnpVWkx4S2otVHBGTHh1U3c1SFlXbDZucUZBYlBGWERteUVqYXd3YThuS2R4dG82QjAwaGs4MVRCSk94SkhMVElWWl9nTWxGdHFwNkdERE85UXFIZFdR?oc=5"
+        },
+        {
+            "beta_headline": null,
+            "category": "securities",
+            "date": "2025-01-10",
+            "headline": "PacBio and Intus Bio partner to launch GutID, first at-home microbiome test, using Titan-1 platform & HiFi Sequencing, superior accuracy.",
+            "id": "67a7bd3c-d438-49fb-8f81-23946e912148",
+            "is_major": false,
+            "source": "GlobeNewswire",
+            "source_type": "news",
+            "summary": "In Menlo Park, California on January 10, 2025, PacBio and Intus Bio introduced GutID, the inaugural human gut health test. This test, powered by Intus Bio\u2019s Titan-1 platform and PacBio\u2019s HiFi sequencing technology, marks a significant advancement in microbiome research. Integrating Intus Bio\u2019s strain-level resolution assay and AI-driven analysis with PacBio\u2019s sequencing precision, GutID establishes a new standard in gut microbiome testing. This test stands out as the sole comprehensive and precise gut microbiome test currently on the market.",
+            "tickers": [
+                "NDXP",
+                "PACB"
+            ],
+            "time": "11:07:08",
+            "timestamp": "2025-01-10T11:07:08Z",
+            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007497/16261/en/PacBio-and-Intus-Bio-Collaborate-for-Launch-of-GutID-First-At-Home-Microbiome-Test-Powered-by-HiFi-Sequencing.html"
+        },
+        {
+            "beta_headline": null,
             "category": "securities",
             "date": "2025-01-10",
             "headline": "Diamyd Medical reports progress towards Accelerated Approval for Diamyd\u00ae, finalizing key details after positive FDA meeting.",
@@ -764,70 +829,6 @@
             "time": "09:43:21",
             "timestamp": "2025-01-10T09:43:21Z",
             "url": null
-        },
-        {
-            "beta_headline": null,
-            "category": "investing",
-            "date": "2025-01-10",
-            "headline": "Kremlin: It looks like there will be developments on a possible Trump-Putin meeting once trump takes office on January 20th",
-            "id": "2c175949-3b7c-4272-9187-a58eab61f410",
-            "is_major": true,
-            "source": "Tradex",
-            "source_type": "news",
-            "summary": null,
-            "tickers": [],
-            "time": "09:42:22",
-            "timestamp": "2025-01-10T09:42:22Z",
-            "url": null
-        },
-        {
-            "beta_headline": null,
-            "category": "investing",
-            "date": "2025-01-10",
-            "headline": "Kremlin: It is therefore possible that another US sanctions package on Russia will be introduced by the Biden administration",
-            "id": "89769855-658a-48f6-8445-bc7301d033b6",
-            "is_major": true,
-            "source": "Tradex",
-            "source_type": "news",
-            "summary": null,
-            "tickers": [],
-            "time": "09:42:21",
-            "timestamp": "2025-01-10T09:42:21Z",
-            "url": null
-        },
-        {
-            "beta_headline": null,
-            "category": "crypto",
-            "date": "2025-01-10",
-            "headline": "AI showcased at CES Keynote, restoring voices for ALS patients, showcasing tech's impact on lives. ",
-            "id": "7ec9f702-8b03-49c3-903e-dab81640cdf4",
-            "is_major": false,
-            "source": "Blockchain News",
-            "source_type": "news",
-            "summary": "During their keynote at CES, NVIDIA showcased the significant impact of AI, particularly in the realm of helping ALS patients restore their voices. This demonstration underscored the transformative power of technology in improving the lives of individuals. The event emphasized the real-world applications of AI, showcasing its potential to make a difference in society.",
-            "tickers": [
-                "NVDA"
-            ],
-            "time": "09:36:34",
-            "timestamp": "2025-01-10T09:36:34Z",
-            "url": "https://Blockchain.News/news/nvidia-showcases-ai-impact-voice-restoration-ces-keynote"
-        },
-        {
-            "beta_headline": null,
-            "category": "crypto",
-            "date": "2025-01-10",
-            "headline": "Robinhood to unveil 2024 financial performance on Feb 12, 2025, with live earnings call. Stay tuned for the results.",
-            "id": "48684e9e-8bce-499c-8305-49cf47eaefb0",
-            "is_major": false,
-            "source": "Blockchain News",
-            "source_type": "news",
-            "summary": "Robinhood Markets, Inc. will release their financial results for the fourth quarter and full year of 2024 on February 12, 2025. The announcement will include a live earnings call to discuss the company's performance during that period.",
-            "tickers": [
-                "HOOD"
-            ],
-            "time": "09:36:33",
-            "timestamp": "2025-01-10T09:36:33Z",
-            "url": "https://Blockchain.News/news/robinhood-release-2024-financial-results-february-2025"
         }
     ]
 }
