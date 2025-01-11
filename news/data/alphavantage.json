@@ -1,8 +1,96 @@
 {
-    "items": "43",
+    "items": "42",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "China gets major Nigeria rail project back on track by granting key loan",
+            "url": "https://www.scmp.com/economy/global-economy/article/3294268/china-gets-major-nigeria-rail-project-back-track-granting-key-loan",
+            "time_published": "20250111T120009",
+            "authors": [
+                "Carol Yang"
+            ],
+            "summary": "Chinese state lenders had pulled the plug on the Kaduna-Kano project in 2020, but have greenlit new financing on commercial terms.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/009f5be9-e50a-4edb-9df2-68a911f3c9e3_0b0963cc.jpg?itok=j4Fm-CrY&v=1736501612",
+            "source": "South China Morning Post",
+            "category_within_source": "Economy",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.121471,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BACHY",
+                    "relevance_score": "0.066784",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.066784",
+                    "ticker_sentiment_score": "0.131703",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Creditors pursue court action against Evergrande, Shimao amid housing slump",
+            "url": "https://www.scmp.com/property/article/3294371/creditors-pursue-court-action-against-developers-evergrande-shimao-amid-housing-slump",
+            "time_published": "20250111T115101",
+            "authors": [
+                "Yuke Xie"
+            ],
+            "summary": "China's developers collectively have over 700 billion yuan worth of property bonds due this year.",
+            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/11/1f39ecbc-46dc-4096-ab76-7a827c78b907_1ab28c32.jpg",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                }
+            ],
+            "overall_sentiment_score": -0.057212,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EVGPF",
+                    "relevance_score": "0.082111",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.082111",
+                    "ticker_sentiment_score": "0.084642",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CIH",
+                    "relevance_score": "0.082111",
+                    "ticker_sentiment_score": "-0.108592",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "2 Incredible Beaten-Down Stocks to Buy in 2025 and Hold Forever",
             "url": "https://www.fool.com/investing/2025/01/11/2-incredible-beaten-down-stocks-to-buy-in-2025-and/",
@@ -1839,155 +1927,6 @@
                     "relevance_score": "0.045655",
                     "ticker_sentiment_score": "0.073195",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "McDonald's Stock Has Underperformed the S&P 500 in 5 of the Past 6 Years. Will 2025 Be Any Better?",
-            "url": "https://www.fool.com/investing/2025/01/11/mcdonalds-stock-has-underperformed-the-sp-500-in-5/",
-            "time_published": "20250111T083300",
-            "authors": [
-                "David Jagielski"
-            ],
-            "summary": "McDonald's ( NYSE: MCD ) is coming off a tough year in 2024. But that's really only part of the story for a stock that simply hasn't been a good buy for a while now. Last year was just the latest one in which the popular fast food stock underperformed the market.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/802833/person-drinking-at-a-food-court.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.897321"
-                }
-            ],
-            "overall_sentiment_score": 0.246308,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MDNDF",
-                    "relevance_score": "0.848177",
-                    "ticker_sentiment_score": "0.401455",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Macroscope | Biden's blocking of US Steel deal latest sign of globalisation in retreat",
-            "url": "https://www.scmp.com/opinion/world-opinion/article/3294170/bidens-blocking-us-steel-deal-latest-sign-globalisation-retreat",
-            "time_published": "20250111T083008",
-            "authors": [
-                "Anthony Rowley"
-            ],
-            "summary": "Despite increased levels of international engagement, governments are unwilling to make concessions on sovereignty even in the global interest.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/b506503a-939d-4da3-8ded-9c6d16de8023_399ee159.jpg?itok=4ECNdCsA&v=1736494137",
-            "source": "South China Morning Post",
-            "category_within_source": "Economy",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.012148,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SNLC",
-                    "relevance_score": "0.045918",
-                    "ticker_sentiment_score": "0.045006",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CHYL",
-                    "relevance_score": "0.045918",
-                    "ticker_sentiment_score": "0.001982",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NISTF",
-                    "relevance_score": "0.182162",
-                    "ticker_sentiment_score": "-0.252489",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Prediction: Nvidia Will Be the Biggest Winner in Microsoft's $80 Billion AI Spending Spree",
-            "url": "https://www.fool.com/investing/2025/01/11/prediction-nvidia-win-microsoft-ai-spending/",
-            "time_published": "20250111T083000",
-            "authors": [
-                "Geoffrey Seiler"
-            ],
-            "summary": "Microsoft ( NASDAQ: MSFT ) made headlines late last week when it announced it would spend $80 billion this year building data centers that would train artificial intelligence ( AI ) models and handle AI and cloud-based applications around the world. More than half of the investment will be in the ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803316%2Fgettyimages-1204583606.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.258397,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.049732",
-                    "ticker_sentiment_score": "0.18017",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.29176",
-                    "ticker_sentiment_score": "0.147089",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.099271",
-                    "ticker_sentiment_score": "0.144561",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.425428",
-                    "ticker_sentiment_score": "0.431202",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.049732",
-                    "ticker_sentiment_score": "0.152709",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MRVL",
-                    "relevance_score": "0.049732",
-                    "ticker_sentiment_score": "0.152709",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
