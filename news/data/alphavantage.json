@@ -1,8 +1,174 @@
 {
-    "items": "37",
+    "items": "36",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "ROSEN, LEADING TRIAL ATTORNEYS, Encourages Capri Holdings Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action - CPRI - Capri Holdings  ( NYSE:CPRI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42933224/rosen-leading-trial-attorneys-encourages-capri-holdings-limited-investors-to-secure-counsel-before",
+            "time_published": "20250111T185500",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, announces the filing of a class action lawsuit on behalf of purchasers of stock or sellers of puts of Capri Holdings Limited CPRI between August 10, 2023 and October 24, 2024, both dates ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.185317,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.051774",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CPRI",
+                    "relevance_score": "0.524949",
+                    "ticker_sentiment_score": "0.155458",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TPR",
+                    "relevance_score": "0.051774",
+                    "ticker_sentiment_score": "0.049026",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Dogecoin Whales Accumulate Nearly 1 Billion DOGE After Elon Musk's Crypto Forecast",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42933208/dogecoin-whales-accumulate-nearly-1-billion-doge-in-two-days-after-elon-musks-crypto-forec",
+            "time_published": "20250111T184521",
+            "authors": [
+                "Bibhu Pattnaik"
+            ],
+            "summary": "Market reacts with volatility as Dogecoin prices dive and whales bet big amidst Musk's inflation comments. Get Real-Time News and Alerts for Your Portfolio Whales have amassed almost 1 billion Dogecoin DOGE/USD within a span of 48 hours.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Dogecoins-Surge--Thanks-to-Elon-Musk-and.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.890401"
+                }
+            ],
+            "overall_sentiment_score": 0.110686,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.09989",
+                    "ticker_sentiment_score": "0.105187",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.198221",
+                    "ticker_sentiment_score": "-0.063569",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.921137",
+                    "ticker_sentiment_score": "0.093674",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Do Kwon's Terra Trial Set for 2026-Here's What You Need to Know",
+            "url": "https://decrypt.co/300453/do-kwon-terra-trial-what-you-need-know",
+            "time_published": "20250111T183719",
+            "authors": [
+                "Vismaya V"
+            ],
+            "summary": "Terra founder Do Kwon's criminal trial has been set. Here's what you need to know about the $40 billion collapse of TerraUSD and LUNA.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Screen-Shot-2022-04-02-at-8.38.24-AM-e1652464007264-gID_7.png",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                }
+            ],
+            "overall_sentiment_score": -0.309014,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPGX",
+                    "relevance_score": "0.053749",
+                    "ticker_sentiment_score": "0.031",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:UST",
+                    "relevance_score": "0.541654",
+                    "ticker_sentiment_score": "-0.515165",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "In Joe Rogan Interview, Zuckerberg Expresses Confidence in Trump's Support for Tech Sector: 'I Think He Just Wants America to Win'",
+            "url": "https://www.benzinga.com/general/social-media/25/01/42933181/in-joe-rogan-interview-zuckerberg-expresses-confidence-in-trumps-support-for-tech-sector-i-t",
+            "time_published": "20250111T183015",
+            "authors": [
+                "Bibhu Pattnaik"
+            ],
+            "summary": "In his Friday appearance on Joe Rogan's podcast, Mark Zuckerberg voiced his optimism regarding President-elect Donald Trump's support for the American tech industry.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Mark-Zuckerberg-Donald-Trump.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.377964,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.272788",
+                    "ticker_sentiment_score": "0.144399",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Medicare Fraud Allegations Cast Shadow Over PACS Group  ( PACS )  - Hagens Berman - PACS Group  ( NYSE:PACS ) ",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42933163/medicare-fraud-allegations-cast-shadow-over-pacs-group-pacs-hagens-berman",
@@ -1499,305 +1665,6 @@
                     "ticker": "APLT",
                     "relevance_score": "0.836664",
                     "ticker_sentiment_score": "0.008414",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "The Next Stage of the Artificial Intelligence  ( AI )  Revolution Has Arrived -- Say Hello to Digital Labor",
-            "url": "https://www.fool.com/investing/2025/01/11/digital-labor-stage-of-ai-revolution-has-arrived/",
-            "time_published": "20250111T143100",
-            "authors": [
-                "Anders Bylund"
-            ],
-            "summary": "What happens when AI starts writing its own instructions? Digital labor is evolving faster than you think.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803363/ai-android-black-robot-head.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.249413,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.08398",
-                    "ticker_sentiment_score": "0.111637",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PATH",
-                    "relevance_score": "0.08398",
-                    "ticker_sentiment_score": "-0.108552",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FVRR",
-                    "relevance_score": "0.08398",
-                    "ticker_sentiment_score": "0.060769",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.08398",
-                    "ticker_sentiment_score": "0.111637",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.042048",
-                    "ticker_sentiment_score": "0.13036",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "UBER",
-                    "relevance_score": "0.08398",
-                    "ticker_sentiment_score": "0.060769",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Rivian, Intuitive Machines, Rigetti Computing - And Dogecoin Analyst Foresees Drop To 30 Cents: Bulls And Bears",
-            "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/01/42932568/benzinga-bulls-and-bears-rivian-intuitive-machines-rigetti-computing-and-dogecoin-analys",
-            "time_published": "20250111T143019",
-            "authors": [
-                "Michael Cohen"
-            ],
-            "summary": "AMD unveils AI processors and gaming products, sparking investor optimism ahead of CES. Dogecoin faces potential decline as analysts worry over Bitcoin's failure to recover. Get Real-Time News and Alerts for Your Portfolio",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/bulls-and-bears-ai23.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.04174,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.160277",
-                    "ticker_sentiment_score": "0.0664",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RIVN",
-                    "relevance_score": "0.107255",
-                    "ticker_sentiment_score": "0.115657",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NOK",
-                    "relevance_score": "0.160277",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RGTI",
-                    "relevance_score": "0.107255",
-                    "ticker_sentiment_score": "0.053748",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "LUNR",
-                    "relevance_score": "0.160277",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "QUBT",
-                    "relevance_score": "0.107255",
-                    "ticker_sentiment_score": "0.053748",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "LMT",
-                    "relevance_score": "0.160277",
-                    "ticker_sentiment_score": "-0.165423",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "QBTS",
-                    "relevance_score": "0.107255",
-                    "ticker_sentiment_score": "0.053748",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "VWAGY",
-                    "relevance_score": "0.107255",
-                    "ticker_sentiment_score": "0.115657",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RTX",
-                    "relevance_score": "0.107255",
-                    "ticker_sentiment_score": "-0.135899",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.21258",
-                    "ticker_sentiment_score": "0.295727",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "GD",
-                    "relevance_score": "0.107255",
-                    "ticker_sentiment_score": "-0.135899",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BA",
-                    "relevance_score": "0.160277",
-                    "ticker_sentiment_score": "-0.165423",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.160277",
-                    "ticker_sentiment_score": "-0.318763",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "CRYPTO:DOGE",
-                    "relevance_score": "0.21258",
-                    "ticker_sentiment_score": "-0.438603",
-                    "ticker_sentiment_label": "Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Thales Norway awards order to Kitron",
-            "url": "https://www.globenewswire.com/news-release/2025/01/11/3008009/0/en/Thales-Norway-awards-order-to-Kitron.html",
-            "time_published": "20250111T142800",
-            "authors": [
-                "Kitron ASA"
-            ],
-            "summary": "( 2025-01-11 ) Kitron has received an order with a value of NOK 46 million from Thales Norway.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/b0798877-646e-4c1d-a60b-317a300310d1",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.252836,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "THLEF",
-                    "relevance_score": "0.447528",
-                    "ticker_sentiment_score": "0.549514",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "V FINAL DEADLINE: ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Visa Inc. Investors to Secure Counsel Before Important January 21 Deadline in Securities Class Action First Filed by the Firm - V - Visa  ( NYSE:V ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42932560/v-final-deadline-rosen-trusted-investor-counsel-encourages-visa-inc-investors-to-secure-counsel-be",
-            "time_published": "20250111T142300",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Visa Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.150014,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.062271",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "V",
-                    "relevance_score": "0.415535",
-                    "ticker_sentiment_score": "0.017319",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "ROSEN, NATIONAL INVESTOR COUNSEL, Encourages Transocean Ltd. Investors to Secure Counsel Before Important Deadline in Securities Class Action - RIG - Transocean  ( NYSE:RIG ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42932559/rosen-national-investor-counsel-encourages-transocean-ltd-investors-to-secure-counsel-before-impor",
-            "time_published": "20250111T142200",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Transocean Ltd. RIG between October 31, 2023 and September 2, 2024, both dates inclusive ( the \"Class Period\" ) , of the important February 24, 2025 lead ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.182901,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.06211",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RIG",
-                    "relevance_score": "0.359881",
-                    "ticker_sentiment_score": "0.109265",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
