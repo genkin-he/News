@@ -1,8 +1,94 @@
 {
-    "items": "36",
+    "items": "37",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "BDTCOIN Launches on Tier 1 Exchanges: Unlock New Investment Opportunities in Web3 and AI",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42933434/bdtcoin-launches-on-tier-1-exchanges-unlock-new-investment-opportunities-in-web3-and-ai",
+            "time_published": "20250111T201951",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "FERNANDINA BEACH, Fla., Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- BDTCOIN, the world's first gold-backed cryptocurrency, is set to achieve a groundbreaking milestone with its imminent listing on a leading global crypto exchange.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/d9d34687-9b9b-4e98-b37c-46e5c67939dd/image-2.jpeg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.983605"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                }
+            ],
+            "overall_sentiment_score": 0.552016,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PRFUF",
+                    "relevance_score": "0.069294",
+                    "ticker_sentiment_score": "0.196081",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.138066",
+                    "ticker_sentiment_score": "0.339698",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "California's $10 Trillion Property Market Faces Unprecedented Threat From Wildfires - Allstate  ( NYSE:ALL ) , American Intl Gr  ( NYSE:AIG ) ",
+            "url": "https://www.benzinga.com/news/25/01/42933396/californias-10-trillion-property-market-faces-unprecedented-threat-from-wildfires",
+            "time_published": "20250111T200042",
+            "authors": [
+                "Bibhu Pattnaik"
+            ],
+            "summary": "California's $10 trillion residential property market is under siege as wildfires wreak havoc across the southern part of the state. What Happened: The fires, which have already destroyed more than 5,000 buildings, pose a potential risk to the stability of the state's insurance market.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/1024px-MODIS-Aqua-SoCal-Bands-7--4--and-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.063411,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TRV",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "-0.128112",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PGR",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "-0.128112",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AIG",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "-0.128112",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CB",
+                    "relevance_score": "0.193207",
+                    "ticker_sentiment_score": "-0.081407",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "ROSEN, LEADING TRIAL ATTORNEYS, Encourages Marqeta, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - MQ - Marqeta  ( NASDAQ:MQ ) ",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42933381/rosen-leading-trial-attorneys-encourages-marqeta-inc-investors-to-secure-counsel-before-important-",
@@ -1631,49 +1717,6 @@
             "overall_sentiment_score": 0.339825,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
-        },
-        {
-            "title": "Lockheed Martin Scores a $15.5 Billion Bonanza for New F-35s. Is the Stock a Buy for 2025?",
-            "url": "https://www.fool.com/investing/2025/01/11/lockheed-martin-155-billion-is-stock-a-buy-in-2025/",
-            "time_published": "20250111T144500",
-            "authors": [
-                "Rich Smith"
-            ],
-            "summary": "Whether Lockheed Martin stock is a buy depends in large part on sales of its F-35.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802894%2Ff35-close-up.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.992549"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.990999"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.266068,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SPGI",
-                    "relevance_score": "0.055364",
-                    "ticker_sentiment_score": "0.047966",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "LMT",
-                    "relevance_score": "0.468029",
-                    "ticker_sentiment_score": "0.330715",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
         }
     ]
 }
