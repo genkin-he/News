@@ -1,8 +1,171 @@
 {
-    "items": "41",
+    "items": "37",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Medicare Fraud Allegations Cast Shadow Over PACS Group  ( PACS )  - Hagens Berman - PACS Group  ( NYSE:PACS ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42933163/medicare-fraud-allegations-cast-shadow-over-pacs-group-pacs-hagens-berman",
+            "time_published": "20250111T181900",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "SAN FRANCISCO, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- PACS Group PACS, a nursing home operator that saw its stock soar after its initial public offering in April, has experienced a precipitous decline in recent weeks, losing 70 percent of its market capitalization since early November.",
+            "banner_image": "https://ml.globenewswire.com/media/51670c91-d369-4a8c-8102-d393de9f6d19/small/download-jpg.jpg",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.918141"
+                }
+            ],
+            "overall_sentiment_score": 0.014781,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PACS",
+                    "relevance_score": "0.571178",
+                    "ticker_sentiment_score": "-0.173824",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "$HAREHOLDER ALERT: The M&A Class Action Firm Continues To Investigate The Merger - SDIG, IPXX, LBRDA, ML",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42933132/hareholder-alert-the-m-a-class-action-firm-continues-to-investigate-the-merger-sdig-ipxx-lbrda-ml",
+            "time_published": "20250111T180000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- Monteverde & Associates PC ( the \"M&A Class Action Firm\" ) , has recovered millions of dollars for shareholders and is recognized as a Top 50 Firm by ISS Securities Class Action Services Report.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.998947"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.299155,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GEN",
+                    "relevance_score": "0.155451",
+                    "ticker_sentiment_score": "0.293154",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "IPXX",
+                    "relevance_score": "0.231332",
+                    "ticker_sentiment_score": "0.224095",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BITF",
+                    "relevance_score": "0.155451",
+                    "ticker_sentiment_score": "0.364402",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "LBRDP",
+                    "relevance_score": "0.376005",
+                    "ticker_sentiment_score": "0.336179",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SDIG",
+                    "relevance_score": "0.231332",
+                    "ticker_sentiment_score": "0.345669",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CHTR",
+                    "relevance_score": "0.078099",
+                    "ticker_sentiment_score": "0.17681",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ML",
+                    "relevance_score": "0.305058",
+                    "ticker_sentiment_score": "0.380487",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why AST SpaceMobile Stock Rocketed 250% Higher in 2024",
+            "url": "https://www.fool.com/investing/2025/01/11/why-ast-spacemobile-stock-rocketed-250-higher-in/",
+            "time_published": "20250111T173000",
+            "authors": [
+                "Courtney Carlsen"
+            ],
+            "summary": "Shares of satellite designer and manufacturer AST SpaceMobile ( NASDAQ: ASTS ) rocketed 250% higher in 2024, according to data provided by S&P Global Market Intelligence. The space company made significant progress establishing its spaced-based cellular broadband network during the year and inked ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803624%2Fsatellites-orbiting-the-earth-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.337928,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "VZ",
+                    "relevance_score": "0.182506",
+                    "ticker_sentiment_score": "0.216595",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.09186",
+                    "ticker_sentiment_score": "0.238591",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASTS",
+                    "relevance_score": "0.580732",
+                    "ticker_sentiment_score": "0.446844",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
         {
             "title": "Analyst Downgrade Fuels Further Decline for Celsius  ( CELH )  Shares Amid Sales Concerns and Investor Lawsuit- Hagens Berman - Celsius Holdings  ( NASDAQ:CELH ) ",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42933075/analyst-downgrade-fuels-further-decline-for-celsius-celh-shares-amid-sales-concerns-and-investor-l",
@@ -1636,300 +1799,6 @@
                     "relevance_score": "0.359881",
                     "ticker_sentiment_score": "0.109265",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "The Best S&P 500 ETF to Invest $1,000 in Right Now",
-            "url": "https://www.fool.com/investing/2025/01/11/the-best-sp-500-etf-to-invest-1000-in-right-now/",
-            "time_published": "20250111T141500",
-            "authors": [
-                "Chris Neiger"
-            ],
-            "summary": "Putting $1,000 into any investment is a significant commitment, with the obvious goal of maximizing your return and minimizing your losses. One fantastic way to do that is with an exchange-traded fund ( ETF ) , which allows you to buy shares like you would a stock and can be purchased with small ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803354%2Finvestor-trader-chart-graph-stock-point-growth-profit-loss-1200x800-5b2df79.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999999"
-                }
-            ],
-            "overall_sentiment_score": 0.198287,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MORN",
-                    "relevance_score": "0.077593",
-                    "ticker_sentiment_score": "0.184838",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "BRK-A",
-                    "relevance_score": "0.154455",
-                    "ticker_sentiment_score": "0.160339",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "AZN INVESTOR DEADLINE: Robbins Geller Rudman & Dowd LLP Announces that AstraZeneca PLC Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AstraZeneca  ( NASDAQ:AZN ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42932497/azn-investor-deadline-robbins-geller-rudman-dowd-llp-announces-that-astrazeneca-plc-investors-with",
-            "time_published": "20250111T140057",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "SAN DIEGO, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- The law firm of Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of AstraZeneca PLC AZN publicly traded securities between February 23, 2022 and December 17, 2024, inclusive ( the \"Class Period\" ) , have until February 21, ...",
-            "banner_image": "https://ml.globenewswire.com/media/a2879a30-a9fa-457e-97f6-7e2cd2528b7b/small/rgrd-logo-2-jpg.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.614606"
-                }
-            ],
-            "overall_sentiment_score": 0.039185,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AZN",
-                    "relevance_score": "0.932083",
-                    "ticker_sentiment_score": "-0.060823",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Why Amazon Rallied 44.4% in 2024",
-            "url": "https://www.fool.com/investing/2025/01/11/why-amazon-rallied-444-in-2024/",
-            "time_published": "20250111T140000",
-            "authors": [
-                "Billy Duberstein"
-            ],
-            "summary": "Shares of retail and cloud computing behemoth Amazon ( NASDAQ: AMZN ) rallied 44.4% in 2024, according to data from S&P Global Market Intelligence.Like most of the \"Magnificent Seven,\" Amazon had a great 2024 as investors piled into large-cap technology stocks participating in the artificial ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803392%2Fgettyimages-1515913422.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.459462"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.182916,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.11894",
-                    "ticker_sentiment_score": "-0.109962",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.059636",
-                    "ticker_sentiment_score": "0.07644",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SPGI",
-                    "relevance_score": "0.059636",
-                    "ticker_sentiment_score": "0.14187",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.796563",
-                    "ticker_sentiment_score": "0.298451",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Want to Invest in Artificial Intelligence  ( AI ) ? This High-Yield Stock Could Be the Best Way in January",
-            "url": "https://www.fool.com/investing/2025/01/11/want-to-invest-in-artificial-intelligence-ai-this/",
-            "time_published": "20250111T140000",
-            "authors": [
-                "Jason Hall and Tyler Crowe"
-            ],
-            "summary": "Brookfield Renewable and its peers are likely to generate a lot of the new electricity demand that powers artificial intelligence in the years ahead.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803604/ai-semiconductors.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.144107,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BEP",
-                    "relevance_score": "0.92528",
-                    "ticker_sentiment_score": "-0.249717",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "5 Top REITs for 2025  ( Huge Income ) ",
-            "url": "https://www.fool.com/investing/2025/01/11/5-top-reits-for-2025-huge-income/",
-            "time_published": "20250111T135600",
-            "authors": [
-                "CPA",
-                "Mark Roussin"
-            ],
-            "summary": "REITs are being overlooked at current valuations.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803673/relaxed-investor-watching-stocks-analyst.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.268159,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "VICI",
-                    "relevance_score": "0.514619",
-                    "ticker_sentiment_score": "0.527003",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Celanese Corporation Announcement: If You Have Suffered Losses in Celanese Corporation  ( NYSE: CE ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Celanese  ( NYSE:CE ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42932465/celanese-corporation-announcement-if-you-have-suffered-losses-in-celanese-corporation-nyse-ce-you-",
-            "time_published": "20250111T135300",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, announces an investigation of potential securities claims on behalf of shareholders of Celanese Corporation CE resulting from allegations that Celanese Corporation may have issued materially ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.744043"
-                }
-            ],
-            "overall_sentiment_score": 0.209824,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.07157",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Could Investing $5,000 in Coca-Cola Make You a Millionaire?",
-            "url": "https://www.fool.com/investing/2025/01/11/could-invest-5000-coca-cola-make-you-millionaire/",
-            "time_published": "20250111T134500",
-            "authors": [
-                "Neil Patel"
-            ],
-            "summary": "Coca-Cola ( NYSE: KO ) is known worldwide. It sells numerous ready-to-drink products and has a presence in 200 countries and territories. With a whopping 1.9 billion servings consumed daily, Coca-Cola might have the broadest reach of any company in the world.The company has generated a total ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803231/glass-bottles-coca-cola.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.905476"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.407782,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "KO",
-                    "relevance_score": "0.750038",
-                    "ticker_sentiment_score": "0.529021",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "BRK-A",
-                    "relevance_score": "0.070517",
-                    "ticker_sentiment_score": "0.262103",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
