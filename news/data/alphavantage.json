@@ -1,8 +1,345 @@
 {
-    "items": "41",
+    "items": "40",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "NXT CLASS ACTION ALERT: Nextracker Inc. Investors that Lost Money may have been Affected by Fraud - Contact BFA Law by February 25 Legal Deadline  ( NASDAQ:NXT )  - NEXTracker  ( NASDAQ:NXT ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42932380/nxt-class-action-alert-nextracker-inc-investors-that-lost-money-may-have-been-affected-by-fraud-co",
+            "time_published": "20250111T131800",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against Nextracker Inc. NXT and certain of the Company's senior executives for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.070184,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NXT(EXP20091224)",
+                    "relevance_score": "0.635378",
+                    "ticker_sentiment_score": "0.040362",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.065685",
+                    "ticker_sentiment_score": "0.139522",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:NXT",
+                    "relevance_score": "0.065685",
+                    "ticker_sentiment_score": "0.062914",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "MQ CLASS ACTION ALERT: Marqeta, Inc. Investors that Lost Money may have been Affected by Fraud - Contact BFA Law by February 7 Legal Deadline  ( NASDAQ:MQ )  - Marqeta  ( NASDAQ:MQ ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42932376/mq-class-action-alert-marqeta-inc-investors-that-lost-money-may-have-been-affected-by-fraud-contac",
+            "time_published": "20250111T131600",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against Marqeta, Inc. MQ and certain of the Company's senior executives for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.195452,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MQ",
+                    "relevance_score": "0.700607",
+                    "ticker_sentiment_score": "0.305946",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.075161",
+                    "ticker_sentiment_score": "0.141057",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ZETA CLASS ACTION ALERT: Zeta Global Holdings Investors that Lost Money may have been Affected by Fraud - Contact BFA Law by January 21 Legal Deadline  ( NYSE:ZETA )  - Zeta Global Holdings  ( NYSE:ZETA ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42932375/zeta-class-action-alert-zeta-global-holdings-investors-that-lost-money-may-have-been-affected-by-f",
+            "time_published": "20250111T131600",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against Zeta Global Holdings Corp. ZETA and certain of the Company's senior executives for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.101178,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ZETA",
+                    "relevance_score": "0.422661",
+                    "ticker_sentiment_score": "0.049468",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.074001",
+                    "ticker_sentiment_score": "0.140817",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ASML COURT DEADLINE: ASML Holding N.V. Investors that Lost Money may have been Affected by Fraud - Contact BFA Law by Monday's Legal Deadline  ( NASDAQ:ASML )  - ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42932368/asml-court-deadline-asml-holding-n-v-investors-that-lost-money-may-have-been-affected-by-fraud-con",
+            "time_published": "20250111T131500",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that it has filed a class action lawsuit for violations of the federal securities laws against ASML Holding N.V. ASML and certain of the Company's senior executives.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.093807,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASML",
+                    "relevance_score": "0.67831",
+                    "ticker_sentiment_score": "0.190098",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ON",
+                    "relevance_score": "0.071784",
+                    "ticker_sentiment_score": "-0.005054",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.071784",
+                    "ticker_sentiment_score": "0.140399",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "PACS COURT DEADLINE: PACS Group Investors that Lost Money may have been Affected by Fraud - Contact BFA Law by Monday's Legal Deadline  ( NYSE:PACS )  - PACS Group  ( NYSE:PACS ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42932363/pacs-court-deadline-pacs-group-investors-that-lost-money-may-have-been-affected-by-fraud-contact-b",
+            "time_published": "20250111T131200",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against PACS Group, Inc. PACS and certain of the Company's senior executives for potential violations of the federal securities laws.",
+            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.918141"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.189807,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PACS",
+                    "relevance_score": "0.829615",
+                    "ticker_sentiment_score": "0.306185",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.064276",
+                    "ticker_sentiment_score": "0.139379",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Symbotic Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - SYM - Symbotic  ( NASDAQ:SYM ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42932353/rosen-leading-investor-counsel-encourages-symbotic-inc-investors-to-secure-counsel-before-importan",
+            "time_published": "20250111T130700",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Symbotic Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.15746,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.063258",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SYM",
+                    "relevance_score": "0.366061",
+                    "ticker_sentiment_score": "0.031862",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Should You Forget Nvidia and Buy This Tech Stock Instead?",
+            "url": "https://www.fool.com/investing/2025/01/11/should-you-forget-nvidia-and-buy-this-tech-stock/",
+            "time_published": "20250111T125100",
+            "authors": [
+                "Anders Bylund"
+            ],
+            "summary": "This crestfallen sector titan looks undervalued today.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803262%2Fconfused-head-scratching.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.996023"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.12233,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.118647",
+                    "ticker_sentiment_score": "-0.010797",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.118647",
+                    "ticker_sentiment_score": "0.06655",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.449503",
+                    "ticker_sentiment_score": "0.204659",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.544495",
+                    "ticker_sentiment_score": "0.228742",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "This Top Artificial Intelligence ETF Invests In AI Stocks You've Probably Never Heard Of",
             "url": "https://www.fool.com/investing/2025/01/11/this-top-artificial-intelligence-etf-invests-in-ai/",
@@ -1495,415 +1832,6 @@
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
-        },
-        {
-            "title": "Have $500? 2 Absurdly Cheap Stocks Long-Term Investors Should Buy Right Now",
-            "url": "https://www.fool.com/investing/2025/01/11/have-500-2-absurdly-cheap-stocks-long-term-investo/",
-            "time_published": "20250111T093200",
-            "authors": [
-                "Lawrence Rothman",
-                "CFA"
-            ],
-            "summary": "The S&P 500 gained 24.2% and 23.3% in 2023 and 2024, respectively. Naturally, this has made many stock investors happy and wealthier.That makes finding stocks trading at an attractive valuation a challenge, however.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802961%2Fgettyimages-483562851-1200x834-a844512.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.87644"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.263652,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HD",
-                    "relevance_score": "0.205807",
-                    "ticker_sentiment_score": "0.26737",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ULTA",
-                    "relevance_score": "0.205807",
-                    "ticker_sentiment_score": "0.188064",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Warren Buffett Owns 2 S&P 500 Index Funds. They Could Soar 153%, According to a Top Wall Street Analyst",
-            "url": "https://www.fool.com/investing/2025/01/11/warren-buffett-sp-500-funds-soar-153-wall-street/",
-            "time_published": "20250111T092800",
-            "authors": [
-                "Anthony Di Pizio"
-            ],
-            "summary": "Warren Buffett is the CEO of Berkshire Hathaway, a holding company with a $296 billion portfolio of publicly traded stocks and securities, in addition to several wholly owned subsidiaries. It also has a $325 billion pile of cash, which Buffett and his team can deploy when they find new ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803282%2Fwarren-buffett-smiling-surrounded-by-cameras.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999998"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.25"
-                }
-            ],
-            "overall_sentiment_score": 0.159187,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.133841",
-                    "ticker_sentiment_score": "-0.101497",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.133841",
-                    "ticker_sentiment_score": "-0.101497",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "COST",
-                    "relevance_score": "0.044801",
-                    "ticker_sentiment_score": "0.087394",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "KO",
-                    "relevance_score": "0.044801",
-                    "ticker_sentiment_score": "0.087394",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BRK-A",
-                    "relevance_score": "0.089462",
-                    "ticker_sentiment_score": "0.094176",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "WMT",
-                    "relevance_score": "0.044801",
-                    "ticker_sentiment_score": "0.087394",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "2 Popular AI Stocks to Sell Before They Drop 24% and 66% in 2025, According to Certain Wall Street Analysts",
-            "url": "https://www.fool.com/investing/2025/01/11/2-ai-stocks-to-sell-before-drop-66-wall-street/",
-            "time_published": "20250111T092500",
-            "authors": [
-                "Trevor Jennewine"
-            ],
-            "summary": "Apple ( NASDAQ: AAPL ) shares have advanced 34% during the past year, but that upside has been driven almost entirely by valuation multiple expansion rather than earnings growth. Consequently, some Wall Street analysts have turned bearish on the stock in the last couple of weeks.Tim Long at ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803445/market-red-10.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.459462"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.996675"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.160453,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SSNLF",
-                    "relevance_score": "0.047371",
-                    "ticker_sentiment_score": "0.173623",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.447528",
-                    "ticker_sentiment_score": "0.273228",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "BCS",
-                    "relevance_score": "0.094576",
-                    "ticker_sentiment_score": "0.007568",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.594412",
-                    "ticker_sentiment_score": "0.152434",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Warren Buffett Just Sold Nu Stock. Here's Why You Probably Shouldn't.",
-            "url": "https://www.fool.com/investing/2025/01/11/warren-buffett-just-sold-nu-stock-heres-why-you-pr/",
-            "time_published": "20250111T092300",
-            "authors": [
-                "Jennifer Saibil"
-            ],
-            "summary": "Warren Buffett has been a net seller of stocks over the past eight quarters, building Berkshire Hathaway's cash reserves to its highest-ever level. He's completely exited some positions, like Floor & Decor, and trimmed down positions in others, like Apple.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/802960/person-holding-a-phone.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999186"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.744043"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.167376,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BRK-A",
-                    "relevance_score": "0.051663",
-                    "ticker_sentiment_score": "0.022812",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NU",
-                    "relevance_score": "0.103109",
-                    "ticker_sentiment_score": "0.024547",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "3 No-Brainer, High-Yield REIT Stocks to Buy With $1,000 Right Now",
-            "url": "https://www.fool.com/investing/2025/01/11/3-no-brainer-high-yield-reit-stocks-to-buy-with-10/",
-            "time_published": "20250111T091400",
-            "authors": [
-                "Reuben Gregg Brewer"
-            ],
-            "summary": "If you have $1,000 to put to work buying equities today, there are plenty of attractive dividend stocks to consider. Three of the most interesting right now are Rexford Industrial ( NYSE: REXR ) , Realty Income ( NYSE: O ) , and EPR Properties ( NYSE: EPR ) , with yields ranging from 4.3% to 7.6%.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803145/24_11_14-a-pile-of-money-with-a-sticky-note-that-says-passive-income-on-it-_mf-dload-gettyimages-1346786874-1200x800-5b2df79.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.5855"
-                }
-            ],
-            "overall_sentiment_score": 0.28149,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "EPR",
-                    "relevance_score": "0.342939",
-                    "ticker_sentiment_score": "0.31777",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "O",
-                    "relevance_score": "0.296463",
-                    "ticker_sentiment_score": "0.278616",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Prediction: These 5 Dividend-Paying Growth Stocks Will Boost Their Payouts By 10% or More In 2025, Even if There's a Stock Market Sell-Off",
-            "url": "https://www.fool.com/investing/2025/01/11/buy-dividend-growth-stock-2025/",
-            "time_published": "20250111T091400",
-            "authors": [
-                "Daniel Foelber"
-            ],
-            "summary": "2024 was a phenomenal year for most mega-cap growth stocks, which helped lead broader indexes like the S&P 500 ( SNPINDEX: ^GSPC ) to new heights. Still, some investors may be concerned that the rally is a bit overextended.Even weak companies can see their stock prices rise when investors are ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802914%2Fgettyimages-614495780-1201x801-d21b45d.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.99793"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.9545"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.349134,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.136888",
-                    "ticker_sentiment_score": "0.10528",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "V",
-                    "relevance_score": "0.545013",
-                    "ticker_sentiment_score": "0.526812",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.545013",
-                    "ticker_sentiment_score": "0.526812",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Here's Why Rivian Stock Is a Buy Before Feb. 20",
-            "url": "https://www.fool.com/investing/2025/01/11/heres-why-rivian-stock-is-a-buy-before-feb-20/",
-            "time_published": "20250111T091000",
-            "authors": [
-                "Ryan Vanzo"
-            ],
-            "summary": "Rivian's ( NASDAQ: RIVN ) stock price has been volatile over the last 12 months, gyrating in price between $8 and $20. But make no mistake: Long term, this electric vehicle ( EV ) maker has huge growth potential. And next month could bring one of the most important announcements in company ...",
-            "banner_image": "https://media.ycharts.com/charts/a1cc0f78603d819a5bed92505bb2c464.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.858979"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.04895,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LCID",
-                    "relevance_score": "0.112797",
-                    "ticker_sentiment_score": "0.049022",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RIVN",
-                    "relevance_score": "0.521812",
-                    "ticker_sentiment_score": "-0.037025",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.112797",
-                    "ticker_sentiment_score": "0.049022",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "India's economy expected to be 'little weaker' in 2025, says IMF chief - ETCFO",
-            "url": "https://cfo.economictimes.indiatimes.com/news/economy/indias-economy-expected-to-be-little-weaker-in-2025-says-imf-chief/117143853",
-            "time_published": "20250111T091000",
-            "authors": [
-                "ETCFO",
-                "TOI Business Desk"
-            ],
-            "summary": "Kristalina Georgieva, IMF managing director, predicts India's economy will be slightly weaker in 2025 due to global uncertainties, including US trade policies. While the US performs better, the EU stalls, and China faces deflationary pressures, India's GDP growth in 2024-25 is expected to slow to ...",
-            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
-            "source": "Economic Times",
-            "category_within_source": "Economy",
-            "source_domain": "cfo.economictimes.indiatimes.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.838487"
-                }
-            ],
-            "overall_sentiment_score": -0.038679,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
         }
     ]
 }
