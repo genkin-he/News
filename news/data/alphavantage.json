@@ -1,8 +1,255 @@
 {
-    "items": "42",
+    "items": "41",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "This Top Artificial Intelligence ETF Invests In AI Stocks You've Probably Never Heard Of",
+            "url": "https://www.fool.com/investing/2025/01/11/this-top-artificial-intelligence-etf-invests-in-ai/",
+            "time_published": "20250111T121600",
+            "authors": [
+                "Matt Frankel"
+            ],
+            "summary": "If you don't want to choose individual stocks to invest in AI technology, I can't say I blame you. Of the roughly three dozen individual stocks in my portfolio, I'd call two of them \"AI plays.\" And even these aren't really pure-plays - just businesses that stand to benefit from AI.Instead of ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803210/mobile-trading-2024.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.998287"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                }
+            ],
+            "overall_sentiment_score": 0.256976,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TER",
+                    "relevance_score": "0.121959",
+                    "ticker_sentiment_score": "0.112885",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.061159",
+                    "ticker_sentiment_score": "0.043",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.182047",
+                    "ticker_sentiment_score": "0.145651",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACHR",
+                    "relevance_score": "0.182047",
+                    "ticker_sentiment_score": "0.142762",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ANET",
+                    "relevance_score": "0.061159",
+                    "ticker_sentiment_score": "0.043",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.121959",
+                    "ticker_sentiment_score": "0.115179",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.121959",
+                    "ticker_sentiment_score": "0.257853",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "RKLB",
+                    "relevance_score": "0.121959",
+                    "ticker_sentiment_score": "0.112885",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.061159",
+                    "ticker_sentiment_score": "0.043",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Is Nvidia Secretly Working With Quantum Computers?",
+            "url": "https://www.fool.com/investing/2025/01/11/is-nvidia-secretly-working-with-quantum-computers/",
+            "time_published": "20250111T121500",
+            "authors": [
+                "Jose Najarro"
+            ],
+            "summary": "Here's a list of solutions Nvidia has for the quantum computing market.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803615/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.163093,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.985002",
+                    "ticker_sentiment_score": "0.405442",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why AMD Stock Is Crashing: Is It a Buying Opportunity?",
+            "url": "https://www.fool.com/investing/2025/01/11/why-amd-stock-is-crashing-is-it-a-buying-opportuni/",
+            "time_published": "20250111T121500",
+            "authors": [
+                "Neil Rozenbaum"
+            ],
+            "summary": "AMD stock is down 45% since it peaked last year.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803639/amd-headquarters-santa-clara-with-amd-logo-on-building_amd_advance.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.105931,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.985002",
+                    "ticker_sentiment_score": "0.289088",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "3 Artificial Intelligence  ( AI )  Stocks to Buy Hand Over Fist in January",
+            "url": "https://www.fool.com/investing/2025/01/11/3-artificial-intelligence-ai-stocks-to-buy-hand-ov/",
+            "time_published": "20250111T121500",
+            "authors": [
+                "Keithen Drury"
+            ],
+            "summary": "Artificial intelligence ( AI ) investing isn't just for 2024. It's still going to be a massive theme in 2025. As a result, investors should examine their portfolios and see if they have proper exposure to the biggest technological shift since the growth of the internet.Three AI stocks that ...",
+            "banner_image": "https://media.ycharts.com/charts/1c5ce5a6bda3d7b7351db67911674aae.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.962106"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.972476"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.396557,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.164282",
+                    "ticker_sentiment_score": "0.176934",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.321673",
+                    "ticker_sentiment_score": "0.335415",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "China Has a 6th-Generation Fighter Jet. What Does It Mean for Boeing, Lockheed Martin, and Northrop Grumman?",
+            "url": "https://www.fool.com/investing/2025/01/11/china-6th-generation-fighter-jet-boeing-lockheed/",
+            "time_published": "20250111T120700",
+            "authors": [
+                "Rich Smith"
+            ],
+            "summary": "It's probably safe to bet on defense stocks in the middle of an arms race.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803120%2Ff-22-raptor-silhouetted-against-a-sunrise.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.12572,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.206245",
+                    "ticker_sentiment_score": "0.089776",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BA",
+                    "relevance_score": "0.3527",
+                    "ticker_sentiment_score": "0.140293",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NOC",
+                    "relevance_score": "0.155451",
+                    "ticker_sentiment_score": "0.08412",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "China gets major Nigeria rail project back on track by granting key loan",
             "url": "https://www.scmp.com/economy/global-economy/article/3294268/china-gets-major-nigeria-rail-project-back-track-granting-key-loan",
@@ -39,6 +286,100 @@
                     "relevance_score": "0.066784",
                     "ticker_sentiment_score": "0.131703",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Will Meta's Artificial Intelligence Agents Be a Game Changer in 2025?",
+            "url": "https://www.fool.com/investing/2025/01/11/will-metas-artificial-intelligence-agents-be-a-gam/",
+            "time_published": "20250111T120000",
+            "authors": [
+                "Keithen Drury"
+            ],
+            "summary": "In 2025, generative artificial intelligence ( AI ) models will become much more useful because many of the companies involved with building them have started to develop agentic AI. This is the next phase, and it basically involves AI agents acting like people.While generative AI can be a useful ...",
+            "banner_image": "https://media.ycharts.com/charts/6bd8e1e303f974a8ea654caa294d5969.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.986564"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.356815,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.062926",
+                    "ticker_sentiment_score": "0.155508",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.306963",
+                    "ticker_sentiment_score": "0.449877",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.062926",
+                    "ticker_sentiment_score": "0.155508",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BNXYF",
+                    "relevance_score": "0.062926",
+                    "ticker_sentiment_score": "0.273528",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "2 High-Yield Dividend Stocks for 2025 and Beyond",
+            "url": "https://www.fool.com/investing/2025/01/11/2-high-yield-dividend-stocks-for-2025-and-beyond/",
+            "time_published": "20250111T120000",
+            "authors": [
+                "Jason Hall and Tyler Crowe"
+            ],
+            "summary": "A cash cow oil stock poised for a rebound, and a logistics giant building a more profitable business.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803595/passive-income-dividends.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.226472,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UPS",
+                    "relevance_score": "0.817578",
+                    "ticker_sentiment_score": "0.243532",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DINO",
+                    "relevance_score": "0.817578",
+                    "ticker_sentiment_score": "0.243532",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         },
@@ -88,6 +429,98 @@
                     "relevance_score": "0.082111",
                     "ticker_sentiment_score": "-0.108592",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "1 Nvidia-Backed Artificial Intelligence  ( AI )  Stock to Buy Before It's Too Late",
+            "url": "https://www.fool.com/investing/2025/01/11/1-nvidia-backed-artificial-intelligence-ai-stock-t/",
+            "time_published": "20250111T114500",
+            "authors": [
+                "Neil Rozenbaum"
+            ],
+            "summary": "This might be Wall Street's next AI darling this year.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803642/gettyimages-1364859722.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.23066,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.595343",
+                    "ticker_sentiment_score": "0.285755",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "2 High-Yield Dividend ETFs to Buy to Generate Passive Income",
+            "url": "https://www.fool.com/investing/2025/01/11/2-high-yield-dividend-etfs-to-buy-to-generate-pass/",
+            "time_published": "20250111T114000",
+            "authors": [
+                "Reuben Gregg Brewer"
+            ],
+            "summary": "It can be a little dispiriting to be a dividend investor today, given that the S&P 500 index ( SNPINDEX: ^GSPC ) has a tiny 1.2% yield. That, however, doesn't mean you can't find simple ways to boost the income your portfolio generates. Two of the best ways right now are the Schwab U.S.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803294%2F24_10_15-the-word-dividends-held-up-between-a-jar-of-coins-and-paper-money-_mf-dload-gettyimages-1324119709-1201x768-f5af3bb.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.188544,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Bitcoin Is a Better Buy Than Gold in 2025 and Beyond: Here's Why",
+            "url": "https://www.fool.com/investing/2025/01/11/bitcoin-better-buy-than-gold-in-2025-and-beyond/",
+            "time_published": "20250111T112500",
+            "authors": [
+                "Neil Patel"
+            ],
+            "summary": "The stock market had a wonderful performance last year. That bullish fever trickled to other assets, like gold. The precious metal saw its price rise 26% in 2024.But that gain doesn't hold a candle to Bitcoin ( CRYPTO: BTC ) , which soared 119% last year.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803505/gold-coins-with-bitcoin-logo-on-them.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                }
+            ],
+            "overall_sentiment_score": 0.369535,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.839263",
+                    "ticker_sentiment_score": "0.52397",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -1471,464 +1904,6 @@
             "overall_sentiment_score": -0.038679,
             "overall_sentiment_label": "Neutral",
             "ticker_sentiment": []
-        },
-        {
-            "title": "Could Investing $1,000 in Apple Make You a Millionaire?",
-            "url": "https://www.fool.com/investing/2025/01/11/could-investing-1000-apple-make-you-millionaire/",
-            "time_published": "20250111T090500",
-            "authors": [
-                "Neil Patel"
-            ],
-            "summary": "Buying and holding Apple ( NASDAQ: AAPL ) has without a doubt been one of the best investment decisions anyone could've ever made. Had you invested $1,000 in the consumer technology titan's shares roughly 44 years ago at its initial public offering, that position would be worth just under $2.5 ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803034/sitting-in-chair-throwing-money-in-air.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.796627"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.967645"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.218345,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.720958",
-                    "ticker_sentiment_score": "0.333767",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Jensen Huang Just Delivered Trillion-Dollar News to Nvidia Investors",
-            "url": "https://www.fool.com/investing/2025/01/11/jensen-huang-just-delivered-trillion-dollar-news/",
-            "time_published": "20250111T090300",
-            "authors": [
-                "Adria Cimino"
-            ],
-            "summary": "Nvidia ( NASDAQ: NVDA ) has offered investors good news on many occasions in recent years. From reports of record revenue and high demand for its new products to an invitation last year to join the Dow Jones Industrial Average, the chipmaker has been on fire.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803431%2Fgetty-happy-colleagues.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.77141"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.256205,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.478692",
-                    "ticker_sentiment_score": "0.445898",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.056808",
-                    "ticker_sentiment_score": "0.121",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "ChargePoint Stock: A Millionaire Maker in the Making?",
-            "url": "https://www.fool.com/investing/2025/01/11/chargepoint-stock-a-millionaire-maker-in-the-makin/",
-            "time_published": "20250111T090000",
-            "authors": [
-                "Reuben Gregg Brewer"
-            ],
-            "summary": "ChargePoint ( NYSE: CHPT ) is a story stock. With a large network of electric vehicle ( EV ) charging locations, it is an important piece of the transition from combustion engines to EVs. This is a good story and one that is starting to gain traction, as EVs become more and more prevalent.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803042%2F23_07_04-a-scale-showing-risk-from-low-to-high-with-the-pointer-on-the-dial-on-high-_mf-dload.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.614606"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.096647,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CHPT",
-                    "relevance_score": "0.797691",
-                    "ticker_sentiment_score": "0.109757",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Mark Zuckerberg Critiques 'Culturally Neutered' Companies, Advocates For 'Masculine Energy' As Meta Cuts DEI Programs Post-Joe Rogan Appearance - Meta Platforms  ( NASDAQ:META ) ",
-            "url": "https://www.benzinga.com/25/01/42931941/mark-zuckerberg-critiques-culturally-neutered-companies-advocates-for-masculine-energy-as-meta-cuts-dei-programs-",
-            "time_published": "20250111T085810",
-            "authors": [
-                "Rounak Jain"
-            ],
-            "summary": "Meta Platforms Inc. META co-founder and CEO Mark Zuckerberg expressed concerns about companies distancing themselves from \"masculine energy\" during a podcast with Joe Rogan.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Mark-Zuckerberg-Meta-Ray-Ban-glasses.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.214218,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.187463",
-                    "ticker_sentiment_score": "0.00621",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "How $200 Per Month Can Create $25,000 in Annual Dividend Income",
-            "url": "https://www.fool.com/investing/2025/01/11/200-month-create-25k-annual-dividend-income/",
-            "time_published": "20250111T085500",
-            "authors": [
-                "Adam Levy"
-            ],
-            "summary": "Building a portfolio capable of paying tens of thousands in dividends doesn't have to be complicated ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803160%2Fgetty-images-dividend-stocks-growing-money-income-cash-1200x557-e1e26d7.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.247175,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.045482",
-                    "ticker_sentiment_score": "-0.070838",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Lucid Stock Declined 28% in 2024. Is the Stock Poised to Rebound in 2025?",
-            "url": "https://www.fool.com/investing/2025/01/11/lucid-stock-declined-28-in-2024-is-the-stock-poise/",
-            "time_published": "20250111T085100",
-            "authors": [
-                "Justin Pope"
-            ],
-            "summary": "The company's premium SUV is hitting the market, but whether it will provide the breakthrough investors need is unclear.",
-            "banner_image": "https://media.ycharts.com/charts/0a1cc0c1d151cd63e529d940ac1746c4.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.086614,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LCID",
-                    "relevance_score": "0.691369",
-                    "ticker_sentiment_score": "0.136562",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RIVN",
-                    "relevance_score": "0.054114",
-                    "ticker_sentiment_score": "0.056002",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.107978",
-                    "ticker_sentiment_score": "0.011281",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "3 Dividend Growth Stocks That Raise Their Payouts at Higher Rates Than Inflation",
-            "url": "https://www.fool.com/investing/2025/01/11/dividend-growth-stocks-raise-payouts-inflation/",
-            "time_published": "20250111T084500",
-            "authors": [
-                "David Jagielski"
-            ],
-            "summary": "If you're looking for a top dividend stock to own, you want to be sure to consider whether it increases its payout and keep track of how quickly it normally does so. The rate of increases can be key to ensuring that inflation isn't eating up your dividend income over time.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/802832/a-couple-looking-at-a-statement.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.990999"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.378693,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "COST",
-                    "relevance_score": "0.314017",
-                    "ticker_sentiment_score": "0.444587",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "UNH",
-                    "relevance_score": "0.314017",
-                    "ticker_sentiment_score": "0.385747",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.314017",
-                    "ticker_sentiment_score": "0.347352",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "President-Elect Donald Trump's Social Security Strategy Is Facing a No-Win Scenario",
-            "url": "https://www.fool.com/retirement/2025/01/11/donald-trump-social-security-no-win-scenario/",
-            "time_published": "20250111T084400",
-            "authors": [
-                "Sean Williams"
-            ],
-            "summary": "Shoring up Social Security is more complicated than meets the eye.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802917%2F48318337746_375f732ad3_k.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.135899,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "2 Magnificent S&P 500 Dividend Stocks Down Over 39% to Buy and Hold Forever",
-            "url": "https://www.fool.com/investing/2025/01/11/2-magnificent-sp-500-dividend-stocks-down-buy-hold/",
-            "time_published": "20250111T084200",
-            "authors": [
-                "John Ballard"
-            ],
-            "summary": "The market indices all hit new highs in 2024, but some top consumer brands didn't fare as well and saw their share prices tumble to new lows. For income investors, this is a great time to buy shares of quality dividend stocks that are offering their highest yields in years.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/802983/stock-charts-and-cash.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.996718"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.503496"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.269728,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NKE",
-                    "relevance_score": "0.414559",
-                    "ticker_sentiment_score": "0.383287",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "HSY",
-                    "relevance_score": "0.266828",
-                    "ticker_sentiment_score": "0.223555",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "3 Incredible Dividend Stocks to Buy in 2025",
-            "url": "https://www.fool.com/investing/2025/01/11/3-incredible-dividend-stocks-to-buy-in-2025/",
-            "time_published": "20250111T083800",
-            "authors": [
-                "Justin Pope"
-            ],
-            "summary": "These wildly successful companies are poised to keep your dividend portfolio healthy in 2025 and beyond.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803184/healthcare-dividend-stocks.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.459462"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.875462"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.346562,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ABBV",
-                    "relevance_score": "0.26928",
-                    "ticker_sentiment_score": "0.340948",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MDT",
-                    "relevance_score": "0.181477",
-                    "ticker_sentiment_score": "0.133639",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "HCSG",
-                    "relevance_score": "0.045743",
-                    "ticker_sentiment_score": "0.014794",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "UNH",
-                    "relevance_score": "0.181477",
-                    "ticker_sentiment_score": "0.107804",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Kelun-Biotech Announce Exclusive License Agreement For SKB378/HBM9378, an Anti-thymic Stromal Lymphopoietin  ( TSLP )  Monoclonal Antibody  ( mAb ) .",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42931914/kelun-biotech-announce-exclusive-license-agreement-for-skb378hbm9378-an-anti-thymic-stromal-lympho",
-            "time_published": "20250111T083700",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "CHENGDU, China, Jan. 11, 2025 /PRNewswire/ -- Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd. ( the \"Company\" ) announced that the Company and HBM Holdings Limited ( \"Harbour BioMed\" ) ( together with the Company, the \"Licensors\" ) , have entered into an exclusive license agreement ( the ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.234196,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HBMHF",
-                    "relevance_score": "0.045655",
-                    "ticker_sentiment_score": "0.073195",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
         }
     ]
 }
