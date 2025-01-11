@@ -1,8 +1,337 @@
 {
-    "items": "37",
+    "items": "39",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "ZETA DEADLINE NOTICE: ROSEN, A HIGHLY RECOGNIZED LAW FIRM, Encourages Zeta Global Holdings Corp. Investors to Secure Counsel Before Important January 21 Deadline in Securities Class Action - ZETA - Zeta Global Holdings  ( NYSE:ZETA ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42933551/zeta-deadline-notice-rosen-a-highly-recognized-law-firm-encourages-zeta-global-holdings-corp-inves",
+            "time_published": "20250111T214400",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Zeta Global Holdings Corp. ZETA between February 27, 2024 and November 13, 2024, both dates inclusive ( the \"Class Period\" ) , of the important January 21, ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.183034,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.062926",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ZETA",
+                    "relevance_score": "0.12546",
+                    "ticker_sentiment_score": "0.150375",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, HIGHLY RECOGNIZED INVESTOR COUNSEL, Encourages Dentsply Sirona Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - XRAY - Dentsply Sirona  ( NASDAQ:XRAY ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42933528/rosen-highly-recognized-investor-counsel-encourages-dentsply-sirona-inc-investors-to-secure-counse",
+            "time_published": "20250111T212100",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Dentsply Sirona Inc. XRAY between May 6, 2021 and November 6, 2024, both dates inclusive ( the \"Class Period\" ) , of the important January 27, 2025 lead ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.891286"
+                }
+            ],
+            "overall_sentiment_score": 0.124428,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.054607",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XRAY",
+                    "relevance_score": "0.368383",
+                    "ticker_sentiment_score": "-0.005306",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Enduring Truths for Investors Both New and Seasoned",
+            "url": "https://www.fool.com/investing/2025/01/11/enduring-truths-for-investors-both-new-and-seasone/",
+            "time_published": "20250111T211900",
+            "authors": [
+                "Motley Fool Staff"
+            ],
+            "summary": "In this podcast, Motley Fool co-founder David Gardner kicks off 2025 by revisiting five timeless lessons drawn from classic Rule Breaker Investing episodes spanning nearly a decade of weekly podcasts. He's got insight on the surprising advantage of never selling, the folly of waiting for dips, ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/802899/rbi-01.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.228103,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.032216",
+                    "ticker_sentiment_score": "0.096133",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.006445",
+                    "ticker_sentiment_score": "0.102003",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.025775",
+                    "ticker_sentiment_score": "0.115535",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.019333",
+                    "ticker_sentiment_score": "0.086348",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ABNB",
+                    "relevance_score": "0.006445",
+                    "ticker_sentiment_score": "0.102003",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.006445",
+                    "ticker_sentiment_score": "0.102003",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.019333",
+                    "ticker_sentiment_score": "0.111623",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SHAK",
+                    "relevance_score": "0.006445",
+                    "ticker_sentiment_score": "0.035851",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ARM",
+                    "relevance_score": "0.006445",
+                    "ticker_sentiment_score": "-0.005018",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ISRG",
+                    "relevance_score": "0.019333",
+                    "ticker_sentiment_score": "0.043897",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.006445",
+                    "ticker_sentiment_score": "0.102003",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.064379",
+                    "ticker_sentiment_score": "0.088494",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BIIB",
+                    "relevance_score": "0.012889",
+                    "ticker_sentiment_score": "-0.005278",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BNXYF",
+                    "relevance_score": "0.006445",
+                    "ticker_sentiment_score": "0.088038",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "HII Christens Amphibious Transport Dock Harrisburg  ( LPD 30 )  - Huntington Ingalls Indus  ( NYSE:HII ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42933518/hii-christens-amphibious-transport-dock-harrisburg-lpd-30",
+            "time_published": "20250111T211500",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "PASCAGOULA, Miss., Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- HII HII christened San Antonio-class amphibious transport dock Harrisburg ( LPD 30 ) today at the company's Ingalls Shipbuilding division. \"Today is more than just a christening.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/069278eb-425a-449c-8be4-f43cdea373b6/lpd-30-christening-bottle-break-january-11-2025.jpg",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.274589,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.060236",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "HUMA DEADLINE: ROSEN, A HIGHLY REGARDED LAW FIRM, Encourages Humacyte, Inc. Investors to Secure Counsel Before Important January 17 Deadline in Securities Class Action - HUMA - Humacyte  ( NASDAQ:HUMA ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42933515/huma-deadline-rosen-a-highly-regarded-law-firm-encourages-humacyte-inc-investors-to-secure-counsel",
+            "time_published": "20250111T211400",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Humacyte, Inc. HUMA between May 10, 2024 and October 17, 2024, both dates inclusive ( the \"Class Period\" ) , of the important January 17, 2025 lead ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.150874,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.059935",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HUMA",
+                    "relevance_score": "0.348103",
+                    "ticker_sentiment_score": "0.03593",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Unexpectedly Strong Jobs Report Sends Shockwaves Through Wall Street, Triggering Market Sell-Off",
+            "url": "https://www.benzinga.com/markets/25/01/42933499/unexpectedly-strong-jobs-report-sends-shockwaves-through-wall-street-triggering-market-sell-off",
+            "time_published": "20250111T210019",
+            "authors": [
+                "Bibhu Pattnaik"
+            ],
+            "summary": "Wall Street's positive outlook for 2025 has been disrupted by a robust jobs report. The unexpected data has triggered a market sell-off and sparked concerns of a challenging year ahead. What Happened: Traders have interpreted the rising strength of the U.S. labor market negatively.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Reflection-Of-A-Silhouette-Of-A-Man-Look.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": 0.029894,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "This 1 Social Security Move Could Boost Your Lifetime Income by Up to $271,790",
+            "url": "https://www.fool.com/retirement/2025/01/11/this-1-social-security-move-could-boost-your-lifet/",
+            "time_published": "20250111T210000",
+            "authors": [
+                "Katie Brockman"
+            ],
+            "summary": "Social Security can go a long way in retirement, and it's even responsible for keeping around 16.5 million adults age 65 and older above the poverty line, according to 2022 data from the Center on Budget and Policy Priorities.Even if you do have plenty of savings stashed away, it doesn't hurt to ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803121%2Fperson-holding-hundred-dollar-bills.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.288786,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
         {
             "title": "Warren Buffett's Middle Child Howie Buffett Steps Into Spotlight: An Heir to Berkshire Hathaway Throne?",
             "url": "https://www.benzinga.com/markets/25/01/42933455/warren-buffetts-middle-child-howie-buffett-steps-into-spotlight-an-heir-to-berkshire-hathaway-throne",
@@ -1484,248 +1813,6 @@
                     "relevance_score": "0.120431",
                     "ticker_sentiment_score": "-0.020149",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "3 Reasons to Buy British American Tobacco Stock Like There's No Tomorrow",
-            "url": "https://www.fool.com/investing/2025/01/11/3-reasons-to-buy-british-america-tobacco-stock/",
-            "time_published": "20250111T154500",
-            "authors": [
-                "Dan Victor"
-            ],
-            "summary": "Despite persistent regulatory uncertainty and declining cigarette usage worldwide, the tobacco industry is alive and well in 2025. People are smoking less, but many have shifted their consumption toward emerging products like oral nicotine pouches and electronic devices.British American Tobacco ( ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803227%2Fbti-stock-outlook-2025-bullish.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.99737"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.503496"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.461857,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PM",
-                    "relevance_score": "0.110973",
-                    "ticker_sentiment_score": "0.128864",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BTI",
-                    "relevance_score": "0.324495",
-                    "ticker_sentiment_score": "0.488574",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "MO",
-                    "relevance_score": "0.110973",
-                    "ticker_sentiment_score": "0.128864",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Here's How Much You Should Have Invested in the Stock Market Today If You Want to Retire Comfortably in 25 Years",
-            "url": "https://www.fool.com/investing/2025/01/11/heres-how-much-you-should-have-invested-in-the-sto/",
-            "time_published": "20250111T153200",
-            "authors": [
-                "David Jagielski"
-            ],
-            "summary": "Investing in the stock market can be a great way to build up your wealth and save for retirement. But just how much do you need to truly retire comfortably, and how much should you have invested in the market today to be on track to hit that magic number in 25 years?Below, I'll look to answer ...",
-            "banner_image": "https://media.ycharts.com/charts/c704d63b94d4e2df6cb5c1851473e975.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.998663"
-                }
-            ],
-            "overall_sentiment_score": 0.302723,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Where Will Amazon Stock Be in 5 Years?",
-            "url": "https://www.fool.com/investing/2025/01/11/where-will-amazon-stock-be-in-5-years/",
-            "time_published": "20250111T151700",
-            "authors": [
-                "Jennifer Saibil"
-            ],
-            "summary": "Amazon ( NASDAQ: AMZN ) ended 2024 on a high note, up 44% in 52 weeks. But more importantly, it's coming into the year with all systems go to leverage its e-commerce platform to gain market share and harness the power of artificial intelligence ( AI ) to supercharge its cloud platform.2025 is ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802335%2Famazon-workers-with-packages.png&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.304742,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.045569",
-                    "ticker_sentiment_score": "-0.101486",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NFLX",
-                    "relevance_score": "0.045569",
-                    "ticker_sentiment_score": "0.170123",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "COST",
-                    "relevance_score": "0.045569",
-                    "ticker_sentiment_score": "0.026669",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.639433",
-                    "ticker_sentiment_score": "0.472533",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "WMT",
-                    "relevance_score": "0.045569",
-                    "ticker_sentiment_score": "0.026669",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "3 No-Brainer Growth Stocks to Buy for 2025 With $100 Right Now",
-            "url": "https://www.fool.com/investing/2025/01/11/3-no-brainer-growth-stocks-to-buy-for-2025-with/",
-            "time_published": "20250111T151500",
-            "authors": [
-                "Adam Levy"
-            ],
-            "summary": "While many stocks look expensive, these three are all great values at less than $100 each.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803434/gettyimages-100-dollar-bill-stock-chart.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.316726"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.928769"
-                }
-            ],
-            "overall_sentiment_score": 0.349146,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "DKNG",
-                    "relevance_score": "0.288468",
-                    "ticker_sentiment_score": "0.396975",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.036869",
-                    "ticker_sentiment_score": "0.055596",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ETSY",
-                    "relevance_score": "0.288468",
-                    "ticker_sentiment_score": "0.221891",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "UBER",
-                    "relevance_score": "0.356098",
-                    "ticker_sentiment_score": "0.267579",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "BexBack Launches Double Deposit Bonus, $50 Welcome Bonus and 100x Leverage Crypto Trading No KYC",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42932627/bexback-launches-double-deposit-bonus-50-welcome-bonus-and-100x-leverage-crypto-trading-no-kyc",
-            "time_published": "20250111T150048",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "SINGAPORE, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- As the price of Bitcoin surpassed the $100,000 mark and then fell back below $100,000, many analysts believe that it will enter a long-term high-volatility market. Holding spot positions may not continue to generate profits in the short term.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/aae82bac-dd5b-46d4-b3c6-ed6ddc9a5c1b/image.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.5855"
-                }
-            ],
-            "overall_sentiment_score": 0.499588,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.661191",
-                    "ticker_sentiment_score": "0.629332",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:XRP",
-                    "relevance_score": "0.069294",
-                    "ticker_sentiment_score": "0.212897",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
