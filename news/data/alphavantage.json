@@ -1,8 +1,57 @@
 {
-    "items": "46",
+    "items": "44",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "'Steve Jobs Invented The iPhone And Now They're Just...Sitting On It:' Mark Zuckerberg Hints At Apple's Potential Downfall Amid iPhone Maker's 'Random Rules' - Meta Platforms  ( NASDAQ:META ) ",
+            "url": "https://www.benzinga.com/25/01/42931722/steve-jobs-invented-the-iphone-and-now-theyre-justsitting-on-it-mark-zuckerberg-hints-at-apples-potential-downfal",
+            "time_published": "20250111T061004",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "Mark Zuckerberg, the CEO of Meta Platforms Inc. META, on Friday criticized Apple Inc. AAPL for its lack of innovation and restrictive policies. He also hinted at the potential downfall of the tech giant if it doesn't adapt to the rapidly changing industry.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Mark-Zuckerberg-Steve-Jobs.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.139129,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.261818",
+                    "ticker_sentiment_score": "-0.109534",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.596651",
+                    "ticker_sentiment_score": "0.039561",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BNXYF",
+                    "relevance_score": "0.066598",
+                    "ticker_sentiment_score": "-0.020227",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Transforming Travel: AirAsia MOVE Partners with Antom for Seamless Payment Solutions",
             "url": "https://markets.businessinsider.com/news/stocks/transforming-travel-airasia-move-partners-with-antom-for-seamless-payment-solutions-1034202746",
@@ -1877,102 +1926,6 @@
                     "relevance_score": "0.844427",
                     "ticker_sentiment_score": "0.214199",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "INVESTOR ALERT: Shareholder Class Action Lawsuit Filed Against Regeneron Pharmaceuticals, Inc.  ( NASDAQ: REGN ) ; DiCello Levitt LLP Encourages Investors with Losses to Discuss Their Options with Counsel - Regeneron Pharmaceuticals  ( NASDAQ:REGN ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42930129/investor-alert-shareholder-class-action-lawsuit-filed-against-regeneron-pharmaceuticals-inc-nasdaq",
-            "time_published": "20250110T225511",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "SAN DIEGO, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- A class action lawsuit has been filed on behalf of all persons and entities who purchased or otherwise acquired Regeneron Pharmaceuticals, Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.955357"
-                }
-            ],
-            "overall_sentiment_score": -0.017249,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "REGN",
-                    "relevance_score": "0.147818",
-                    "ticker_sentiment_score": "-0.025067",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "ThreeD Capital Inc. Announces Unaudited December 31, 2024 Net Asset Value Per Share - $0.76",
-            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007972/0/en/ThreeD-Capital-Inc-Announces-Unaudited-December-31-2024-Net-Asset-Value-Per-Share-0-76.html",
-            "time_published": "20250110T225400",
-            "authors": [
-                "ThreeD Capital Inc"
-            ],
-            "summary": "TORONTO, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- ThreeD Capital Inc. ( \"ThreeD\" or the \"Company\" ) ( CSE:IDK / OTCQX:IDKFF ) a Canadian-based venture capital firm focused on opportunistic investments in companies in the junior resources and disruptive technologies sectors, announces that at December ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/1f7e7b02-691f-4158-98c4-4e8dfed88bf2",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.413559"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                }
-            ],
-            "overall_sentiment_score": 0.061934,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Lowey Dannenberg Notifies Rentokil Initial PLC  ( \"Rentokil\" or the \"Company\" )   ( NYSE: RTO )  Investors of Securities Class Action Lawsuit and Encourages Investors with more than $200,000 in Losses to Contact the Firm - Rentokil Initial  ( NYSE:RTO ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42930111/lowey-dannenberg-notifies-rentokil-initial-plc-rentokil-or-the-company-nyse-rto-investors-of-secur",
-            "time_published": "20250110T225214",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- Lowey Dannenberg P.C., a preeminent law firm in obtaining redress for consumers and investors, announces the filing of a class action lawsuit against Rentokil Initial PLC ( \"Rentokil\" or the \"Company\" ) RTO for violations of the federal securities ...",
-            "banner_image": "https://ml.globenewswire.com/media/38c8d81f-4a6b-4f23-8411-e6be6a60dda1/small/ld-logo-png.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.77141"
-                }
-            ],
-            "overall_sentiment_score": -0.036835,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "RKLIF",
-                    "relevance_score": "0.09989",
-                    "ticker_sentiment_score": "-0.015144",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
