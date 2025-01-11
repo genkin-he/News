@@ -1,8 +1,213 @@
 {
-    "items": "40",
+    "items": "42",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Tungray Technologies Inc Announcement: If You Have Suffered Losses in Tungray Technologies Inc  ( NASDAQ: TRSG ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Tungray Technologies  ( NASDAQ:TRSG ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42932599/tungray-technologies-inc-announcement-if-you-have-suffered-losses-in-tungray-technologies-inc-nasd",
+            "time_published": "20250111T144300",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, announces an investigation on behalf of shareholders of Tungray Technologies Inc TRSG resulting from allegations that Tungray Technologies may have issued materially misleading business ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.795202"
+                }
+            ],
+            "overall_sentiment_score": 0.175967,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.075397",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TRSG",
+                    "relevance_score": "0.429845",
+                    "ticker_sentiment_score": "0.040393",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "APLT INVESTOR DEADLINE: Robbins Geller Rudman & Dowd LLP Announces that Applied Therapeutics, Inc. Investors with Substantial Losses Have Opportunity to Lead Investor Class Action Lawsuit - Applied Therapeutics  ( NASDAQ:APLT ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42932596/aplt-investor-deadline-robbins-geller-rudman-dowd-llp-announces-that-applied-therapeutics-inc-inve",
+            "time_published": "20250111T144000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "SAN DIEGO, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of Applied Therapeutics, Inc.",
+            "banner_image": "https://ml.globenewswire.com/media/a2879a30-a9fa-457e-97f6-7e2cd2528b7b/small/rgrd-logo-2-jpg.jpg",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.94762"
+                }
+            ],
+            "overall_sentiment_score": 0.068395,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "APLT",
+                    "relevance_score": "0.836664",
+                    "ticker_sentiment_score": "0.008414",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Rivian, Intuitive Machines, Rigetti Computing - And Dogecoin Analyst Foresees Drop To 30 Cents: Bulls And Bears",
+            "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/01/42932568/benzinga-bulls-and-bears-rivian-intuitive-machines-rigetti-computing-and-dogecoin-analys",
+            "time_published": "20250111T143019",
+            "authors": [
+                "Michael Cohen"
+            ],
+            "summary": "AMD unveils AI processors and gaming products, sparking investor optimism ahead of CES. Dogecoin faces potential decline as analysts worry over Bitcoin's failure to recover. Get Real-Time News and Alerts for Your Portfolio",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/bulls-and-bears-ai23.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.04174,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.160277",
+                    "ticker_sentiment_score": "0.0664",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RIVN",
+                    "relevance_score": "0.107255",
+                    "ticker_sentiment_score": "0.115657",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NOK",
+                    "relevance_score": "0.160277",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RGTI",
+                    "relevance_score": "0.107255",
+                    "ticker_sentiment_score": "0.053748",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LUNR",
+                    "relevance_score": "0.160277",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QUBT",
+                    "relevance_score": "0.107255",
+                    "ticker_sentiment_score": "0.053748",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.160277",
+                    "ticker_sentiment_score": "-0.165423",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "QBTS",
+                    "relevance_score": "0.107255",
+                    "ticker_sentiment_score": "0.053748",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VWAGY",
+                    "relevance_score": "0.107255",
+                    "ticker_sentiment_score": "0.115657",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RTX",
+                    "relevance_score": "0.107255",
+                    "ticker_sentiment_score": "-0.135899",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.21258",
+                    "ticker_sentiment_score": "0.295727",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GD",
+                    "relevance_score": "0.107255",
+                    "ticker_sentiment_score": "-0.135899",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BA",
+                    "relevance_score": "0.160277",
+                    "ticker_sentiment_score": "-0.165423",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.160277",
+                    "ticker_sentiment_score": "-0.318763",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.21258",
+                    "ticker_sentiment_score": "-0.438603",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
         {
             "title": "Thales Norway awards order to Kitron",
             "url": "https://www.globenewswire.com/news-release/2025/01/11/3008009/0/en/Thales-Norway-awards-order-to-Kitron.html",
@@ -29,6 +234,45 @@
                     "relevance_score": "0.447528",
                     "ticker_sentiment_score": "0.549514",
                     "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "V FINAL DEADLINE: ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Visa Inc. Investors to Secure Counsel Before Important January 21 Deadline in Securities Class Action First Filed by the Firm - V - Visa  ( NYSE:V ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42932560/v-final-deadline-rosen-trusted-investor-counsel-encourages-visa-inc-investors-to-secure-counsel-be",
+            "time_published": "20250111T142300",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Visa Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.150014,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.062271",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.415535",
+                    "ticker_sentiment_score": "0.017319",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
@@ -76,6 +320,49 @@
             ]
         },
         {
+            "title": "The Best S&P 500 ETF to Invest $1,000 in Right Now",
+            "url": "https://www.fool.com/investing/2025/01/11/the-best-sp-500-etf-to-invest-1000-in-right-now/",
+            "time_published": "20250111T141500",
+            "authors": [
+                "Chris Neiger"
+            ],
+            "summary": "Putting $1,000 into any investment is a significant commitment, with the obvious goal of maximizing your return and minimizing your losses. One fantastic way to do that is with an exchange-traded fund ( ETF ) , which allows you to buy shares like you would a stock and can be purchased with small ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803354%2Finvestor-trader-chart-graph-stock-point-growth-profit-loss-1200x800-5b2df79.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999999"
+                }
+            ],
+            "overall_sentiment_score": 0.198287,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.077593",
+                    "ticker_sentiment_score": "0.184838",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.154455",
+                    "ticker_sentiment_score": "0.160339",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "AZN INVESTOR DEADLINE: Robbins Geller Rudman & Dowd LLP Announces that AstraZeneca PLC Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - AstraZeneca  ( NASDAQ:AZN ) ",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42932497/azn-investor-deadline-robbins-geller-rudman-dowd-llp-announces-that-astrazeneca-plc-investors-with",
             "time_published": "20250111T140057",
@@ -109,6 +396,98 @@
                     "relevance_score": "0.932083",
                     "ticker_sentiment_score": "-0.060823",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Amazon Rallied 44.4% in 2024",
+            "url": "https://www.fool.com/investing/2025/01/11/why-amazon-rallied-444-in-2024/",
+            "time_published": "20250111T140000",
+            "authors": [
+                "Billy Duberstein"
+            ],
+            "summary": "Shares of retail and cloud computing behemoth Amazon ( NASDAQ: AMZN ) rallied 44.4% in 2024, according to data from S&P Global Market Intelligence.Like most of the \"Magnificent Seven,\" Amazon had a great 2024 as investors piled into large-cap technology stocks participating in the artificial ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803392%2Fgettyimages-1515913422.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.182916,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.11894",
+                    "ticker_sentiment_score": "-0.109962",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.059636",
+                    "ticker_sentiment_score": "0.07644",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.059636",
+                    "ticker_sentiment_score": "0.14187",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.796563",
+                    "ticker_sentiment_score": "0.298451",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Want to Invest in Artificial Intelligence  ( AI ) ? This High-Yield Stock Could Be the Best Way in January",
+            "url": "https://www.fool.com/investing/2025/01/11/want-to-invest-in-artificial-intelligence-ai-this/",
+            "time_published": "20250111T140000",
+            "authors": [
+                "Jason Hall and Tyler Crowe"
+            ],
+            "summary": "Brookfield Renewable and its peers are likely to generate a lot of the new electricity demand that powers artificial intelligence in the years ahead.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803604/ai-semiconductors.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.144107,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BEP",
+                    "relevance_score": "0.92528",
+                    "ticker_sentiment_score": "-0.249717",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
                 }
             ]
         },
@@ -1525,191 +1904,6 @@
             "overall_sentiment_score": 0.239047,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
-        },
-        {
-            "title": "Will 2025 Be the Year of Artificial Intelligence  ( AI )  Agents? Nvidia's CEO Jensen Huang Thinks So.",
-            "url": "https://www.fool.com/investing/2025/01/11/will-2025-be-the-year-of-ai-agents/",
-            "time_published": "20250111T110900",
-            "authors": [
-                "Keithen Drury"
-            ],
-            "summary": "Listening to what industry leaders say about the future of artificial intelligence ( AI ) is key to being a successful investor. One of the AI leaders is Nvidia's ( NASDAQ: NVDA ) CEO and founder, Jensen Huang. Because Nvidia makes the hardware that powers these AI models, Huang has a great feel ...",
-            "banner_image": "https://media.ycharts.com/charts/ea68425aa884d85df41ce895e0852a20.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.989041"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.650727"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.254821,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.066784",
-                    "ticker_sentiment_score": "0.035222",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.759278",
-                    "ticker_sentiment_score": "0.479941",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.066784",
-                    "ticker_sentiment_score": "0.035222",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.066784",
-                    "ticker_sentiment_score": "0.035222",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "1 Top Vanguard Fund That Could Turn $350 a Month Into $1 Million",
-            "url": "https://www.fool.com/investing/2025/01/11/1-top-vanguard-fund-that-could-turn-350-a-month-in/",
-            "time_published": "20250111T110400",
-            "authors": [
-                "David Jagielski"
-            ],
-            "summary": "Want to grow your portfolio to $1 million? If you're able to put aside $350 per month on a regular basis, I can show you how that goal can be attainable over the long run without having to put your money into risky investments.",
-            "banner_image": "https://media.ycharts.com/charts/75425796b2e1e56a423fb012af865a16.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999966"
-                }
-            ],
-            "overall_sentiment_score": 0.384463,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "What to Know Before Buying These Electric Vehicle  ( EV )  Charging Stocks",
-            "url": "https://www.fool.com/investing/2025/01/11/what-to-know-before-buying-these-electric-vehicle/",
-            "time_published": "20250111T110000",
-            "authors": [
-                "Jason Hall and Tyler Crowe"
-            ],
-            "summary": "Despite momentary weakness, there is long-term demand for more charging stations, but the obvious investments may have some fatal flaws.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803601/ev-electric-vehicle-charging-charge-port.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": -0.308997,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "EVGO",
-                    "relevance_score": "0.436009",
-                    "ticker_sentiment_score": "-0.137495",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CHPT",
-                    "relevance_score": "0.436009",
-                    "ticker_sentiment_score": "-0.137495",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.436009",
-                    "ticker_sentiment_score": "-0.355898",
-                    "ticker_sentiment_label": "Bearish"
-                }
-            ]
-        },
-        {
-            "title": "This Was the Average Social Security Benefit in 1994, and Here's What It Is Now",
-            "url": "https://www.fool.com/retirement/2025/01/11/this-was-the-average-social-security-benefit-in-19/",
-            "time_published": "20250111T105600",
-            "authors": [
-                "Selena Maranjian"
-            ],
-            "summary": "It's fun to travel in the Wayback Machine. Consider, for example, that 30 years ago, in 1994, a gallon of gas cost around $1.11. More recently, it's averaged $3.03 in the U.S. A new house cost around $155,000 back then, and single-family homes recently sold for a median price of $406,000.Image ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802367%2Fgetty-happy-smiling-beard-at-laptop.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": 0.326463,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Chevron Sees an Up to $8 Billion Free Cash Flow Gusher Ahead",
-            "url": "https://www.fool.com/investing/2025/01/11/chevron-sees-an-up-to-8-billion-free-cash-flow-gus/",
-            "time_published": "20250111T104400",
-            "authors": [
-                "Matt DiLallo"
-            ],
-            "summary": "Chevron ( NYSE: CVX ) already produces a lot of cash. The oil giant had hauled in more than $10 billion in free cash flow during the first nine months of last year, giving it a bounty to pay dividends and repurchase shares.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803583/crude-oil-derrick-barrel-dollar-bills-1201x802-3913b22.jpeg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.253542,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CVX",
-                    "relevance_score": "0.728579",
-                    "ticker_sentiment_score": "0.38436",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
         }
     ]
 }
