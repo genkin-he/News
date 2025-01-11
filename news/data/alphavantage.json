@@ -1,8 +1,80 @@
 {
-    "items": "37",
+    "items": "36",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "ROSEN, LEADING TRIAL ATTORNEYS, Encourages Marqeta, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - MQ - Marqeta  ( NASDAQ:MQ ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42933381/rosen-leading-trial-attorneys-encourages-marqeta-inc-investors-to-secure-counsel-before-important-",
+            "time_published": "20250111T195300",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Marqeta, Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.159414,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MQ",
+                    "relevance_score": "0.420483",
+                    "ticker_sentiment_score": "0.052358",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.063091",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Analyst Warns of Bitcoin's Uncertain Future Amid Key Support Breakdown: 'It Could Get Ugly'",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42933328/analyst-warns-of-bitcoins-uncertain-future-amid-key-support-breakdown-it-could-get-ugly",
+            "time_published": "20250111T194517",
+            "authors": [
+                "Bibhu Pattnaik"
+            ],
+            "summary": "Bitcoin braces for a potential freefall as it teeters on the brink of losing critical $90,000 support. Solana's memecoin Fartcoin faces a grim forecast with a predicted plunge based on technical analysis. Get 5 New Stock Recommendations Every Week",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Tom-Lee-Reiterates-Bitcoins-250-000-Targ.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.905476"
+                }
+            ],
+            "overall_sentiment_score": -0.183092,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.684485",
+                    "ticker_sentiment_score": "-0.374432",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
         {
             "title": "Michael Burry's Hedge Fund Could Soar if China Cuts Interest Rates in 2025 - Alibaba Gr Hldgs  ( NYSE:BABA ) ",
             "url": "https://www.benzinga.com/markets/emerging-markets/25/01/42933234/michael-burrys-hedge-fund-could-soar-if-china-cuts-interest-rates-in-2025",
@@ -1600,121 +1672,6 @@
                     "relevance_score": "0.468029",
                     "ticker_sentiment_score": "0.330715",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "AMD Is Not the Next Nvidia, but Is That a Reason to Sell?",
-            "url": "https://www.fool.com/investing/2025/01/11/amd-is-not-the-next-nvidia-but-is-that-a-reason-to/",
-            "time_published": "20250111T144500",
-            "authors": [
-                "Jose Najarro"
-            ],
-            "summary": "Advanced Micro Devices is expected to be uncompetitive against Nvidia, but is that a reason to sell?",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803608/amd-headquarters-santa-clara-with-amd-logo-on-building_amd_advance.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.042034,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.967875",
-                    "ticker_sentiment_score": "0.110485",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.524949",
-                    "ticker_sentiment_score": "-0.302726",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Tungray Technologies Inc Announcement: If You Have Suffered Losses in Tungray Technologies Inc  ( NASDAQ: TRSG ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Tungray Technologies  ( NASDAQ:TRSG ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42932599/tungray-technologies-inc-announcement-if-you-have-suffered-losses-in-tungray-technologies-inc-nasd",
-            "time_published": "20250111T144300",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, announces an investigation on behalf of shareholders of Tungray Technologies Inc TRSG resulting from allegations that Tungray Technologies may have issued materially misleading business ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.795202"
-                }
-            ],
-            "overall_sentiment_score": 0.175967,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.075397",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TRSG",
-                    "relevance_score": "0.429845",
-                    "ticker_sentiment_score": "0.040393",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "APLT INVESTOR DEADLINE: Robbins Geller Rudman & Dowd LLP Announces that Applied Therapeutics, Inc. Investors with Substantial Losses Have Opportunity to Lead Investor Class Action Lawsuit - Applied Therapeutics  ( NASDAQ:APLT ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42932596/aplt-investor-deadline-robbins-geller-rudman-dowd-llp-announces-that-applied-therapeutics-inc-inve",
-            "time_published": "20250111T144000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "SAN DIEGO, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of Applied Therapeutics, Inc.",
-            "banner_image": "https://ml.globenewswire.com/media/a2879a30-a9fa-457e-97f6-7e2cd2528b7b/small/rgrd-logo-2-jpg.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.94762"
-                }
-            ],
-            "overall_sentiment_score": 0.068395,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "APLT",
-                    "relevance_score": "0.836664",
-                    "ticker_sentiment_score": "0.008414",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
