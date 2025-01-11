@@ -1,8 +1,316 @@
 {
-    "items": "34",
+    "items": "36",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Mark Zuckerberg Critiques 'Culturally Neutered' Companies, Advocates For 'Masculine Energy' As Meta Cuts DEI Programs Post-Joe Rogan Appearance - Meta Platforms  ( NASDAQ:META ) ",
+            "url": "https://www.benzinga.com/25/01/42931941/mark-zuckerberg-critiques-culturally-neutered-companies-advocates-for-masculine-energy-as-meta-cuts-dei-programs-",
+            "time_published": "20250111T085810",
+            "authors": [
+                "Rounak Jain"
+            ],
+            "summary": "Meta Platforms Inc. META co-founder and CEO Mark Zuckerberg expressed concerns about companies distancing themselves from \"masculine energy\" during a podcast with Joe Rogan.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Mark-Zuckerberg-Meta-Ray-Ban-glasses.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.214218,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.187463",
+                    "ticker_sentiment_score": "0.00621",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "How $200 Per Month Can Create $25,000 in Annual Dividend Income",
+            "url": "https://www.fool.com/investing/2025/01/11/200-month-create-25k-annual-dividend-income/",
+            "time_published": "20250111T085500",
+            "authors": [
+                "Adam Levy"
+            ],
+            "summary": "Building a portfolio capable of paying tens of thousands in dividends doesn't have to be complicated ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803160%2Fgetty-images-dividend-stocks-growing-money-income-cash-1200x557-e1e26d7.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.247175,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.045482",
+                    "ticker_sentiment_score": "-0.070838",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Lucid Stock Declined 28% in 2024. Is the Stock Poised to Rebound in 2025?",
+            "url": "https://www.fool.com/investing/2025/01/11/lucid-stock-declined-28-in-2024-is-the-stock-poise/",
+            "time_published": "20250111T085100",
+            "authors": [
+                "Justin Pope"
+            ],
+            "summary": "The company's premium SUV is hitting the market, but whether it will provide the breakthrough investors need is unclear.",
+            "banner_image": "https://media.ycharts.com/charts/0a1cc0c1d151cd63e529d940ac1746c4.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.086614,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LCID",
+                    "relevance_score": "0.691369",
+                    "ticker_sentiment_score": "0.136562",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RIVN",
+                    "relevance_score": "0.054114",
+                    "ticker_sentiment_score": "0.056002",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.107978",
+                    "ticker_sentiment_score": "0.011281",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 Dividend Growth Stocks That Raise Their Payouts at Higher Rates Than Inflation",
+            "url": "https://www.fool.com/investing/2025/01/11/dividend-growth-stocks-raise-payouts-inflation/",
+            "time_published": "20250111T084500",
+            "authors": [
+                "David Jagielski"
+            ],
+            "summary": "If you're looking for a top dividend stock to own, you want to be sure to consider whether it increases its payout and keep track of how quickly it normally does so. The rate of increases can be key to ensuring that inflation isn't eating up your dividend income over time.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/802832/a-couple-looking-at-a-statement.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990999"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.378693,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.314017",
+                    "ticker_sentiment_score": "0.444587",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.314017",
+                    "ticker_sentiment_score": "0.385747",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.314017",
+                    "ticker_sentiment_score": "0.347352",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "President-Elect Donald Trump's Social Security Strategy Is Facing a No-Win Scenario",
+            "url": "https://www.fool.com/retirement/2025/01/11/donald-trump-social-security-no-win-scenario/",
+            "time_published": "20250111T084400",
+            "authors": [
+                "Sean Williams"
+            ],
+            "summary": "Shoring up Social Security is more complicated than meets the eye.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802917%2F48318337746_375f732ad3_k.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.135899,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "2 Magnificent S&P 500 Dividend Stocks Down Over 39% to Buy and Hold Forever",
+            "url": "https://www.fool.com/investing/2025/01/11/2-magnificent-sp-500-dividend-stocks-down-buy-hold/",
+            "time_published": "20250111T084200",
+            "authors": [
+                "John Ballard"
+            ],
+            "summary": "The market indices all hit new highs in 2024, but some top consumer brands didn't fare as well and saw their share prices tumble to new lows. For income investors, this is a great time to buy shares of quality dividend stocks that are offering their highest yields in years.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/802983/stock-charts-and-cash.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.996718"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.503496"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.269728,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NKE",
+                    "relevance_score": "0.414559",
+                    "ticker_sentiment_score": "0.383287",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "HSY",
+                    "relevance_score": "0.266828",
+                    "ticker_sentiment_score": "0.223555",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "3 Incredible Dividend Stocks to Buy in 2025",
+            "url": "https://www.fool.com/investing/2025/01/11/3-incredible-dividend-stocks-to-buy-in-2025/",
+            "time_published": "20250111T083800",
+            "authors": [
+                "Justin Pope"
+            ],
+            "summary": "These wildly successful companies are poised to keep your dividend portfolio healthy in 2025 and beyond.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803184/healthcare-dividend-stocks.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.875462"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.346562,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ABBV",
+                    "relevance_score": "0.26928",
+                    "ticker_sentiment_score": "0.340948",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MDT",
+                    "relevance_score": "0.181477",
+                    "ticker_sentiment_score": "0.133639",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HCSG",
+                    "relevance_score": "0.045743",
+                    "ticker_sentiment_score": "0.014794",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.181477",
+                    "ticker_sentiment_score": "0.107804",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Kelun-Biotech Announce Exclusive License Agreement For SKB378/HBM9378, an Anti-thymic Stromal Lymphopoietin  ( TSLP )  Monoclonal Antibody  ( mAb ) .",
             "url": "https://www.benzinga.com/pressreleases/25/01/n42931914/kelun-biotech-announce-exclusive-license-agreement-for-skb378hbm9378-an-anti-thymic-stromal-lympho",
@@ -29,6 +337,39 @@
                     "relevance_score": "0.045655",
                     "ticker_sentiment_score": "0.073195",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "McDonald's Stock Has Underperformed the S&P 500 in 5 of the Past 6 Years. Will 2025 Be Any Better?",
+            "url": "https://www.fool.com/investing/2025/01/11/mcdonalds-stock-has-underperformed-the-sp-500-in-5/",
+            "time_published": "20250111T083300",
+            "authors": [
+                "David Jagielski"
+            ],
+            "summary": "McDonald's ( NYSE: MCD ) is coming off a tough year in 2024. But that's really only part of the story for a stock that simply hasn't been a good buy for a while now. Last year was just the latest one in which the popular fast food stock underperformed the market.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/802833/person-drinking-at-a-food-court.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.897321"
+                }
+            ],
+            "overall_sentiment_score": 0.246308,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.848177",
+                    "ticker_sentiment_score": "0.401455",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -74,6 +415,77 @@
                     "relevance_score": "0.182162",
                     "ticker_sentiment_score": "-0.252489",
                     "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Prediction: Nvidia Will Be the Biggest Winner in Microsoft's $80 Billion AI Spending Spree",
+            "url": "https://www.fool.com/investing/2025/01/11/prediction-nvidia-win-microsoft-ai-spending/",
+            "time_published": "20250111T083000",
+            "authors": [
+                "Geoffrey Seiler"
+            ],
+            "summary": "Microsoft ( NASDAQ: MSFT ) made headlines late last week when it announced it would spend $80 billion this year building data centers that would train artificial intelligence ( AI ) models and handle AI and cloud-based applications around the world. More than half of the investment will be in the ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803316%2Fgettyimages-1204583606.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.258397,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.049732",
+                    "ticker_sentiment_score": "0.18017",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.29176",
+                    "ticker_sentiment_score": "0.147089",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.099271",
+                    "ticker_sentiment_score": "0.144561",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.425428",
+                    "ticker_sentiment_score": "0.431202",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.049732",
+                    "ticker_sentiment_score": "0.152709",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MRVL",
+                    "relevance_score": "0.049732",
+                    "ticker_sentiment_score": "0.152709",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         },
@@ -1088,363 +1500,6 @@
             "overall_sentiment_score": 0.313052,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
-        },
-        {
-            "title": "No easy fix: uncertainty looms for China's solar producers",
-            "url": "https://www.scmp.com/business/china-business/article/3294044/storm-brewing-chinas-solar-panel-sector-threatens-spiral-out-control",
-            "time_published": "20250111T040011",
-            "authors": [
-                "Yujie Xue"
-            ],
-            "summary": "Solar industry faces year of reckoning as Opec-style pact falters amid a price war and excess capacity.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/830565ce-63ca-41ca-af76-4c3e21d2533d_7109e539.jpg?itok=CP394P7c&v=1736498005",
-            "source": "South China Morning Post",
-            "category_within_source": "Companies",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.004856,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MCQEF",
-                    "relevance_score": "0.045655",
-                    "ticker_sentiment_score": "0.031757",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "THNOF",
-                    "relevance_score": "0.022837",
-                    "ticker_sentiment_score": "-0.070758",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "DQ",
-                    "relevance_score": "0.022837",
-                    "ticker_sentiment_score": "0.061556",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CSIQ",
-                    "relevance_score": "0.022837",
-                    "ticker_sentiment_score": "0.089633",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "An Investor's Take on the WWE-Netflix Partnership",
-            "url": "https://www.fool.com/investing/2025/01/10/an-investors-take-on-the-wwe-netflix-partnership/",
-            "time_published": "20250111T031900",
-            "authors": [
-                "Motley Fool Staff"
-            ],
-            "summary": "In this podcast, Motley Fool analyst Nick Sciple and host Ricky Mulvey discuss:Then, Motley Fool host Alison Southwick and personal finance expert Robert Brokamp discuss some fundamental ways to prepare your portfolio for 2025.Sign up for Motley Fool Stock Advisor and get access to our ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803546/mfm-07.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.996023"
-                }
-            ],
-            "overall_sentiment_score": 0.106632,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NFLX",
-                    "relevance_score": "0.209705",
-                    "ticker_sentiment_score": "0.078037",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.013261",
-                    "ticker_sentiment_score": "0.08323",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.013261",
-                    "ticker_sentiment_score": "0.07896",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "DOMWF",
-                    "relevance_score": "0.006631",
-                    "ticker_sentiment_score": "0.022535",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CSCO",
-                    "relevance_score": "0.006631",
-                    "ticker_sentiment_score": "0.065716",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "VST",
-                    "relevance_score": "0.006631",
-                    "ticker_sentiment_score": "0.082738",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TKO",
-                    "relevance_score": "0.099202",
-                    "ticker_sentiment_score": "0.037421",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "IVZ",
-                    "relevance_score": "0.013261",
-                    "ticker_sentiment_score": "0.090142",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.013261",
-                    "ticker_sentiment_score": "0.032635",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:NXT",
-                    "relevance_score": "0.006631",
-                    "ticker_sentiment_score": "0.049833",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Mark Zuckerberg Says Biden Officials Berated Meta Staff As They Refused To Remove 'True' Content: 'It Just Got To This Point...That's Ridiculous' - Meta Platforms  ( NASDAQ:META ) ",
-            "url": "https://www.benzinga.com/25/01/42931361/mark-zuckerberg-says-biden-officials-berated-meta-staff-as-they-refused-to-remove-true-content-it-just-got-to-thi",
-            "time_published": "20250111T031107",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "Mark Zuckerberg, the CEO of Meta META, has admitted that officials from the Biden administration have been exerting pressure on Meta staff to remove specific content from the platform.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Mark-Zuckerberg-Tells-Jim-Jordan-He-Isnt.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.101528,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.21686",
-                    "ticker_sentiment_score": "-0.025042",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Chinese firms face stumbling blocks abroad: competitive mindsets may turn messy",
-            "url": "https://www.scmp.com/economy/global-economy/article/3294267/chinese-firms-face-stumbling-blocks-abroad-old-competitive-mindsets-may-be-their-undoing",
-            "time_published": "20250111T020018",
-            "authors": [
-                "Ji Siqi"
-            ],
-            "summary": "Overseas scandals, setbacks shine light on problematic nature of deeply ingrained business mentality. And the less they notice your Chinese identity, the better, some say.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/c5adafd5-7e65-452f-bf09-fae7e5ea97a3_9f8ad116.jpg?itok=xwGAWmAG&v=1736501477",
-            "source": "South China Morning Post",
-            "category_within_source": "Economy",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.080877,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WB",
-                    "relevance_score": "0.026532",
-                    "ticker_sentiment_score": "-0.072873",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Apple CEO Tim Cook Took Home $74.6 Million In 2024, Up 18% Despite AI And Siri Privacy Controversies - Apple  ( NASDAQ:AAPL ) ",
-            "url": "https://www.benzinga.com/tech/25/01/42931220/apple-ceo-tim-cook-took-home-74-6-million-in-2024-up-18-despite-ai-and-siri-privacy-controversies",
-            "time_published": "20250111T015809",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "In 2024, Apple Inc. AAPL CEO Tim Cook saw a significant increase in his annual compensation despite the company's controversies over its AI and Siri privacy policies. What Happened: Cook's total compensation for 2024 rose by 18% from the previous year, reaching $74.6 million, the company said in ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Tim-Cook-Explains-Why-Apple-Defied-Steve.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                }
-            ],
-            "overall_sentiment_score": 0.168176,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.570165",
-                    "ticker_sentiment_score": "0.065276",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "WD-40  ( WDFC )  Q1 2025 Earnings Call Transcript",
-            "url": "https://www.fool.com/earnings/call-transcripts/2025/01/10/wd-40-wdfc-q1-2025-earnings-call-transcript/",
-            "time_published": "20250111T011510",
-            "authors": [
-                "Motley Fool Transcribing"
-            ],
-            "summary": "WDFC earnings call for the period ending December 31, 2024.",
-            "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999993"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.248552,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CURN",
-                    "relevance_score": "0.012479",
-                    "ticker_sentiment_score": "0.005832",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "WDFC",
-                    "relevance_score": "0.215702",
-                    "ticker_sentiment_score": "0.235471",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "FOREX:UYU",
-                    "relevance_score": "0.00624",
-                    "ticker_sentiment_score": "0.030322",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:MXN",
-                    "relevance_score": "0.00624",
-                    "ticker_sentiment_score": "0.030322",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:EUR",
-                    "relevance_score": "0.018718",
-                    "ticker_sentiment_score": "0.037629",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:GBP",
-                    "relevance_score": "0.012479",
-                    "ticker_sentiment_score": "0.032454",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "CSX Announces Ratification of Labor Deal with BMWED",
-            "url": "https://www.globenewswire.com/news-release/2025/01/11/3007988/0/en/CSX-Announces-Ratification-of-Labor-Deal-with-BMWED.html",
-            "time_published": "20250111T010100",
-            "authors": [
-                "CSX Corporation"
-            ],
-            "summary": "JACKSONVILLE, Fla. , Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- CSX Corporation ( NASDAQ: CSX ) today announced that employees represented by The Brotherhood of Maintenance of Way Employes Division of the International Brotherhood of Teamsters ( BMWED ) have voted to ratify the five-year collective ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/0706585d-e6e3-4d98-98c5-418b5b497693",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.43174,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.116914",
-                    "ticker_sentiment_score": "0.080742",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
         }
     ]
 }
