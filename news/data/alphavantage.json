@@ -1,8 +1,74 @@
 {
-    "items": "44",
+    "items": "40",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Apple Staring At Market Share Decline In China Amid Declining iPhone Shipments: Top Analyst Flags Why Some Models Could Be Face Shipping Momentum Challenges - Apple  ( NASDAQ:AAPL ) ",
+            "url": "https://www.benzinga.com/tech/25/01/42931758/apple-staring-at-market-share-decline-in-china-amid-declining-iphone-shipments-top-analyst-flags-why-some-mo",
+            "time_published": "20250111T063853",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "Apple Inc. AAPL is experiencing a drop in its market share in China. This decline is attributed to a decrease in iPhone shipments, as reported by supply chain analyst Ming-Chi Kuo. What Happened: Kuo, an analyst at TF Securities, revealed that Apple has been \"cautious\" in discussing its 2025 ...",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/01/10225601/Screenshot-2025-01-11-at-9.25.54%E2%80%AFAM-1024x392.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                }
+            ],
+            "overall_sentiment_score": 0.057812,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.606946",
+                    "ticker_sentiment_score": "-0.028854",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin Supercycle Incoming, Says Economist, But There's A Catch - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",
+            "url": "https://www.benzinga.com/25/01/42931747/bitcoin-supercycle-incoming-says-economist-but-theres-a-catch",
+            "time_published": "20250111T063440",
+            "authors": [
+                "Rounak Jain"
+            ],
+            "summary": "Economist and trader Alex Kruger has expressed a bullish outlook on Bitcoin BTC/USD, despite the cryptocurrency currently trading 13% below its all-time high. What Happened: Kruger believes that Bitcoin has significant potential for growth and is far from reaching the peak of its cycle.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/What-He-Did.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.905476"
+                }
+            ],
+            "overall_sentiment_score": 0.295916,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.885652",
+                    "ticker_sentiment_score": "0.510049",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
         {
             "title": "'Steve Jobs Invented The iPhone And Now They're Just...Sitting On It:' Mark Zuckerberg Hints At Apple's Potential Downfall Amid iPhone Maker's 'Random Rules' - Meta Platforms  ( NASDAQ:META ) ",
             "url": "https://www.benzinga.com/25/01/42931722/steve-jobs-invented-the-iphone-and-now-theyre-justsitting-on-it-mark-zuckerberg-hints-at-apples-potential-downfal",
@@ -1498,434 +1564,6 @@
                     "relevance_score": "0.066598",
                     "ticker_sentiment_score": "-0.160545",
                     "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "INVESTOR ALERT: Shareholder Class Action Lawsuit Filed Against Flagstar Financial, Inc.  ( NYSE: FLG ) ; DiCello Levitt LLP Encourages Investors with Losses to Discuss Their Options with Counsel",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42930264/investor-alert-shareholder-class-action-lawsuit-filed-against-flagstar-financial-inc-nyse-flg-dice",
-            "time_published": "20250110T231243",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "SAN DIEGO, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- A class action lawsuit has been filed on behalf of all persons who acquired New York Community Bancorp, Inc. ( \"NYCB\" ) common stock in exchange for FlagstarBank N.A. ( \"Flagstar\" ) securities in connection with the December 2022 merger between the ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999701"
-                }
-            ],
-            "overall_sentiment_score": 0.102448,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FLG",
-                    "relevance_score": "0.10607",
-                    "ticker_sentiment_score": "0.054362",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Delta Air Lines  ( DAL )  Q4 2024 Earnings Call Transcript",
-            "url": "https://www.fool.com/earnings/call-transcripts/2025/01/10/delta-air-lines-dal-q4-2024-earnings-call-transcri/",
-            "time_published": "20250110T230015",
-            "authors": [
-                "Motley Fool Transcribing"
-            ],
-            "summary": "DAL earnings call for the period ending December 31, 2024.",
-            "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.319554,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "EVR",
-                    "relevance_score": "0.004616",
-                    "ticker_sentiment_score": "0.107288",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "EADSF",
-                    "relevance_score": "0.004616",
-                    "ticker_sentiment_score": "0.072227",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.013846",
-                    "ticker_sentiment_score": "0.115656",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BCS",
-                    "relevance_score": "0.004616",
-                    "ticker_sentiment_score": "0.114129",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRWD",
-                    "relevance_score": "0.009231",
-                    "ticker_sentiment_score": "0.120612",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BAC",
-                    "relevance_score": "0.004616",
-                    "ticker_sentiment_score": "0.114129",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.004616",
-                    "ticker_sentiment_score": "0.114129",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AXP",
-                    "relevance_score": "0.009231",
-                    "ticker_sentiment_score": "0.116744",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "XAIR",
-                    "relevance_score": "0.004616",
-                    "ticker_sentiment_score": "0.233817",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.004616",
-                    "ticker_sentiment_score": "0.065716",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "UBER",
-                    "relevance_score": "0.023075",
-                    "ticker_sentiment_score": "0.144851",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "DAL",
-                    "relevance_score": "0.004616",
-                    "ticker_sentiment_score": "0.079618",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:EUR",
-                    "relevance_score": "0.009231",
-                    "ticker_sentiment_score": "0.062661",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.004616",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Constellation Brands  ( STZ )  Q3 2025 Earnings Call Transcript",
-            "url": "https://www.fool.com/earnings/call-transcripts/2025/01/10/constellation-brands-stz-q3-2025-earnings-call-tra/",
-            "time_published": "20250110T230012",
-            "authors": [
-                "Motley Fool Transcribing"
-            ],
-            "summary": "STZ earnings call for the period ending December 31, 2024.",
-            "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999186"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.992549"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.212556,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "EVR",
-                    "relevance_score": "0.005612",
-                    "ticker_sentiment_score": "-0.047725",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BCS",
-                    "relevance_score": "0.005612",
-                    "ticker_sentiment_score": "0.115095",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "C",
-                    "relevance_score": "0.011224",
-                    "ticker_sentiment_score": "0.117549",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BAC",
-                    "relevance_score": "0.005612",
-                    "ticker_sentiment_score": "0.10821",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.005612",
-                    "ticker_sentiment_score": "0.113032",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "STZ",
-                    "relevance_score": "0.011224",
-                    "ticker_sentiment_score": "0.146521",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.005612",
-                    "ticker_sentiment_score": "0.10821",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.005612",
-                    "ticker_sentiment_score": "0.045969",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "$HAREHOLDER ALERT: The M&A Class Action Firm Is Investigating the Merger - SSTK, NARI, POAI, YERBF",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42930158/hareholder-alert-the-m-a-class-action-firm-is-investigating-the-merger-sstk-nari-poai-yerbf",
-            "time_published": "20250110T230000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- Monteverde & Associates PC ( the \"M&A Class Action Firm\" ) , has recovered millions of dollars for shareholders and is recognized as a Top 50 Firm by ISS Securities Class Action Services Report.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.961735"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.296697,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SSTK",
-                    "relevance_score": "0.362858",
-                    "ticker_sentiment_score": "0.381335",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "GETY",
-                    "relevance_score": "0.222838",
-                    "ticker_sentiment_score": "0.315828",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "POAI",
-                    "relevance_score": "0.294093",
-                    "ticker_sentiment_score": "0.346974",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SHOT",
-                    "relevance_score": "0.149656",
-                    "ticker_sentiment_score": "0.267858",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "YERBF",
-                    "relevance_score": "0.222838",
-                    "ticker_sentiment_score": "0.287215",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NARI",
-                    "relevance_score": "0.294093",
-                    "ticker_sentiment_score": "0.230805",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Guardian Capital Announces Increase in Distribution Frequency in respect of certain Guardian Capital Funds",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42930160/guardian-capital-announces-increase-in-distribution-frequency-in-respect-of-certain-guardian-capit",
-            "time_published": "20250110T230000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "TORONTO, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- Guardian Capital LP announces that commencing in January 2025, the distribution frequency for the Guardian Capital funds listed below ( the \"Funds\" ) will increase from quarterly to monthly.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999955"
-                }
-            ],
-            "overall_sentiment_score": 0.185372,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GRCGF",
-                    "relevance_score": "0.695182",
-                    "ticker_sentiment_score": "0.27711",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "This Publicly Traded Distiller Is Launching a Bitcoin Treasury Reserve",
-            "url": "https://decrypt.co/300469/publicly-traded-distiller-launching-bitcoin-reserve",
-            "time_published": "20250110T225736",
-            "authors": [
-                "Mat Di Salvo"
-            ],
-            "summary": "The Nasdaq-listed Heritage Distilling said it is planning to hold Bitcoin in its treasury, following the example of MicroStrategy and others.",
-            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/01/bitcoin-liquor-gID_7.png",
-            "source": "Decrypt.co",
-            "category_within_source": "n/a",
-            "source_domain": "decrypt.co",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.147651,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSTR",
-                    "relevance_score": "0.405651",
-                    "ticker_sentiment_score": "0.174863",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CASK",
-                    "relevance_score": "0.522333",
-                    "ticker_sentiment_score": "0.298929",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "COSM",
-                    "relevance_score": "0.277433",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "WKSP",
-                    "relevance_score": "0.277433",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.844427",
-                    "ticker_sentiment_score": "0.214199",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
