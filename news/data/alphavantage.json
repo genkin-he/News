@@ -1,8 +1,125 @@
 {
-    "items": "42",
+    "items": "44",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "BexBack Launches Double Deposit Bonus, $50 Welcome Bonus and 100x Leverage Crypto Trading No KYC",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42932627/bexback-launches-double-deposit-bonus-50-welcome-bonus-and-100x-leverage-crypto-trading-no-kyc",
+            "time_published": "20250111T150048",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "SINGAPORE, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- As the price of Bitcoin surpassed the $100,000 mark and then fell back below $100,000, many analysts believe that it will enter a long-term high-volatility market. Holding spot positions may not continue to generate profits in the short term.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/aae82bac-dd5b-46d4-b3c6-ed6ddc9a5c1b/image.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.5855"
+                }
+            ],
+            "overall_sentiment_score": 0.499588,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.661191",
+                    "ticker_sentiment_score": "0.629332",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:XRP",
+                    "relevance_score": "0.069294",
+                    "ticker_sentiment_score": "0.212897",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Lockheed Martin Scores a $15.5 Billion Bonanza for New F-35s. Is the Stock a Buy for 2025?",
+            "url": "https://www.fool.com/investing/2025/01/11/lockheed-martin-155-billion-is-stock-a-buy-in-2025/",
+            "time_published": "20250111T144500",
+            "authors": [
+                "Rich Smith"
+            ],
+            "summary": "Whether Lockheed Martin stock is a buy depends in large part on sales of its F-35.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802894%2Ff35-close-up.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.992549"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990999"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.266068,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.047966",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.468029",
+                    "ticker_sentiment_score": "0.330715",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "AMD Is Not the Next Nvidia, but Is That a Reason to Sell?",
+            "url": "https://www.fool.com/investing/2025/01/11/amd-is-not-the-next-nvidia-but-is-that-a-reason-to/",
+            "time_published": "20250111T144500",
+            "authors": [
+                "Jose Najarro"
+            ],
+            "summary": "Advanced Micro Devices is expected to be uncompetitive against Nvidia, but is that a reason to sell?",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803608/amd-headquarters-santa-clara-with-amd-logo-on-building_amd_advance.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.042034,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.967875",
+                    "ticker_sentiment_score": "0.110485",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.524949",
+                    "ticker_sentiment_score": "-0.302726",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
         {
             "title": "Tungray Technologies Inc Announcement: If You Have Suffered Losses in Tungray Technologies Inc  ( NASDAQ: TRSG ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Tungray Technologies  ( NASDAQ:TRSG ) ",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42932599/tungray-technologies-inc-announcement-if-you-have-suffered-losses-in-tungray-technologies-inc-nasd",
@@ -79,6 +196,69 @@
                     "ticker": "APLT",
                     "relevance_score": "0.836664",
                     "ticker_sentiment_score": "0.008414",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Next Stage of the Artificial Intelligence  ( AI )  Revolution Has Arrived -- Say Hello to Digital Labor",
+            "url": "https://www.fool.com/investing/2025/01/11/digital-labor-stage-of-ai-revolution-has-arrived/",
+            "time_published": "20250111T143100",
+            "authors": [
+                "Anders Bylund"
+            ],
+            "summary": "What happens when AI starts writing its own instructions? Digital labor is evolving faster than you think.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803363/ai-android-black-robot-head.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.249413,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "0.111637",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PATH",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "-0.108552",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FVRR",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "0.060769",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "0.111637",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.042048",
+                    "ticker_sentiment_score": "0.13036",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "0.060769",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -1843,65 +2023,6 @@
                 }
             ],
             "overall_sentiment_score": 0.188544,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Bitcoin Is a Better Buy Than Gold in 2025 and Beyond: Here's Why",
-            "url": "https://www.fool.com/investing/2025/01/11/bitcoin-better-buy-than-gold-in-2025-and-beyond/",
-            "time_published": "20250111T112500",
-            "authors": [
-                "Neil Patel"
-            ],
-            "summary": "The stock market had a wonderful performance last year. That bullish fever trickled to other assets, like gold. The precious metal saw its price rise 26% in 2024.But that gain doesn't hold a candle to Bitcoin ( CRYPTO: BTC ) , which soared 119% last year.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803505/gold-coins-with-bitcoin-logo-on-them.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.77141"
-                }
-            ],
-            "overall_sentiment_score": 0.369535,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.839263",
-                    "ticker_sentiment_score": "0.52397",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "2 Incredible Beaten-Down Stocks to Buy in 2025 and Hold Forever",
-            "url": "https://www.fool.com/investing/2025/01/11/2-incredible-beaten-down-stocks-to-buy-in-2025-and/",
-            "time_published": "20250111T111700",
-            "authors": [
-                "Matt Frankel and Tyler Crowe"
-            ],
-            "summary": "Even though the S&P 500 has had two excellent years in a row, there are still some attractive places to put money to work.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803530/warehouse-2022.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                }
-            ],
-            "overall_sentiment_score": 0.239047,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
         }
