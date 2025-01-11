@@ -1,8 +1,260 @@
 {
-    "items": "42",
+    "items": "40",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "The 5 Biggest Upgrades Expected for the Nintendo Switch 2",
+            "url": "https://decrypt.co/300319/5-biggest-upgrades-nintendo-switch-2",
+            "time_published": "20250111T164947",
+            "authors": [
+                "Eric Frederiksen"
+            ],
+            "summary": "Eight years after the Nintendo Switch's debut, its successor appears to be just around the corner. Here are five big reported updates.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/01/nintendo-switch-gID_7.png",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.05499,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LNVGF",
+                    "relevance_score": "0.033562",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.033562",
+                    "ticker_sentiment_score": "0.029111",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NTDOF",
+                    "relevance_score": "0.623083",
+                    "ticker_sentiment_score": "0.171888",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Rudy Giuliani's Legal Crisis Intensifies With Second Contempt Ruling in One Week Rudy Giuliani's Legal Crisis Intensifies With Second Contempt Ruling in One Week",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/01/42932979/rudy-giulianis-legal-crisis-intensifies-with-second-contempt-ruling-in-one-week",
+            "time_published": "20250111T163020",
+            "authors": [
+                "Nabaparna Bhattacharya"
+            ],
+            "summary": "Giuliani must sign a declaration acknowledging evidence disproving his claims or face $200 daily fines. The contempt ruling follows Giuliani's ongoing defamation of Freeman and Moss, despite a $148M judgment against him. Get daily trade setups, exclusive stock picks, and real-time alerts today.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Washington--Dc---September-6-Former-New-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": -0.246306,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Is Warren Buffett Preparing to Save Wall Street From Itself? History Shows What the Billionaire Legend Could Be Doing With His Record $325 Billion in Cash.",
+            "url": "https://www.fool.com/investing/2025/01/11/is-warren-buffett-preparing-to-save-wall-street-fr/",
+            "time_published": "20250111T162300",
+            "authors": [
+                "Johnny Rice"
+            ],
+            "summary": "Theories abound as to why Warren Buffett's Berkshire Hathaway ( NYSE: BRK.A ) ( NYSE: BRK.B ) is currently sitting on the largest pile of cash in its long and storied history. Over the past year, the \"Oracle of Omaha\" has overseen his company's large-scale reduction of several key positions ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803178/warren-buffett-berkshire-hathaway-cash-reserve-2025.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999897"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.124603,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.060848",
+                    "ticker_sentiment_score": "0.039",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.239895",
+                    "ticker_sentiment_score": "0.13524",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.060848",
+                    "ticker_sentiment_score": "0.079295",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GE",
+                    "relevance_score": "0.121343",
+                    "ticker_sentiment_score": "0.093174",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.060848",
+                    "ticker_sentiment_score": "0.039",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "4 Reasons to Buy McDonald's Stock Like There's No Tomorrow",
+            "url": "https://www.fool.com/investing/2025/01/11/4-reasons-to-buy-mcdonalds-stock-like-theres-no-to/",
+            "time_published": "20250111T161400",
+            "authors": [
+                "Leo Sun"
+            ],
+            "summary": "The Golden Arches still look like a golden investment opportunity.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803174%2Ffriends-eating-fast-food.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.928769"
+                }
+            ],
+            "overall_sentiment_score": 0.199476,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.556122",
+                    "ticker_sentiment_score": "0.133004",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "History Says the Nasdaq Will Soar in 2025. My 3 Top AI Stocks to Buy Before It Does.",
+            "url": "https://www.fool.com/investing/2025/01/11/history-says-the-nasdaq-will-soar-in-2025-my-3-top/",
+            "time_published": "20250111T161200",
+            "authors": [
+                "Adria Cimino"
+            ],
+            "summary": "Last year was fantastic for the markets in general, but the index that really stood out was the Nasdaq. It climbed 28%, while the S&P 500 rose 23% and the Dow Jones Industrial Average increased 12%. The Nasdaq, heavily weighted in technology companies, surged as investors piled into the ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803559%2Fgettyimages-1320686310.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.988915"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.259194,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.289462",
+                    "ticker_sentiment_score": "0.152642",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.147216",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.195419",
+                    "ticker_sentiment_score": "0.041993",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "President-Elect Donald Trump Has a Plan to Address Social Security's Looming Insolvency. Will It Work?",
+            "url": "https://www.fool.com/retirement/2025/01/11/president-elect-donald-trump-has-a-plan-to-address/",
+            "time_published": "20250111T161000",
+            "authors": [
+                "Kailey Hagen"
+            ],
+            "summary": "Social Security's trust funds are expected to be depleted in about a decade. If the government does nothing, millions of retirees who depend on their benefits could see their checks slashed by up to 23%. Seniors, including politicians, have been calling for reform for years now, but those calls ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803202%2Fserious-man-staring-intently-at-laptop.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.107881,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
         {
             "title": "This Week in Bitcoin: BTC Plunges as US Gets Go-Ahead to Sell Silk Road Billions",
             "url": "https://decrypt.co/300451/this-week-bitcoin-btc-plunges-sell-silk-road-billions",
@@ -42,6 +294,124 @@
                     "ticker": "CRYPTO:BTC",
                     "relevance_score": "0.666827",
                     "ticker_sentiment_score": "0.048696",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Better Warren Buffett Stock: Chevron vs. American Express",
+            "url": "https://www.fool.com/investing/2025/01/11/better-warren-buffett-stock-chevron-vs-american-ex/",
+            "time_published": "20250111T160500",
+            "authors": [
+                "Reuben Gregg Brewer"
+            ],
+            "summary": "Investors often scour the portfolios of well-known investors for stock ideas. When they do that with Warren Buffett's portfolio of stocks, owned within his investment vehicle Berkshire Hathaway ( NYSE: BRK.A ) ( NYSE: BRK.B ) , they'll find a collection of iconic companies.",
+            "banner_image": "https://media.ycharts.com/charts/d7ddb8dd0b098e29df4440abfe6cf4cf.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.658903"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.241336,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.669232",
+                    "ticker_sentiment_score": "0.3084",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CVX",
+                    "relevance_score": "0.545618",
+                    "ticker_sentiment_score": "0.318243",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MA",
+                    "relevance_score": "0.059636",
+                    "ticker_sentiment_score": "0.213377",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.059636",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "2 Cheap Tech Stocks to Buy Right Now",
+            "url": "https://www.fool.com/investing/2025/01/11/2-cheap-tech-stocks-to-buy-right-now/",
+            "time_published": "20250111T160300",
+            "authors": [
+                "Anders Bylund"
+            ],
+            "summary": "Looking for undervalued tech stocks with high growth potential? These forgotten stars might be the bargains you've been looking for.",
+            "banner_image": "https://media.ycharts.com/charts/edb90c6589f48f9dd516d07f6ef7f097.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.044172,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.120431",
+                    "ticker_sentiment_score": "-0.020149",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FVRR",
+                    "relevance_score": "0.455525",
+                    "ticker_sentiment_score": "0.114445",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ROKU",
+                    "relevance_score": "0.455525",
+                    "ticker_sentiment_score": "0.046775",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.120431",
+                    "ticker_sentiment_score": "-0.020149",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -1466,506 +1836,6 @@
                     "relevance_score": "0.071784",
                     "ticker_sentiment_score": "0.140399",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "SYM CLASS ACTION ALERT: Symbotic Inc. Investors that Lost Money may have been Affected by Fraud - Contact BFA Law by February 3 Legal Deadline  ( NASDAQ:SYM )  - Symbotic  ( NASDAQ:SYM ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42932364/sym-class-action-alert-symbotic-inc-investors-that-lost-money-may-have-been-affected-by-fraud-cont",
-            "time_published": "20250111T131400",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against Symbotic Inc. SYM and certain of the Company's senior executives for potential violations of the federal securities laws.",
-            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.102712,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SYM",
-                    "relevance_score": "0.677874",
-                    "ticker_sentiment_score": "0.105133",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.07887",
-                    "ticker_sentiment_score": "0.141915",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "PACS COURT DEADLINE: PACS Group Investors that Lost Money may have been Affected by Fraud - Contact BFA Law by Monday's Legal Deadline  ( NYSE:PACS )  - PACS Group  ( NYSE:PACS ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42932363/pacs-court-deadline-pacs-group-investors-that-lost-money-may-have-been-affected-by-fraud-contact-b",
-            "time_published": "20250111T131200",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against PACS Group, Inc. PACS and certain of the Company's senior executives for potential violations of the federal securities laws.",
-            "banner_image": "https://ml.globenewswire.com/media/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e/small/bfa-logo-transparent-002-png.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.918141"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": 0.189807,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PACS",
-                    "relevance_score": "0.829615",
-                    "ticker_sentiment_score": "0.306185",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.064276",
-                    "ticker_sentiment_score": "0.139379",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "APLT CLASS ACTION ALERT: Applied Therapeutics Investors that Lost Money may have been Affected by Fraud - Contact BFA Law by February 18 Legal Deadline (NASDAQ:APLT)",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42932358/aplt-class-action-alert-applied-therapeutics-investors-that-lost-money-may-have-been-affected-by-f",
-            "time_published": "20250111T130900",
-            "authors": [],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against Applied Therapeutics, Inc. APLT and certain of the Company's senior executives for potential violations of the federal securities laws.",
-            "banner_image": null,
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.87644"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.178146,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "APLT",
-                    "relevance_score": "0.654989",
-                    "ticker_sentiment_score": "0.254503",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.057907",
-                    "ticker_sentiment_score": "0.139016",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Symbotic Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - SYM - Symbotic  ( NASDAQ:SYM ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42932353/rosen-leading-investor-counsel-encourages-symbotic-inc-investors-to-secure-counsel-before-importan",
-            "time_published": "20250111T130700",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Symbotic Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.15746,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.063258",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SYM",
-                    "relevance_score": "0.366061",
-                    "ticker_sentiment_score": "0.031862",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "3 Top Warren Buffett Stocks to Buy in 2025",
-            "url": "https://www.fool.com/investing/2025/01/11/3-top-warren-buffett-stocks-to-buy-in-2025/",
-            "time_published": "20250111T130000",
-            "authors": [
-                "John Ballard",
-                "and Jennifer Saibil",
-                "Jeremy Bowman"
-            ],
-            "summary": "Warren Buffett has built incredible wealth for himself and shareholders of Berkshire Hathaway. He has the ability to spot value that others miss, but most importantly, he has the temperament and patience to go against the crowd.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803289/warren-buffett-investor.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999365"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.796627"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.343208,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TMUS",
-                    "relevance_score": "0.072",
-                    "ticker_sentiment_score": "0.084033",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ULTA",
-                    "relevance_score": "0.107817",
-                    "ticker_sentiment_score": "0.03784",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "VZ",
-                    "relevance_score": "0.107817",
-                    "ticker_sentiment_score": "0.07844",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.282234",
-                    "ticker_sentiment_score": "0.419237",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "BRK-A",
-                    "relevance_score": "0.107817",
-                    "ticker_sentiment_score": "0.161762",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "TransMedics Stock Is Worth $0 According to This Short-Seller. Here's Why I'm Not Selling.",
-            "url": "https://www.fool.com/investing/2025/01/11/transmedics-stock-is-worth-0-according-to-this-sho/",
-            "time_published": "20250111T130000",
-            "authors": [
-                "Neil Rozenbaum"
-            ],
-            "summary": "In this video, I will talk about TransMedics ( NASDAQ: TMDX ) and the recent short-seller report. Watch the short video to learn more, consider subscribing, and click the special offer link below.*Stock prices used were from the trading day of Jan. 10, 2025.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803672/gettyimages-1067591998.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.121992,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TMDX",
-                    "relevance_score": "0.967875",
-                    "ticker_sentiment_score": "0.356248",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Should You Forget Nvidia and Buy This Tech Stock Instead?",
-            "url": "https://www.fool.com/investing/2025/01/11/should-you-forget-nvidia-and-buy-this-tech-stock/",
-            "time_published": "20250111T125100",
-            "authors": [
-                "Anders Bylund"
-            ],
-            "summary": "This crestfallen sector titan looks undervalued today.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803262%2Fconfused-head-scratching.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.996023"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.12233,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.118647",
-                    "ticker_sentiment_score": "-0.010797",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.118647",
-                    "ticker_sentiment_score": "0.06655",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.449503",
-                    "ticker_sentiment_score": "0.204659",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "INTC",
-                    "relevance_score": "0.544495",
-                    "ticker_sentiment_score": "0.228742",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "This Top Artificial Intelligence ETF Invests In AI Stocks You've Probably Never Heard Of",
-            "url": "https://www.fool.com/investing/2025/01/11/this-top-artificial-intelligence-etf-invests-in-ai/",
-            "time_published": "20250111T121600",
-            "authors": [
-                "Matt Frankel"
-            ],
-            "summary": "If you don't want to choose individual stocks to invest in AI technology, I can't say I blame you. Of the roughly three dozen individual stocks in my portfolio, I'd call two of them \"AI plays.\" And even these aren't really pure-plays - just businesses that stand to benefit from AI.Instead of ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803210/mobile-trading-2024.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.998287"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.2"
-                }
-            ],
-            "overall_sentiment_score": 0.256976,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TER",
-                    "relevance_score": "0.121959",
-                    "ticker_sentiment_score": "0.112885",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.061159",
-                    "ticker_sentiment_score": "0.043",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.182047",
-                    "ticker_sentiment_score": "0.145651",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ACHR",
-                    "relevance_score": "0.182047",
-                    "ticker_sentiment_score": "0.142762",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ANET",
-                    "relevance_score": "0.061159",
-                    "ticker_sentiment_score": "0.043",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.121959",
-                    "ticker_sentiment_score": "0.115179",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.121959",
-                    "ticker_sentiment_score": "0.257853",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "RKLB",
-                    "relevance_score": "0.121959",
-                    "ticker_sentiment_score": "0.112885",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "IVZ",
-                    "relevance_score": "0.061159",
-                    "ticker_sentiment_score": "0.043",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Is Nvidia Secretly Working With Quantum Computers?",
-            "url": "https://www.fool.com/investing/2025/01/11/is-nvidia-secretly-working-with-quantum-computers/",
-            "time_published": "20250111T121500",
-            "authors": [
-                "Jose Najarro"
-            ],
-            "summary": "Here's a list of solutions Nvidia has for the quantum computing market.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803615/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.163093,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.985002",
-                    "ticker_sentiment_score": "0.405442",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Why AMD Stock Is Crashing: Is It a Buying Opportunity?",
-            "url": "https://www.fool.com/investing/2025/01/11/why-amd-stock-is-crashing-is-it-a-buying-opportuni/",
-            "time_published": "20250111T121500",
-            "authors": [
-                "Neil Rozenbaum"
-            ],
-            "summary": "AMD stock is down 45% since it peaked last year.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803639/amd-headquarters-santa-clara-with-amd-logo-on-building_amd_advance.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.105931,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.985002",
-                    "ticker_sentiment_score": "0.289088",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
