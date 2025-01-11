@@ -1,8 +1,555 @@
 {
-    "items": "36",
+    "items": "40",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Cathie Wood's Ark Invest Loads Up On Intellia Therapeutics Which Laid Off Over A Quarter Of Its Workforce - ARK Genomic Revolution ETF  ( BATS:ARKG ) , Adaptive Biotechnologies  ( NASDAQ:ADPT ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/01/42931987/cathie-woods-ark-invest-loads-up-on-intellia-therapeutics-which-laid-off-over-a-quarter-of-its-w",
+            "time_published": "20250111T093345",
+            "authors": [
+                "Rounak Jain"
+            ],
+            "summary": "Cathie Wood-led Ark Invest made significant trades in five major companies on Friday: Recursion Pharmaceuticals Inc. RXRX, Illumina Inc. ILMN, Intellia Therapeutics Inc. NTLA, Cloudflare Inc. NET, and Adaptive Biotechnologies Corp. ADPT.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Cathie-Wood-Cashes-Out-On-Rocket-Labs-28.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99737"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.330871,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ADPT",
+                    "relevance_score": "0.345674",
+                    "ticker_sentiment_score": "0.262037",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "RXRX",
+                    "relevance_score": "0.345674",
+                    "ticker_sentiment_score": "0.458972",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NET",
+                    "relevance_score": "0.345674",
+                    "ticker_sentiment_score": "0.236829",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ILMN",
+                    "relevance_score": "0.345674",
+                    "ticker_sentiment_score": "0.359696",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NTLA",
+                    "relevance_score": "0.449503",
+                    "ticker_sentiment_score": "0.244618",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Warren Buffett Owns 2 S&P 500 Index Funds. They Could Soar 153%, According to a Top Wall Street Analyst",
+            "url": "https://www.fool.com/investing/2025/01/11/warren-buffett-sp-500-funds-soar-153-wall-street/",
+            "time_published": "20250111T092800",
+            "authors": [
+                "Anthony Di Pizio"
+            ],
+            "summary": "Warren Buffett is the CEO of Berkshire Hathaway, a holding company with a $296 billion portfolio of publicly traded stocks and securities, in addition to several wholly owned subsidiaries. It also has a $325 billion pile of cash, which Buffett and his team can deploy when they find new ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803282%2Fwarren-buffett-smiling-surrounded-by-cameras.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999998"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.159187,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.133841",
+                    "ticker_sentiment_score": "-0.101497",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.133841",
+                    "ticker_sentiment_score": "-0.101497",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.044801",
+                    "ticker_sentiment_score": "0.087394",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.044801",
+                    "ticker_sentiment_score": "0.087394",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.089462",
+                    "ticker_sentiment_score": "0.094176",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.044801",
+                    "ticker_sentiment_score": "0.087394",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "2 Popular AI Stocks to Sell Before They Drop 24% and 66% in 2025, According to Certain Wall Street Analysts",
+            "url": "https://www.fool.com/investing/2025/01/11/2-ai-stocks-to-sell-before-drop-66-wall-street/",
+            "time_published": "20250111T092500",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "Apple ( NASDAQ: AAPL ) shares have advanced 34% during the past year, but that upside has been driven almost entirely by valuation multiple expansion rather than earnings growth. Consequently, some Wall Street analysts have turned bearish on the stock in the last couple of weeks.Tim Long at ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803445/market-red-10.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.996675"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.160453,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.047371",
+                    "ticker_sentiment_score": "0.173623",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.447528",
+                    "ticker_sentiment_score": "0.273228",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.094576",
+                    "ticker_sentiment_score": "0.007568",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.594412",
+                    "ticker_sentiment_score": "0.152434",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Warren Buffett Just Sold Nu Stock. Here's Why You Probably Shouldn't.",
+            "url": "https://www.fool.com/investing/2025/01/11/warren-buffett-just-sold-nu-stock-heres-why-you-pr/",
+            "time_published": "20250111T092300",
+            "authors": [
+                "Jennifer Saibil"
+            ],
+            "summary": "Warren Buffett has been a net seller of stocks over the past eight quarters, building Berkshire Hathaway's cash reserves to its highest-ever level. He's completely exited some positions, like Floor & Decor, and trimmed down positions in others, like Apple.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/802960/person-holding-a-phone.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999186"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.744043"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.167376,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.051663",
+                    "ticker_sentiment_score": "0.022812",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NU",
+                    "relevance_score": "0.103109",
+                    "ticker_sentiment_score": "0.024547",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 No-Brainer, High-Yield REIT Stocks to Buy With $1,000 Right Now",
+            "url": "https://www.fool.com/investing/2025/01/11/3-no-brainer-high-yield-reit-stocks-to-buy-with-10/",
+            "time_published": "20250111T091400",
+            "authors": [
+                "Reuben Gregg Brewer"
+            ],
+            "summary": "If you have $1,000 to put to work buying equities today, there are plenty of attractive dividend stocks to consider. Three of the most interesting right now are Rexford Industrial ( NYSE: REXR ) , Realty Income ( NYSE: O ) , and EPR Properties ( NYSE: EPR ) , with yields ranging from 4.3% to 7.6%.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803145/24_11_14-a-pile-of-money-with-a-sticky-note-that-says-passive-income-on-it-_mf-dload-gettyimages-1346786874-1200x800-5b2df79.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.5855"
+                }
+            ],
+            "overall_sentiment_score": 0.28149,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EPR",
+                    "relevance_score": "0.342939",
+                    "ticker_sentiment_score": "0.31777",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "O",
+                    "relevance_score": "0.296463",
+                    "ticker_sentiment_score": "0.278616",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Prediction: These 5 Dividend-Paying Growth Stocks Will Boost Their Payouts By 10% or More In 2025, Even if There's a Stock Market Sell-Off",
+            "url": "https://www.fool.com/investing/2025/01/11/buy-dividend-growth-stock-2025/",
+            "time_published": "20250111T091400",
+            "authors": [
+                "Daniel Foelber"
+            ],
+            "summary": "2024 was a phenomenal year for most mega-cap growth stocks, which helped lead broader indexes like the S&P 500 ( SNPINDEX: ^GSPC ) to new heights. Still, some investors may be concerned that the rally is a bit overextended.Even weak companies can see their stock prices rise when investors are ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802914%2Fgettyimages-614495780-1201x801-d21b45d.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99793"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.9545"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.349134,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.136888",
+                    "ticker_sentiment_score": "0.10528",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.545013",
+                    "ticker_sentiment_score": "0.526812",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.545013",
+                    "ticker_sentiment_score": "0.526812",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Here's Why Rivian Stock Is a Buy Before Feb. 20",
+            "url": "https://www.fool.com/investing/2025/01/11/heres-why-rivian-stock-is-a-buy-before-feb-20/",
+            "time_published": "20250111T091000",
+            "authors": [
+                "Ryan Vanzo"
+            ],
+            "summary": "Rivian's ( NASDAQ: RIVN ) stock price has been volatile over the last 12 months, gyrating in price between $8 and $20. But make no mistake: Long term, this electric vehicle ( EV ) maker has huge growth potential. And next month could bring one of the most important announcements in company ...",
+            "banner_image": "https://media.ycharts.com/charts/a1cc0f78603d819a5bed92505bb2c464.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.858979"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.04895,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LCID",
+                    "relevance_score": "0.112797",
+                    "ticker_sentiment_score": "0.049022",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RIVN",
+                    "relevance_score": "0.521812",
+                    "ticker_sentiment_score": "-0.037025",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.112797",
+                    "ticker_sentiment_score": "0.049022",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "India's economy expected to be 'little weaker' in 2025, says IMF chief - ETCFO",
+            "url": "https://cfo.economictimes.indiatimes.com/news/economy/indias-economy-expected-to-be-little-weaker-in-2025-says-imf-chief/117143853",
+            "time_published": "20250111T091000",
+            "authors": [
+                "ETCFO",
+                "TOI Business Desk"
+            ],
+            "summary": "Kristalina Georgieva, IMF managing director, predicts India's economy will be slightly weaker in 2025 due to global uncertainties, including US trade policies. While the US performs better, the EU stalls, and China faces deflationary pressures, India's GDP growth in 2024-25 is expected to slow to ...",
+            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
+            "source": "Economic Times",
+            "category_within_source": "Economy",
+            "source_domain": "cfo.economictimes.indiatimes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.838487"
+                }
+            ],
+            "overall_sentiment_score": -0.038679,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Could Investing $1,000 in Apple Make You a Millionaire?",
+            "url": "https://www.fool.com/investing/2025/01/11/could-investing-1000-apple-make-you-millionaire/",
+            "time_published": "20250111T090500",
+            "authors": [
+                "Neil Patel"
+            ],
+            "summary": "Buying and holding Apple ( NASDAQ: AAPL ) has without a doubt been one of the best investment decisions anyone could've ever made. Had you invested $1,000 in the consumer technology titan's shares roughly 44 years ago at its initial public offering, that position would be worth just under $2.5 ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803034/sitting-in-chair-throwing-money-in-air.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.967645"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.218345,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.720958",
+                    "ticker_sentiment_score": "0.333767",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Jensen Huang Just Delivered Trillion-Dollar News to Nvidia Investors",
+            "url": "https://www.fool.com/investing/2025/01/11/jensen-huang-just-delivered-trillion-dollar-news/",
+            "time_published": "20250111T090300",
+            "authors": [
+                "Adria Cimino"
+            ],
+            "summary": "Nvidia ( NASDAQ: NVDA ) has offered investors good news on many occasions in recent years. From reports of record revenue and high demand for its new products to an invitation last year to join the Dow Jones Industrial Average, the chipmaker has been on fire.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803431%2Fgetty-happy-colleagues.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.256205,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.478692",
+                    "ticker_sentiment_score": "0.445898",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.056808",
+                    "ticker_sentiment_score": "0.121",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ChargePoint Stock: A Millionaire Maker in the Making?",
+            "url": "https://www.fool.com/investing/2025/01/11/chargepoint-stock-a-millionaire-maker-in-the-makin/",
+            "time_published": "20250111T090000",
+            "authors": [
+                "Reuben Gregg Brewer"
+            ],
+            "summary": "ChargePoint ( NYSE: CHPT ) is a story stock. With a large network of electric vehicle ( EV ) charging locations, it is an important piece of the transition from combustion engines to EVs. This is a good story and one that is starting to gain traction, as EVs become more and more prevalent.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803042%2F23_07_04-a-scale-showing-risk-from-low-to-high-with-the-pointer-on-the-dial-on-high-_mf-dload.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.096647,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CHPT",
+                    "relevance_score": "0.797691",
+                    "ticker_sentiment_score": "0.109757",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Mark Zuckerberg Critiques 'Culturally Neutered' Companies, Advocates For 'Masculine Energy' As Meta Cuts DEI Programs Post-Joe Rogan Appearance - Meta Platforms  ( NASDAQ:META ) ",
             "url": "https://www.benzinga.com/25/01/42931941/mark-zuckerberg-critiques-culturally-neutered-companies-advocates-for-masculine-energy-as-meta-cuts-dei-programs-",
@@ -1284,222 +1831,6 @@
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
-        },
-        {
-            "title": "Weebit Nano licenses its ReRAM technology to onsemi",
-            "url": "https://markets.businessinsider.com/news/stocks/weebit-nano-licenses-its-reram-technology-to-onsemi-1034211936",
-            "time_published": "20250111T052744",
-            "authors": [
-                "Plentisoft"
-            ],
-            "summary": "Weebit Nano licenses its ReRAM technology to ...",
-            "banner_image": "https://markets.businessinsider.com/Images/FacebookIcon.jpg",
-            "source": "Business Insider",
-            "category_within_source": "RSS",
-            "source_domain": "markets.businessinsider.com",
-            "topics": [],
-            "overall_sentiment_score": 0.382184,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WBTNF",
-                    "relevance_score": "0.503018",
-                    "ticker_sentiment_score": "0.540501",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:NANO",
-                    "relevance_score": "0.503018",
-                    "ticker_sentiment_score": "0.540501",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Festive celebrations bloom at CapitaLand malls with art collaboration welcoming the year of the snake",
-            "url": "https://markets.businessinsider.com/news/stocks/festive-celebrations-bloom-at-capitaland-malls-with-art-collaboration-welcoming-the-year-of-the-snake-1034208039",
-            "time_published": "20250111T052744",
-            "authors": [
-                "Plentisoft"
-            ],
-            "summary": "CapitaLand teams up with award-winning Chinese illustrator, Tang Yiqi to captivate shoppers with a 15-metre-long Fortune Snake art installation.",
-            "banner_image": "https://www.capitaland.com/en/about-capitaland/newsroom/news-releases/international/2025/january/festive-celebrations-bloom-at-capitaland-malls-with-art-collabor/_jcr_content/root/container/container/container/image.coreimg.jpeg/content/dam/capitaland-newsroom/International/2025/january/festive-celebrations-bloom-at-capitaland-malls-with-art-collaboration-welcoming-the-year-of-the-snake/KV_Weaving%20Prosperity%20and%20Joyous%20Abundance%20at%20CapitaLand%20Malls_Landscape.jpg",
-            "source": "Business Insider",
-            "category_within_source": "RSS",
-            "source_domain": "markets.businessinsider.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.619853,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.025008",
-                    "ticker_sentiment_score": "0.429357",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "BTSDF",
-                    "relevance_score": "0.025008",
-                    "ticker_sentiment_score": "0.465187",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "FUJHF",
-                    "relevance_score": "0.025008",
-                    "ticker_sentiment_score": "0.317726",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SZIHF",
-                    "relevance_score": "0.025008",
-                    "ticker_sentiment_score": "0.300654",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "NX Taiwan offers work experience to China University of Technology students",
-            "url": "https://markets.businessinsider.com/news/stocks/nx-taiwan-offers-work-experience-to-china-university-of-technology-students-1034202803",
-            "time_published": "20250111T052744",
-            "authors": [
-                "Plentisoft"
-            ],
-            "summary": "-- Nippon Express ( Taiwan ) Co., Ltd. ( President: Masaru Kawamoto. hereinafter \"NX Taiwan\" ) , a group company of NIPPON EXPRESS HOLDINGS, INC. ( President: Satoshi Horikiri ) , conducted a two-day work experience program for students from the China University of Technology ( hereinafter \"CUTe\" ...",
-            "banner_image": "https://www.nipponexpress-holdings.com/en/press/2025/images/1-Jan-25-1-1.jpg",
-            "source": "Business Insider",
-            "category_within_source": "RSS",
-            "source_domain": "markets.businessinsider.com",
-            "topics": [],
-            "overall_sentiment_score": 0.410371,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NEXHD",
-                    "relevance_score": "0.241684",
-                    "ticker_sentiment_score": "0.203969",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Towngas and Chi Shing  ( Hong Kong )  Group sign MOU to jointly develop hydrogen power generation business and promote green energy industry development",
-            "url": "https://markets.businessinsider.com/news/stocks/towngas-and-chi-shing-hong-kong-group-sign-mou-to-jointly-develop-hydrogen-power-generation-business-and-promote-green-energy-industry-development-1034202802",
-            "time_published": "20250111T052744",
-            "authors": [
-                "Plentisoft"
-            ],
-            "summary": "Towngas and Chi Shing (Hong Kong) Group sign MOU to jointly develop hydrogen power generation business and promote green energy industry development ...",
-            "banner_image": "https://www.towngas.com/getattachment/Media-Resources/Press-Releases/2025/%E7%85%A4%E6%B0%A3%E5%85%AC%E5%8F%B8%E8%88%87%E5%BF%97%E6%88%90%EF%BC%88%E9%A6%99%E6%B8%AF%EF%BC%89%E9%9B%86%E5%9C%98%E7%B0%BD%E7%BD%B2%E5%90%88%E4%BD%9C%E5%82%99%E5%BF%98%E9%8C%84%C2%A0%E5%85%B1%E5%90%8C%E9%96%8B%E6%8B%93%E6%B0%AB%E8%83%BD%E7%99%BC%E9%9B%BB%E6%A5%AD%E5%8B%99-%E6%8E%A8%E5%8B%95%E7%B6%A0%E8%89%B2%E8%83%BD%E6%BA%90%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95/Photo-1-%E7%9B%B8%E7%89%87%E4%B8%80.JPG.aspx?lang=en-US",
-            "source": "Business Insider",
-            "category_within_source": "RSS",
-            "source_domain": "markets.businessinsider.com",
-            "topics": [],
-            "overall_sentiment_score": 0.456581,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CGHOF",
-                    "relevance_score": "0.145583",
-                    "ticker_sentiment_score": "0.019596",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NNAX",
-                    "relevance_score": "0.145583",
-                    "ticker_sentiment_score": "0.273694",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "LFG Inc. Partners with GlobiancePay to Launch the LFG Debit Card with Staking Rewards",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42931570/lfg-inc-partners-with-globiancepay-to-launch-the-lfg-debit-card-with-staking-rewards",
-            "time_published": "20250111T051746",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "HONG KONG, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- LFG Inc., a leader in bridging decentralized and traditional finance, has partnered with GlobiancePay to launch the LFG Debit Card.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/791169ad-5da0-46ec-8089-720c2bab902a/globiancepay-to-launch-the-lfg-debit-card.jpeg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.451494"
-                }
-            ],
-            "overall_sentiment_score": 0.36981,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LRHC",
-                    "relevance_score": "0.071357",
-                    "ticker_sentiment_score": "0.362973",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Trump Organization Unveils Ethics Plan To Distance President-Elect Donald Trump From Operations - Trump Media & Technology  ( NASDAQ:DJT ) ",
-            "url": "https://www.benzinga.com/25/01/42931522/trump-organization-announces-plan-for-incoming-president-to-distance-from-family-business-after-jared-kushners-2-",
-            "time_published": "20250111T043603",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "The Trump Organization on Friday announced an ethics plan that will see President-elect Donald Trump distancing himself from the company's day-to-day operations. What Happened: The Trump Organization revealed that Trump will not be involved in the company's daily management once he assumes office.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/10/Tougher-Immigration-Enforcement.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                }
-            ],
-            "overall_sentiment_score": 0.281554,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "DJT",
-                    "relevance_score": "0.246999",
-                    "ticker_sentiment_score": "0.135094",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "NFRA asks auditors to closely scrutinise ECL estimates, calls for stronger communication with audit committees - ETCFO",
-            "url": "https://cfo.economictimes.indiatimes.com/news/tax-legal-accounting/nfra-asks-auditors-to-closely-scrutinise-ecl-estimates-calls-for-stronger-communication-with-audit-committees/117137364",
-            "time_published": "20250111T042353",
-            "authors": [
-                "Alekh Shah",
-                "ETCFO"
-            ],
-            "summary": "NFRA has called for stronger collaboration between auditors and audit committees in its latest report, highlighting the need for thorough scrutiny of Expected Credit Loss (ECL) estimates under Ind AS 109, especially in financial institutions and related party transactions.",
-            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
-            "source": "Economic Times",
-            "category_within_source": "Top Stories",
-            "source_domain": "cfo.economictimes.indiatimes.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.313052,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
         }
     ]
 }
