@@ -1,8 +1,126 @@
 {
-    "items": "41",
+    "items": "40",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "3 Top Artificial Intelligence  ( AI )  Stocks Ready for a Bull Run in 2025",
+            "url": "https://www.fool.com/investing/2025/01/11/3-top-artificial-intelligence-ai-stocks-ready-for/",
+            "time_published": "20250111T224500",
+            "authors": [
+                "Danny Vena"
+            ],
+            "summary": "The accelerating adoption of AI has left little upside for many stocks in the space -- but others are poised to surge.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803526%2Fa-person-cheering-while-looking-at-graphs-on-a-computer-monitor.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999921"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.955357"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.2228,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.279813",
+                    "ticker_sentiment_score": "0.324084",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.071357",
+                    "ticker_sentiment_score": "0.201553",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.142144",
+                    "ticker_sentiment_score": "0.15984",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.246048",
+                    "ticker_sentiment_score": "0.142465",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASCCF",
+                    "relevance_score": "0.071357",
+                    "ticker_sentiment_score": "0.076615",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:AMD",
+                    "relevance_score": "0.279813",
+                    "ticker_sentiment_score": "0.341288",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Prediction: Dutch Bros Will Soar Over the Next 10 Years. Here's 1 Reason Why.",
+            "url": "https://www.fool.com/investing/2025/01/11/prediction-dutch-bros-will-soar-next-10-years/",
+            "time_published": "20250111T223000",
+            "authors": [
+                "Will Healy"
+            ],
+            "summary": "Regarding coffee chains, most of the focus centers on Starbucks ( NASDAQ: SBUX ) . This makes sense, as the industry leader has grown from a regional name to an international sensation in its 33 years as a publicly-traded company.But with Starbucks now a mature business, the market may have its ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803313/dutch_bros_coffee_shop_with_logo_bros.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.237237,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SBUX",
+                    "relevance_score": "0.582526",
+                    "ticker_sentiment_score": "0.307278",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BROS",
+                    "relevance_score": "0.743681",
+                    "ticker_sentiment_score": "0.475307",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
         {
             "title": "Special counsel Jack Smith resigns from DOJ as Trump's fight to block final report continues",
             "url": "https://www.cnbc.com/2025/01/11/special-counsel-jack-smith-resigns-from-doj-as-trumps-fight-to-block-final-report-continues.html",
@@ -1735,167 +1853,6 @@
             "overall_sentiment_score": 0.107881,
             "overall_sentiment_label": "Neutral",
             "ticker_sentiment": []
-        },
-        {
-            "title": "This Week in Bitcoin: BTC Plunges as US Gets Go-Ahead to Sell Silk Road Billions",
-            "url": "https://decrypt.co/300451/this-week-bitcoin-btc-plunges-sell-silk-road-billions",
-            "time_published": "20250111T160946",
-            "authors": [
-                "Mat Di Salvo"
-            ],
-            "summary": "Bitcoin topped $100K for the first time in 2025, then plummeted amid mixed economic reports, volatile ETF flows, and a potential Silk Road sale.",
-            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/07/bitcoin-btc-on-american-flag-us-flag-gID_7.jpg",
-            "source": "Decrypt.co",
-            "category_within_source": "n/a",
-            "source_domain": "decrypt.co",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.682689"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                }
-            ],
-            "overall_sentiment_score": 0.01928,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CASK",
-                    "relevance_score": "0.055109",
-                    "ticker_sentiment_score": "0.155872",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.666827",
-                    "ticker_sentiment_score": "0.048696",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Better Warren Buffett Stock: Chevron vs. American Express",
-            "url": "https://www.fool.com/investing/2025/01/11/better-warren-buffett-stock-chevron-vs-american-ex/",
-            "time_published": "20250111T160500",
-            "authors": [
-                "Reuben Gregg Brewer"
-            ],
-            "summary": "Investors often scour the portfolios of well-known investors for stock ideas. When they do that with Warren Buffett's portfolio of stocks, owned within his investment vehicle Berkshire Hathaway ( NYSE: BRK.A ) ( NYSE: BRK.B ) , they'll find a collection of iconic companies.",
-            "banner_image": "https://media.ycharts.com/charts/d7ddb8dd0b098e29df4440abfe6cf4cf.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.658903"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.241336,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AXP",
-                    "relevance_score": "0.669232",
-                    "ticker_sentiment_score": "0.3084",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CVX",
-                    "relevance_score": "0.545618",
-                    "ticker_sentiment_score": "0.318243",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MA",
-                    "relevance_score": "0.059636",
-                    "ticker_sentiment_score": "0.213377",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "BRK-A",
-                    "relevance_score": "0.059636",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "2 Cheap Tech Stocks to Buy Right Now",
-            "url": "https://www.fool.com/investing/2025/01/11/2-cheap-tech-stocks-to-buy-right-now/",
-            "time_published": "20250111T160300",
-            "authors": [
-                "Anders Bylund"
-            ],
-            "summary": "Looking for undervalued tech stocks with high growth potential? These forgotten stars might be the bargains you've been looking for.",
-            "banner_image": "https://media.ycharts.com/charts/edb90c6589f48f9dd516d07f6ef7f097.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.044172,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.120431",
-                    "ticker_sentiment_score": "-0.020149",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FVRR",
-                    "relevance_score": "0.455525",
-                    "ticker_sentiment_score": "0.114445",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ROKU",
-                    "relevance_score": "0.455525",
-                    "ticker_sentiment_score": "0.046775",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.120431",
-                    "ticker_sentiment_score": "-0.020149",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
         }
     ]
 }
