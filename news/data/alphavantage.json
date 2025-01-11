@@ -4,6 +4,35 @@
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
         {
+            "title": "LFG Inc. Partners with GlobiancePay to Launch the LFG Debit Card with Staking Rewards",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42931570/lfg-inc-partners-with-globiancepay-to-launch-the-lfg-debit-card-with-staking-rewards",
+            "time_published": "20250111T051746",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "HONG KONG, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- LFG Inc., a leader in bridging decentralized and traditional finance, has partnered with GlobiancePay to launch the LFG Debit Card.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/791169ad-5da0-46ec-8089-720c2bab902a/globiancepay-to-launch-the-lfg-debit-card.jpeg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.36981,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LRHC",
+                    "relevance_score": "0.071357",
+                    "ticker_sentiment_score": "0.362973",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
             "title": "Trump Organization Unveils Ethics Plan To Distance President-Elect Donald Trump From Operations - Trump Media & Technology  ( NASDAQ:DJT ) ",
             "url": "https://www.benzinga.com/25/01/42931522/trump-organization-announces-plan-for-incoming-president-to-distance-from-family-business-after-jared-kushners-2-",
             "time_published": "20250111T043603",
@@ -2050,59 +2079,6 @@
             "overall_sentiment_score": 0.368835,
             "overall_sentiment_label": "Bullish",
             "ticker_sentiment": []
-        },
-        {
-            "title": "Why Coinbase Stock Jumped 43% Last Year",
-            "url": "https://www.fool.com/investing/2025/01/10/why-coinbase-stock-jumped-43-last-year/",
-            "time_published": "20250110T221711",
-            "authors": [
-                "Jon Quast"
-            ],
-            "summary": "Shares of cryptocurrency company Coinbase Global ( NASDAQ: COIN ) jumped 42.8% in 2024, according to data provided by S&P Global Market Intelligence. The cryptocurrency space came roaring back to life throughout the year. And given that Coinbase is a leading cryptocurrency infrastructure company, ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803498/relaxed-investor-smiling-with-feet-up-on-desk.jpeg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.650727"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.890401"
-                }
-            ],
-            "overall_sentiment_score": 0.316158,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SPGI",
-                    "relevance_score": "0.080188",
-                    "ticker_sentiment_score": "0.204762",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "COIN",
-                    "relevance_score": "0.809372",
-                    "ticker_sentiment_score": "0.435249",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.159569",
-                    "ticker_sentiment_score": "0.208583",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
         }
     ]
 }
