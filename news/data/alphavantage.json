@@ -1,5 +1,5 @@
 {
-    "items": "40",
+    "items": "41",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
@@ -130,6 +130,59 @@
                     "ticker": "NVDA",
                     "relevance_score": "0.086245",
                     "ticker_sentiment_score": "-0.077076",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Billionaire Stanley Druckenmiller Is Piling Into a High-Yield Dividend Stock Trading for $0.82 on the Dollar -- and Warren Buffett Owns It, Too",
+            "url": "https://www.fool.com/investing/2025/01/11/billionaire-stanley-druckenmiller-is-piling-into-a/",
+            "time_published": "20250111T170500",
+            "authors": [
+                "Bram Berkowitz"
+            ],
+            "summary": "Following billionaire investors can be a good idea. Many of these investors run large funds that manage billions in capital. They also have a lot of experience and professional training, and have been through plenty of market cycles.I would never recommend investing blindly without due diligence ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803312/buffett1-tmf.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999956"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.102662,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.053629",
+                    "ticker_sentiment_score": "0.075734",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.618121",
+                    "ticker_sentiment_score": "0.079535",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.053629",
+                    "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
