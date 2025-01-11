@@ -1,8 +1,245 @@
 {
-    "items": "40",
+    "items": "42",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Should You Forget BigBear.ai and Buy These 2 Millionaire-Maker Stocks Instead?",
+            "url": "https://www.fool.com/investing/2025/01/11/forget-bigbear-ai-buy-millionaire-stocks-nu-pdd/",
+            "time_published": "20250111T095500",
+            "authors": [
+                "Leo Sun"
+            ],
+            "summary": "Nu and PDD are generating stronger growth at lower valuations.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803191%2Fwoman-working-at-a-computer.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.289983,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.100941",
+                    "ticker_sentiment_score": "0.090545",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PDD",
+                    "relevance_score": "0.248851",
+                    "ticker_sentiment_score": "0.345474",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "VORBQ",
+                    "relevance_score": "0.050572",
+                    "ticker_sentiment_score": "-0.091376",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NU",
+                    "relevance_score": "0.150906",
+                    "ticker_sentiment_score": "0.304089",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "This Artificial Intelligence  ( AI )  Stock Is Up 158% Over the Last 6 Months, But It Faces 1 Big Risk Going Into 2025",
+            "url": "https://www.fool.com/investing/2025/01/11/this-artificial-intelligence-ai-stock-is-up-144-ov/",
+            "time_published": "20250111T095000",
+            "authors": [
+                "Courtney Carlsen"
+            ],
+            "summary": "Upstart Holdings ( NASDAQ: UPST ) has been on a roller coaster since its initial public offering ( IPO ) in 2020. The lender, powered by artificial intelligence ( AI ) , aims to democratize borrowing for a wide range of consumers.However, its business model has faced challenges, navigating peaks ...",
+            "banner_image": "https://media.ycharts.com/charts/8dd1a1447353d0a127aa553d69398242.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.990678"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.311523,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "OBDC",
+                    "relevance_score": "0.050894",
+                    "ticker_sentiment_score": "0.05",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UPST",
+                    "relevance_score": "0.556298",
+                    "ticker_sentiment_score": "0.512807",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Here's What Happened the Last Time Costco Stock Was This Expensive. Will History Repeat Itself?",
+            "url": "https://www.fool.com/investing/2025/01/11/heres-what-happened-the-last-time-costco-stock-was/",
+            "time_published": "20250111T094600",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "Millions of customers regularly shop at Costco Wholesale ( NASDAQ: COST ) , drawn by its low prices on a wide range of products. The company operates nearly 900 warehouses open to members only in the U.S. ( including Puerto Rico ) , Canada, Mexico, Australia, New Zealand, China, Japan, South ...",
+            "banner_image": "https://media.ycharts.com/charts/132f54b4d6dbd39a496ad81a71c0becc.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999922"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.928139"
+                }
+            ],
+            "overall_sentiment_score": 0.165611,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.635661",
+                    "ticker_sentiment_score": "0.241327",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "There's a Big Problem With the 2025 Social Security COLA",
+            "url": "https://www.fool.com/retirement/2025/01/11/theres-a-big-problem-with-the-2025-social-security/",
+            "time_published": "20250111T094500",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "If you receive Social Security retirement benefits, more money should be coming your way this month. In October, the Social Security Administration ( SSA ) announced a 2.5% cost-of-living adjustment ( COLA ) . This benefit increase became effective on Jan. 1, 2025.However, retirees probably ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803228%2Fgetty-curious-person-wondering-interested.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.036714,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Carnival Just Beat the Market for the Second Year in a Row. Can It Do It Again in 2025?",
+            "url": "https://www.fool.com/investing/2025/01/11/carnival-just-beat-the-market-for-the-second-year/",
+            "time_published": "20250111T094100",
+            "authors": [
+                "Jennifer Saibil"
+            ],
+            "summary": "Carnival ( NYSE: CCL ) ( NYSE: CUK ) stock has moved on from its one-time meme status and has beat the market squarely for two years in a row -- up 130% in 2023 and following that up with a 34% gain in 2024.The cruise industry is back up and running, and as the leading cruise operator, Carnival ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803141/people-on-a-cruiseship.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.857896"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.918141"
+                }
+            ],
+            "overall_sentiment_score": 0.171502,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Here's How Much You Should Have Invested for Retirement at Age 60",
+            "url": "https://www.fool.com/retirement/2025/01/11/heres-how-much-you-should-have-invested-for-retire/",
+            "time_published": "20250111T093400",
+            "authors": [
+                "James Brumley"
+            ],
+            "summary": "You're not there yet, but how much you've saved up at this point can determine how much money you'll have then.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802938%2F010525-sp500-gain-35-years.png&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": 0.28507,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
         {
             "title": "Cathie Wood's Ark Invest Loads Up On Intellia Therapeutics Which Laid Off Over A Quarter Of Its Workforce - ARK Genomic Revolution ETF  ( BATS:ARKG ) , Adaptive Biotechnologies  ( NASDAQ:ADPT ) ",
             "url": "https://www.benzinga.com/markets/equities/25/01/42931987/cathie-woods-ark-invest-loads-up-on-intellia-therapeutics-which-laid-off-over-a-quarter-of-its-w",
@@ -64,6 +301,54 @@
                     "ticker": "NTLA",
                     "relevance_score": "0.449503",
                     "ticker_sentiment_score": "0.244618",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Have $500? 2 Absurdly Cheap Stocks Long-Term Investors Should Buy Right Now",
+            "url": "https://www.fool.com/investing/2025/01/11/have-500-2-absurdly-cheap-stocks-long-term-investo/",
+            "time_published": "20250111T093200",
+            "authors": [
+                "Lawrence Rothman",
+                "CFA"
+            ],
+            "summary": "The S&P 500 gained 24.2% and 23.3% in 2023 and 2024, respectively. Naturally, this has made many stock investors happy and wealthier.That makes finding stocks trading at an attractive valuation a challenge, however.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802961%2Fgettyimages-483562851-1200x834-a844512.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.263652,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HD",
+                    "relevance_score": "0.205807",
+                    "ticker_sentiment_score": "0.26737",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ULTA",
+                    "relevance_score": "0.205807",
+                    "ticker_sentiment_score": "0.188064",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
@@ -1666,169 +1951,6 @@
                     "relevance_score": "0.885652",
                     "ticker_sentiment_score": "0.510049",
                     "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "'Steve Jobs Invented The iPhone And Now They're Just...Sitting On It:' Mark Zuckerberg Hints At Apple's Potential Downfall Amid iPhone Maker's 'Random Rules' - Meta Platforms  ( NASDAQ:META ) ",
-            "url": "https://www.benzinga.com/25/01/42931722/steve-jobs-invented-the-iphone-and-now-theyre-justsitting-on-it-mark-zuckerberg-hints-at-apples-potential-downfal",
-            "time_published": "20250111T061004",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "Mark Zuckerberg, the CEO of Meta Platforms Inc. META, on Friday criticized Apple Inc. AAPL for its lack of innovation and restrictive policies. He also hinted at the potential downfall of the tech giant if it doesn't adapt to the rapidly changing industry.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Mark-Zuckerberg-Steve-Jobs.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.139129,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.261818",
-                    "ticker_sentiment_score": "-0.109534",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.596651",
-                    "ticker_sentiment_score": "0.039561",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BNXYF",
-                    "relevance_score": "0.066598",
-                    "ticker_sentiment_score": "-0.020227",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Transforming Travel: AirAsia MOVE Partners with Antom for Seamless Payment Solutions",
-            "url": "https://markets.businessinsider.com/news/stocks/transforming-travel-airasia-move-partners-with-antom-for-seamless-payment-solutions-1034202746",
-            "time_published": "20250111T052744",
-            "authors": [
-                "Plentisoft"
-            ],
-            "summary": "-- AirAsia MOVE ( MOVE ) , Asean's leading travel booking app and the OTA ( online travel agency ) platform business of Capital A has signed a partnership agreement with Ant International's Antom as part of its continuous efforts to transform travel, including seamless payment experiences on the ...",
-            "banner_image": "https://images.squarespace-cdn.com/content/v1/5a5dbe4632601eb31977f947/1736230901492-TJD5QHQ5NDXHC2F42HO8/250107_MOVExANT_WIN4219x.jpg?format=2500w",
-            "source": "Business Insider",
-            "category_within_source": "RSS",
-            "source_domain": "markets.businessinsider.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.397811,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "APG",
-                    "relevance_score": "0.027958",
-                    "ticker_sentiment_score": "0.205271",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Cathay Pacific returns to Rome this summer",
-            "url": "https://markets.businessinsider.com/news/stocks/cathay-pacific-returns-to-rome-this-summer-1034208235",
-            "time_published": "20250111T052744",
-            "authors": [
-                "Plentisoft"
-            ],
-            "summary": "Announcing our 12th European destination, and another step closer to the Group's target of reaching 100 global destinations within 2025 -- Cathay Pacific is excited to announce that its global network will further expand this year with the launch of direct flights between Hong Kong and Rome on 5 ...",
-            "banner_image": "https://cdn.uc.assets.prezly.com/c32b0d2e-c9ab-452c-8251-5ba2510b53dd/-/resize/1108x/-/quality/best/-/format/auto/",
-            "source": "Business Insider",
-            "category_within_source": "RSS",
-            "source_domain": "markets.businessinsider.com",
-            "topics": [],
-            "overall_sentiment_score": 0.226327,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "EADSF",
-                    "relevance_score": "0.068112",
-                    "ticker_sentiment_score": "0.153579",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "CapitaLand contributes RM200,000 worth of necessities to support 2,600 underserved children and low-income families in Malaysia",
-            "url": "https://markets.businessinsider.com/news/stocks/capitaland-contributes-rm200-000-worth-of-necessities-to-support-2-600-underserved-children-and-low-income-families-in-malaysia-1034208236",
-            "time_published": "20250111T052744",
-            "authors": [
-                "Plentisoft"
-            ],
-            "summary": "Beneficiaries to enjoy a unique shopping mall bazaar experience for the first time, through #GivingBersama 4.0 initiative",
-            "banner_image": "https://www.capitaland.com/en/about-capitaland/newsroom/news-releases/international/2025/january/capitaland-contributes-rm200-000-worth-of-necessities-to-support/_jcr_content/root/container/container/container/image.coreimg.jpeg/content/dam/capitaland-newsroom/International/2025/january/givingbersama4-0/Picture%201.JPG",
-            "source": "Business Insider",
-            "category_within_source": "RSS",
-            "source_domain": "markets.businessinsider.com",
-            "topics": [],
-            "overall_sentiment_score": 0.364499,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CLILF",
-                    "relevance_score": "0.050572",
-                    "ticker_sentiment_score": "0.212694",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Indonesia AirAsia returns to the Northern Territory",
-            "url": "https://markets.businessinsider.com/news/stocks/indonesia-airasia-returns-to-the-northern-territory-1034208040",
-            "time_published": "20250111T052744",
-            "authors": [
-                "Plentisoft"
-            ],
-            "summary": "Direct services between Darwin and Bali will commence 22 March 2025 with three direct flights per week, offering a world of great value travel across Asia and beyond -- Indonesia AirAsia is set to reconnect the Northern Territory with Asia, resuming three direct flights per week between Darwin ...",
-            "banner_image": "https://images.squarespace-cdn.com/content/v1/5a5dbe4632601eb31977f947/1736325086047-B1RV8VL0852XTHLYEVUI/1M8A0250.jpg?format=2500w",
-            "source": "Business Insider",
-            "category_within_source": "RSS",
-            "source_domain": "markets.businessinsider.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.452078,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:KMD",
-                    "relevance_score": "0.042876",
-                    "ticker_sentiment_score": "0.098467",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
