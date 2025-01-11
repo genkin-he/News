@@ -1,8 +1,30 @@
 {
-    "items": "39",
+    "items": "41",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Special counsel Jack Smith resigns from DOJ as Trump's fight to block final report continues",
+            "url": "https://www.cnbc.com/2025/01/11/special-counsel-jack-smith-resigns-from-doj-as-trumps-fight-to-block-final-report-continues.html",
+            "time_published": "20250111T215610",
+            "authors": [],
+            "summary": "Smith resigned Friday from the Department of Justice after he completed his two criminal investigations of President-elect Donald Trump.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [],
+            "overall_sentiment_score": 0.031403,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DSSMY",
+                    "relevance_score": "0.363388",
+                    "ticker_sentiment_score": "0.095758",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "ZETA DEADLINE NOTICE: ROSEN, A HIGHLY RECOGNIZED LAW FIRM, Encourages Zeta Global Holdings Corp. Investors to Secure Counsel Before Important January 21 Deadline in Securities Class Action - ZETA - Zeta Global Holdings  ( NYSE:ZETA ) ",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42933551/zeta-deadline-notice-rosen-a-highly-recognized-law-firm-encourages-zeta-global-holdings-corp-inves",
@@ -39,6 +61,65 @@
                     "relevance_score": "0.12546",
                     "ticker_sentiment_score": "0.150375",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Here's Why Adobe Stock Declined by 26% in 2024",
+            "url": "https://www.fool.com/investing/2025/01/11/heres-why-adobe-stock-declined-by-26-in-2024/",
+            "time_published": "20250111T213824",
+            "authors": [
+                "Lee Samaha"
+            ],
+            "summary": "Shares in digital media technology company Adobe ( NASDAQ: ADBE ) declined by 25.5% in 2024, according to data provided by S&P Global Market Intelligence. Frankly, this needs some explaining because it's not often that a company loses a quarter of its value after handily beating its initial ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803690%2Fsuccessful-investor.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.242804,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ADBE",
+                    "relevance_score": "0.744646",
+                    "ticker_sentiment_score": "0.306641",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.113062",
+                    "ticker_sentiment_score": "0.070502",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.113062",
+                    "ticker_sentiment_score": "0.005652",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.113062",
+                    "ticker_sentiment_score": "0.005652",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
