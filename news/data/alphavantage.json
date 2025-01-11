@@ -1,8 +1,83 @@
 {
-    "items": "37",
+    "items": "36",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Elon Musk's X, Hewlett Packard Strike $1 Billion AI Server Deal: Report - Hewlett Packard  ( NYSE:HPE ) , Dell Technologies  ( NYSE:DELL ) ",
+            "url": "https://www.benzinga.com/25/01/42931833/hewlett-packard-enterprise-strikes-1b-ai-server-deal-with-elon-musks-x-report",
+            "time_published": "20250111T074121",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "Hewlett Packard Enterprise Co HPE has reportedly secured a deal worth over $1 billion to supply servers optimized for artificial intelligence to Elon Musk's social media platform, X. What Happened: The deal between HP and X was finalized late last year, Bloomberg News reported on Friday, citing ...",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/01/10232310/Screenshot-2025-01-11-at-9.53.03%E2%80%AFAM.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.314148,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HPQ",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.259378",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.101154",
+                    "ticker_sentiment_score": "0.055295",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.388879",
+                    "ticker_sentiment_score": "0.287415",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "HPE",
+                    "relevance_score": "0.388879",
+                    "ticker_sentiment_score": "0.449553",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "DELL",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.053062",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SMCI",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.053062",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "T-Mobile Sued Over Massive Data Breach Impacting 79 Million Americans: Sensitive Information Included Names, Addresses, And More - T-Mobile US  ( NASDAQ:TMUS ) , AT&T  ( NYSE:T ) ",
             "url": "https://www.benzinga.com/25/01/42931807/t-mobile-sued-over-massive-data-breach-impacting-79-million-americans-sensitive-information-included-names-addres",
@@ -1365,64 +1440,6 @@
                     "relevance_score": "0.699089",
                     "ticker_sentiment_score": "-0.119684",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "DENNY'S RESTAURANTS ARE OFFERING A FREE ORIGINAL GRAND SLAM\u00ae AND COFFEE FOR ALL FIRST RESPONDERS IN UNIFORM THAT DINE-IN AT 164 LOCATIONS IN THE GREATER LA, ORANGE COUNTY & INLAND EMPIRE AREAS - Denny's  ( NASDAQ:DENN ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42930455/dennys-restaurants-are-offering-a-free-original-grand-slam-and-coffee-for-all-first-responders-in-",
-            "time_published": "20250110T232345",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "Spartanburg, SC, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- ***MEDIA ADVISORY*** America's Diner is offering support - a free Original Grand Slam and hot coffee for all dine-in only first responders in uniform.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.510291,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "DENN",
-                    "relevance_score": "0.59972",
-                    "ticker_sentiment_score": "0.651448",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "DENNY'S RESTAURANTS ARE OFFERING A FREE ORIGINAL GRAND SLAM\u00ae AND COFFEE FOR ALL FIRST RESPONDERS IN UNIFORM THAT DINE-IN AT 164 LOCATIONS IN THE GREATER LA, ORANGE COUNTY & INLAND EMPIRE AREAS",
-            "url": "https://www.globenewswire.com/news-release/2025/01/10/3007979/0/en/DENNY-S-RESTAURANTS-ARE-OFFERING-A-FREE-ORIGINAL-GRAND-SLAM-AND-COFFEE-FOR-ALL-FIRST-RESPONDERS-IN-UNIFORM-THAT-DINE-IN-AT-164-LOCATIONS-IN-THE-GREATER-LA-ORANGE-COUNTY-INLAND-EMPI.html",
-            "time_published": "20250110T232300",
-            "authors": [
-                "Denny's"
-            ],
-            "summary": "Available from Saturday, January 11 through Sunday, January 19 Available from Saturday, January 11 through Sunday, January ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/05244dfb-c9d1-4a9c-8d48-06093c5386e7",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.564478,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "DENN",
-                    "relevance_score": "0.751437",
-                    "ticker_sentiment_score": "0.698649",
-                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         }
