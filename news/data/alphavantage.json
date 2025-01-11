@@ -1,8 +1,330 @@
 {
-    "items": "42",
+    "items": "43",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "1 Magnificent Dividend Growth Stock That Could Soar 20% in 2025, According to a Couple of Wall Street Analysts",
+            "url": "https://www.fool.com/investing/2025/01/11/1-magnificent-dividend-growth-stock-that-could-soa/",
+            "time_published": "20250111T101700",
+            "authors": [
+                "Cory Renauer"
+            ],
+            "summary": "Whether you're seeking a growing source of income or long-term gains, Wall Street thinks now is a good time to reconsider the world's best-known beverage company.Shares of Coca-Cola ( NYSE: KO ) have fallen by about 15.5% from a peak they reached last September.",
+            "banner_image": "https://media.ycharts.com/charts/878e513c5c49c90ed979a14808015094.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.152736,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.592095",
+                    "ticker_sentiment_score": "0.2142",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "The S&P 500 Just Did Something for Only the Fourth Time in 96 Years -- and Its Historic Significance Can't Be Overlooked",
+            "url": "https://www.fool.com/investing/2025/01/11/sp-500-4th-time-in-96-years-historic-significance/",
+            "time_published": "20250111T100600",
+            "authors": [
+                "Sean Williams"
+            ],
+            "summary": "When things seem too good to be true on Wall Street, they often are.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803417%2Fstock-chart-quote-bear-bull-trading-invest-short-options-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.890401"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999355"
+                }
+            ],
+            "overall_sentiment_score": 0.057732,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "History Says the Nasdaq Could Soar Again in 2025: 1 Artificial Intelligence  ( AI )  Stock-Split Stock to Buy Before That Happens",
+            "url": "https://www.fool.com/investing/2025/01/11/history-says-the-nasdaq-could-soar-once-again-in-2/",
+            "time_published": "20250111T100500",
+            "authors": [
+                "Harsh Chauhan"
+            ],
+            "summary": "Following a solid couple of years in 2023 and 2024, it wouldn't be surprising to see the Nasdaq Composite index fly higher in the new year. It could grow due to several factors, such as strong economic growth in the U.S., controlled inflation, higher consumer spending, and the growing adoption of ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803130/curve-2025-person-pencil.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.658903"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999999"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.244333,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LRCX",
+                    "relevance_score": "0.210457",
+                    "ticker_sentiment_score": "0.150312",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.085022",
+                    "ticker_sentiment_score": "0.072303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.085022",
+                    "ticker_sentiment_score": "0.072303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ON",
+                    "relevance_score": "0.042571",
+                    "ticker_sentiment_score": "0.14922",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PANW",
+                    "relevance_score": "0.042571",
+                    "ticker_sentiment_score": "0.001991",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:AMD",
+                    "relevance_score": "0.085022",
+                    "ticker_sentiment_score": "0.139722",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market Roundup 2024: Here's What Worked, What Didn't, and What Stocks Investors Can Buy Now and Hold Forever",
+            "url": "https://www.fool.com/investing/2025/01/11/stock-market-roundup-2024-heres-what-worked-what-d/",
+            "time_published": "20250111T100100",
+            "authors": [
+                "Jake Lerch"
+            ],
+            "summary": "The start of a new year is a great time to review what happened over the last 12 months and take some lessons from it. So, as 2025 gets underway, let's take a quick look back to see the highlights and lowlights from 2024 -- and what could be in store for the year ahead.Image source: Getty ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802162%2Ftsla-tesla-nvda-nvida-stock-market-investment.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.160734,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CVS",
+                    "relevance_score": "0.055236",
+                    "ticker_sentiment_score": "-0.086049",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.055236",
+                    "ticker_sentiment_score": "0.038097",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.270973",
+                    "ticker_sentiment_score": "0.138425",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DG",
+                    "relevance_score": "0.055236",
+                    "ticker_sentiment_score": "-0.086049",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DLTR",
+                    "relevance_score": "0.055236",
+                    "ticker_sentiment_score": "-0.086049",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OPTGF",
+                    "relevance_score": "0.055236",
+                    "ticker_sentiment_score": "0.204934",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.055236",
+                    "ticker_sentiment_score": "0.038097",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.164656",
+                    "ticker_sentiment_score": "0.275695",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WBA",
+                    "relevance_score": "0.055236",
+                    "ticker_sentiment_score": "-0.086049",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MRNA",
+                    "relevance_score": "0.110209",
+                    "ticker_sentiment_score": "-0.178375",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.372315",
+                    "ticker_sentiment_score": "0.382405",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "BIIB",
+                    "relevance_score": "0.110209",
+                    "ticker_sentiment_score": "-0.178375",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.055236",
+                    "ticker_sentiment_score": "0.21094",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "If You'd Invested $50 in Lucid Group Stock 4 Years Ago, Here's How Much You'd Have Today",
+            "url": "https://www.fool.com/investing/2025/01/11/if-youd-invested-in-lucid-group-stock-lcid/",
+            "time_published": "20250111T100000",
+            "authors": [
+                "Ryan Vanzo"
+            ],
+            "summary": "It's clear that Lucid Group ( NASDAQ: LCID ) stock has plenty of long-term potential. Its market cap is less than $10 billion, while more mature players like Tesla enjoy a market cap of more than $1 trillion. To be sure, there's still a long way to go for Lucid to compare with the likes of Tesla.",
+            "banner_image": "https://media.ycharts.com/charts/990a6794b485a865e199264697ead385.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.266931,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LCID",
+                    "relevance_score": "0.890832",
+                    "ticker_sentiment_score": "0.34165",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.229149",
+                    "ticker_sentiment_score": "0.241257",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "Should You Forget BigBear.ai and Buy These 2 Millionaire-Maker Stocks Instead?",
             "url": "https://www.fool.com/investing/2025/01/11/forget-bigbear-ai-buy-millionaire-stocks-nu-pdd/",
@@ -1769,188 +2091,6 @@
                     "relevance_score": "0.116631",
                     "ticker_sentiment_score": "0.127869",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Elon Musk's X, Hewlett Packard Strike $1 Billion AI Server Deal: Report - Hewlett Packard  ( NYSE:HPE ) , Dell Technologies  ( NYSE:DELL ) ",
-            "url": "https://www.benzinga.com/25/01/42931833/hewlett-packard-enterprise-strikes-1b-ai-server-deal-with-elon-musks-x-report",
-            "time_published": "20250111T074121",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "Hewlett Packard Enterprise Co HPE has reportedly secured a deal worth over $1 billion to supply servers optimized for artificial intelligence to Elon Musk's social media platform, X. What Happened: The deal between HP and X was finalized late last year, Bloomberg News reported on Friday, citing ...",
-            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/01/10232310/Screenshot-2025-01-11-at-9.53.03%E2%80%AFAM.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.25"
-                }
-            ],
-            "overall_sentiment_score": 0.314148,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HPQ",
-                    "relevance_score": "0.200688",
-                    "ticker_sentiment_score": "0.259378",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "BCS",
-                    "relevance_score": "0.101154",
-                    "ticker_sentiment_score": "0.055295",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.388879",
-                    "ticker_sentiment_score": "0.287415",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "HPE",
-                    "relevance_score": "0.388879",
-                    "ticker_sentiment_score": "0.449553",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "DELL",
-                    "relevance_score": "0.200688",
-                    "ticker_sentiment_score": "0.053062",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SMCI",
-                    "relevance_score": "0.200688",
-                    "ticker_sentiment_score": "0.053062",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "T-Mobile Sued Over Massive Data Breach Impacting 79 Million Americans: Sensitive Information Included Names, Addresses, And More - T-Mobile US  ( NASDAQ:TMUS ) , AT&T  ( NYSE:T ) ",
-            "url": "https://www.benzinga.com/25/01/42931807/t-mobile-sued-over-massive-data-breach-impacting-79-million-americans-sensitive-information-included-names-addres",
-            "time_published": "20250111T071742",
-            "authors": [
-                "Rounak Jain"
-            ],
-            "summary": "Washington state has taken legal action against T-Mobile US TMUS for allegedly neglecting cybersecurity vulnerabilities, leading to a significant data breach in 2021 that impacted 79 million people across the U.S.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/T-Mobile.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.220632,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "T",
-                    "relevance_score": "0.087503",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TMUS",
-                    "relevance_score": "0.173958",
-                    "ticker_sentiment_score": "-0.083271",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "VZ",
-                    "relevance_score": "0.173958",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Apple Staring At Market Share Decline In China Amid Declining iPhone Shipments: Top Analyst Flags Why Some Models Could Be Face Shipping Momentum Challenges - Apple  ( NASDAQ:AAPL ) ",
-            "url": "https://www.benzinga.com/tech/25/01/42931758/apple-staring-at-market-share-decline-in-china-amid-declining-iphone-shipments-top-analyst-flags-why-some-mo",
-            "time_published": "20250111T063853",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "Apple Inc. AAPL is experiencing a drop in its market share in China. This decline is attributed to a decrease in iPhone shipments, as reported by supply chain analyst Ming-Chi Kuo. What Happened: Kuo, an analyst at TF Securities, revealed that Apple has been \"cautious\" in discussing its 2025 ...",
-            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/01/10225601/Screenshot-2025-01-11-at-9.25.54%E2%80%AFAM-1024x392.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.650727"
-                }
-            ],
-            "overall_sentiment_score": 0.057812,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.606946",
-                    "ticker_sentiment_score": "-0.028854",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Bitcoin Supercycle Incoming, Says Economist, But There's A Catch - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",
-            "url": "https://www.benzinga.com/25/01/42931747/bitcoin-supercycle-incoming-says-economist-but-theres-a-catch",
-            "time_published": "20250111T063440",
-            "authors": [
-                "Rounak Jain"
-            ],
-            "summary": "Economist and trader Alex Kruger has expressed a bullish outlook on Bitcoin BTC/USD, despite the cryptocurrency currently trading 13% below its all-time high. What Happened: Kruger believes that Bitcoin has significant potential for growth and is far from reaching the peak of its cycle.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/What-He-Did.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.905476"
-                }
-            ],
-            "overall_sentiment_score": 0.295916,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.885652",
-                    "ticker_sentiment_score": "0.510049",
-                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         }
