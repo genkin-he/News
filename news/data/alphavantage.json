@@ -1,8 +1,126 @@
 {
-    "items": "43",
+    "items": "42",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "This Week in Bitcoin: BTC Plunges as US Gets Go-Ahead to Sell Silk Road Billions",
+            "url": "https://decrypt.co/300451/this-week-bitcoin-btc-plunges-sell-silk-road-billions",
+            "time_published": "20250111T160946",
+            "authors": [
+                "Mat Di Salvo"
+            ],
+            "summary": "Bitcoin topped $100K for the first time in 2025, then plummeted amid mixed economic reports, volatile ETF flows, and a potential Silk Road sale.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/07/bitcoin-btc-on-american-flag-us-flag-gID_7.jpg",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                }
+            ],
+            "overall_sentiment_score": 0.01928,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CASK",
+                    "relevance_score": "0.055109",
+                    "ticker_sentiment_score": "0.155872",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.666827",
+                    "ticker_sentiment_score": "0.048696",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 Reasons to Buy British American Tobacco Stock Like There's No Tomorrow",
+            "url": "https://www.fool.com/investing/2025/01/11/3-reasons-to-buy-british-america-tobacco-stock/",
+            "time_published": "20250111T154500",
+            "authors": [
+                "Dan Victor"
+            ],
+            "summary": "Despite persistent regulatory uncertainty and declining cigarette usage worldwide, the tobacco industry is alive and well in 2025. People are smoking less, but many have shifted their consumption toward emerging products like oral nicotine pouches and electronic devices.British American Tobacco ( ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803227%2Fbti-stock-outlook-2025-bullish.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99737"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.503496"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.461857,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PM",
+                    "relevance_score": "0.110973",
+                    "ticker_sentiment_score": "0.128864",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BTI",
+                    "relevance_score": "0.324495",
+                    "ticker_sentiment_score": "0.488574",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MO",
+                    "relevance_score": "0.110973",
+                    "ticker_sentiment_score": "0.128864",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Here's How Much You Should Have Invested in the Stock Market Today If You Want to Retire Comfortably in 25 Years",
+            "url": "https://www.fool.com/investing/2025/01/11/heres-how-much-you-should-have-invested-in-the-sto/",
+            "time_published": "20250111T153200",
+            "authors": [
+                "David Jagielski"
+            ],
+            "summary": "Investing in the stock market can be a great way to build up your wealth and save for retirement. But just how much do you need to truly retire comfortably, and how much should you have invested in the market today to be on track to hit that magic number in 25 years?Below, I'll look to answer ...",
+            "banner_image": "https://media.ycharts.com/charts/c704d63b94d4e2df6cb5c1851473e975.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.998663"
+                }
+            ],
+            "overall_sentiment_score": 0.302723,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
         {
             "title": "Where Will Amazon Stock Be in 5 Years?",
             "url": "https://www.fool.com/investing/2025/01/11/where-will-amazon-stock-be-in-5-years/",
@@ -1847,188 +1965,6 @@
                     "ticker": "AMD",
                     "relevance_score": "0.985002",
                     "ticker_sentiment_score": "0.289088",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "3 Artificial Intelligence  ( AI )  Stocks to Buy Hand Over Fist in January",
-            "url": "https://www.fool.com/investing/2025/01/11/3-artificial-intelligence-ai-stocks-to-buy-hand-ov/",
-            "time_published": "20250111T121500",
-            "authors": [
-                "Keithen Drury"
-            ],
-            "summary": "Artificial intelligence ( AI ) investing isn't just for 2024. It's still going to be a massive theme in 2025. As a result, investors should examine their portfolios and see if they have proper exposure to the biggest technological shift since the growth of the internet.Three AI stocks that ...",
-            "banner_image": "https://media.ycharts.com/charts/1c5ce5a6bda3d7b7351db67911674aae.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.962106"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.972476"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.396557,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.164282",
-                    "ticker_sentiment_score": "0.176934",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.321673",
-                    "ticker_sentiment_score": "0.335415",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "China Has a 6th-Generation Fighter Jet. What Does It Mean for Boeing, Lockheed Martin, and Northrop Grumman?",
-            "url": "https://www.fool.com/investing/2025/01/11/china-6th-generation-fighter-jet-boeing-lockheed/",
-            "time_published": "20250111T120700",
-            "authors": [
-                "Rich Smith"
-            ],
-            "summary": "It's probably safe to bet on defense stocks in the middle of an arms race.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803120%2Ff-22-raptor-silhouetted-against-a-sunrise.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.12572,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LMT",
-                    "relevance_score": "0.206245",
-                    "ticker_sentiment_score": "0.089776",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BA",
-                    "relevance_score": "0.3527",
-                    "ticker_sentiment_score": "0.140293",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NOC",
-                    "relevance_score": "0.155451",
-                    "ticker_sentiment_score": "0.08412",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "China gets major Nigeria rail project back on track by granting key loan",
-            "url": "https://www.scmp.com/economy/global-economy/article/3294268/china-gets-major-nigeria-rail-project-back-track-granting-key-loan",
-            "time_published": "20250111T120009",
-            "authors": [
-                "Carol Yang"
-            ],
-            "summary": "Chinese state lenders had pulled the plug on the Kaduna-Kano project in 2020, but have greenlit new financing on commercial terms.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/009f5be9-e50a-4edb-9df2-68a911f3c9e3_0b0963cc.jpg?itok=j4Fm-CrY&v=1736501612",
-            "source": "South China Morning Post",
-            "category_within_source": "Economy",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.121471,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BACHY",
-                    "relevance_score": "0.066784",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:EUR",
-                    "relevance_score": "0.066784",
-                    "ticker_sentiment_score": "0.131703",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Will Meta's Artificial Intelligence Agents Be a Game Changer in 2025?",
-            "url": "https://www.fool.com/investing/2025/01/11/will-metas-artificial-intelligence-agents-be-a-gam/",
-            "time_published": "20250111T120000",
-            "authors": [
-                "Keithen Drury"
-            ],
-            "summary": "In 2025, generative artificial intelligence ( AI ) models will become much more useful because many of the companies involved with building them have started to develop agentic AI. This is the next phase, and it basically involves AI agents acting like people.While generative AI can be a useful ...",
-            "banner_image": "https://media.ycharts.com/charts/6bd8e1e303f974a8ea654caa294d5969.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.986564"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.316726"
-                }
-            ],
-            "overall_sentiment_score": 0.356815,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.062926",
-                    "ticker_sentiment_score": "0.155508",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.306963",
-                    "ticker_sentiment_score": "0.449877",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.062926",
-                    "ticker_sentiment_score": "0.155508",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "BNXYF",
-                    "relevance_score": "0.062926",
-                    "ticker_sentiment_score": "0.273528",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
