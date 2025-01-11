@@ -4,6 +4,39 @@
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
         {
+            "title": "Warren Buffett's Middle Child Howie Buffett Steps Into Spotlight: An Heir to Berkshire Hathaway Throne?",
+            "url": "https://www.benzinga.com/markets/25/01/42933455/warren-buffetts-middle-child-howie-buffett-steps-into-spotlight-an-heir-to-berkshire-hathaway-throne",
+            "time_published": "20250111T203018",
+            "authors": [
+                "Bibhu Pattnaik"
+            ],
+            "summary": "Berkshire gears up for a historic leadership shift, spotlighting Warren Buffett's son as steward of a trillion-dollar legacy. Philanthropy and business intersect as the Buffett family prepares one of history's largest wealth transfers. Get daily trade setups, exclusive stock picks, and real-time ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Berkshire-Hathaway-Text-Concept-Closeup-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.323908,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.276909",
+                    "ticker_sentiment_score": "0.305873",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "BDTCOIN Launches on Tier 1 Exchanges: Unlock New Investment Opportunities in Web3 and AI",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42933434/bdtcoin-launches-on-tier-1-exchanges-unlock-new-investment-opportunities-in-web3-and-ai",
             "time_published": "20250111T201951",
@@ -1695,28 +1728,6 @@
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
-        },
-        {
-            "title": "3 Lesser-Known Ways to Boost Your Social Security Benefits With Next-to-No Effort",
-            "url": "https://www.fool.com/retirement/2025/01/11/3-lesser-known-ways-to-boost-your-social-security/",
-            "time_published": "20250111T150000",
-            "authors": [
-                "Katie Brockman"
-            ],
-            "summary": "Social Security benefits are a lifeline for millions of retirees, so it can be a good idea to maximize them the best you can. The average retiree collects around $1,925 per month in benefits as of November 2024, but a few simple strategies could help boost your payments by hundreds of dollars per ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802984%2Fperson-sitting-at-a-desk-and-smiling.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.339825,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
         }
     ]
 }
