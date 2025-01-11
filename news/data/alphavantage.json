@@ -1,8 +1,82 @@
 {
-    "items": "35",
+    "items": "34",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Kelun-Biotech Announce Exclusive License Agreement For SKB378/HBM9378, an Anti-thymic Stromal Lymphopoietin  ( TSLP )  Monoclonal Antibody  ( mAb ) .",
+            "url": "https://www.benzinga.com/pressreleases/25/01/n42931914/kelun-biotech-announce-exclusive-license-agreement-for-skb378hbm9378-an-anti-thymic-stromal-lympho",
+            "time_published": "20250111T083700",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "CHENGDU, China, Jan. 11, 2025 /PRNewswire/ -- Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd. ( the \"Company\" ) announced that the Company and HBM Holdings Limited ( \"Harbour BioMed\" ) ( together with the Company, the \"Licensors\" ) , have entered into an exclusive license agreement ( the ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.234196,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HBMHF",
+                    "relevance_score": "0.045655",
+                    "ticker_sentiment_score": "0.073195",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Macroscope | Biden's blocking of US Steel deal latest sign of globalisation in retreat",
+            "url": "https://www.scmp.com/opinion/world-opinion/article/3294170/bidens-blocking-us-steel-deal-latest-sign-globalisation-retreat",
+            "time_published": "20250111T083008",
+            "authors": [
+                "Anthony Rowley"
+            ],
+            "summary": "Despite increased levels of international engagement, governments are unwilling to make concessions on sovereignty even in the global interest.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/b506503a-939d-4da3-8ded-9c6d16de8023_399ee159.jpg?itok=4ECNdCsA&v=1736494137",
+            "source": "South China Morning Post",
+            "category_within_source": "Economy",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.012148,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SNLC",
+                    "relevance_score": "0.045918",
+                    "ticker_sentiment_score": "0.045006",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CHYL",
+                    "relevance_score": "0.045918",
+                    "ticker_sentiment_score": "0.001982",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NISTF",
+                    "relevance_score": "0.182162",
+                    "ticker_sentiment_score": "-0.252489",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
         {
             "title": "Jeff Bezos' $500 Million Superyacht Koru Steals The Show At St. Bart's Annual Festival Where 173 Billionaires Turned Up With Their Yachts",
             "url": "https://www.benzinga.com/25/01/42931896/jeff-bezos-500-million-superyacht-koru-steals-the-show-at-st-barts-annual-festival-where-173-billionaires-turned-",
@@ -32,6 +106,182 @@
                     "ticker": "GOOG",
                     "relevance_score": "0.105141",
                     "ticker_sentiment_score": "0.315092",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Best Stock to Buy Right Now: Amazon vs. Apple",
+            "url": "https://www.fool.com/investing/2025/01/11/best-stock-to-buy-right-now-amazon-vs-apple/",
+            "time_published": "20250111T082500",
+            "authors": [
+                "Neil Patel"
+            ],
+            "summary": "Dominant tech businesses generate all the buzz from the investment community. In the past, they've been able to produce tremendous returns for shareholders.Two examples are Amazon ( NASDAQ: AMZN ) and Apple ( NASDAQ: AAPL ) , successful enterprises that touch the lives of billions of people daily.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803230/buy-sell-stocks-red-green-1201x729-bacaf87.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.988915"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.320192,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.449503",
+                    "ticker_sentiment_score": "0.430167",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.449503",
+                    "ticker_sentiment_score": "0.367657",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.059488",
+                    "ticker_sentiment_score": "0.121",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Could Dutch Bros Be a Millionaire-Maker Stock?",
+            "url": "https://www.fool.com/investing/2025/01/11/could-dutch-bros-be-a-millionaire-maker-stock/",
+            "time_published": "20250111T082400",
+            "authors": [
+                "Geoffrey Seiler"
+            ],
+            "summary": "With a nearly 12,000% gain since its IPO, Starbucks ( NASDAQ: SBUX ) has undoubtedly created a few millionaires out of investors that bought its stock in the early days and held on to it over the years. Given Starbucks' huge returns, investors may be wondering if there could be another big coffee ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802978%2Fstarbucks-online-order-mobile-coffee-drive-thru.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.216648,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SBUX",
+                    "relevance_score": "0.404563",
+                    "ticker_sentiment_score": "0.256168",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BROS",
+                    "relevance_score": "0.534664",
+                    "ticker_sentiment_score": "0.184556",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "3 Energy Pipeline Stocks Set to Benefit From Artificial Intelligence  ( AI )  in 2025",
+            "url": "https://www.fool.com/investing/2025/01/11/energy-pipeline-stocks-benefit-ai-2025-et-epd/",
+            "time_published": "20250111T082000",
+            "authors": [
+                "Geoffrey Seiler"
+            ],
+            "summary": "When it comes to looking at stocks that will benefit the most from artificial intelligence ( AI ) , the technology sector is front and center. However, it is not the only sector set to benefit.Companies in the energy midstream space are also poised to get a nice boost because AI training and ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803218%2Fgettyimages-1334186403.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.303645,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.042647",
+                    "ticker_sentiment_score": "0.103031",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ET",
+                    "relevance_score": "0.25168",
+                    "ticker_sentiment_score": "0.304997",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Dollar General Shares Fall More Than 40% for a 2nd Straight Year. Can Investors Trust This Stock?",
+            "url": "https://www.fool.com/investing/2025/01/11/dollar-general-shares-fall-more-than-40-for-a-2nd/",
+            "time_published": "20250111T081500",
+            "authors": [
+                "David Jagielski"
+            ],
+            "summary": "It may feel like d\u00e9j\u00e0 vu for Dollar General ( NYSE: DG ) investors these days. The stock was down 44% in 2024 in what was a near repeat performance of how badly it did in the previous year, when its shares fell by nearly 45%.",
+            "banner_image": "https://media.ycharts.com/charts/1d88c72e4fdb00732d7ea2dbdb890244.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                }
+            ],
+            "overall_sentiment_score": 0.124413,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DG",
+                    "relevance_score": "0.665411",
+                    "ticker_sentiment_score": "0.198826",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
@@ -92,6 +342,189 @@
                     "relevance_score": "0.478939",
                     "ticker_sentiment_score": "0.312062",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Could Buying Upstart Stock Today Set You Up for Life?",
+            "url": "https://www.fool.com/investing/2025/01/11/could-buying-hot-ticker-today-set-you-up-for-life/",
+            "time_published": "20250111T080500",
+            "authors": [
+                "Jennifer Saibil"
+            ],
+            "summary": "Upstart Holdings ( NASDAQ: UPST ) stock is up 93% over the past year. If you didn't know about Upstart's history, you might think that's exciting. If you are familiar, you already know that it's had extreme ups and downs over the past few years, and it's still 84% off of its all-time highs.Now ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/802331/people-sitting-with-papers-getting-a-loan.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.365495,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FICO",
+                    "relevance_score": "0.056674",
+                    "ticker_sentiment_score": "-0.001001",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UPST",
+                    "relevance_score": "0.744646",
+                    "ticker_sentiment_score": "0.523946",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "History Says the Nasdaq Will Soar in 2025. 2 Brilliant Tech Stocks to Buy Before It Does.",
+            "url": "https://www.fool.com/investing/2025/01/11/history-says-the-nasdaq-will-soar-in-2025-2-brilli/",
+            "time_published": "20250111T080200",
+            "authors": [
+                "Danny Vena"
+            ],
+            "summary": "Bullish market trends suggest the Nasdaq has additional upside over the coming year. These two stocks could help lead the rally higher.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803315%2Fa-couple-lying-on-the-floor-entering-credit-card-info-into-a-laptop.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.995077"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.980716"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.285689,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PYPL",
+                    "relevance_score": "0.370018",
+                    "ticker_sentiment_score": "0.331067",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SHOP",
+                    "relevance_score": "0.460215",
+                    "ticker_sentiment_score": "0.268856",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FI",
+                    "relevance_score": "0.034933",
+                    "ticker_sentiment_score": "0.220049",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ADYYF",
+                    "relevance_score": "0.034933",
+                    "ticker_sentiment_score": "0.220049",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "2 Stock-Split Artificial Intelligence  ( AI )  Stocks Wall Street Billionaires Are Buying",
+            "url": "https://www.fool.com/investing/2025/01/11/2-stock-split-ai-stocks-wall-st-billionaires-buy/",
+            "time_published": "20250111T080000",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "Billionaire Stanley Druckenmiller of Duquesne Family Office outperformed the S&P 500 ( SNPINDEX: ^GSPC ) by 50 percentage points during the last three years. He purchased 239,980 shares of Broadcom ( NASDAQ: AVGO ) during the third quarter, and it now ranks among his top 15 holdings.Billionaire ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803429/investor-44.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998932"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.344318,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.058472",
+                    "ticker_sentiment_score": "0.093985",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.058472",
+                    "ticker_sentiment_score": "0.048014",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.116631",
+                    "ticker_sentiment_score": "0.076789",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ANET",
+                    "relevance_score": "0.116631",
+                    "ticker_sentiment_score": "0.219249",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.49084",
+                    "ticker_sentiment_score": "0.444812",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CSCO",
+                    "relevance_score": "0.058472",
+                    "ticker_sentiment_score": "0.051028",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASCCF",
+                    "relevance_score": "0.116631",
+                    "ticker_sentiment_score": "0.127869",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
@@ -1009,427 +1442,6 @@
                     "ticker": "META",
                     "relevance_score": "0.116914",
                     "ticker_sentiment_score": "0.080742",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Here's How Shares of Utility Company Constellation Energy Defied the Odds to Soar 91% Last Year",
-            "url": "https://www.fool.com/investing/2025/01/10/heres-how-shares-of-utility-company-constellation/",
-            "time_published": "20250111T004447",
-            "authors": [
-                "James Brumley"
-            ],
-            "summary": "Few people saw it coming then, but 2024 would be the year the proverbial planets aligned for this utility name.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803674/nuclear-power-cooling-towers.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.362378,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CEG",
-                    "relevance_score": "0.218817",
-                    "ticker_sentiment_score": "0.289344",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SPGI",
-                    "relevance_score": "0.073773",
-                    "ticker_sentiment_score": "0.178786",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Global Uranium Corp. Announces Extension of Marketing Program",
-            "url": "https://www.globenewswire.com/news-release/2025/01/11/3007987/0/en/Global-Uranium-Corp-Announces-Extension-of-Marketing-Program.html",
-            "time_published": "20250111T003600",
-            "authors": [
-                "Global Uranium"
-            ],
-            "summary": "CALGARY, Alberta, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- Global Uranium Corp. ( CSE: GURN | OTC: GURFF | FRA: Q3J ) ( the \"Company\" ) is pleased to announce, further to its news release on November 7th, 2024 and December 17th,2024, that it has further extended the term of its engagement of Euro ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/78418589-c246-4a54-a55d-0d98c72cc553",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.576289"
-                }
-            ],
-            "overall_sentiment_score": 0.089963,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.044634",
-                    "ticker_sentiment_score": "0.113777",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NXE",
-                    "relevance_score": "0.044634",
-                    "ticker_sentiment_score": "0.098242",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:EUR",
-                    "relevance_score": "0.133346",
-                    "ticker_sentiment_score": "0.090169",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "HYTN Announces Initial Purchase Order under Manufacturing Partnership with Industry-Leading SNDL",
-            "url": "https://www.globenewswire.com/news-release/2025/01/11/3007986/0/en/HYTN-Announces-Initial-Purchase-Order-under-Manufacturing-Partnership-with-Industry-Leading-SNDL.html",
-            "time_published": "20250111T003000",
-            "authors": [
-                "HYTN Innovations Inc."
-            ],
-            "summary": "VANCOUVER, British Columbia, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- HYTN Innovations Inc. ( CSE: HYTN, FSE: 85W0, OTC PINK: HYTNF ) ( \"HYTN\" or the \"Company\" ) , a pharmaceutical company specializing in pharmaceutical-grade cannabis manufacturing is pleased to announce the receipt of an initial ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/c0491ce1-ceff-4755-8624-f7e2c4ea32aa",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.77141"
-                }
-            ],
-            "overall_sentiment_score": 0.251584,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "USMJ",
-                    "relevance_score": "0.040416",
-                    "ticker_sentiment_score": "0.116413",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SNDL",
-                    "relevance_score": "0.489965",
-                    "ticker_sentiment_score": "0.246631",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "HYTN Announces Initial Purchase Order under Manufacturing Partnership with Industry-Leading SNDL - HYTN Innovations  ( OTC:HYTNF ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42930762/hytn-announces-initial-purchase-order-under-manufacturing-partnership-with-industry-leading-sndl",
-            "time_published": "20250111T003000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "VANCOUVER, British Columbia, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- HYTN Innovations Inc. HYTN FSE: 85W0,HYTNF ( \"HYTN\" or the \"Company\" ) , a pharmaceutical company specializing in pharmaceutical-grade cannabis manufacturing is pleased to announce the receipt of an initial purchase order under ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.796627"
-                }
-            ],
-            "overall_sentiment_score": 0.249179,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "USMJ",
-                    "relevance_score": "0.0378",
-                    "ticker_sentiment_score": "0.115551",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SNDL",
-                    "relevance_score": "0.462181",
-                    "ticker_sentiment_score": "0.235096",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "North Dakota Considers Crypto Reserve as State Bitcoin Treasuries Gain Momentum",
-            "url": "https://decrypt.co/300499/north-dakota-considers-state-bitcoin-treasury",
-            "time_published": "20250111T000512",
-            "authors": [
-                "Jason Nelson"
-            ],
-            "summary": "Legislators in North Dakota will weigh whether to diversify its assets with crypto and precious metals, following other state Bitcoin proposals.",
-            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/01/north-dakota-bitcoin-gID_7.png",
-            "source": "Decrypt.co",
-            "category_within_source": "n/a",
-            "source_domain": "decrypt.co",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.918141"
-                }
-            ],
-            "overall_sentiment_score": 0.191976,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.682689",
-                    "ticker_sentiment_score": "0.275478",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Why Enphase Energy Stands Strong in a Choppy Solar Market: Insights and Strategies for Savvy Investors",
-            "url": "https://www.fool.com/investing/2025/01/10/why-enphase-energy-stands-strong-in-a-choppy-solar/",
-            "time_published": "20250111T000000",
-            "authors": [
-                "Motley Fool YouTube"
-            ],
-            "summary": "Explore the exciting world of Enphase Energy ( NASDAQ: ENPH ) with our expert analysts in this Motley Fool Scoreboard episode. Check out the video below to gain valuable insights into market trends and potential investment opportunities!*Stock prices used were the prices of Nov. 20, 2024.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/802999/enph.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.358941,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Wolfspeed, Inc. Investors: Please contact the Portnoy Law Firm to recover your losses. January 17, 2025 Deadline to file Lead Plaintiff Motion - Wolfspeed  ( NYSE:WOLF ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42930603/wolfspeed-inc-investors-please-contact-the-portnoy-law-firm-to-recover-your-losses-january-17-2025",
-            "time_published": "20250110T235228",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "Investors can contact the law firm at no cost to learn more about recovering their losses",
-            "banner_image": "https://ml.globenewswire.com/media/ea0dd9c0-6e41-4d5a-ad27-b277677af6df/small/portnoylaw-logohighresroundlogoonly-jpg.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.684621"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.017012,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WOLF",
-                    "relevance_score": "0.653175",
-                    "ticker_sentiment_score": "-0.151214",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Mantle Ridge Sends Open Letter to Air Products and Chemicals, Inc. Shareholders and Employees - Air Products & Chemicals  ( NYSE:APD ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42930546/mantle-ridge-sends-open-letter-to-air-products-and-chemicals-inc-shareholders-and-employees",
-            "time_published": "20250110T234500",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "Answers Frequently Asked Questions Received from Employee Shareholders About Vote Anonymity Mantle Ridge's Director Nominees Reaffirm Commitment to Working Constructively with Air Products' Continuing Directors as Part of a Reconstituted Board to Create Value for All Shareholders If Elected",
-            "banner_image": "https://mma.prnewswire.com/media/2595856/Refreshing_Air_Products___Mantle_Ridge_Letter_to_Shareholders_and_Employees.pdf?p=pdfthumbnail",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.234136,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "APD",
-                    "relevance_score": "0.135094",
-                    "ticker_sentiment_score": "0.173971",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ARMK",
-                    "relevance_score": "0.045224",
-                    "ticker_sentiment_score": "0.200728",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "DLTR",
-                    "relevance_score": "0.045224",
-                    "ticker_sentiment_score": "0.200728",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Why Investors Were Bailing From Altcoins This Week",
-            "url": "https://www.fool.com/investing/2025/01/10/why-investors-were-bailing-from-altcoins-this-week/",
-            "time_published": "20250110T233828",
-            "authors": [
-                "Eric Volkman"
-            ],
-            "summary": "Crypto investors no doubt spent much of this week fondly remembering the good old days, i.e., much of 2024, when their holdings rose in price more often than not. That's because the past few days have seen the market for coins and tokens shrivel, with even some of the top names in the space ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803667/downward-red-arrow-with-a-background-of-us-currency.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.451494"
-                }
-            ],
-            "overall_sentiment_score": 0.146954,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SPGI",
-                    "relevance_score": "0.085629",
-                    "ticker_sentiment_score": "0.012902",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.085629",
-                    "ticker_sentiment_score": "0.012902",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:AAVE",
-                    "relevance_score": "0.170275",
-                    "ticker_sentiment_score": "0.018133",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:LINK",
-                    "relevance_score": "0.170275",
-                    "ticker_sentiment_score": "0.018133",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:UNI",
-                    "relevance_score": "0.170275",
-                    "ticker_sentiment_score": "0.018133",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:BCH",
-                    "relevance_score": "0.170275",
-                    "ticker_sentiment_score": "0.018133",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "$JENNER DEADLINE: ROSEN, GLOBAL INVESTOR COUNSEL, Encourages $JENNER Purchasers to Secure Counsel Before Important January 17 Deadline in Securities Class Action",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42930514/jenner-deadline-rosen-global-investor-counsel-encourages-jenner-purchasers-to-secure-counsel-befor",
-            "time_published": "20250110T233500",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 10, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of the cryptocurrency \"$JENNER\" on the Solana and/or Ethereum blockchains between May 26, 2024 and the present, inclusive ( the \"Class Period\" ) , of the important January ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.614606"
-                }
-            ],
-            "overall_sentiment_score": 0.154971,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.058903",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.058903",
-                    "ticker_sentiment_score": "0.08099",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
