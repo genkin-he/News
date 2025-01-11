@@ -1,8 +1,49 @@
 {
-    "items": "40",
+    "items": "37",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "T-Mobile Sued Over Massive Data Breach Impacting 79 Million Americans: Sensitive Information Included Names, Addresses, And More - T-Mobile US  ( NASDAQ:TMUS ) , AT&T  ( NYSE:T ) ",
+            "url": "https://www.benzinga.com/25/01/42931807/t-mobile-sued-over-massive-data-breach-impacting-79-million-americans-sensitive-information-included-names-addres",
+            "time_published": "20250111T071742",
+            "authors": [
+                "Rounak Jain"
+            ],
+            "summary": "Washington state has taken legal action against T-Mobile US TMUS for allegedly neglecting cybersecurity vulnerabilities, leading to a significant data breach in 2021 that impacted 79 million people across the U.S.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/T-Mobile.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.220632,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "T",
+                    "relevance_score": "0.087503",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TMUS",
+                    "relevance_score": "0.173958",
+                    "ticker_sentiment_score": "-0.083271",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VZ",
+                    "relevance_score": "0.173958",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Apple Staring At Market Share Decline In China Amid Declining iPhone Shipments: Top Analyst Flags Why Some Models Could Be Face Shipping Momentum Challenges - Apple  ( NASDAQ:AAPL ) ",
             "url": "https://www.benzinga.com/tech/25/01/42931758/apple-staring-at-market-share-decline-in-china-amid-declining-iphone-shipments-top-analyst-flags-why-some-mo",
@@ -1382,188 +1423,6 @@
                     "relevance_score": "0.751437",
                     "ticker_sentiment_score": "0.698649",
                     "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Jeremy Ausmus Crowned 2024 PGT\u00ae Player of the Year",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42930287/jeremy-ausmus-crowned-2024-pgt-player-of-the-year",
-            "time_published": "20250110T231600",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "LAS VEGAS, Jan. 10, 2025 /PRNewswire/ -- The PokerGO Tour\u00ae ( PGT\u00ae ) is proud to announce Jeremy Ausmus as the 2024 PGT Player of the Year. Ausmus dominated the leaderboard with an impressive 2,966 points, earned through 26 cashes and one tournament victory during the 2024 PGT season.",
-            "banner_image": "https://mma.prnewswire.com/media/2595846/PokerGO_jeremy_ausmus.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.503631,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.099476",
-                    "ticker_sentiment_score": "0.030151",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.099476",
-                    "ticker_sentiment_score": "0.030151",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Why Carvana Stock Motored 9% Higher This Week",
-            "url": "https://www.fool.com/investing/2025/01/10/why-carvana-stock-motored-9-higher-this-week/",
-            "time_published": "20250110T231540",
-            "authors": [
-                "Eric Volkman"
-            ],
-            "summary": "2025 didn't necessarily start out well for sprawling vehicle retailer Carvana's ( NYSE: CVNA ) stock, but it's recovered quite well in recent days. A clutch of analysts following the company didn't hesitate to defend it after a short-seller issued a highly critical report, with two even upgrading ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803543/person-putting-hands-together-in-the-drivers-seat-of-a-car.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                }
-            ],
-            "overall_sentiment_score": 0.160532,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CVNA",
-                    "relevance_score": "0.703874",
-                    "ticker_sentiment_score": "0.299555",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SPGI",
-                    "relevance_score": "0.118647",
-                    "ticker_sentiment_score": "0.307219",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "C",
-                    "relevance_score": "0.118647",
-                    "ticker_sentiment_score": "0.179764",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Quantum Computing Stocks Collapse: Here's Why",
-            "url": "https://www.fool.com/investing/2025/01/10/quantum-computing-stocks-collapsed-heres-why/",
-            "time_published": "20250110T231500",
-            "authors": [
-                "Travis Hoium"
-            ],
-            "summary": "Quantum computing was one of the hot trends of the past few months as stocks have doubled or more following Alphabet's ( NASDAQ: GOOG ) Willow announcement. Investors looking for any way to play the quantum computing space have pushed microcap stocks into the stratosphere.Then NVIDIA ( NASDAQ: ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803539%2Fgettyimages-1973239712.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.929393"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.105192,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.392537",
-                    "ticker_sentiment_score": "0.082635",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SPGI",
-                    "relevance_score": "0.08183",
-                    "ticker_sentiment_score": "-0.036132",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "IONQ",
-                    "relevance_score": "0.527969",
-                    "ticker_sentiment_score": "0.103041",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "QBTS",
-                    "relevance_score": "0.162802",
-                    "ticker_sentiment_score": "-0.049758",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Celsius Holdings, Inc. Investors: Please contact the Portnoy Law Firm to recover your losses. January 21, 2025 Deadline to file Lead Plaintiff Motion. - Celsius Holdings  ( NASDAQ:CELH ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42930271/celsius-holdings-inc-investors-please-contact-the-portnoy-law-firm-to-recover-your-losses-january-",
-            "time_published": "20250110T231436",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "Investors can contact the law firm at no cost to learn more about recovering their losses",
-            "banner_image": "https://ml.globenewswire.com/media/ea0dd9c0-6e41-4d5a-ad27-b277677af6df/small/portnoylaw-logohighresroundlogoonly-jpg.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.10547,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CELH",
-                    "relevance_score": "0.818793",
-                    "ticker_sentiment_score": "-0.321431",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "PEP",
-                    "relevance_score": "0.066598",
-                    "ticker_sentiment_score": "-0.160545",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
                 }
             ]
         }
