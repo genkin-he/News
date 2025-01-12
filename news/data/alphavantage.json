@@ -1,8 +1,216 @@
 {
-    "items": "35",
+    "items": "32",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Better Buy in 2025: Tesla Stock or Meta Platforms Stock?",
+            "url": "https://www.fool.com/investing/2025/01/12/better-buy-2025-tesla-stock-meta-platforms-stock/",
+            "time_published": "20250112T173000",
+            "authors": [
+                "Anthony Di Pizio"
+            ],
+            "summary": "Tesla ( NASDAQ: TSLA ) is a leading manufacturer of electric vehicles ( EVs ) , whereas Meta Platforms ( NASDAQ: META ) is home to social networks like Facebook, Instagram, and WhatsApp. In other words, they are two completely different companies.But they have one important thing in common: They ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803258%2Fa-blue-tesla-car-driving-on-an-open-road.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.998356"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999767"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.209421,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.183337",
+                    "ticker_sentiment_score": "0.134443",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.389981",
+                    "ticker_sentiment_score": "0.154815",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Can Walgreens Boots Alliance Stock Keep Soaring?",
+            "url": "https://www.fool.com/investing/2025/01/12/can-walgreens-boots-alliance-stock-keep-soaring/",
+            "time_published": "20250112T172300",
+            "authors": [
+                "Cory Renauer"
+            ],
+            "summary": "Shares of Walgreens Boots Alliance ( NASDAQ: WBA ) rocketed 27.5% higher on Friday, Jan. 10, 2024. This isn't nearly enough to recover from a 64% drop the stock notched last year, but it's a big step in the right direction.Investors of all stripes are wondering whether more gains could be ahead ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803691/investor-looks-worried-at-computer-in-a-living-room-setting-getty.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.201405,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EVR",
+                    "relevance_score": "0.060388",
+                    "ticker_sentiment_score": "0.173036",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CVS",
+                    "relevance_score": "0.120431",
+                    "ticker_sentiment_score": "0.08002",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.060388",
+                    "ticker_sentiment_score": "-0.023048",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WBA",
+                    "relevance_score": "0.238133",
+                    "ticker_sentiment_score": "0.231037",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "SoFi Technologies: Buy, Sell, or Hold?",
+            "url": "https://www.fool.com/investing/2025/01/12/sofi-technologies-buy-sell-or-hold/",
+            "time_published": "20250112T171700",
+            "authors": [
+                "Neil Patel"
+            ],
+            "summary": "SoFi Technologies ( NASDAQ: SOFI ) has taken investors on a volatile journey in recent years. But it's trending higher, as shares have soared 106% in the past five months. The market might be pricing in the prospects of a growth spurt thanks to lower interest rates.But it's worth mentioning that ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803489/sofi-nasdaq-listing-image-of-day-that-sofi-was-listed.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.996718"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.432603,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TD",
+                    "relevance_score": "0.063091",
+                    "ticker_sentiment_score": "0.24743",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SOFI",
+                    "relevance_score": "0.125789",
+                    "ticker_sentiment_score": "0.202991",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Could Buying Kraft Heinz Stock Today Set You Up for Life?",
+            "url": "https://www.fool.com/investing/2025/01/12/could-buying-kraft-heinz-stock-today-set-you-up-fo/",
+            "time_published": "20250112T170500",
+            "authors": [
+                "Reuben Gregg Brewer"
+            ],
+            "summary": "Every investment decision you make, even holding cash, requires making trade-offs. That's an important fact to keep in mind when looking at a company like Kraft Heinz ( NASDAQ: KHC ) . There are a number of factors that suggest it is a buy. There are also a number of factors that suggest you ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803297%2F24_07_01-a-person-with-their-hands-out-as-if-weighing-their-options-_mf-dload-gettyimages-1125894475-1199x800-cfc1e94.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.230541,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ICNB",
+                    "relevance_score": "0.06179",
+                    "ticker_sentiment_score": "0.148059",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KHC",
+                    "relevance_score": "0.722198",
+                    "ticker_sentiment_score": "0.37975",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "PG",
+                    "relevance_score": "0.123209",
+                    "ticker_sentiment_score": "0.121445",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UL",
+                    "relevance_score": "0.123209",
+                    "ticker_sentiment_score": "0.121445",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "$125 Million Home of Luminar CEO Gutted in LA Wildfires After Week of Gains for Company - NVIDIA  ( NASDAQ:NVDA ) , Luminar Technologies  ( NASDAQ:LAZR ) ",
             "url": "https://www.benzinga.com/markets/25/01/42935340/125-million-home-of-luminar-ceo-gutted-in-la-wildfires-after-week-of-gains-for-company",
@@ -84,6 +292,53 @@
                     "relevance_score": "0.248343",
                     "ticker_sentiment_score": "0.270618",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia's Next Multibillion-Dollar Opportunity Is Hiding in Plain Sight",
+            "url": "https://www.fool.com/investing/2025/01/12/nvidias-next-multibillion-dollar-opportunity-is-hi/",
+            "time_published": "20250112T170000",
+            "authors": [
+                "Harsh Chauhan"
+            ],
+            "summary": "Artificial intelligence ( AI ) has been the driving force behind Nvidia ( NASDAQ: NVDA ) stock's impressive rise over the past couple of years, as major cloud service providers and governments have been rushing to get their hands on the company's chips to train large language models ( LLMs ) so ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803280/person-gaming-computer.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.263097,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.042271",
+                    "ticker_sentiment_score": "0.082877",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.541943",
+                    "ticker_sentiment_score": "0.380659",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -1174,391 +1429,6 @@
                     "relevance_score": "0.421485",
                     "ticker_sentiment_score": "0.205683",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "RxSight, Inc. Announces Preliminary Unaudited Fourth Quarter and Full-Year 2024 Financial and Operational Results and 2025 Guidance",
-            "url": "https://www.globenewswire.com/news-release/2025/01/12/3008051/0/en/RxSight-Inc-Announces-Preliminary-Unaudited-Fourth-Quarter-and-Full-Year-2024-Financial-and-Operational-Results-and-2025-Guidance.html",
-            "time_published": "20250112T143000",
-            "authors": [
-                "Inc.",
-                "RxSight"
-            ],
-            "summary": "ALISO VIEJO, Calif., Jan. 12, 2025 ( GLOBE NEWSWIRE ) -- ( NASDAQ: RXST ) - RxSight, Inc., an ophthalmic medical device company dedicated to providing high-quality customized vision to patients following cataract surgery, today announced certain preliminary unaudited financial and operational ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/48441335-c938-45ff-9355-ba8e331354e9",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.94762"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.15339,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "RXST",
-                    "relevance_score": "0.417995",
-                    "ticker_sentiment_score": "0.206866",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Pricer and Focal Systems Announce Strategic Collaboration to Drive the Next Step in Physical Store Digitalization",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42934966/pricer-and-focal-systems-announce-strategic-collaboration-to-drive-the-next-step-in-physical-store",
-            "time_published": "20250112T142600",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "STOCKHOLM, Jan. 12, 2025 /PRNewswire/ -- This collaboration brings together Pricer's innovations in dynamic pricing and shelf-edge communication with Focal Systems' advanced computer vision and product availability solutions to maximize shopper satisfaction while optimizing retail operations.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                }
-            ],
-            "overall_sentiment_score": 0.560769,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "APG",
-                    "relevance_score": "0.061003",
-                    "ticker_sentiment_score": "0.333516",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Cathie Wood Goes Bargain Hunting: 1 Artificial Intelligence Semiconductor Stock She Just Bought  ( Hint: It's Not Nvidia ) ",
-            "url": "https://www.fool.com/investing/2025/01/12/cathie-wood-goes-bargain-hunting-1-semiconductor/",
-            "time_published": "20250112T141700",
-            "authors": [
-                "Adam Spatacco"
-            ],
-            "summary": "Cathie Wood has earned a reputation for making bold bets, and her latest high-conviction semiconductor play could signal where she sees growth outside of Nvidia.",
-            "banner_image": "https://media.ycharts.com/charts/d9ddd4fe628a83cacc8769da86ee2719.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999174"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.206036,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.61919",
-                    "ticker_sentiment_score": "0.328013",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.053749",
-                    "ticker_sentiment_score": "0.070928",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.053749",
-                    "ticker_sentiment_score": "0.070928",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.363009",
-                    "ticker_sentiment_score": "0.235658",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "PayPal: Buy, Sell, or Hold?",
-            "url": "https://www.fool.com/investing/2025/01/12/paypal-buy-sell-or-hold/",
-            "time_published": "20250112T140500",
-            "authors": [
-                "Justin Pope"
-            ],
-            "summary": "The company has begun gaining momentum after new CEO Alex Chriss took over in late 2023.",
-            "banner_image": "https://media.ycharts.com/charts/3c6f1e08af41b82d2a70ff7627c07c25.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.96136"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.99393"
-                },
-                {
-                    "topic": "Economy - Macro",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.336549,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PYPL",
-                    "relevance_score": "0.744646",
-                    "ticker_sentiment_score": "0.531018",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "CES 2025: Chinese firms show up with robots, EVs, AI-powered innovations",
-            "url": "https://www.scmp.com/tech/big-tech/article/3294433/ces-2025-chinese-firms-show-leading-ai-powered-robots-evs-smart-glasses",
-            "time_published": "20250112T140020",
-            "authors": [
-                "Wency Chen"
-            ],
-            "summary": "The market for consumer electronics will only get bigger globally as companies race to deliver AI-driven innovations, organiser forecasts.",
-            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/12/7b16decb-6fed-4eec-a468-a25a79fd172b_66d2b830.jpg",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.179197,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BABA",
-                    "relevance_score": "0.070414",
-                    "ticker_sentiment_score": "-0.204383",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "SSNLF",
-                    "relevance_score": "0.035241",
-                    "ticker_sentiment_score": "0.076051",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "XPEV",
-                    "relevance_score": "0.105449",
-                    "ticker_sentiment_score": "0.051663",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.035241",
-                    "ticker_sentiment_score": "0.328496",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "HSAI",
-                    "relevance_score": "0.035241",
-                    "ticker_sentiment_score": "0.071239",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BIDU",
-                    "relevance_score": "0.035241",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GWLLY",
-                    "relevance_score": "0.035241",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TCTZF",
-                    "relevance_score": "0.035241",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Bitcoin's Supercycle, Crypto's Capitol Breakthrough, And More: This Week In Crypto - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",
-            "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42934862/bitcoins-supercycle-cryptos-capitol-breakthrough-and-more-this-week-in-crypto",
-            "time_published": "20250112T140020",
-            "authors": [
-                "Benzinga Neuro"
-            ],
-            "summary": "The past week was a rollercoaster for the cryptocurrency world. From predictions of a Bitcoin BTC/USD supercycle to a groundbreaking Senate subcommittee on digital assets, the crypto landscape is buzzing with activity. Here's a quick recap of the top stories that shaped the crypto market over the ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/US-Man-Funneled-Thousands-In-Crypto-To-I.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.838487"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.77141"
-                }
-            ],
-            "overall_sentiment_score": 0.299478,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.615462",
-                    "ticker_sentiment_score": "0.276585",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Interested in Artificial Intelligence  ( AI )  Stocks in 2025? You Might Consider Buying This Top-Performing ETF.",
-            "url": "https://www.fool.com/investing/2025/01/12/ai-stocks-2025-best-ai-etf-2025/",
-            "time_published": "20250112T140000",
-            "authors": [
-                "Beth McKenna"
-            ],
-            "summary": "This top-performing ETF's largest three stock holdings are Nvidia, Taiwan Semiconductor Manufacturing, and Broadcom.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803686/best-ai-etf-nvda-stock.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999994"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.275811,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.566143",
-                    "ticker_sentiment_score": "0.358451",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.138066",
-                    "ticker_sentiment_score": "0.035725",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "QCOM",
-                    "relevance_score": "0.069294",
-                    "ticker_sentiment_score": "0.037318",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ADI",
-                    "relevance_score": "0.069294",
-                    "ticker_sentiment_score": "0.037318",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.205807",
-                    "ticker_sentiment_score": "0.181029",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TXN",
-                    "relevance_score": "0.069294",
-                    "ticker_sentiment_score": "0.037318",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSM",
-                    "relevance_score": "0.205807",
-                    "ticker_sentiment_score": "0.160021",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Mobileye, Palantir Tech And Affirm Are Among Top Large Cap Losers Last Week  ( Jan 6-10 ) : Are The Others In Your Portfolio? - Affirm Holdings  ( NASDAQ:AFRM ) , Palantir Technologies  ( NASDAQ:PLTR ) ",
-            "url": "https://www.benzinga.com/news/large-cap/25/01/42934826/mobileye-palantir-tech-and-affirm-are-among-top-large-cap-losers-last-week-jan-6-10-are-the-others",
-            "time_published": "20250112T135019",
-            "authors": [
-                "Lekha Gupta"
-            ],
-            "summary": "Constellation Brands shares reported worse-than-expected results and lowered its FY25 adjusted EPS guidance and sales growth outlook. Pacific Gas & Electric shares fell likely due to affected by the wildfires in California. Get 5 New Stock Recommendations Every Week",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/Affirm-Card.png?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.190876,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "STZ",
-                    "relevance_score": "0.377142",
-                    "ticker_sentiment_score": "0.612355",
-                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         }
