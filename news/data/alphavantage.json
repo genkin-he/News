@@ -1,5 +1,5 @@
 {
-    "items": "36",
+    "items": "34",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
@@ -1504,78 +1504,6 @@
                     "relevance_score": "0.193207",
                     "ticker_sentiment_score": "-0.081407",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "ROSEN, LEADING TRIAL ATTORNEYS, Encourages Marqeta, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - MQ - Marqeta  ( NASDAQ:MQ ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42933381/rosen-leading-trial-attorneys-encourages-marqeta-inc-investors-to-secure-counsel-before-important-",
-            "time_published": "20250111T195300",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Marqeta, Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.159414,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MQ",
-                    "relevance_score": "0.420483",
-                    "ticker_sentiment_score": "0.052358",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.063091",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Analyst Warns of Bitcoin's Uncertain Future Amid Key Support Breakdown: 'It Could Get Ugly'",
-            "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42933328/analyst-warns-of-bitcoins-uncertain-future-amid-key-support-breakdown-it-could-get-ugly",
-            "time_published": "20250111T194517",
-            "authors": [
-                "Bibhu Pattnaik"
-            ],
-            "summary": "Bitcoin braces for a potential freefall as it teeters on the brink of losing critical $90,000 support. Solana's memecoin Fartcoin faces a grim forecast with a predicted plunge based on technical analysis. Get 5 New Stock Recommendations Every Week",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Tom-Lee-Reiterates-Bitcoins-250-000-Targ.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.905476"
-                }
-            ],
-            "overall_sentiment_score": -0.183092,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.684485",
-                    "ticker_sentiment_score": "-0.374432",
-                    "ticker_sentiment_label": "Bearish"
                 }
             ]
         }
