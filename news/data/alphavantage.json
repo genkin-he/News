@@ -1,8 +1,116 @@
 {
-    "items": "39",
+    "items": "35",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "CES 2025: Chinese firms show up with robots, EVs, AI-powered innovations",
+            "url": "https://www.scmp.com/tech/big-tech/article/3294433/ces-2025-chinese-firms-show-leading-ai-powered-robots-evs-smart-glasses",
+            "time_published": "20250112T140020",
+            "authors": [
+                "Wency Chen"
+            ],
+            "summary": "The market for consumer electronics will only get bigger globally as companies race to deliver AI-driven innovations, organiser forecasts.",
+            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/12/7b16decb-6fed-4eec-a468-a25a79fd172b_66d2b830.jpg",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.179197,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.070414",
+                    "ticker_sentiment_score": "-0.204383",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.035241",
+                    "ticker_sentiment_score": "0.076051",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XPEV",
+                    "relevance_score": "0.105449",
+                    "ticker_sentiment_score": "0.051663",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.035241",
+                    "ticker_sentiment_score": "0.328496",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "HSAI",
+                    "relevance_score": "0.035241",
+                    "ticker_sentiment_score": "0.071239",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BIDU",
+                    "relevance_score": "0.035241",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GWLLY",
+                    "relevance_score": "0.035241",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TCTZF",
+                    "relevance_score": "0.035241",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin's Supercycle, Crypto's Capitol Breakthrough, And More: This Week In Crypto - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42934862/bitcoins-supercycle-cryptos-capitol-breakthrough-and-more-this-week-in-crypto",
+            "time_published": "20250112T140020",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "The past week was a rollercoaster for the cryptocurrency world. From predictions of a Bitcoin BTC/USD supercycle to a groundbreaking Senate subcommittee on digital assets, the crypto landscape is buzzing with activity. Here's a quick recap of the top stories that shaped the crypto market over the ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/US-Man-Funneled-Thousands-In-Crypto-To-I.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                }
+            ],
+            "overall_sentiment_score": 0.299478,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.615462",
+                    "ticker_sentiment_score": "0.276585",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "Mobileye, Palantir Tech And Affirm Are Among Top Large Cap Losers Last Week  ( Jan 6-10 ) : Are The Others In Your Portfolio? - Affirm Holdings  ( NASDAQ:AFRM ) , Palantir Technologies  ( NASDAQ:PLTR ) ",
             "url": "https://www.benzinga.com/news/large-cap/25/01/42934826/mobileye-palantir-tech-and-affirm-are-among-top-large-cap-losers-last-week-jan-6-10-are-the-others",
@@ -33,6 +141,55 @@
                     "relevance_score": "0.377142",
                     "ticker_sentiment_score": "0.612355",
                     "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why Celsius Stock Plunged 52% Last Year",
+            "url": "https://www.fool.com/investing/2025/01/12/why-celsius-stock-plunged-52-last-year/",
+            "time_published": "20250112T133900",
+            "authors": [
+                "Jon Quast"
+            ],
+            "summary": "Shares of energy drink company Celsius ( NASDAQ: CELH ) plunged 51.7% in 2024, according to data provided by S&P Global Market Intelligence, which is bad enough. But in the opening months of the year, the stock was up 76%.",
+            "banner_image": "https://media.ycharts.com/charts/50b55f5aa93d1709f93a9f16a11af155.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.024554,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CELH",
+                    "relevance_score": "0.796657",
+                    "ticker_sentiment_score": "-0.073986",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.084423",
+                    "ticker_sentiment_score": "0.039112",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PEP",
+                    "relevance_score": "0.084423",
+                    "ticker_sentiment_score": "-0.060193",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
@@ -1600,344 +1757,6 @@
                     "relevance_score": "0.711131",
                     "ticker_sentiment_score": "0.360985",
                     "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Is Intel Ready for an AI Comeback in 2025?",
-            "url": "https://www.fool.com/investing/2025/01/12/is-intel-ready-for-an-ai-comeback-in-2025/",
-            "time_published": "20250112T105500",
-            "authors": [
-                "Timothy Green"
-            ],
-            "summary": "One area where Intel ( NASDAQ: INTC ) has seriously dropped the ball has been artificial intelligence ( AI ) . Nvidia essentially owns the market for AI accelerator chips, and AMD is at least competitive with its Instinct line of data center graphics processing units ( GPUs ) .",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803609/gettyimages-1473086836.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.024012,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.04912",
-                    "ticker_sentiment_score": "0.068291",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.098054",
-                    "ticker_sentiment_score": "0.023655",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "INTC",
-                    "relevance_score": "0.804208",
-                    "ticker_sentiment_score": "0.113067",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Community-Governed Meme Coin Flockerz Raises $9.5M in Presale Ahead of Exchange Launch",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42934272/community-governed-meme-coin-flockerz-raises-9-5m-in-presale-ahead-of-exchange-launch",
-            "time_published": "20250112T104954",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "KAMPOT, Cambodia, Jan. 12, 2025 ( GLOBE NEWSWIRE ) -- The community-governed meme coin project Flockerz ( FLOCK ) has raised $9.5 million in presale before its exchange debut. Flockerz's governance model is based on Vote-to-Earn rewards, where FLOCK holders can shape the project's future.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/841150e5-5285-4e95-a895-e91470d5a5c2/chainwire-1800x1080-35-1736535792xgy3qoafcg.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.202747,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "3 High-Yield Dividend Stocks Wall Street Thinks Will Soar 41% or More in 2025",
-            "url": "https://www.fool.com/investing/2025/01/12/3-high-yield-dividend-stocks-wall-street-thinks-wi/",
-            "time_published": "20250112T104800",
-            "authors": [
-                "Keith Speights"
-            ],
-            "summary": "How would you like to get paid to sit back and watch a stock you own take off? That's a scenario most investors would love. But is it unrealistic? Nope, not with the right dividend stocks. Analysts might have found just the stocks to buy, too.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803370/rocket-drawn-with-ben-franklin-from-100-bill.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.5855"
-                }
-            ],
-            "overall_sentiment_score": 0.310946,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CVS",
-                    "relevance_score": "0.493965",
-                    "ticker_sentiment_score": "0.383749",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "DVN",
-                    "relevance_score": "0.117486",
-                    "ticker_sentiment_score": "0.054819",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "2 Dividend Stocks to Double Up on Right Now",
-            "url": "https://www.fool.com/investing/2025/01/12/2-dividend-stocks-to-double-up-on-right-now/",
-            "time_published": "20250112T104700",
-            "authors": [
-                "Demitri Kalogeropoulos"
-            ],
-            "summary": "Wall Street was enamored with tech stocks in 2024, choosing to leave many dividend stocks behind as a result. The dividend-heavy Dow Jones Industrial Average ( DJINDICES: ^DJI ) underperformed the tech-focused Nasdaq Composite ( NASDAQINDEX: ^IXIC ) by more than 15 percentage points.",
-            "banner_image": "https://media.ycharts.com/charts/0e2490807d9cc8d390ec88b5115b875c.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.451494"
-                }
-            ],
-            "overall_sentiment_score": 0.344972,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HD",
-                    "relevance_score": "0.370602",
-                    "ticker_sentiment_score": "0.59333",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "MDNDF",
-                    "relevance_score": "0.252332",
-                    "ticker_sentiment_score": "0.172378",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "ASML vs. TSMC: What's the Better AI Buy in 2025?",
-            "url": "https://www.fool.com/investing/2025/01/12/asml-vs-tsmc-whats-the-better-ai-buy-in-2025/",
-            "time_published": "20250112T104600",
-            "authors": [
-                "Will Healy"
-            ],
-            "summary": "The run-up in artificial intelligence ( AI ) stocks has attracted numerous investors into the sector. Given the anticipated potential for returns and the recent run-up in some AI-related names, determining return potential can become challenging.Amid that focus, investors may often forget the two ...",
-            "banner_image": "https://media.ycharts.com/charts/96956cfe245050bf264053e694e5eb33.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.976913"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.136692,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SSNLF",
-                    "relevance_score": "0.05833",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.05833",
-                    "ticker_sentiment_score": "0.096983",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CAJFF",
-                    "relevance_score": "0.05833",
-                    "ticker_sentiment_score": "0.122992",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "QCOM",
-                    "relevance_score": "0.05833",
-                    "ticker_sentiment_score": "0.096983",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "INTC",
-                    "relevance_score": "0.05833",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NINOF",
-                    "relevance_score": "0.05833",
-                    "ticker_sentiment_score": "0.122992",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "3 AI Chip Stocks to Consider Buying in 2025",
-            "url": "https://www.fool.com/investing/2025/01/12/3-ai-chip-stocks-to-consider-buying-in-2025/",
-            "time_published": "20250112T104500",
-            "authors": [
-                "Geoffrey Seiler"
-            ],
-            "summary": "2024 could be dubbed the year of artificial intelligence ( AI ) , as the latest advances involving generative AI made their way into mainstream usage and AI-associated stocks helped power the market to new heights. Some of the biggest AI winners have been in the semiconductor sector, where AI ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803345%2Fgettyimages-1402452876.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.839681"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.261082,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.247418",
-                    "ticker_sentiment_score": "0.167972",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.125242",
-                    "ticker_sentiment_score": "0.074828",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.125242",
-                    "ticker_sentiment_score": "0.087907",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.207216",
-                    "ticker_sentiment_score": "0.147643",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.166455",
-                    "ticker_sentiment_score": "0.177616",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ASCCF",
-                    "relevance_score": "0.041901",
-                    "ticker_sentiment_score": "0.063263",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Wall Street Pepe Presale Reaches $45M Milestone for New Trading Insights Platform",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42934270/wall-street-pepe-presale-reaches-45m-milestone-for-new-trading-insights-platform",
-            "time_published": "20250112T104302",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "LUZERN, Switzerland, Jan. 12, 2025 ( GLOBE NEWSWIRE ) -- Wall Street Pepe ( WEPE ) , a new meme coin project, has secured over $45 million in its ongoing presale phase.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/29364f1f-9523-4e65-b706-e7ad006d9bb3/chainwire-1800x1080-36-1736536693e89k5musmh.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                }
-            ],
-            "overall_sentiment_score": 0.249318,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:USDT",
-                    "relevance_score": "0.072655",
-                    "ticker_sentiment_score": "0.053314",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:BNB",
-                    "relevance_score": "0.072655",
-                    "ticker_sentiment_score": "0.053314",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
