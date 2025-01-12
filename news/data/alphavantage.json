@@ -1,8 +1,243 @@
 {
-    "items": "35",
+    "items": "36",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "3 Growth Stocks That Beat the S&P 500 in 2024 but Are Still Worth Buying in 2025",
+            "url": "https://www.fool.com/investing/2025/01/12/3-growth-stocks-beat-market-2024-buy-2025/",
+            "time_published": "20250112T111500",
+            "authors": [
+                "and Lee Samaha",
+                "Daniel Foelber",
+                "Scott Levine"
+            ],
+            "summary": "Beating the S&P 500 in 2024 was no easy task, even for growth stocks.The index posted a more than 20% gain for the second consecutive year. But Archer Aviation ( NYSE: ACHR ) , Pentair ( NYSE: PNR ) , and Meta Platforms ( NASDAQ: META ) did even better.Here's why all three growth stocks are still ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803267%2Fpiggy-bank-rocketed-into-air-1200x900-e339a72.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.976913"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.313823,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.039096",
+                    "ticker_sentiment_score": "0.105678",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.193619",
+                    "ticker_sentiment_score": "0.248797",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.078099",
+                    "ticker_sentiment_score": "0.090206",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACHR",
+                    "relevance_score": "0.193619",
+                    "ticker_sentiment_score": "0.265805",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PNR",
+                    "relevance_score": "0.193619",
+                    "ticker_sentiment_score": "0.324654",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ExxonMobil Expects Its Profits to Fall. Time to Buy the Oil Stock on the Dip?",
+            "url": "https://www.fool.com/investing/2025/01/12/exxonmobil-expects-its-profits-to-fall-time-to-buy/",
+            "time_published": "20250112T110900",
+            "authors": [
+                "Matt DiLallo"
+            ],
+            "summary": "ExxonMobil ( NYSE: XOM ) is the oil industry's leader by almost every important metric, including profitability. The oil giant produced a peer-leading $8.6 billion in profits during the third quarter and a monster $17.6 billion of cash flow from operations, which also led international oil ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803610/a-person-looking-up-at-an-oil-pump.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99489"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.234216,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.172097",
+                    "ticker_sentiment_score": "0.166457",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "3 Artificial Intelligence  ( AI )  Software Names to Buy in 2025, According to Dan Ives",
+            "url": "https://www.fool.com/investing/2025/01/12/3-artificial-intelligence-ai-software-names-to-buy/",
+            "time_published": "20250112T110500",
+            "authors": [
+                "Adam Spatacco"
+            ],
+            "summary": "Software is expected to have another great year in 2025 fueled by ongoing and rising investment in artificial intelligence (AI).",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803104%2Fgettyimages-1473149698-1.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.221271,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.078809",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.078809",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SNOW",
+                    "relevance_score": "0.405651",
+                    "ticker_sentiment_score": "0.088021",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAH",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.078809",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ORCL",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.078809",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FDX",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.070998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACN",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.070998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.047185",
+                    "ticker_sentiment_score": "0.078809",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.094204",
+                    "ticker_sentiment_score": "0.094998",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Here's Exactly Who Qualifies For the Max $5,108 Social Security Benefit in 2025",
+            "url": "https://www.fool.com/retirement/2025/01/12/heres-exactly-who-qualifies-for-the-max-5108-socia/",
+            "time_published": "20250112T110400",
+            "authors": [
+                "Adam Levy"
+            ],
+            "summary": "Not many people will qualify for the maximum possible benefit, but everyone can learn from what it takes to max out Social Security.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803308%2Fgettyimages-social-security-card-covered-in-100s.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998626"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
+                }
+            ],
+            "overall_sentiment_score": 0.238346,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
         {
             "title": "Supreme Court Hears Tiktok Case, Google Donates To Trump Inauguration, And More: This Week In Politics - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",
             "url": "https://www.benzinga.com/news/25/01/42934302/supreme-court-hears-tiktok-case-google-donates-to-trump-inauguration-and-more-this-week-in-politics",
@@ -49,6 +284,43 @@
                     "relevance_score": "0.103331",
                     "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Could Buying AGNC Investment Stock Today Set You Up for Life?",
+            "url": "https://www.fool.com/investing/2025/01/12/could-buying-agnc-investment-stock-today-set-you-u/",
+            "time_published": "20250112T110000",
+            "authors": [
+                "Reuben Gregg Brewer"
+            ],
+            "summary": "When investors start saving for the future, they usually focus on increasing their nest eggs. That tends to shift as investors near or enter retirement, when the goal changes to living off that nest egg, which is why many investors look to dividend-paying stocks like real estate investment trusts ...",
+            "banner_image": "https://media.ycharts.com/charts/3e3677b8a465aa19a3a57e000325ca8a.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.213233,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AGNC",
+                    "relevance_score": "0.711131",
+                    "ticker_sentiment_score": "0.360985",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -1621,200 +1893,6 @@
                     "ticker": "RDDT",
                     "relevance_score": "0.288214",
                     "ticker_sentiment_score": "0.356685",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "3 Artificial Intelligence  ( AI )  Stocks to Buy in 2025 and Hold for the Rest of the Decade",
-            "url": "https://www.fool.com/investing/2025/01/12/3-artificial-intelligence-ai-stocks-to-buy-in-2025/",
-            "time_published": "20250112T091700",
-            "authors": [
-                "Justin Pope"
-            ],
-            "summary": "These AI winners remain strong buys for their impressive growth outlooks over the next three to five years.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/802809/ai-tech-graphic.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.962106"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.25"
-                }
-            ],
-            "overall_sentiment_score": 0.321899,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.139804",
-                    "ticker_sentiment_score": "0.101086",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.27535",
-                    "ticker_sentiment_score": "0.295608",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.046816",
-                    "ticker_sentiment_score": "0.143363",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.185662",
-                    "ticker_sentiment_score": "0.132147",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "2 Growth Stocks Setting Up for a Bull Run in 2025",
-            "url": "https://www.fool.com/investing/2025/01/12/2-growth-stocks-setting-up-for-a-bull-run-in-2025/",
-            "time_published": "20250112T091500",
-            "authors": [
-                "John Ballard"
-            ],
-            "summary": "The S&P 500 ( SNPINDEX: ^GSPC ) had a great run in 2024, rising 25%. But some growth stocks didn't fare as well, even as the underlying businesses continued to grow. Here are two stocks that Wall Street is overlooking that could be ready to advance in the new year.Roku ( NASDAQ: ROKU ) has seen ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803471/2025-investment-stock-planning.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.962106"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                }
-            ],
-            "overall_sentiment_score": 0.41624,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "DKNG",
-                    "relevance_score": "0.31006",
-                    "ticker_sentiment_score": "0.523936",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "ROKU",
-                    "relevance_score": "0.423504",
-                    "ticker_sentiment_score": "0.448552",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Meet the Monster EV Stock That Continues to Soar",
-            "url": "https://www.fool.com/investing/2025/01/12/meet-the-monster-ev-stock-that-continues-to-soar/",
-            "time_published": "20250112T091000",
-            "authors": [
-                "James Brumley"
-            ],
-            "summary": "The next chapter of the electric vehicle story doesn't have to be all about Tesla again.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803474%2F010925-rivian-results.png&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.614606"
-                }
-            ],
-            "overall_sentiment_score": 0.194825,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "RIVN",
-                    "relevance_score": "0.093289",
-                    "ticker_sentiment_score": "0.141192",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.274834",
-                    "ticker_sentiment_score": "0.216935",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "The Best Dividend Stock to Invest $1,000 in Right Now",
-            "url": "https://www.fool.com/investing/2025/01/12/the-best-dividend-stock-to-invest-1000-in-right-no/",
-            "time_published": "20250112T090500",
-            "authors": [
-                "Geoffrey Seiler"
-            ],
-            "summary": "Investors are always on the search for stocks that pay generous dividends and have high yields. Unfortunately, that alone does not always make a great investment. That's why it's nice when you can find a stock not only with a high yield, but one that is also able to grow its dividend and ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803488%2Fgettyimages-508586886.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.623304"
-                }
-            ],
-            "overall_sentiment_score": 0.287024,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ET",
-                    "relevance_score": "0.494156",
-                    "ticker_sentiment_score": "0.422413",
                     "ticker_sentiment_label": "Bullish"
                 }
             ]
