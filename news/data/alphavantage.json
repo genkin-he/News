@@ -1,8 +1,100 @@
 {
-    "items": "39",
+    "items": "38",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "ROSEN, NATIONAL TRIAL COUNSEL, Encourages Joint Stock Company Kaspi.kz Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - KSPI - Kaspi.kz  ( NASDAQ:KSPI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42935322/rosen-national-trial-counsel-encourages-joint-stock-company-kaspi-kz-investors-to-secure-counsel-b",
+            "time_published": "20250112T163800",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 12, 2025 ( GLOBE NEWSWIRE ) --",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                }
+            ],
+            "overall_sentiment_score": 0.155277,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.060388",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "1 No-Brainer Electric Vehicle Stock to Buy With $200 Right Now",
+            "url": "https://www.fool.com/investing/2025/01/12/no-brainer-electric-vehicle-ev-stock-buy-lucid/",
+            "time_published": "20250112T162000",
+            "authors": [
+                "Ryan Vanzo"
+            ],
+            "summary": "Tesla, one of the largest companies in the world with a market cap above $1 trillion, still remains a viable investment opportunity. But investors who correctly identify the next Tesla could stand to make the greatest gains investing in electric vehicle ( EV ) stocks.Quite a few metrics suggest ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803358/gettyimages-1198082588-1200x800-5b2df79.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.224686,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LCID",
+                    "relevance_score": "0.412861",
+                    "ticker_sentiment_score": "0.172039",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "RIVN",
+                    "relevance_score": "0.161349",
+                    "ticker_sentiment_score": "0.111442",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.107978",
+                    "ticker_sentiment_score": "0.060177",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.213988",
+                    "ticker_sentiment_score": "0.232572",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "Shiba Inu Burns Skyrocket by 300% Amid Calls for Larger Burns From SHIB Army",
             "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42935252/shiba-inu-burns-skyrocket-by-300-amid-calls-for-larger-burns-from-shib-army",
@@ -39,6 +131,45 @@
             ]
         },
         {
+            "title": "PayPal Stock Went Up 39% in 2024, Outperforming the S&P 500 for the 1st Time in 3 Years",
+            "url": "https://www.fool.com/investing/2025/01/12/paypal-stock-up-39-2024-outperforming-sp-500/",
+            "time_published": "20250112T161300",
+            "authors": [
+                "Jon Quast"
+            ],
+            "summary": "Shares of financial technology company PayPal ( NASDAQ: PYPL ) were up 39% in 2024, according to data provided by S&P Global Market Intelligence, compared to just a 23.3% return for the S&P 500.It's been a while since this stock was a market-beater.",
+            "banner_image": "https://media.ycharts.com/charts/2197fd1517bb1e90a8ed1c3593d44101.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.196276,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PYPL",
+                    "relevance_score": "0.858272",
+                    "ticker_sentiment_score": "0.277022",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.097457",
+                    "ticker_sentiment_score": "0.173648",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Customers Bancorp, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - CUBI - Customers Bancorp  ( NYSE:CUBI ) ",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42935251/rosen-global-investor-counsel-encourages-customers-bancorp-inc-investors-to-secure-counsel-before-",
             "time_published": "20250112T161200",
@@ -68,6 +199,53 @@
                     "relevance_score": "0.061473",
                     "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Think Nvidia Stock Is Expensive? This Chart Might Change Your Mind.",
+            "url": "https://www.fool.com/investing/2025/01/12/think-nvidia-stock-is-expensive-this-chart-might-c/",
+            "time_published": "20250112T160500",
+            "authors": [
+                "Howard Smith"
+            ],
+            "summary": "Nvidia ( NASDAQ: NVDA ) was one of the best-performing stocks of 2024. It even dwarfed the returns of the Nasdaq Composite index in a year the index itself returned an amazing 28.6%. Its stock price soared as the market became enthused by consistent triple-digit revenue gains that led to ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802343%2Fstatista-artificial-intelligence-market-size-generative-artificial-intelligence-worldwide.png&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.456931,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.112008",
+                    "ticker_sentiment_score": "0.133524",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.518708",
+                    "ticker_sentiment_score": "0.596018",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -1576,187 +1754,6 @@
                     "relevance_score": "0.414559",
                     "ticker_sentiment_score": "0.788402",
                     "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Nu Holdings: Buy, Sell, or Hold?",
-            "url": "https://www.fool.com/investing/2025/01/12/nu-holdings-buy-sell-or-hold/",
-            "time_published": "20250112T131500",
-            "authors": [
-                "Neil Patel"
-            ],
-            "summary": "Nu Holdings ( NYSE: NU ) might carry a $53 billion market capitalization and be a holding in Berkshire Hathaway's portfolio, but most American investors have probably never heard of the business. The stock has done remarkably well, climbing 213% in the last two years.However, since hitting their ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803407/fintech-payment-app-hands-smartphone.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.875462"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.87644"
-                }
-            ],
-            "overall_sentiment_score": 0.296343,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NU",
-                    "relevance_score": "0.131284",
-                    "ticker_sentiment_score": "0.068245",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Is Berkshire Hathaway Stock a Millionaire Maker?",
-            "url": "https://www.fool.com/investing/2025/01/12/is-berkshire-hathaway-stock-a-millionaire-maker/",
-            "time_published": "20250112T130500",
-            "authors": [
-                "Johnny Rice"
-            ],
-            "summary": "Helmed by arguably the most famous investor of all time, Warren Buffett, Berkshire Hathaway ( NYSE: BRK.A ) ( NYSE: BRK.B ) has had a long and storied history of delivering incredible returns to its shareholders. Under the disciplined and patient care of Buffett and, until recently, his late ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803466/berkshire-hathaway-investment-strategy-warren-buffett-2025.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.503496"
-                }
-            ],
-            "overall_sentiment_score": 0.152101,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AXP",
-                    "relevance_score": "0.062761",
-                    "ticker_sentiment_score": "0.048007",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BRK-A",
-                    "relevance_score": "0.125134",
-                    "ticker_sentiment_score": "0.082749",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Apple's Market Woes, Tim Cook's 2024 Salary, And Siri Privacy Concerns: This Week In Appleverse - Samsung Electronics Co  ( OTC:SSNLF ) ",
-            "url": "https://www.benzinga.com/tech/25/01/42934662/apples-market-woes-tim-cooks-2024-salary-and-siri-privacy-concerns-this-week-in-appleverse",
-            "time_published": "20250112T130018",
-            "authors": [
-                "Benzinga Neuro"
-            ],
-            "summary": "The week was a rollercoaster for the tech world, particularly for Apple Inc. AAPL. The tech giant faced a potential market share decline in China, while its CEO, Tim Cook, enjoyed a significant pay rise. Amid privacy controversies, Apple clarified its Siri privacy policies and acknowledged AI ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/Bonus-Step.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.055433,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SSNLF",
-                    "relevance_score": "0.409503",
-                    "ticker_sentiment_score": "0.008447",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.653656",
-                    "ticker_sentiment_score": "-0.143433",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "E Ink to Showcase Spectra 6 ePaper Retail Signage at NRF 2025, Highlighting Advanced Color Innovations and Environmental Benefits",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42934655/e-ink-to-showcase-spectra-6-epaper-retail-signage-at-nrf-2025-highlighting-advanced-color-innovati",
-            "time_published": "20250112T130000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "BILLERICA, Mass., Jan. 12, 2025 ( GLOBE NEWSWIRE ) -- E Ink ( 8069.TWO ) , the originator, pioneer, and global commercial leader in ePaper technology, today announced they will be showing a portfolio of E Ink Spectra\u2122 6 full-color ePaper retail signage at several partner booths during NRF 2025.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/f7f97247-4ab4-4000-b5b9-3ea16eef4b9f/nrf-1.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.327485,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MCO",
-                    "relevance_score": "0.038906",
-                    "ticker_sentiment_score": "0.147798",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "E Ink to Showcase Spectra 6 ePaper Retail Signage at NRF 2025, Highlighting Advanced Color Innovations and Environmental Benefits",
-            "url": "https://www.globenewswire.com/news-release/2025/01/12/3008047/0/en/E-Ink-to-Showcase-Spectra-6-ePaper-Retail-Signage-at-NRF-2025-Highlighting-Advanced-Color-Innovations-and-Environmental-Benefits.html",
-            "time_published": "20250112T130000",
-            "authors": [
-                "E-ink"
-            ],
-            "summary": "E Ink will be showing a portfolio of E Ink Spectra\u2122 6 full-color ePaper retail signage at several partner booths during ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/f7f97247-4ab4-4000-b5b9-3ea16eef4b9f/nrf-1.jpg",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.331683,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MCO",
-                    "relevance_score": "0.04076",
-                    "ticker_sentiment_score": "0.154504",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
