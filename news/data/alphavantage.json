@@ -1,8 +1,63 @@
 {
-    "items": "34",
+    "items": "32",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Cagamas Ends 2024 on High Note with Over RM21 Billion Total Funds Raised Amidst Market Uncertainty",
+            "url": "https://markets.businessinsider.com/news/stocks/cagamas-ends-2024-on-high-note-with-over-rm21-billion-total-funds-raised-amidst-market-uncertainty-1034197473",
+            "time_published": "20250112T052717",
+            "authors": [
+                "Plentisoft"
+            ],
+            "summary": "-- Cagamas Berhad ( \"Cagamas\" or \"the Company\" ) , the National Mortgage Corporation of Malaysia, successfully concluded its funding activities for 2024, raising a total of RM21.31 billion.",
+            "banner_image": "https://markets.businessinsider.com/Images/FacebookIcon.jpg",
+            "source": "Business Insider",
+            "category_within_source": "RSS",
+            "source_domain": "markets.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.377945,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Delta Electronics Thailand Achieves Sustainability Disclosure Award for the 7th Consecutive Year",
+            "url": "https://markets.businessinsider.com/news/stocks/delta-electronics-thailand-achieves-sustainability-disclosure-award-for-the-7th-consecutive-year-1034202804",
+            "time_published": "20250112T052717",
+            "authors": [
+                "Plentisoft"
+            ],
+            "summary": "-- Delta Electronics ( Thailand ) Public Company Limited announced that it has received the Sustainability Disclosure Award 2024, marking its seventh consecutive year of recognition since 2017.",
+            "banner_image": "https://www.deltathailand.com/imgadmins/news/news_cover/DELTA_news_photo2025-01-07_10-50-20.jpg",
+            "source": "Business Insider",
+            "category_within_source": "RSS",
+            "source_domain": "markets.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.571917,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.090134",
+                    "ticker_sentiment_score": "0.279661",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Warner Bros. Discovery, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - WBD - Warner Bros. Discovery  ( NASDAQ:WBD ) ",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42933885/rosen-a-leading-investor-rights-law-firm-encourages-warner-bros-discovery-inc-investors-to-secure-",
@@ -1365,147 +1420,6 @@
             "overall_sentiment_score": 0.029894,
             "overall_sentiment_label": "Neutral",
             "ticker_sentiment": []
-        },
-        {
-            "title": "This 1 Social Security Move Could Boost Your Lifetime Income by Up to $271,790",
-            "url": "https://www.fool.com/retirement/2025/01/11/this-1-social-security-move-could-boost-your-lifet/",
-            "time_published": "20250111T210000",
-            "authors": [
-                "Katie Brockman"
-            ],
-            "summary": "Social Security can go a long way in retirement, and it's even responsible for keeping around 16.5 million adults age 65 and older above the poverty line, according to 2022 data from the Center on Budget and Policy Priorities.Even if you do have plenty of savings stashed away, it doesn't hurt to ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803121%2Fperson-holding-hundred-dollar-bills.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": 0.288786,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Warren Buffett's Middle Child Howie Buffett Steps Into Spotlight: An Heir to Berkshire Hathaway Throne?",
-            "url": "https://www.benzinga.com/markets/25/01/42933455/warren-buffetts-middle-child-howie-buffett-steps-into-spotlight-an-heir-to-berkshire-hathaway-throne",
-            "time_published": "20250111T203018",
-            "authors": [
-                "Bibhu Pattnaik"
-            ],
-            "summary": "Berkshire gears up for a historic leadership shift, spotlighting Warren Buffett's son as steward of a trillion-dollar legacy. Philanthropy and business intersect as the Buffett family prepares one of history's largest wealth transfers. Get daily trade setups, exclusive stock picks, and real-time ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/Berkshire-Hathaway-Text-Concept-Closeup-.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.323908,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BRK-A",
-                    "relevance_score": "0.276909",
-                    "ticker_sentiment_score": "0.305873",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "BDTCOIN Launches on Tier 1 Exchanges: Unlock New Investment Opportunities in Web3 and AI",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42933434/bdtcoin-launches-on-tier-1-exchanges-unlock-new-investment-opportunities-in-web3-and-ai",
-            "time_published": "20250111T201951",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "FERNANDINA BEACH, Fla., Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- BDTCOIN, the world's first gold-backed cryptocurrency, is set to achieve a groundbreaking milestone with its imminent listing on a leading global crypto exchange.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/d9d34687-9b9b-4e98-b37c-46e5c67939dd/image-2.jpeg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.983605"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                }
-            ],
-            "overall_sentiment_score": 0.552016,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PRFUF",
-                    "relevance_score": "0.069294",
-                    "ticker_sentiment_score": "0.196081",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.138066",
-                    "ticker_sentiment_score": "0.339698",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "California's $10 Trillion Property Market Faces Unprecedented Threat From Wildfires - Allstate  ( NYSE:ALL ) , American Intl Gr  ( NYSE:AIG ) ",
-            "url": "https://www.benzinga.com/news/25/01/42933396/californias-10-trillion-property-market-faces-unprecedented-threat-from-wildfires",
-            "time_published": "20250111T200042",
-            "authors": [
-                "Bibhu Pattnaik"
-            ],
-            "summary": "California's $10 trillion residential property market is under siege as wildfires wreak havoc across the southern part of the state. What Happened: The fires, which have already destroyed more than 5,000 buildings, pose a potential risk to the stability of the state's insurance market.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/1024px-MODIS-Aqua-SoCal-Bands-7--4--and-.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.063411,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TRV",
-                    "relevance_score": "0.129516",
-                    "ticker_sentiment_score": "-0.128112",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PGR",
-                    "relevance_score": "0.129516",
-                    "ticker_sentiment_score": "-0.128112",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AIG",
-                    "relevance_score": "0.129516",
-                    "ticker_sentiment_score": "-0.128112",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CB",
-                    "relevance_score": "0.193207",
-                    "ticker_sentiment_score": "-0.081407",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
         }
     ]
 }
