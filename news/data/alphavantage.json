@@ -1,8 +1,155 @@
 {
-    "items": "36",
+    "items": "37",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Steve Bannon Targets Elon Musk, Pledges To Expel Him From MAGA Movement: 'He Is a Truly Evil Guy' - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/news/25/01/42935180/steve-bannon-targets-elon-musk-pledges-to-expel-him-from-maga-movement-he-is-a-truly-evil-guy",
+            "time_published": "20250112T154518",
+            "authors": [
+                "Bibhu Pattnaik"
+            ],
+            "summary": "Steve Bannon, the former adviser to the Trump White House, fiercely criticized Elon Musk, calling him \"truly evil\" and vowing to expel Musk from the MAGA movement. What Happened: Bannon's threat to remove Musk from the MAGA movement by Inauguration Day was reported by Italian newspaper Corriere ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/New-York-City--Ny-Usa-September-8--2022-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.046679,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.089462",
+                    "ticker_sentiment_score": "0.012576",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Best VPN for Crypto Users",
+            "url": "https://decrypt.co/299834/best-vpn-for-crypto-users",
+            "time_published": "20250112T153102",
+            "authors": [
+                "Luke Edwards"
+            ],
+            "summary": "In today's increasingly online world, it's never been more important to protect your privacy and security-and that goes double for crypto users. Virtual private networks, or VPNs, are services that provide an encrypted connection to the internet, shielding your internet protocol ( IP ) address ...",
+            "banner_image": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/NordVPN-Logo.jpg@webp",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.682689"
+                }
+            ],
+            "overall_sentiment_score": 0.246541,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PYPL",
+                    "relevance_score": "0.085249",
+                    "ticker_sentiment_score": "0.071743",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.042685",
+                    "ticker_sentiment_score": "0.095207",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.042685",
+                    "ticker_sentiment_score": "0.012808",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.02135",
+                    "ticker_sentiment_score": "-0.04635",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:VPN",
+                    "relevance_score": "0.46179",
+                    "ticker_sentiment_score": "0.399062",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ERC",
+                    "relevance_score": "0.02135",
+                    "ticker_sentiment_score": "-0.04635",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "'What's The Internet?' - Jeff Bezos Faced Clueless Investors Before Launching Amazon, Had To Give Up 20% Of The Company For Only $1 Million - Amazon.com  ( NASDAQ:AMZN ) ",
+            "url": "https://www.benzinga.com/news/25/01/42935158/whats-the-internet-jeff-bezos-faced-clueless-investors-before-launching-amazon-had-to-give-up-20-of-the-comp",
+            "time_published": "20250112T153023",
+            "authors": [
+                "Adrian Volenik"
+            ],
+            "summary": "Imagine pitching an idea so new and futuristic that most people didn't even understand it.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/Jeff-Bezos--Samsung-Back-Tenstorrent-In-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.219438,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ABNB",
+                    "relevance_score": "0.069094",
+                    "ticker_sentiment_score": "0.288021",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.069094",
+                    "ticker_sentiment_score": "0.288021",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.397098",
+                    "ticker_sentiment_score": "0.358869",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.069094",
+                    "ticker_sentiment_score": "0.229362",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "Peter Lynch's Money-Making Advice: 'When Things Go From Terrible to Semi-Terrible to OK, You Can Make a Lot of Money'",
             "url": "https://www.benzinga.com/markets/25/01/42935107/peter-lynchs-money-making-advice-when-things-go-from-terrible-to-semi-terrible-to-ok-you-can-make-a-lot-o",
@@ -24,6 +171,41 @@
             "overall_sentiment_score": 0.133707,
             "overall_sentiment_label": "Neutral",
             "ticker_sentiment": []
+        },
+        {
+            "title": "Why Alphabet Jumped 35.5 % in 2024",
+            "url": "https://www.fool.com/investing/2025/01/12/why-alphabet-jumped-355-in-2024/",
+            "time_published": "20250112T151500",
+            "authors": [
+                "Billy Duberstein"
+            ],
+            "summary": "Shares of Google parent Alphabet ( NASDAQ: GOOG ) ( NASDAQ: GOOGL ) surged 35.5% in 2024, according to data from S&P Global Market Intelligence. Alphabet entered 2024 under a cloud of skepticism regarding its competitiveness in the artificial intelligence ( AI ) races and amid pressure from ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803710%2Fgettyimages-1450922167-1.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.279041,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.170878",
+                    "ticker_sentiment_score": "0.023868",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.057352",
+                    "ticker_sentiment_score": "0.043288",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
         },
         {
             "title": "Nvidia's AI Supercomputer, HP's $1 Billion Deal With Elon Musk's X, And Trump's AI-Driven Vision: This Week In Artificial Intelligence - NVIDIA  ( NASDAQ:NVDA ) , Hewlett Packard  ( NYSE:HPE ) ",
@@ -74,6 +256,44 @@
                     "ticker": "NVDA",
                     "relevance_score": "0.281153",
                     "ticker_sentiment_score": "0.385228",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "If You'd Invested $5,000 in Ulta Beauty Stock 5 Years Ago, Here's How Much You'd Have Today",
+            "url": "https://www.fool.com/investing/2025/01/12/if-youd-invested-5000-in-ulta-beauty-stock-5-years/",
+            "time_published": "20250112T150000",
+            "authors": [
+                "CFA",
+                "Lawrence Rothman"
+            ],
+            "summary": "Future returns remain investors' primary concern. However, looking at past stock returns can also impart wisdom. That's because it can help you see what the company did and did not accomplish, and how the stock price reacted.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803367%2Fgettyimages-1335958439-1200x800-5b2df79.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
+                }
+            ],
+            "overall_sentiment_score": 0.213964,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ULTA",
+                    "relevance_score": "0.241684",
+                    "ticker_sentiment_score": "0.391649",
                     "ticker_sentiment_label": "Bullish"
                 }
             ]
@@ -243,6 +463,41 @@
                     "ticker": "ASTS",
                     "relevance_score": "0.11123",
                     "ticker_sentiment_score": "0.064414",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "More than a million student loan borrowers got debt forgiven in 2024. What to know at tax time",
+            "url": "https://www.cnbc.com/2025/01/12/student-loan-forgiveness-what-to-know-at-tax-time.html",
+            "time_published": "20250112T143001",
+            "authors": [],
+            "summary": "If your student loans were forgiven in 2024, you may be wondering if there are any tax implications.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.058696,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.076847",
+                    "ticker_sentiment_score": "0.029566",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -1472,252 +1727,6 @@
                     "ticker": "RKLB",
                     "relevance_score": "0.167709",
                     "ticker_sentiment_score": "0.112854",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "1 Top Cryptocurrency to Buy in 2025 With 163% Upside, According to Fundstrat's Tom Lee",
-            "url": "https://www.fool.com/investing/2025/01/12/1-top-cryptocurrency-to-buy-in-2025-has-163-upside/",
-            "time_published": "20250112T120100",
-            "authors": [
-                "Adam Spatacco"
-            ],
-            "summary": "Fundstrat's Tom Lee is calling for major upside in Bitcoin in 2025.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803468%2Fgold-coin-with-bitcoin-symbol-on-it-cryptocurrency-btc-2.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.650727"
-                }
-            ],
-            "overall_sentiment_score": 0.184453,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "COIN",
-                    "relevance_score": "0.062761",
-                    "ticker_sentiment_score": "0.164133",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.693986",
-                    "ticker_sentiment_score": "0.383834",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Job Growth, Fed Jitters, And Rising Mortgage Rates: This Week In Economics",
-            "url": "https://www.benzinga.com/news/25/01/42934513/job-growth-fed-jitters-and-rising-mortgage-rates-this-week-in-economics",
-            "time_published": "20250112T120022",
-            "authors": [
-                "Benzinga Neuro"
-            ],
-            "summary": "The week has been a rollercoaster ride for the U.S. economy. From a slowdown in private sector job growth to rising inflation concerns at the Federal Reserve, the economic landscape has been anything but predictable. Let's dive into the top stories that shaped the week.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/What-Hyman-Said.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.769861"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.744043"
-                }
-            ],
-            "overall_sentiment_score": 0.026541,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ADP",
-                    "relevance_score": "0.11983",
-                    "ticker_sentiment_score": "-0.008045",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.11983",
-                    "ticker_sentiment_score": "-0.116008",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "MaryRuth's Celebrates TikTok Shop Super Brand Day With Exclusive Offers and Viral Favorites",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42934510/maryruths-celebrates-tiktok-shop-super-brand-day-with-exclusive-offers-and-viral-favorites",
-            "time_published": "20250112T120000",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "LOS ANGELES, Jan. 12, 2025 /PRNewswire/ -- MaryRuth's, the trusted leader in liquid vitamins and wellness products, is thrilled to announce its participation in TikTok Shop's Super Brand Day from January 12 to 18, 2025.",
-            "banner_image": "https://mma.prnewswire.com/media/2588203/MaryRuths_Logo.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.619427,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Where Will AGNC Investment Stock Be in 1 Year?",
-            "url": "https://www.fool.com/investing/2025/01/12/where-will-agnc-investment-stock-be-in-1-year/",
-            "time_published": "20250112T115300",
-            "authors": [
-                "Leo Sun"
-            ],
-            "summary": "Is this mortgage REIT's 15.5% yield sustainable?",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803453%2Fa-father-holds-a-baby-while-trading-stocks.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.682689"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999993"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.167928,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AGNC",
-                    "relevance_score": "0.422897",
-                    "ticker_sentiment_score": "0.105302",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "O",
-                    "relevance_score": "0.044469",
-                    "ticker_sentiment_score": "-0.041854",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "2 Custom AI Chipmaker Stocks for 2025  ( Hint: Not Nvidia or AMD ) ",
-            "url": "https://www.fool.com/investing/2025/01/12/2-custom-ai-chipmaker-stocks-for-2025-hint-not-nvi/",
-            "time_published": "20250112T115000",
-            "authors": [
-                "Geoffrey Seiler"
-            ],
-            "summary": "In the early days of the artificial intelligence ( AI ) infrastructure build-out, graphic processing units ( GPUs ) have been the go-to chips for companies to train AI models and run inference. GPUs are powerful chips that were originally designed to speed up graphics rendering in video games, ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803568%2Fgettyimages-1204583606.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.998333"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.25"
-                }
-            ],
-            "overall_sentiment_score": 0.266542,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.047278",
-                    "ticker_sentiment_score": "0.110741",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.047278",
-                    "ticker_sentiment_score": "0.134651",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.047278",
-                    "ticker_sentiment_score": "0.13166",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.047278",
-                    "ticker_sentiment_score": "0.134651",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.321873",
-                    "ticker_sentiment_score": "0.336362",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.047278",
-                    "ticker_sentiment_score": "0.121193",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.141171",
-                    "ticker_sentiment_score": "0.171583",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ASCCF",
-                    "relevance_score": "0.09439",
-                    "ticker_sentiment_score": "0.091106",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
