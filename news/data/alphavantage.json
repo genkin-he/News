@@ -1,8 +1,166 @@
 {
-    "items": "33",
+    "items": "32",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Walgreens Boots Alliance, Aurora Innovation And Delta Air Lines Are Among Top Large Cap Gainers Last Week  ( Jan 6-10 ) : Are The Others In Your Portfolio? - Walgreens Boots Alliance  ( NASDAQ:WBA ) , Aurora Innovation  ( NASDAQ:AUR ) , Delta Air Lines  ( NYSE:DAL ) ",
+            "url": "https://www.benzinga.com/news/large-cap/25/01/42934713/walgreens-boots-alliance-aurora-innovation-and-delta-air-lines-are-among-top-large-cap-gainers-las",
+            "time_published": "20250112T132019",
+            "authors": [
+                "Lekha Gupta"
+            ],
+            "summary": "Walgreens Boots Alliance stock gained 27.97% last week after the company reported better-than-expected Q1 results. Micron Technology expanded its collaboration with Pure Storage for energy-efficient solutions using Micron G9 QLC NAND. These ten large-cap stocks were the best performers in the ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/Delta-Airlines.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.52435,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.414559",
+                    "ticker_sentiment_score": "0.658793",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "PSTG",
+                    "relevance_score": "0.414559",
+                    "ticker_sentiment_score": "0.658793",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "WBA",
+                    "relevance_score": "0.414559",
+                    "ticker_sentiment_score": "0.788402",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Apple's Market Woes, Tim Cook's 2024 Salary, And Siri Privacy Concerns: This Week In Appleverse - Samsung Electronics Co  ( OTC:SSNLF ) ",
+            "url": "https://www.benzinga.com/tech/25/01/42934662/apples-market-woes-tim-cooks-2024-salary-and-siri-privacy-concerns-this-week-in-appleverse",
+            "time_published": "20250112T130018",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "The week was a rollercoaster for the tech world, particularly for Apple Inc. AAPL. The tech giant faced a potential market share decline in China, while its CEO, Tim Cook, enjoyed a significant pay rise. Amid privacy controversies, Apple clarified its Siri privacy policies and acknowledged AI ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/Bonus-Step.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.055433,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.409503",
+                    "ticker_sentiment_score": "0.008447",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.653656",
+                    "ticker_sentiment_score": "-0.143433",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "E Ink to Showcase Spectra 6 ePaper Retail Signage at NRF 2025, Highlighting Advanced Color Innovations and Environmental Benefits",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42934655/e-ink-to-showcase-spectra-6-epaper-retail-signage-at-nrf-2025-highlighting-advanced-color-innovati",
+            "time_published": "20250112T130000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "BILLERICA, Mass., Jan. 12, 2025 ( GLOBE NEWSWIRE ) -- E Ink ( 8069.TWO ) , the originator, pioneer, and global commercial leader in ePaper technology, today announced they will be showing a portfolio of E Ink Spectra\u2122 6 full-color ePaper retail signage at several partner booths during NRF 2025.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/f7f97247-4ab4-4000-b5b9-3ea16eef4b9f/nrf-1.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.327485,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MCO",
+                    "relevance_score": "0.038906",
+                    "ticker_sentiment_score": "0.147798",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "E Ink to Showcase Spectra 6 ePaper Retail Signage at NRF 2025, Highlighting Advanced Color Innovations and Environmental Benefits",
+            "url": "https://www.globenewswire.com/news-release/2025/01/12/3008047/0/en/E-Ink-to-Showcase-Spectra-6-ePaper-Retail-Signage-at-NRF-2025-Highlighting-Advanced-Color-Innovations-and-Environmental-Benefits.html",
+            "time_published": "20250112T130000",
+            "authors": [
+                "E-ink"
+            ],
+            "summary": "E Ink will be showing a portfolio of E Ink Spectra\u2122 6 full-color ePaper retail signage at several partner booths during ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/f7f97247-4ab4-4000-b5b9-3ea16eef4b9f/nrf-1.jpg",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.331683,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MCO",
+                    "relevance_score": "0.04076",
+                    "ticker_sentiment_score": "0.154504",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "Top Wall Street analysts like the growth opportunities for these three stocks",
             "url": "https://www.cnbc.com/2025/01/12/top-wall-street-analysts-like-the-growth-opportunities-for-these-three-stocks.html",
@@ -1425,256 +1583,6 @@
                     "relevance_score": "0.041466",
                     "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Better Dividend Stock: Rexford Industrial vs. W.P. Carey",
-            "url": "https://www.fool.com/investing/2025/01/12/better-dividend-stock-rexford-industrial-vs-wp-car/",
-            "time_published": "20250112T100000",
-            "authors": [
-                "Reuben Gregg Brewer"
-            ],
-            "summary": "Beauty is often in the eye of the beholder, a statement that is particularly true on Wall Street. That's a good setup for a comparison of two real estate investment trusts ( REITs ) that focus on industrial assets. Is W.P. Carey ( NYSE: WPC ) a better stock than Rexford Industrial ( NYSE: REXR ) ?",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803149%2F23_10_04-a-person-drawing-checks-in-boxes-on-a-checklist-_mf-dload.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.5855"
-                }
-            ],
-            "overall_sentiment_score": 0.229295,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "1 Vanguard Index Fund to Buy Before It Soars on AI Tailwinds in 2025, According to a Wall Street Analyst",
-            "url": "https://www.fool.com/investing/2025/01/12/1-vanguard-index-fund-to-buy-soar-in-2025-wall-str/",
-            "time_published": "20250112T095700",
-            "authors": [
-                "Trevor Jennewine"
-            ],
-            "summary": "The S&P 500 entered its current bull market in October 2022 and has since advanced 65%, led by a 130% gain in the technology sector. But equity analyst Dan Ives at Wedbush says the bull market will run for another two to three years, and he believes technology stocks could soar 25% in 2025.Ives ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803600/artificial-intelligence-6.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.983783"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.904684"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.19178,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.068306",
-                    "ticker_sentiment_score": "0.041092",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MORN",
-                    "relevance_score": "0.068306",
-                    "ticker_sentiment_score": "0.041092",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.068306",
-                    "ticker_sentiment_score": "0.041092",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.068306",
-                    "ticker_sentiment_score": "0.126494",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "2 Top Bargain Stocks Ready for a Bull Run",
-            "url": "https://www.fool.com/investing/2025/01/12/2-top-bargain-stocks-ready-for-a-bull-run/",
-            "time_published": "20250112T095500",
-            "authors": [
-                "Will Healy"
-            ],
-            "summary": "Artificial intelligence ( AI ) innovations have helped push top tech stocks like Nvidia and Palantir Technologies to trade at elevated valuations. The massive gains many AI stocks experienced over a relatively short timeframe have contributed to the impression among some investors that they can ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803396/getty-on-sale-discount-shopping.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.980922"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.992549"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.166683,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.292922",
-                    "ticker_sentiment_score": "0.213016",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.049939",
-                    "ticker_sentiment_score": "0.184873",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "QCOM",
-                    "relevance_score": "0.245835",
-                    "ticker_sentiment_score": "-0.132149",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.049939",
-                    "ticker_sentiment_score": "0.184873",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "2 AI Chip Stocks That Could Soar in 2025",
-            "url": "https://www.fool.com/investing/2025/01/12/2-ai-chip-stocks-that-could-soar-in-2025/",
-            "time_published": "20250112T095200",
-            "authors": [
-                "John Ballard"
-            ],
-            "summary": "Artificial intelligence ( AI ) promises to bring significant advances to the global economy, which could result in higher worker productivity, faster product development, and more efficient supply chains. The lure of these benefits is creating tremendous demand for leading semiconductor companies ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803442/ai-computer-chip.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.77141"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.99999"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.411245,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.055364",
-                    "ticker_sentiment_score": "0.149885",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.055364",
-                    "ticker_sentiment_score": "0.149885",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.055364",
-                    "ticker_sentiment_score": "0.149885",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "QCOM",
-                    "relevance_score": "0.055364",
-                    "ticker_sentiment_score": "0.149885",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSM",
-                    "relevance_score": "0.110462",
-                    "ticker_sentiment_score": "0.164944",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "How Likely Is It That the Stock Market Crashes Under President Donald Trump in 2025? Here's What History Tells Us.",
-            "url": "https://www.fool.com/investing/2025/01/12/stock-market-crash-donald-trump-history-tells-us/",
-            "time_published": "20250112T095100",
-            "authors": [
-                "Sean Williams"
-            ],
-            "summary": "Trump is about to make dubious history.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803410%2F49750148681_73e99680b4_k.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999696"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.947132"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.067665,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BAC",
-                    "relevance_score": "0.034984",
-                    "ticker_sentiment_score": "-0.151844",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
                 }
             ]
         }
