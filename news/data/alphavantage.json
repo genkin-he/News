@@ -1,8 +1,106 @@
 {
-    "items": "27",
+    "items": "35",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Supreme Court Hears Tiktok Case, Google Donates To Trump Inauguration, And More: This Week In Politics - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",
+            "url": "https://www.benzinga.com/news/25/01/42934302/supreme-court-hears-tiktok-case-google-donates-to-trump-inauguration-and-more-this-week-in-politics",
+            "time_published": "20250112T110019",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "The past week was packed with significant events that could potentially shape the future of tech, politics, and entertainment. From the Supreme Court hearing arguments on the potential TikTok ban to Google's hefty donation to Trump's inauguration, here's a recap of the top stories. The U.S.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/Trump-Effect--Denmark-Boosts-Greenlands-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.146547,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.303175",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.103331",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.103331",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Is Intel Ready for an AI Comeback in 2025?",
+            "url": "https://www.fool.com/investing/2025/01/12/is-intel-ready-for-an-ai-comeback-in-2025/",
+            "time_published": "20250112T105500",
+            "authors": [
+                "Timothy Green"
+            ],
+            "summary": "One area where Intel ( NASDAQ: INTC ) has seriously dropped the ball has been artificial intelligence ( AI ) . Nvidia essentially owns the market for AI accelerator chips, and AMD is at least competitive with its Instinct line of data center graphics processing units ( GPUs ) .",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803609/gettyimages-1473086836.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.024012,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.04912",
+                    "ticker_sentiment_score": "0.068291",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.098054",
+                    "ticker_sentiment_score": "0.023655",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.804208",
+                    "ticker_sentiment_score": "0.113067",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Community-Governed Meme Coin Flockerz Raises $9.5M in Presale Ahead of Exchange Launch",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42934272/community-governed-meme-coin-flockerz-raises-9-5m-in-presale-ahead-of-exchange-launch",
@@ -28,6 +126,230 @@
             "overall_sentiment_score": 0.202747,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
+        },
+        {
+            "title": "3 High-Yield Dividend Stocks Wall Street Thinks Will Soar 41% or More in 2025",
+            "url": "https://www.fool.com/investing/2025/01/12/3-high-yield-dividend-stocks-wall-street-thinks-wi/",
+            "time_published": "20250112T104800",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "How would you like to get paid to sit back and watch a stock you own take off? That's a scenario most investors would love. But is it unrealistic? Nope, not with the right dividend stocks. Analysts might have found just the stocks to buy, too.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803370/rocket-drawn-with-ben-franklin-from-100-bill.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.5855"
+                }
+            ],
+            "overall_sentiment_score": 0.310946,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CVS",
+                    "relevance_score": "0.493965",
+                    "ticker_sentiment_score": "0.383749",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "DVN",
+                    "relevance_score": "0.117486",
+                    "ticker_sentiment_score": "0.054819",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "2 Dividend Stocks to Double Up on Right Now",
+            "url": "https://www.fool.com/investing/2025/01/12/2-dividend-stocks-to-double-up-on-right-now/",
+            "time_published": "20250112T104700",
+            "authors": [
+                "Demitri Kalogeropoulos"
+            ],
+            "summary": "Wall Street was enamored with tech stocks in 2024, choosing to leave many dividend stocks behind as a result. The dividend-heavy Dow Jones Industrial Average ( DJINDICES: ^DJI ) underperformed the tech-focused Nasdaq Composite ( NASDAQINDEX: ^IXIC ) by more than 15 percentage points.",
+            "banner_image": "https://media.ycharts.com/charts/0e2490807d9cc8d390ec88b5115b875c.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.344972,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HD",
+                    "relevance_score": "0.370602",
+                    "ticker_sentiment_score": "0.59333",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.252332",
+                    "ticker_sentiment_score": "0.172378",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ASML vs. TSMC: What's the Better AI Buy in 2025?",
+            "url": "https://www.fool.com/investing/2025/01/12/asml-vs-tsmc-whats-the-better-ai-buy-in-2025/",
+            "time_published": "20250112T104600",
+            "authors": [
+                "Will Healy"
+            ],
+            "summary": "The run-up in artificial intelligence ( AI ) stocks has attracted numerous investors into the sector. Given the anticipated potential for returns and the recent run-up in some AI-related names, determining return potential can become challenging.Amid that focus, investors may often forget the two ...",
+            "banner_image": "https://media.ycharts.com/charts/96956cfe245050bf264053e694e5eb33.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.976913"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.136692,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.05833",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.05833",
+                    "ticker_sentiment_score": "0.096983",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CAJFF",
+                    "relevance_score": "0.05833",
+                    "ticker_sentiment_score": "0.122992",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.05833",
+                    "ticker_sentiment_score": "0.096983",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.05833",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NINOF",
+                    "relevance_score": "0.05833",
+                    "ticker_sentiment_score": "0.122992",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 AI Chip Stocks to Consider Buying in 2025",
+            "url": "https://www.fool.com/investing/2025/01/12/3-ai-chip-stocks-to-consider-buying-in-2025/",
+            "time_published": "20250112T104500",
+            "authors": [
+                "Geoffrey Seiler"
+            ],
+            "summary": "2024 could be dubbed the year of artificial intelligence ( AI ) , as the latest advances involving generative AI made their way into mainstream usage and AI-associated stocks helped power the market to new heights. Some of the biggest AI winners have been in the semiconductor sector, where AI ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803345%2Fgettyimages-1402452876.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.839681"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.261082,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.247418",
+                    "ticker_sentiment_score": "0.167972",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.125242",
+                    "ticker_sentiment_score": "0.074828",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.125242",
+                    "ticker_sentiment_score": "0.087907",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.207216",
+                    "ticker_sentiment_score": "0.147643",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.166455",
+                    "ticker_sentiment_score": "0.177616",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ASCCF",
+                    "relevance_score": "0.041901",
+                    "ticker_sentiment_score": "0.063263",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
         },
         {
             "title": "Wall Street Pepe Presale Reaches $45M Milestone for New Trading Insights Platform",
@@ -65,6 +387,792 @@
                     "relevance_score": "0.072655",
                     "ticker_sentiment_score": "0.053314",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Prediction: This AI Stock Soared by 160% in 2024 but Will Beat the Market Again in 2025",
+            "url": "https://www.fool.com/investing/2025/01/12/prediction-this-ai-stock-soared-by-160-in-2024-but/",
+            "time_published": "20250112T104200",
+            "authors": [
+                "Matt Frankel"
+            ],
+            "summary": "To say Sea Limited ( NYSE: SE ) has been an excellent turnaround story would be a major understatement.After being one of the top performers during the 2021 growth stock boom, Sea Limited plunged 90% from its high by the end of 2023.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803599/shocked-expression-looking-at-laptop-2022.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.997902"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.322152,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SE",
+                    "relevance_score": "0.631144",
+                    "ticker_sentiment_score": "0.332316",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "If You'd Invested $1,000 in Tesla Stock 10 Years Ago, Here's How Much You'd Have Today",
+            "url": "https://www.fool.com/investing/2025/01/12/if-youd-invested-1000-in-tesla-stock-10-years-ago/",
+            "time_published": "20250112T103800",
+            "authors": [
+                "Selena Maranjian"
+            ],
+            "summary": "Spoiler: You'd have a lot.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802852%2Fgetty-happy-dancing-woman.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.332665,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.127456",
+                    "ticker_sentiment_score": "0.336424",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.127456",
+                    "ticker_sentiment_score": "0.336424",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.25168",
+                    "ticker_sentiment_score": "0.504917",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.127456",
+                    "ticker_sentiment_score": "0.336424",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.922387",
+                    "ticker_sentiment_score": "0.535164",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "3 Stocks That Could Soar in the AI Agent Boom",
+            "url": "https://www.fool.com/investing/2025/01/12/3-stocks-that-could-soar-in-the-ai-agent-boom/",
+            "time_published": "20250112T103000",
+            "authors": [
+                "Adria Cimino"
+            ],
+            "summary": "Investors piled into artificial intelligence ( AI ) stocks last year, which helped all three benchmarks advance in the double digits. The S&P 500, the Nasdaq, and the Dow Jones Industrial Average climbed 23%, 28%, and 12%, respectively.And the top performers in all three indexes were companies ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803439%2Finvestor-smiling-phone-at-home.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.323848,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.40858",
+                    "ticker_sentiment_score": "0.364928",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "SOUN",
+                    "relevance_score": "0.09495",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.323684",
+                    "ticker_sentiment_score": "0.446749",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.047559",
+                    "ticker_sentiment_score": "0.191682",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Warren Buffett's Warning to Wall Street Reached Deafening Levels Last Year, but There's Now a Silver Lining.",
+            "url": "https://www.fool.com/investing/2025/01/12/warren-buffetts-warning-to-wall-street-reached-dea/",
+            "time_published": "20250112T103000",
+            "authors": [
+                "Bram Berkowitz"
+            ],
+            "summary": "With the stock market hitting all-time highs on many occasions last year, investors have debated for months whether it is overvalued. Some believe the artificial intelligence ( AI ) trend is powerful enough to cast valuations aside and propel the market higher because AI could be just as ...",
+            "banner_image": "https://media.ycharts.com/charts/ff1ba37bfc7fd6dda59f997400410f55.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.986714"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.097835,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "OXY",
+                    "relevance_score": "0.064449",
+                    "ticker_sentiment_score": "-0.01004",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SIRI",
+                    "relevance_score": "0.064449",
+                    "ticker_sentiment_score": "-0.01004",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.064449",
+                    "ticker_sentiment_score": "0.031069",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.064449",
+                    "ticker_sentiment_score": "-0.037447",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VRSN",
+                    "relevance_score": "0.128478",
+                    "ticker_sentiment_score": "-0.005882",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Can 2024's Best-Performing Dow Jones Stock Beat the S&P 500 Again in 2025?",
+            "url": "https://www.fool.com/investing/2025/01/12/nvidia-best-performing-dow-jones-stock-buy-2025/",
+            "time_published": "20250112T101500",
+            "authors": [
+                "Daniel Foelber"
+            ],
+            "summary": "Nvidia ( NASDAQ: NVDA ) was added to the Dow Jones Industrial Average ( DJINDICES: ^DJI ) in November 2024. So, technically, it was only in the index for a small portion of the year. But it was still, by far, the best-performing Dow stock in 2024 with a 171.2% return, walloping second-place ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803203%2Folder-woman-in-office-working-office-1200x800-5b2df79.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99977"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99989"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.237274,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.037563",
+                    "ticker_sentiment_score": "-0.013764",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.037563",
+                    "ticker_sentiment_score": "0.043716",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.037563",
+                    "ticker_sentiment_score": "0.105968",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.855701",
+                    "ticker_sentiment_score": "0.356241",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "HNHPF",
+                    "relevance_score": "0.037563",
+                    "ticker_sentiment_score": "0.061056",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "How to Invest Like Warren Buffett in 2025",
+            "url": "https://www.fool.com/investing/2025/01/12/how-to-invest-like-warren-buffett-in-2025/",
+            "time_published": "20250112T101200",
+            "authors": [
+                "Adria Cimino"
+            ],
+            "summary": "Last year was a great one for stocks, with the S&P 500 confirming its presence in a bull market and soaring 23% for a second consecutive year of gains. Now, heading into 2025, that momentum could continue thanks to ongoing excitement about artificial intelligence ( AI ) stocks and the benefits of ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803558%2Fwarren-buffett-1-tmf-2015.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.998962"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.338555,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.09989",
+                    "ticker_sentiment_score": "0.129779",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.050044",
+                    "ticker_sentiment_score": "0.27646",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TRMNF",
+                    "relevance_score": "0.050044",
+                    "ticker_sentiment_score": "0.27646",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.050044",
+                    "ticker_sentiment_score": "0.121231",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.09989",
+                    "ticker_sentiment_score": "0.196293",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "How Palantir Technologies Stock Surged 340% in 2024",
+            "url": "https://www.fool.com/investing/2025/01/12/how-palantir-technologies-stock-surged-340-in-2024/",
+            "time_published": "20250112T101200",
+            "authors": [
+                "Danny Vena"
+            ],
+            "summary": "Palantir delivered 14 times the gains of the S&P 500 last year. Here's how the data mining and artificial intelligence (AI) specialist generated game-changing results.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803682%2Fa-person-sitting-at-a-desk-with-multiple-computer-monitors-writing-ai-code.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.980716"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.992549"
+                }
+            ],
+            "overall_sentiment_score": 0.394103,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.068502",
+                    "ticker_sentiment_score": "0.17679",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.136499",
+                    "ticker_sentiment_score": "0.212487",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Apple Is the Largest Company in the World. Here's Why Investors Should Be Wary of the Stock in 2025.",
+            "url": "https://www.fool.com/investing/2025/01/12/apple-is-the-largest-company-in-the-world-heres-wh/",
+            "time_published": "20250112T101000",
+            "authors": [
+                "Selena Maranjian"
+            ],
+            "summary": "Almost everyone knows Apple ( NASDAQ: AAPL ) . Many millions of us have the company's devices in our pockets, handbags, or desktops, and many millions send Apple lots of money every year. Indeed, in Apple's last fiscal year, it raked in $391 billion in revenue.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803397%2Fgetty-looking-up-thinking-doubting-wondering.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990893"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.221814,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.062926",
+                    "ticker_sentiment_score": "0.04311",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.062926",
+                    "ticker_sentiment_score": "0.04311",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.930597",
+                    "ticker_sentiment_score": "0.356661",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.062926",
+                    "ticker_sentiment_score": "0.142154",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "President-Elect Donald Trump Is Set to Impose Far-Reaching Tariffs. Here's What Happened to the Stock Market During the 11 Days Tariffs Were Announced in Trump's First Term.",
+            "url": "https://www.fool.com/investing/2025/01/12/president-elect-donald-trump-is-set-to-impose-far/",
+            "time_published": "20250112T100700",
+            "authors": [
+                "Bram Berkowitz"
+            ],
+            "summary": "Since his 2024 campaign, President-elect Donald Trump has promised far-reaching tariffs on many countries. Once Trump is formally inaugurated on Jan. 20, he can make that promise a reality through executive orders or the Republican-controlled Congress.A tariff is a tax on imports.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/802986/boardroom-1.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.839681"
+                }
+            ],
+            "overall_sentiment_score": 0.01937,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "History Says the S&P 500 Will Surge in 2025. 2 AI Stock-Split Stocks to Buy Before It Does.",
+            "url": "https://www.fool.com/investing/2025/01/12/history-says-the-sp-500-will-surge-in-2025-2-stock/",
+            "time_published": "20250112T100500",
+            "authors": [
+                "Danny Vena"
+            ],
+            "summary": "These investor-favorite stocks have been profitable for shareholders and still have a long runway ahead.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803472%2Fan-abstract-bull-in-front-of-technical-analysis-charts-and-graphs.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.980716"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
+                }
+            ],
+            "overall_sentiment_score": 0.240111,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ANET",
+                    "relevance_score": "0.2317",
+                    "ticker_sentiment_score": "0.108629",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PANW",
+                    "relevance_score": "0.155702",
+                    "ticker_sentiment_score": "0.101995",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Here's How to Tell if You Qualify for Spousal Social Security Benefits",
+            "url": "https://www.fool.com/retirement/2025/01/12/tell-if-you-qualify-for-spousal-social-security/",
+            "time_published": "20250112T100300",
+            "authors": [
+                "Kailey Hagen"
+            ],
+            "summary": "Spousal Social Security benefits can be a vital source of income for married couples where only one spouse worked or one significantly outearned the other. They can supplement a household's income with thousands of dollars per year to cover living expenses.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803477%2Factive-couple-outdoors-hiking-health-fitness.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.372345,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Is It Too Late to Buy Artificial Intelligence  ( AI )  Leader Nvidia in 2025? There's a Growing Mountain of Evidence Piling Up That Provides a Crystal Clear Answer.",
+            "url": "https://www.fool.com/investing/2025/01/12/is-it-too-late-to-buy-artificial-intelligence-ai-l/",
+            "time_published": "20250112T100200",
+            "authors": [
+                "Danny Vena"
+            ],
+            "summary": "Demand for artificial intelligence (AI) has driven Nvidia to new heights, but will the trend continue?",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803349%2Fa-person-looking-at-graphs-and-charts-on-a-futuristic-see-through-interface.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.891286"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.201198,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.123951",
+                    "ticker_sentiment_score": "0.073859",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.041466",
+                    "ticker_sentiment_score": "0.130984",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.564548",
+                    "ticker_sentiment_score": "0.267369",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.041466",
+                    "ticker_sentiment_score": "0.115168",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DSSMY",
+                    "relevance_score": "0.041466",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Better Dividend Stock: Rexford Industrial vs. W.P. Carey",
+            "url": "https://www.fool.com/investing/2025/01/12/better-dividend-stock-rexford-industrial-vs-wp-car/",
+            "time_published": "20250112T100000",
+            "authors": [
+                "Reuben Gregg Brewer"
+            ],
+            "summary": "Beauty is often in the eye of the beholder, a statement that is particularly true on Wall Street. That's a good setup for a comparison of two real estate investment trusts ( REITs ) that focus on industrial assets. Is W.P. Carey ( NYSE: WPC ) a better stock than Rexford Industrial ( NYSE: REXR ) ?",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803149%2F23_10_04-a-person-drawing-checks-in-boxes-on-a-checklist-_mf-dload.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.5855"
+                }
+            ],
+            "overall_sentiment_score": 0.229295,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "1 Vanguard Index Fund to Buy Before It Soars on AI Tailwinds in 2025, According to a Wall Street Analyst",
+            "url": "https://www.fool.com/investing/2025/01/12/1-vanguard-index-fund-to-buy-soar-in-2025-wall-str/",
+            "time_published": "20250112T095700",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "The S&P 500 entered its current bull market in October 2022 and has since advanced 65%, led by a 130% gain in the technology sector. But equity analyst Dan Ives at Wedbush says the bull market will run for another two to three years, and he believes technology stocks could soar 25% in 2025.Ives ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803600/artificial-intelligence-6.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.983783"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.904684"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.19178,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.068306",
+                    "ticker_sentiment_score": "0.041092",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.068306",
+                    "ticker_sentiment_score": "0.041092",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.068306",
+                    "ticker_sentiment_score": "0.041092",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.068306",
+                    "ticker_sentiment_score": "0.126494",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "2 Top Bargain Stocks Ready for a Bull Run",
+            "url": "https://www.fool.com/investing/2025/01/12/2-top-bargain-stocks-ready-for-a-bull-run/",
+            "time_published": "20250112T095500",
+            "authors": [
+                "Will Healy"
+            ],
+            "summary": "Artificial intelligence ( AI ) innovations have helped push top tech stocks like Nvidia and Palantir Technologies to trade at elevated valuations. The massive gains many AI stocks experienced over a relatively short timeframe have contributed to the impression among some investors that they can ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803396/getty-on-sale-discount-shopping.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.992549"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.166683,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.292922",
+                    "ticker_sentiment_score": "0.213016",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.049939",
+                    "ticker_sentiment_score": "0.184873",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.245835",
+                    "ticker_sentiment_score": "-0.132149",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.049939",
+                    "ticker_sentiment_score": "0.184873",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         },
@@ -335,6 +1443,32 @@
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
+        },
+        {
+            "title": "3 Ways to Boost Your Retirement Income Without Holding Off on Claiming Social Security",
+            "url": "https://www.fool.com/retirement/2025/01/12/boost-retirement-income-claim-social-security/",
+            "time_published": "20250112T094500",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "\"Good things come to those who wait.\"You've undoubtedly heard that adage many times. It's often true. And the old saying definitely applies to anyone contemplating early retirement. Waiting to claim Social Security until your full retirement age ( or, even better, until age 70 ) will increase ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803302%2Fgetty-couple-high-five-happy.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                }
+            ],
+            "overall_sentiment_score": 0.361926,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
         },
         {
             "title": "Is AMD Stock a Buy?",
@@ -682,736 +1816,6 @@
                     "relevance_score": "0.494156",
                     "ticker_sentiment_score": "0.422413",
                     "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Cathie Wood Takes Profits in Palantir. Should Investors Follow Suit?",
-            "url": "https://www.fool.com/investing/2025/01/12/cathie-wood-profits-palantir-stock-investors/",
-            "time_published": "20250112T085500",
-            "authors": [
-                "Geoffrey Seiler"
-            ],
-            "summary": "Famed investor Cathie Wood, the CEO and chief investment officer of Ark Invest who is best known for her high-flying Ark Innovation ( NYSEMKT: ARKK ) exchange-traded fund ( ETF ) , was recently selling shares of Palantir Technologies ( NASDAQ: PLTR ) .",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803295%2Fgettyimages-1522425869.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999767"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.99393"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.228777,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.105836",
-                    "ticker_sentiment_score": "0.062588",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "How Will the Stock Market Perform in 2025? Here's What Wall Street Thinks.",
-            "url": "https://www.fool.com/investing/2025/01/12/how-will-the-stock-market-perform-in-2025-heres-wh/",
-            "time_published": "20250112T085000",
-            "authors": [
-                "Keith Speights"
-            ],
-            "summary": "Let the good times roll. That's the mantra for many investors as the new year begins. The S&P 500 ( SNPINDEX: ^GSPC ) jumped 23% in 2024 after soaring 24% in 2023. Another gain of 20% or more this year would be fantastic.How will the stock market perform in 2025?",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803430%2F2025-lighted-chart.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.995077"
-                }
-            ],
-            "overall_sentiment_score": 0.164114,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "C",
-                    "relevance_score": "0.113866",
-                    "ticker_sentiment_score": "0.047504",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BAC",
-                    "relevance_score": "0.113866",
-                    "ticker_sentiment_score": "0.076187",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.057079",
-                    "ticker_sentiment_score": "0.042945",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.057079",
-                    "ticker_sentiment_score": "0.042945",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "The Smartest Dividend Growth ETF to Buy With $1,000 Right Now",
-            "url": "https://www.fool.com/investing/2025/01/12/the-smartest-dividend-growth-etf-to-buy-with-1000/",
-            "time_published": "20250112T084900",
-            "authors": [
-                "James Brumley"
-            ],
-            "summary": "There's more to the matter than a familiar name and a higher yield.",
-            "banner_image": "https://media.ycharts.com/charts/17353504023f3944229f78c290defdb6.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.304076,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.045482",
-                    "ticker_sentiment_score": "0.085555",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.090816",
-                    "ticker_sentiment_score": "0.172878",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MORN",
-                    "relevance_score": "0.045482",
-                    "ticker_sentiment_score": "0.103393",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.045482",
-                    "ticker_sentiment_score": "0.085555",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Nvidia Was One of the Largest Companies by Market Cap in 2024. Will Its Reign Continue in 2025?",
-            "url": "https://www.fool.com/investing/2025/01/12/nvidia-was-one-of-the-largest-companies-by-market/",
-            "time_published": "20250112T084500",
-            "authors": [
-                "Johnny Rice"
-            ],
-            "summary": "2024 saw Nvidia ( NASDAQ: NVDA ) briefly take the title of the largest company in the world, as measured by market capitalization, before seeding the position back to Apple. Microsoft was also a contender, holding the top spot for some time, as well.While the other two big tech players have been ...",
-            "banner_image": "https://media.ycharts.com/charts/17701fd0db38ee0dd272ec3706faf405.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.239883,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.316439",
-                    "ticker_sentiment_score": "0.18233",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.536866",
-                    "ticker_sentiment_score": "0.257332",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.129516",
-                    "ticker_sentiment_score": "0.112505",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.064973",
-                    "ticker_sentiment_score": "0.331333",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "2 Artificial Intelligence  ( AI )  Stocks That Could Go Parabolic",
-            "url": "https://www.fool.com/investing/2025/01/12/artificial-intelligence-ai-stocks-go-parabolic/",
-            "time_published": "20250112T084500",
-            "authors": [
-                "Harsh Chauhan"
-            ],
-            "summary": "The adoption of artificial intelligence ( AI ) technology is set to continue at a rapid pace in 2025: Market research firm IDC estimates that investments in data center infrastructure, AI agents, and efforts taken by organizations to embed AI capabilities into their operations will add up to ...",
-            "banner_image": "https://media.ycharts.com/charts/8adfd4e94ee0bc10abd250fc23a72c10.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999691"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.333157,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MU",
-                    "relevance_score": "0.076847",
-                    "ticker_sentiment_score": "0.142873",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SSNLF",
-                    "relevance_score": "0.076847",
-                    "ticker_sentiment_score": "0.075314",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.076847",
-                    "ticker_sentiment_score": "0.124361",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SNOW",
-                    "relevance_score": "0.335772",
-                    "ticker_sentiment_score": "0.326255",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "FOREX:AMD",
-                    "relevance_score": "0.038468",
-                    "ticker_sentiment_score": "0.209284",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Social Security's Income Inequality Problem Is Worsening -- but Taxing the Rich Isn't the Cut-and-Dried Solution It's Made Out to Be",
-            "url": "https://www.fool.com/retirement/2025/01/12/social-security-income-inequality-problem-tax-rich/",
-            "time_published": "20250112T084400",
-            "authors": [
-                "Sean Williams"
-            ],
-            "summary": "The rich are getting richer, to Social Security's detriment.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802948%2Fsocial-security-card-with-cash-retirement-benefits-getty.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.9545"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": 0.149261,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "3 Cheap Tech Stocks That Are Screaming Buys in January",
-            "url": "https://www.fool.com/investing/2025/01/12/cheap-tech-stocks-screaming-buys-january/",
-            "time_published": "20250112T083000",
-            "authors": [
-                "Leo Sun"
-            ],
-            "summary": "IBM, AT&T, and HP are all cheaply valued, but they all pay hefty dividends.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803413%2Fanalyst-investor-remote-tracking-trends.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.316726"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999499"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.135999,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NFLX",
-                    "relevance_score": "0.056407",
-                    "ticker_sentiment_score": "0.040107",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "T",
-                    "relevance_score": "0.276491",
-                    "ticker_sentiment_score": "0.080681",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "KD",
-                    "relevance_score": "0.056407",
-                    "ticker_sentiment_score": "-0.043924",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "2 Renewable Energy Stocks to Buy in 2025 and Hold for Decades",
-            "url": "https://www.fool.com/investing/2025/01/12/2-renewable-energy-stocks-to-buy-in-2025-and-hold/",
-            "time_published": "20250112T082300",
-            "authors": [
-                "Leo Sun"
-            ],
-            "summary": "NuScale and CleanSpark could shake off the bears over the next few years.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803318%2Fperson-puts-leaf-in-piggy-bank.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.858979"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.284639,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SMR",
-                    "relevance_score": "0.154125",
-                    "ticker_sentiment_score": "0.234841",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CLSK",
-                    "relevance_score": "0.302553",
-                    "ticker_sentiment_score": "0.294718",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRBO",
-                    "relevance_score": "0.051663",
-                    "ticker_sentiment_score": "0.16149",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.204503",
-                    "ticker_sentiment_score": "0.252205",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Now That It's 2025, It's Finally Time to Buy These 3 AI Stocks",
-            "url": "https://www.fool.com/investing/2025/01/12/now-2025-finally-time-buy-these-3-stocks/",
-            "time_published": "20250112T082000",
-            "authors": [
-                "Will Healy",
-                "Justin Pope",
-                "and Jake Lerch"
-            ],
-            "summary": "Artificial intelligence ( AI ) has sparked a rally in numerous tech stocks. Thanks to this cutting-edge technology, stocks such as Nvidia and Palantir have experienced exponential increases in their stock prices.Still, not all AI stocks have responded in equal measure or simultaneously.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803335/ai-robot-tells-person-secret.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.623304"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.972756"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.174025,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.193001",
-                    "ticker_sentiment_score": "-0.069317",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.077845",
-                    "ticker_sentiment_score": "0.039792",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.116536",
-                    "ticker_sentiment_score": "-0.052606",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "VRT",
-                    "relevance_score": "0.339874",
-                    "ticker_sentiment_score": "0.334269",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ASML",
-                    "relevance_score": "0.374875",
-                    "ticker_sentiment_score": "0.034986",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "History Says the Nasdaq Will Soar in 2025: 1 Hypergrowth AI Stock to Buy Before It Does",
-            "url": "https://www.fool.com/investing/2025/01/12/history-says-the-nasdaq-will-soar-in-2025-1-hyperg/",
-            "time_published": "20250112T081500",
-            "authors": [
-                "Brett Schafer"
-            ],
-            "summary": "Betting on this stock can help value investors play the artificial intelligence (AI) trend.",
-            "banner_image": "https://media.ycharts.com/charts/555385d3b9f3e7c75c72309b9e67c092.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999981"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.298197,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.641573",
-                    "ticker_sentiment_score": "0.502752",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.061003",
-                    "ticker_sentiment_score": "-0.003002",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BNXYF",
-                    "relevance_score": "0.061003",
-                    "ticker_sentiment_score": "0.171056",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "The Walt Disney Co. Just Conducted a Master Class in Strategic Asset Management",
-            "url": "https://www.fool.com/investing/2025/01/12/the-walt-disney-co-just-conducted-a-master-class-i/",
-            "time_published": "20250112T081400",
-            "authors": [
-                "James Brumley"
-            ],
-            "summary": "It looks like the entertainment giant can have its proverbial cake and eat it too.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803330/professor-teach-class-college-student-lecture-learn.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.12082,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NFLX",
-                    "relevance_score": "0.032871",
-                    "ticker_sentiment_score": "0.079095",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "WBD",
-                    "relevance_score": "0.032871",
-                    "ticker_sentiment_score": "0.024536",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FUBO",
-                    "relevance_score": "0.258351",
-                    "ticker_sentiment_score": "0.124559",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "DIS",
-                    "relevance_score": "0.258351",
-                    "ticker_sentiment_score": "0.057231",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Meet the Incredible Artificial Intelligence  ( AI )  Stock That Could Pass Apple, Nvidia, and Microsoft on Its Way to a $5 Trillion Valuation by 2030",
-            "url": "https://www.fool.com/investing/2025/01/12/artificial-intelligence-ai-stock-pass-nvidia/",
-            "time_published": "20250112T081000",
-            "authors": [
-                "Adam Levy"
-            ],
-            "summary": "This company is spending as much as anyone on AI infrastructure, and it's paying off already.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803293%2Fgettyimages-ai-artificial-intelligence-circuit-chip.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.796627"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.322456,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.072108",
-                    "ticker_sentiment_score": "0.107038",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.107978",
-                    "ticker_sentiment_score": "0.151401",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.072108",
-                    "ticker_sentiment_score": "0.147081",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.473582",
-                    "ticker_sentiment_score": "0.359004",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "The Best Energy Stocks to Invest $500 in Right Now",
-            "url": "https://www.fool.com/investing/2025/01/12/the-best-energy-stock-to-invest-500-in-right-now/",
-            "time_published": "20250112T080500",
-            "authors": [
-                "Reuben Gregg Brewer"
-            ],
-            "summary": "Energy is vital to modern society, and most investors should probably have some exposure to the sector. The problem is that the sector tends to be very volatile, given its commodity-driven nature. But if you have $500 to invest, you might want to consider putting it into this quartet of energy ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803300%2F24_07_17-a-keyboard-with-a-buy-key-on-it-and-finger-about-to-press-that-key-_mf-dload-gettyimages-535378851-1160x800-dbd52d0.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                }
-            ],
-            "overall_sentiment_score": 0.417206,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CVX",
-                    "relevance_score": "0.373911",
-                    "ticker_sentiment_score": "0.550763",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "ENB",
-                    "relevance_score": "0.373911",
-                    "ticker_sentiment_score": "0.536749",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "XOM",
-                    "relevance_score": "0.110717",
-                    "ticker_sentiment_score": "0.451361",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "RoboSense and Coco Robotics Forge Strategic Partnership to Revolutionize Autonomous Last-Mile Delivery",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42934026/robosense-and-coco-robotics-forge-strategic-partnership-to-revolutionize-autonomous-last-mile-deli",
-            "time_published": "20250112T072700",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "LAS VEGAS, Jan. 12, 2025 /PRNewswire/ -- RoboSense ( 2498.HK ) , a global leader in AI-driven robotics technology, and Coco Robotics, an innovator in delivery robots, have announced a strategic partnership to transform last-mile logistics.",
-            "banner_image": "https://mma.prnewswire.com/media/2596006/img_2.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [],
-            "overall_sentiment_score": 0.50635,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "DASH",
-                    "relevance_score": "0.08183",
-                    "ticker_sentiment_score": "0.163527",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "UBER",
-                    "relevance_score": "0.08183",
-                    "ticker_sentiment_score": "0.163527",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
