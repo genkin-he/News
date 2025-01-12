@@ -1,8 +1,272 @@
 {
-    "items": "37",
+    "items": "39",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Shiba Inu Burns Skyrocket by 300% Amid Calls for Larger Burns From SHIB Army",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/01/42935252/shiba-inu-burns-skyrocket-by-300-amid-calls-for-larger-burns-from-shib-army",
+            "time_published": "20250112T161516",
+            "authors": [
+                "Bibhu Pattnaik"
+            ],
+            "summary": "Shiba Inu's burn rate spikes, igniting debate over supply reduction tactics. Shibarium's utility is key to ramping up burns, suggests SHIB's development team. The Shiba Inu SHIB/USD community has witnessed a 300% surge in token burns within the last 24 hours.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/Shiba-Inu-Shibarium.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.04633,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:KSM",
+                    "relevance_score": "0.083251",
+                    "ticker_sentiment_score": "0.177354",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:SHIB",
+                    "relevance_score": "0.993428",
+                    "ticker_sentiment_score": "0.061525",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Customers Bancorp, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - CUBI - Customers Bancorp  ( NYSE:CUBI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42935251/rosen-global-investor-counsel-encourages-customers-bancorp-inc-investors-to-secure-counsel-before-",
+            "time_published": "20250112T161200",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 12, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Customers Bancorp, Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.138759,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.061473",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Mereo BioPharma Provides Update on Lead Clinical Programs",
+            "url": "https://www.globenewswire.com/news-release/2025/01/12/3008054/0/en/Mereo-BioPharma-Provides-Update-on-Lead-Clinical-Programs.html",
+            "time_published": "20250112T160500",
+            "authors": [
+                "Mereo BioPharma Group plc"
+            ],
+            "summary": "Orbit Phase 3 study of setrusumab in osteogenesis imperfecta continuing to planned second interim analysis, expected in ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/d8cb3e79-0641-4cca-8687-15281f1437be",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.043104,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RARE",
+                    "relevance_score": "0.061315",
+                    "ticker_sentiment_score": "0.044046",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MREO",
+                    "relevance_score": "0.122269",
+                    "ticker_sentiment_score": "0.064888",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Recalls Over 239,000 Vehicles, Uber and Lyft Revamp Robotaxi Strategy, Warren Buffett-Backed BYD Launches Affordable EV And More: This Week In Mobility - BYD  ( OTC:BYDDF ) , Lyft  ( NASDAQ:LYFT ) ",
+            "url": "https://www.benzinga.com/tech/25/01/42935226/tesla-recalls-over-239000-vehicles-uber-and-lyft-revamp-robotaxi-strategy-warren-buffett-backed-byd-launches",
+            "time_published": "20250112T160022",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "This week has been a rollercoaster ride in the world of electric vehicles and ride-hailing services. From Tesla Inc. TSLA recalling hundreds of thousands of vehicles to Warren Buffett-backed BYD Co BYDDF launching an affordable EV in Australia, there's a lot to catch up on.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/Buying-Cars-That-Lose-Value.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.057443,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XPEV",
+                    "relevance_score": "0.191929",
+                    "ticker_sentiment_score": "0.064305",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.372912",
+                    "ticker_sentiment_score": "-0.052689",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BYDDF",
+                    "relevance_score": "0.191929",
+                    "ticker_sentiment_score": "0.050597",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.28442",
+                    "ticker_sentiment_score": "-0.039825",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VWAGY",
+                    "relevance_score": "0.191929",
+                    "ticker_sentiment_score": "0.064305",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.096671",
+                    "ticker_sentiment_score": "0.084186",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Ultragenyx Reports Preliminary 2024 Revenue, Financial Guidance for 2025, Pipeline Updates, and 2025 Milestones",
+            "url": "https://www.globenewswire.com/news-release/2025/01/12/3008053/20739/en/Ultragenyx-Reports-Preliminary-2024-Revenue-Financial-Guidance-for-2025-Pipeline-Updates-and-2025-Milestones.html",
+            "time_published": "20250112T160000",
+            "authors": [
+                "Ultragenyx Pharmaceutical Inc."
+            ],
+            "summary": "Preliminary 2024 total revenue of $555 million to $560 million, exceeding top end of guidance, including Crysvita\u00ae revenue of $405 million to $410 million, and Dojolvi\u00ae revenue of $87 million to $89 million ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/121a9bda-7a64-41f8-85e8-1693a2dfa977",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.839681"
+                }
+            ],
+            "overall_sentiment_score": 0.108718,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RARE",
+                    "relevance_score": "0.05833",
+                    "ticker_sentiment_score": "0.061994",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KYKOF",
+                    "relevance_score": "0.038906",
+                    "ticker_sentiment_score": "-0.018812",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KNBWF",
+                    "relevance_score": "0.038906",
+                    "ticker_sentiment_score": "-0.018812",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Ultragenyx Reports Preliminary 2024 Revenue, Financial Guidance for 2025, Pipeline Updates, and 2025 Milestones - Ultragenyx Pharmaceutical  ( NASDAQ:RARE ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42935224/ultragenyx-reports-preliminary-2024-revenue-financial-guidance-for-2025-pipeline-updates-and-2025-",
+            "time_published": "20250112T160000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Preliminary 2024 total revenue of $555 million to $560 million, exceeding top end of guidance, including Crysvita\u00ae revenue of $405 million to $410 million, and Dojolvi\u00ae revenue of $87 million to $89 million",
+            "banner_image": "https://ml.globenewswire.com/media/121a9bda-7a64-41f8-85e8-1693a2dfa977/small/ultragenyx-cmyk-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999995"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                }
+            ],
+            "overall_sentiment_score": 0.147083,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RARE",
+                    "relevance_score": "0.095422",
+                    "ticker_sentiment_score": "0.060945",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Steve Bannon Targets Elon Musk, Pledges To Expel Him From MAGA Movement: 'He Is a Truly Evil Guy' - Tesla  ( NASDAQ:TSLA ) ",
             "url": "https://www.benzinga.com/news/25/01/42935180/steve-bannon-targets-elon-musk-pledges-to-expel-him-from-maga-movement-he-is-a-truly-evil-guy",
@@ -31,6 +295,28 @@
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
+        },
+        {
+            "title": "Why global bond markets are convulsing",
+            "url": "https://www.economist.com/finance-and-economics/2025/01/12/why-global-bond-markets-are-convulsing",
+            "time_published": "20250112T153150",
+            "authors": [
+                "The Economist"
+            ],
+            "summary": "Pity anyone taking out a mortgage ...",
+            "banner_image": "https://www.economist.com/content-assets/images/20250118_FND001.jpg",
+            "source": "The Economist",
+            "category_within_source": "Finance",
+            "source_domain": "www.economist.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                }
+            ],
+            "overall_sentiment_score": -0.179951,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": []
         },
         {
             "title": "The Best VPN for Crypto Users",
@@ -1471,263 +1757,6 @@
                     "relevance_score": "0.04076",
                     "ticker_sentiment_score": "0.154504",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Is Toast Stock a Buy, Sell, or Hold in 2025?",
-            "url": "https://www.fool.com/investing/2025/01/12/is-toast-stock-a-buy-sell-or-hold-in-2025/",
-            "time_published": "20250112T124500",
-            "authors": [
-                "Dan Victor"
-            ],
-            "summary": "Shares of Toast ( NYSE: TOST ) quietly climbed by about 100% in 2024, a breakout year for the restaurant management software innovator. The optimistic outlook for its future is premised on its recent strong growth and a shift toward consistent profitability.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803372%2Ftoast-stock-bullish-outlook-2025.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.947132"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                }
-            ],
-            "overall_sentiment_score": 0.377957,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LSPD",
-                    "relevance_score": "0.05833",
-                    "ticker_sentiment_score": "-0.031067",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TOST",
-                    "relevance_score": "0.620083",
-                    "ticker_sentiment_score": "0.612634",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Best Stock to Buy Right Now: Dutch Bros vs. Cava",
-            "url": "https://www.fool.com/investing/2025/01/12/best-stock-to-buy-right-now-dutch-bros-vs-cava/",
-            "time_published": "20250112T123000",
-            "authors": [
-                "Jennifer Saibil"
-            ],
-            "summary": "Cava Group ( NYSE: CAVA ) , the young fast-casual chain selling Mediterranean food, had an incredible 2024, ending the year up 162%. That's more than double the performance of coffee chain Dutch Bros ( NYSE: BROS ) , another young restaurant chain, which ended the year up a highly respectable ...",
-            "banner_image": "https://media.ycharts.com/charts/36f1bde67d878105e4bbef2c2b9a5e0a.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.395791,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SBUX",
-                    "relevance_score": "0.070517",
-                    "ticker_sentiment_score": "0.307744",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CAVA",
-                    "relevance_score": "0.140485",
-                    "ticker_sentiment_score": "0.033756",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BROS",
-                    "relevance_score": "0.71174",
-                    "ticker_sentiment_score": "0.489219",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Top Wall Street analysts like the growth opportunities for these three stocks",
-            "url": "https://www.cnbc.com/2025/01/12/top-wall-street-analysts-like-the-growth-opportunities-for-these-three-stocks.html",
-            "time_published": "20250112T121820",
-            "authors": [],
-            "summary": "TipRanks' analyst ranking service underscores three stocks favored by the Street's top pros, including Uber Technologies and Nvidia.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Investing",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.54554"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.891286"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.264239,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.1879",
-                    "ticker_sentiment_score": "0.294782",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "UBER",
-                    "relevance_score": "0.1879",
-                    "ticker_sentiment_score": "0.092896",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "DDOG",
-                    "relevance_score": "0.260719",
-                    "ticker_sentiment_score": "0.164941",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Meet the 15 Dow Jones Stocks That Combined for Over $150 Billion in Dividends in 2024 and Will All Likely Boost Their Payouts Again in 2025",
-            "url": "https://www.fool.com/investing/2025/01/12/dow-jones-dividend-stocks-buy-2025-passive-income/",
-            "time_published": "20250112T121700",
-            "authors": [
-                "Daniel Foelber"
-            ],
-            "summary": "The Dow Jones Industrial Average ( DJINDICES: ^DJI ) is composed of 30 industry-leading blue-chip businesses that represent the broader market. Many of these companies also pay growing dividends.Here's a look at the 15 Dow components that paid the most dividends in 2024 -- combining for more than ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803257%2Fgettyimages-1283813790-1201x742-1536a11-1.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.99676"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.25"
-                }
-            ],
-            "overall_sentiment_score": 0.318951,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.142989",
-                    "ticker_sentiment_score": "0.282224",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.142989",
-                    "ticker_sentiment_score": "0.282224",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "HD",
-                    "relevance_score": "0.071784",
-                    "ticker_sentiment_score": "0.260456",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "KO",
-                    "relevance_score": "0.071784",
-                    "ticker_sentiment_score": "0.063454",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PG",
-                    "relevance_score": "0.071784",
-                    "ticker_sentiment_score": "0.063454",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "SpaceX Missed Its Launch Goal in 2024 and Moved the Goalposts for 2025",
-            "url": "https://www.fool.com/investing/2025/01/12/spacex-missed-its-launch-goal-in-2024-2025-goals/",
-            "time_published": "20250112T120700",
-            "authors": [
-                "Rich Smith"
-            ],
-            "summary": "In the early morning hours of Dec. 31, 2024, SpaceX ended its year as it began it, with one final launch of Starlink satellites into orbit. The launch marked SpaceX's 134th mission of the year ( 138 missions if you count Starship test flights ) .",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803408%2Fspacex-falcon-9-rocket-trail-on-the-beach.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.097994,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "RKLB",
-                    "relevance_score": "0.167709",
-                    "ticker_sentiment_score": "0.112854",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
