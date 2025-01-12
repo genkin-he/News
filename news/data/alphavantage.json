@@ -1,8 +1,47 @@
 {
-    "items": "43",
+    "items": "39",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "XRX DEADLINE ALERT: ROSEN, NATIONAL TRIAL LAWYERS, Encourages Xerox Holdings Corporation Investors to Secure Counsel Before Important January 21 Deadline in Securities Class Action - XRX - Xerox Holdings  ( NASDAQ:XRX ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42933845/xrx-deadline-alert-rosen-national-trial-lawyers-encourages-xerox-holdings-corporation-investors-to",
+            "time_published": "20250112T021100",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Xerox Holdings Corporation XRX between January 25, 2024 and October 28, 2024, both dates inclusive ( the \"Class Period\" ) , of the important January 21, ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.129247,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.061949",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XRX",
+                    "relevance_score": "0.359014",
+                    "ticker_sentiment_score": "-0.020869",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "China's AI disrupter DeepSeek bets on 'young geniuses' to take on US giants",
             "url": "https://www.scmp.com/tech/big-tech/article/3294357/chinas-ai-disrupter-deepseek-bets-low-key-team-young-geniuses-beat-us-giants",
@@ -1727,239 +1766,6 @@
                     "relevance_score": "0.305058",
                     "ticker_sentiment_score": "0.380487",
                     "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Why AST SpaceMobile Stock Rocketed 250% Higher in 2024",
-            "url": "https://www.fool.com/investing/2025/01/11/why-ast-spacemobile-stock-rocketed-250-higher-in/",
-            "time_published": "20250111T173000",
-            "authors": [
-                "Courtney Carlsen"
-            ],
-            "summary": "Shares of satellite designer and manufacturer AST SpaceMobile ( NASDAQ: ASTS ) rocketed 250% higher in 2024, according to data provided by S&P Global Market Intelligence. The space company made significant progress establishing its spaced-based cellular broadband network during the year and inked ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803624%2Fsatellites-orbiting-the-earth-getty.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.337928,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "VZ",
-                    "relevance_score": "0.182506",
-                    "ticker_sentiment_score": "0.216595",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SPGI",
-                    "relevance_score": "0.09186",
-                    "ticker_sentiment_score": "0.238591",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ASTS",
-                    "relevance_score": "0.580732",
-                    "ticker_sentiment_score": "0.446844",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Analyst Downgrade Fuels Further Decline for Celsius  ( CELH )  Shares Amid Sales Concerns and Investor Lawsuit- Hagens Berman - Celsius Holdings  ( NASDAQ:CELH ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42933075/analyst-downgrade-fuels-further-decline-for-celsius-celh-shares-amid-sales-concerns-and-investor-l",
-            "time_published": "20250111T172200",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "SAN FRANCISCO, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- Shares of Celsius Holdings CELH, the energy drink maker already reeling from a 58 percent year-to-date decline, faced renewed pressure this month after a key analyst lowered its price target, citing concerns about sales and the impact of its ...",
-            "banner_image": "https://ml.globenewswire.com/media/51670c91-d369-4a8c-8102-d393de9f6d19/small/download-jpg.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.044166,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CELH",
-                    "relevance_score": "0.591801",
-                    "ticker_sentiment_score": "-0.156221",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "PEP",
-                    "relevance_score": "0.501398",
-                    "ticker_sentiment_score": "-0.241531",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "ROSEN, A GLOBALLY RECOGNIZED LAW FIRM, Encourages Cassava Sciences, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - SAVA - Cassava Sciences  ( NASDAQ:SAVA ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42933065/rosen-a-globally-recognized-law-firm-encourages-cassava-sciences-inc-investors-to-secure-counsel-b",
-            "time_published": "20250111T171800",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Cassava Sciences, Inc. SAVA between February 7, 2024 and November 24, 2024, both dates inclusive ( the \"Class Period\" ) , of the important February 10, ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.217214,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.060085",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SAVA",
-                    "relevance_score": "0.11983",
-                    "ticker_sentiment_score": "0.14738",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Rigetti Computing, Inc. Announcement: If You Have Suffered Losses in Rigetti Computing, Inc.  ( NASDAQ: RGTI ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Rigetti Computing  ( NASDAQ:RGTI ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42933056/rigetti-computing-inc-announcement-if-you-have-suffered-losses-in-rigetti-computing-inc-nasdaq-rgt",
-            "time_published": "20250111T171200",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, announces an investigation of potential securities claims on behalf of shareholders of Rigetti Computing, Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.744043"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.184427,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "RGTI",
-                    "relevance_score": "0.171485",
-                    "ticker_sentiment_score": "-0.081439",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.086245",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.086245",
-                    "ticker_sentiment_score": "-0.077076",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Billionaire Stanley Druckenmiller Is Piling Into a High-Yield Dividend Stock Trading for $0.82 on the Dollar -- and Warren Buffett Owns It, Too",
-            "url": "https://www.fool.com/investing/2025/01/11/billionaire-stanley-druckenmiller-is-piling-into-a/",
-            "time_published": "20250111T170500",
-            "authors": [
-                "Bram Berkowitz"
-            ],
-            "summary": "Following billionaire investors can be a good idea. Many of these investors run large funds that manage billions in capital. They also have a lot of experience and professional training, and have been through plenty of market cycles.I would never recommend investing blindly without due diligence ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803312/buffett1-tmf.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999956"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.102662,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BRK-A",
-                    "relevance_score": "0.053629",
-                    "ticker_sentiment_score": "0.075734",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "C",
-                    "relevance_score": "0.618121",
-                    "ticker_sentiment_score": "0.079535",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.053629",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
