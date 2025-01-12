@@ -1,8 +1,129 @@
 {
-    "items": "38",
+    "items": "35",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "$125 Million Home of Luminar CEO Gutted in LA Wildfires After Week of Gains for Company - NVIDIA  ( NASDAQ:NVDA ) , Luminar Technologies  ( NASDAQ:LAZR ) ",
+            "url": "https://www.benzinga.com/markets/25/01/42935340/125-million-home-of-luminar-ceo-gutted-in-la-wildfires-after-week-of-gains-for-company",
+            "time_published": "20250112T170017",
+            "authors": [
+                "Bibhu Pattnaik"
+            ],
+            "summary": "A $125 million mansion featured in 'Succession' is reduced to ashes as LA wildfires show no mercy. LA's fire crisis puts the spotlight on controversial funding cuts to the city's fire department and wildfire resilience. Get Real-Time News and Alerts for Your Portfolio",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/2048px-Luminar-Logo.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.904684"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.0,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.131284",
+                    "ticker_sentiment_score": "0.153648",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LAZR",
+                    "relevance_score": "0.259037",
+                    "ticker_sentiment_score": "0.133537",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Exagen Inc. Secures Conditional NY State Approval for New Lupus and Rheumatoid Arthritis Biomarkers and Announces Select Preliminary 2024 Financial Results",
+            "url": "https://www.globenewswire.com/news-release/2025/01/12/3008057/32920/en/Exagen-Inc-Secures-Conditional-NY-State-Approval-for-New-Lupus-and-Rheumatoid-Arthritis-Biomarkers-and-Announces-Select-Preliminary-2024-Financial-Results.html",
+            "time_published": "20250112T170000",
+            "authors": [
+                "Exagen Inc."
+            ],
+            "summary": "New biomarkers on track for commercial launch in January ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/e87e92e3-5983-4752-9360-f3948f20de9d",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.236095,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XGN",
+                    "relevance_score": "0.248343",
+                    "ticker_sentiment_score": "0.270618",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Exagen Inc. Secures Conditional NY State Approval for New Lupus and Rheumatoid Arthritis Biomarkers and Announces Select Preliminary 2024 Financial Results - Exagen  ( NASDAQ:XGN ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42935336/exagen-inc-secures-conditional-ny-state-approval-for-new-lupus-and-rheumatoid-arthritis-biomarkers",
+            "time_published": "20250112T170000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "New biomarkers on track for commercial launch in January 2025 Preliminary financial results indicate record full-year revenue and AVISE CTD trailing twelve-month ASP, with improvements to adjusted EBITDA and cash burn CARLSBAD, Calif., Jan. 12, 2025 ( GLOBE NEWSWIRE ) -- Exagen Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                }
+            ],
+            "overall_sentiment_score": 0.236032,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XGN",
+                    "relevance_score": "0.263942",
+                    "ticker_sentiment_score": "0.277624",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "ROSEN, NATIONAL TRIAL COUNSEL, Encourages Joint Stock Company Kaspi.kz Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - KSPI - Kaspi.kz  ( NASDAQ:KSPI ) ",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42935322/rosen-national-trial-counsel-encourages-joint-stock-company-kaspi-kz-investors-to-secure-counsel-b",
@@ -1437,322 +1558,6 @@
                     "ticker": "STZ",
                     "relevance_score": "0.377142",
                     "ticker_sentiment_score": "0.612355",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Why Celsius Stock Plunged 52% Last Year",
-            "url": "https://www.fool.com/investing/2025/01/12/why-celsius-stock-plunged-52-last-year/",
-            "time_published": "20250112T133900",
-            "authors": [
-                "Jon Quast"
-            ],
-            "summary": "Shares of energy drink company Celsius ( NASDAQ: CELH ) plunged 51.7% in 2024, according to data provided by S&P Global Market Intelligence, which is bad enough. But in the opening months of the year, the stock was up 76%.",
-            "banner_image": "https://media.ycharts.com/charts/50b55f5aa93d1709f93a9f16a11af155.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.316726"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.024554,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CELH",
-                    "relevance_score": "0.796657",
-                    "ticker_sentiment_score": "-0.073986",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SPGI",
-                    "relevance_score": "0.084423",
-                    "ticker_sentiment_score": "0.039112",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PEP",
-                    "relevance_score": "0.084423",
-                    "ticker_sentiment_score": "-0.060193",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "DEADLINE TOMORROW: Berger Montague Advises PACS Group  ( NYSE: PACS )  Investors to Inquire About a Securities Fraud Class Action by January 13, 2025 - PACS Group  ( NYSE:PACS ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42934802/deadline-tomorrow-berger-montague-advises-pacs-group-nyse-pacs-investors-to-inquire-about-a-securi",
-            "time_published": "20250112T133600",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "PHILADELPHIA, Jan. 12, 2025 ( GLOBE NEWSWIRE ) -- Berger Montague PC advises investors that a securities class action lawsuit has been filed against PACS Group, Inc. ( \"PACS\" or the \"Company\" ) PACS on behalf of purchasers of PACS securities between April 8, 2024 through November 21, 2024, ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [],
-            "overall_sentiment_score": 0.208069,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PACS",
-                    "relevance_score": "0.690822",
-                    "ticker_sentiment_score": "0.1332",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Arcutis Announces Preliminary Unaudited Fourth Quarter Product Revenue and Full-Year 2024 Product Revenues of Approximately $63 Million and $160 Million - Arcutis Biotherapeutics  ( NASDAQ:ARQT ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42934764/arcutis-announces-preliminary-unaudited-fourth-quarter-product-revenue-and-full-year-2024-product-",
-            "time_published": "20250112T133000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "Preliminary unaudited product revenue for the fourth quarter of 2024 is expected to be approximately $63 million, up approximately 366% vs. Q4 2023 and 41% vs. Q3 2024 Preliminary unaudited product revenue for the full-year 2024 is expected to be approximately $160 million, up approximately 449% ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.955357"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.209354,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SLRC",
-                    "relevance_score": "0.048523",
-                    "ticker_sentiment_score": "-0.05595",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.048523",
-                    "ticker_sentiment_score": "0.194502",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ARQT",
-                    "relevance_score": "0.19231",
-                    "ticker_sentiment_score": "0.285618",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Arcutis Announces Preliminary Unaudited Fourth Quarter Product Revenue and Full-Year 2024 Product Revenues of Approximately $63 Million and $160 Million",
-            "url": "https://www.globenewswire.com/news-release/2025/01/12/3008049/0/en/Arcutis-Announces-Preliminary-Unaudited-Fourth-Quarter-Product-Revenue-and-Full-Year-2024-Product-Revenues-of-Approximately-63-Million-and-160-Million.html",
-            "time_published": "20250112T133000",
-            "authors": [
-                "Arcutis Biotherapeutics",
-                "Inc."
-            ],
-            "summary": "Arcutis today announced certain preliminary unaudited financial information for the fourth quarter and full-year 2024.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/1b166f47-afb1-44f1-91be-2d73e97c0ec3",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.955357"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.178566,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SLRC",
-                    "relevance_score": "0.038592",
-                    "ticker_sentiment_score": "0.055853",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.038592",
-                    "ticker_sentiment_score": "0.195598",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ARQT",
-                    "relevance_score": "0.15347",
-                    "ticker_sentiment_score": "0.142848",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "2 No-Brainer Quantum Computing Stocks to Buy Right Now",
-            "url": "https://www.fool.com/investing/2025/01/12/2-no-brainer-quantum-computing-stocks-to-buy-now/",
-            "time_published": "20250112T132100",
-            "authors": [
-                "Anders Bylund"
-            ],
-            "summary": "Quantum computing is taking off, but how long will it take, and which stocks should you consider? Two leaders in the space stand out as great investments today.",
-            "banner_image": "https://media.ycharts.com/charts/41a94225559165b50b0d4ebfc63caa61.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.25"
-                }
-            ],
-            "overall_sentiment_score": 0.222669,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.241684",
-                    "ticker_sentiment_score": "0.310477",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.081691",
-                    "ticker_sentiment_score": "0.054658",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SDGR",
-                    "relevance_score": "0.040899",
-                    "ticker_sentiment_score": "-0.050601",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "IONQ",
-                    "relevance_score": "0.162528",
-                    "ticker_sentiment_score": "0.084126",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RGTI",
-                    "relevance_score": "0.081691",
-                    "ticker_sentiment_score": "0.003073",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "QBTS",
-                    "relevance_score": "0.081691",
-                    "ticker_sentiment_score": "0.003073",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Walgreens Boots Alliance, Aurora Innovation And Delta Air Lines Are Among Top Large Cap Gainers Last Week  ( Jan 6-10 ) : Are The Others In Your Portfolio? - Walgreens Boots Alliance  ( NASDAQ:WBA ) , Aurora Innovation  ( NASDAQ:AUR ) , Delta Air Lines  ( NYSE:DAL ) ",
-            "url": "https://www.benzinga.com/news/large-cap/25/01/42934713/walgreens-boots-alliance-aurora-innovation-and-delta-air-lines-are-among-top-large-cap-gainers-las",
-            "time_published": "20250112T132019",
-            "authors": [
-                "Lekha Gupta"
-            ],
-            "summary": "Walgreens Boots Alliance stock gained 27.97% last week after the company reported better-than-expected Q1 results. Micron Technology expanded its collaboration with Pure Storage for energy-efficient solutions using Micron G9 QLC NAND. These ten large-cap stocks were the best performers in the ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/Delta-Airlines.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.52435,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MU",
-                    "relevance_score": "0.414559",
-                    "ticker_sentiment_score": "0.658793",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "PSTG",
-                    "relevance_score": "0.414559",
-                    "ticker_sentiment_score": "0.658793",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "WBA",
-                    "relevance_score": "0.414559",
-                    "ticker_sentiment_score": "0.788402",
                     "ticker_sentiment_label": "Bullish"
                 }
             ]
