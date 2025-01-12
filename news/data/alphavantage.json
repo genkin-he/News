@@ -1,8 +1,237 @@
 {
-    "items": "41",
+    "items": "43",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "This Artificial Intelligence  ( AI )  Fintech Could Be One of The Largest IPOs in 2025",
+            "url": "https://www.fool.com/investing/2025/01/11/this-artificial-intelligence-ai-fintech-could-be-o/",
+            "time_published": "20250111T235000",
+            "authors": [
+                "Courtney Carlsen"
+            ],
+            "summary": "Artificial intelligence ( AI ) is moving rapidly with the evolution of generative AI and large language models. Over the past couple of years, tools like ChatGPT and Gemini have transformed how we interact with technology.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803348%2Fhands-of-robot-and-human-touch-representing-ai-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.277137,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PYPL",
+                    "relevance_score": "0.050786",
+                    "ticker_sentiment_score": "-0.027986",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:SEK",
+                    "relevance_score": "0.201105",
+                    "ticker_sentiment_score": "0.230935",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "1 Cathie Wood and Warren Buffett Stock That Could Go Parabolic in 2025",
+            "url": "https://www.fool.com/investing/2025/01/11/1-cathie-wood-and-warren-buffett-stock-that-could/",
+            "time_published": "20250111T234100",
+            "authors": [
+                "Adam Spatacco"
+            ],
+            "summary": "Cathie Wood and Warren Buffett may have vastly different investment philosophies, but each investor holds a position in a relatively unknown rising star in the fintech space.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803333%2Fgettyimages-1354961597-1.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.995077"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.176707,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.053035",
+                    "ticker_sentiment_score": "0.087923",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NU",
+                    "relevance_score": "0.105836",
+                    "ticker_sentiment_score": "0.072284",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Trump Media Stock Skyrocketed 94.9% in 2024 and Is Climbing Higher in 2025",
+            "url": "https://www.fool.com/investing/2025/01/11/why-trump-media-stock-skyrocketed-949-in-2024-but/",
+            "time_published": "20250111T233216",
+            "authors": [
+                "Keith Noonan"
+            ],
+            "summary": "Trump Media ( NASDAQ: DJT ) stock recorded huge gains across 2024's trading. The company's share price ended the year up 94.9%, according to data from S&P Global Market Intelligence. Meanwhile, the S&P 500 index's level climbed 23.3%, and the Nasdaq Composite index's level climbed 28.6%.DJT data ...",
+            "banner_image": "https://media.ycharts.com/charts/d7444518594c4445327a43bf2999c422.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.803643"
+                }
+            ],
+            "overall_sentiment_score": 0.369181,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.076115",
+                    "ticker_sentiment_score": "0.243589",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BNXYF",
+                    "relevance_score": "0.076115",
+                    "ticker_sentiment_score": "0.306987",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DJT",
+                    "relevance_score": "0.297661",
+                    "ticker_sentiment_score": "0.396235",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "American Express: Buy, Sell, or Hold?",
+            "url": "https://www.fool.com/investing/2025/01/11/american-express-buy-sell-or-hold/",
+            "time_published": "20250111T233200",
+            "authors": [
+                "Justin Pope"
+            ],
+            "summary": "The famous credit card company has trounced the broader market over the past year and possesses strong business momentum.",
+            "banner_image": "https://media.ycharts.com/charts/565b6fe2dd73328443fbacccb9fa046f.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.938238"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                }
+            ],
+            "overall_sentiment_score": 0.270914,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.7323",
+                    "ticker_sentiment_score": "0.395491",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "3 Brilliant Growth Stocks to Buy Now and Hold for the Long Term",
+            "url": "https://www.fool.com/investing/2025/01/11/3-brilliant-growth-stocks-to-buy-now-and-hold-for/",
+            "time_published": "20250111T233000",
+            "authors": [
+                "Royston Yang"
+            ],
+            "summary": "It may come as a surprise to some, but the most money is made in investing by buying and holding solid growth stocks for the long term rather than jumping in and out of the market. Share prices are notoriously unpredictable in the short term, so frequent trading can lose you a ton of ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803277%2Fcouple-watching-movie-on-television.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999967"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.272683,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.032078",
+                    "ticker_sentiment_score": "0.029706",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ROKU",
+                    "relevance_score": "0.221674",
+                    "ticker_sentiment_score": "0.134031",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRDCF",
+                    "relevance_score": "0.032078",
+                    "ticker_sentiment_score": "0.029706",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "3 Reasons to Buy Devon Energy Stock Like There's No Tomorrow",
             "url": "https://www.fool.com/investing/2025/01/11/3-reasons-to-buy-devon-energy-stock-like-theres-no/",
@@ -1768,179 +1997,6 @@
                     "relevance_score": "0.119235",
                     "ticker_sentiment_score": "-0.062718",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "The 5 Biggest Upgrades Expected for the Nintendo Switch 2",
-            "url": "https://decrypt.co/300319/5-biggest-upgrades-nintendo-switch-2",
-            "time_published": "20250111T164947",
-            "authors": [
-                "Eric Frederiksen"
-            ],
-            "summary": "Eight years after the Nintendo Switch's debut, its successor appears to be just around the corner. Here are five big reported updates.",
-            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/01/nintendo-switch-gID_7.png",
-            "source": "Decrypt.co",
-            "category_within_source": "n/a",
-            "source_domain": "decrypt.co",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.05499,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LNVGF",
-                    "relevance_score": "0.033562",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.033562",
-                    "ticker_sentiment_score": "0.029111",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NTDOF",
-                    "relevance_score": "0.623083",
-                    "ticker_sentiment_score": "0.171888",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "80 Billion Reasons Why These 2 Top Artificial Intelligence  ( AI )  Stocks Could Crush the Market Again in 2025",
-            "url": "https://www.fool.com/investing/2025/01/11/80-billion-reasons-why-these-2-top-artificial-inte/",
-            "time_published": "20250111T164500",
-            "authors": [
-                "Harsh Chauhan"
-            ],
-            "summary": "The artificial intelligence ( AI ) trend has given big boosts to the share prices of Nvidia ( NASDAQ: NVDA ) and Taiwan Semiconductor Manufacturing ( NYSE: TSM ) over the past year. The two chipmakers' stocks rose by 204% and 121%, respectively, during the period, crushing the 35% gains recorded ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/803128/ai-written-on-cloud-silhoutte.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.614606"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.235569,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.328091",
-                    "ticker_sentiment_score": "0.117537",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.056275",
-                    "ticker_sentiment_score": "0.065998",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.562529",
-                    "ticker_sentiment_score": "0.414041",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "DSSMY",
-                    "relevance_score": "0.056275",
-                    "ticker_sentiment_score": "-0.039001",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.056275",
-                    "ticker_sentiment_score": "0.065998",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSM",
-                    "relevance_score": "0.112269",
-                    "ticker_sentiment_score": "0.203985",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "All It Takes Is $1,000 Invested in Each of These 3 High-Yield Dividend Stocks to Generate $112 in Passive Income in 2025",
-            "url": "https://www.fool.com/investing/2025/01/11/buy-high-yield-dividend-stocks-energy-2025/",
-            "time_published": "20250111T164100",
-            "authors": [
-                "Daniel Foelber"
-            ],
-            "summary": "Continue reading ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803265%2Foil-refinery-in-morning-1200x800-5b2df79-2.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.928139"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999997"
-                }
-            ],
-            "overall_sentiment_score": 0.220833,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "VLO",
-                    "relevance_score": "0.043579",
-                    "ticker_sentiment_score": "-0.026736",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MPC",
-                    "relevance_score": "0.043579",
-                    "ticker_sentiment_score": "-0.026736",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PSX",
-                    "relevance_score": "0.338004",
-                    "ticker_sentiment_score": "0.26166",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "COP",
-                    "relevance_score": "0.488007",
-                    "ticker_sentiment_score": "0.257166",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "KMI",
-                    "relevance_score": "0.377142",
-                    "ticker_sentiment_score": "0.362463",
-                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         }
