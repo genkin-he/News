@@ -1,8 +1,73 @@
 {
-    "items": "36",
+    "items": "35",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Job Growth, Fed Jitters, And Rising Mortgage Rates: This Week In Economics",
+            "url": "https://www.benzinga.com/news/25/01/42934513/job-growth-fed-jitters-and-rising-mortgage-rates-this-week-in-economics",
+            "time_published": "20250112T120022",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "The week has been a rollercoaster ride for the U.S. economy. From a slowdown in private sector job growth to rising inflation concerns at the Federal Reserve, the economic landscape has been anything but predictable. Let's dive into the top stories that shaped the week.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/What-Hyman-Said.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.744043"
+                }
+            ],
+            "overall_sentiment_score": 0.026541,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ADP",
+                    "relevance_score": "0.11983",
+                    "ticker_sentiment_score": "-0.008045",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.11983",
+                    "ticker_sentiment_score": "-0.116008",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "MaryRuth's Celebrates TikTok Shop Super Brand Day With Exclusive Offers and Viral Favorites",
+            "url": "https://www.benzinga.com/pressreleases/25/01/n42934510/maryruths-celebrates-tiktok-shop-super-brand-day-with-exclusive-offers-and-viral-favorites",
+            "time_published": "20250112T120000",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "LOS ANGELES, Jan. 12, 2025 /PRNewswire/ -- MaryRuth's, the trusted leader in liquid vitamins and wellness products, is thrilled to announce its participation in TikTok Shop's Super Brand Day from January 12 to 18, 2025.",
+            "banner_image": "https://mma.prnewswire.com/media/2588203/MaryRuths_Logo.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.619427,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
         {
             "title": "3 Growth Stocks That Beat the S&P 500 in 2024 but Are Still Worth Buying in 2025",
             "url": "https://www.fool.com/investing/2025/01/12/3-growth-stocks-beat-market-2024-buy-2025/",
@@ -1741,161 +1806,6 @@
             "overall_sentiment_score": 0.361926,
             "overall_sentiment_label": "Bullish",
             "ticker_sentiment": []
-        },
-        {
-            "title": "Is AMD Stock a Buy?",
-            "url": "https://www.fool.com/investing/2025/01/12/is-amd-stock-a-buy/",
-            "time_published": "20250112T094000",
-            "authors": [
-                "Chris Neiger"
-            ],
-            "summary": "Advanced Micro Devices ( NASDAQ: AMD ) has been a significant player in the semiconductor space for years, designing chips for everything from PCs to data centers. While many other semiconductor stocks have received a nice bump in their share price thanks to artificial intelligence ( AI ) , AMD ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803365%2Fgettyimages-1345658982-1200x675-128554e.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.94762"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.263247,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.78997",
-                    "ticker_sentiment_score": "0.452825",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.323927",
-                    "ticker_sentiment_score": "0.239461",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Prediction: This Will Be the First Artificial Intelligence  ( AI )  Company to Split Its Stock in 2025",
-            "url": "https://www.fool.com/investing/2025/01/12/predict-first-artificial-intelligence-stock-split/",
-            "time_published": "20250112T093500",
-            "authors": [
-                "Harsh Chauhan"
-            ],
-            "summary": "Stock splits have been in fashion in recent years in the technology sector as high-flying tech stocks have opted to go down this route in a bid to lower their share prices. Nvidia, Alphabet, Tesla, and Broadcom are some of the prominent names that have executed stock splits in recent years, ...",
-            "banner_image": "https://media.ycharts.com/charts/1b4503cd0a6ec564b832395ee73b63dc.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999491"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.54554"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.224078,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.049629",
-                    "ticker_sentiment_score": "0.08871",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.049629",
-                    "ticker_sentiment_score": "0.08871",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.049629",
-                    "ticker_sentiment_score": "0.08871",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "3 Tech Stocks With More Potential Than Any Cryptocurrency",
-            "url": "https://www.fool.com/investing/2025/01/12/3-tech-stocks-with-more-potential-than-any-cryptoc/",
-            "time_published": "20250112T093300",
-            "authors": [
-                "Leo Sun"
-            ],
-            "summary": "Reddit, RocketLab, and Innodata could be potential multibaggers.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803124%2Fa-couple-talks-to-a-financial-advisor.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.961735"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.576289"
-                }
-            ],
-            "overall_sentiment_score": 0.220609,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "INOD",
-                    "relevance_score": "0.288214",
-                    "ticker_sentiment_score": "0.377805",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.058903",
-                    "ticker_sentiment_score": "0.147",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RKLB",
-                    "relevance_score": "0.117486",
-                    "ticker_sentiment_score": "0.172932",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "RDDT",
-                    "relevance_score": "0.288214",
-                    "ticker_sentiment_score": "0.356685",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
         }
     ]
 }
