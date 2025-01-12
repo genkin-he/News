@@ -1,8 +1,83 @@
 {
-    "items": "35",
+    "items": "36",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Peter Lynch's Money-Making Advice: 'When Things Go From Terrible to Semi-Terrible to OK, You Can Make a Lot of Money'",
+            "url": "https://www.benzinga.com/markets/25/01/42935107/peter-lynchs-money-making-advice-when-things-go-from-terrible-to-semi-terrible-to-ok-you-can-make-a-lot-o",
+            "time_published": "20250112T151520",
+            "authors": [
+                "Bibhu Pattnaik"
+            ],
+            "summary": "Lynch debunks the myth of his stance on the stock market, clarifying a focus on educating investors, not encouraging blind trading. The investment icon behind Fidelity's stellar gains urges caution, warning against treating market investment as a casual gamble. Get Real-Time News and Alerts for ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/6-Peter-Lynch-Tips-On-When-To-Sell-A-Sto.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.133707,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Nvidia's AI Supercomputer, HP's $1 Billion Deal With Elon Musk's X, And Trump's AI-Driven Vision: This Week In Artificial Intelligence - NVIDIA  ( NASDAQ:NVDA ) , Hewlett Packard  ( NYSE:HPE ) ",
+            "url": "https://www.benzinga.com/tech/25/01/42935068/nvidias-ai-supercomputer-hps-1-billion-deal-with-elon-musks-x-and-trumps-ai-driven-vision-this-week-in-artif",
+            "time_published": "20250112T150020",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "The past week has been a whirlwind of tech advancements and strategic deals, with AI taking center stage. Nvidia Corp NVDA stole the spotlight at the Consumer Electronics Show ( CES ) with its AI-powered innovations.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/12/Three-Rules.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.396939,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HPE",
+                    "relevance_score": "0.281153",
+                    "ticker_sentiment_score": "0.244053",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "HPQ",
+                    "relevance_score": "0.18967",
+                    "ticker_sentiment_score": "0.18043",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.281153",
+                    "ticker_sentiment_score": "0.385228",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
         {
             "title": "Plug Power, Capri And Frontline Are Among Top Mid Cap Gainers Last Week  ( Jan 6-10 ) : Are The Others In Your Portfolio? - Frontline  ( NYSE:FRO ) , Capri Holdings  ( NYSE:CPRI ) , Plug Power  ( NASDAQ:PLUG ) ",
             "url": "https://www.benzinga.com/news/mid-cap/25/01/42935041/plug-power-capri-and-frontline-are-among-top-mid-cap-gainers-last-week-jan-6-10-are-the-others-in-yo",
@@ -112,6 +187,112 @@
                     "relevance_score": "0.995725",
                     "ticker_sentiment_score": "0.342563",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Should You Buy AST SpaceMobile While It's Below $53?",
+            "url": "https://www.fool.com/investing/2025/01/12/should-you-buy-ast-spacemobile-while-its-below-53/",
+            "time_published": "20250112T144500",
+            "authors": [
+                "Leo Sun"
+            ],
+            "summary": "A lot of growth is already baked into the satellite maker's shares.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803536%2Fsatellites-in-orbit.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.989041"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.190118,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "VZ",
+                    "relevance_score": "0.055751",
+                    "ticker_sentiment_score": "0.062882",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VOD",
+                    "relevance_score": "0.11123",
+                    "ticker_sentiment_score": "0.061394",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASTS",
+                    "relevance_score": "0.11123",
+                    "ticker_sentiment_score": "0.064414",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "1 Magnificent S&P 500 Dividend Stock Down 30%: 4 Reasons to Buy Public Storage in 2025 and Hold Forever",
+            "url": "https://www.fool.com/investing/2025/01/12/1-magnificent-sp-dividend-stock-down-30-4-reasons/",
+            "time_published": "20250112T143000",
+            "authors": [
+                "Josh Kohn-Lindquist"
+            ],
+            "summary": "Between 2020 and 2022, leading self-storage real estate investment trust ( REIT ) Public Storage ( NYSE: PSA ) saw its share price more than double thanks to a pandemic-aided boom. Since then, however, Public Storage's stock has dropped roughly 30% from its highs.To be fair to Public Storage, ...",
+            "banner_image": "https://media.ycharts.com/charts/2a1cb86ebecc501b622a2267a5ebaa56.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.623304"
+                }
+            ],
+            "overall_sentiment_score": 0.370523,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MCO",
+                    "relevance_score": "0.047092",
+                    "ticker_sentiment_score": "0.144461",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.047092",
+                    "ticker_sentiment_score": "0.144461",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PSA",
+                    "relevance_score": "0.624289",
+                    "ticker_sentiment_score": "0.51463",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -1538,171 +1719,6 @@
                     "relevance_score": "0.09439",
                     "ticker_sentiment_score": "0.091106",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Robinhood Markets: Buy, Sell, or Hold?",
-            "url": "https://www.fool.com/investing/2025/01/12/robinhood-markets-buy-sell-or-hold/",
-            "time_published": "20250112T114400",
-            "authors": [
-                "Justin Pope"
-            ],
-            "summary": "This industry disruptor earned its reputation on meme stocks but aspires to become a do-it-all platform for your financial needs.",
-            "banner_image": "https://media.ycharts.com/charts/62900e6c501cd8150201213cbcd554a9.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999186"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.990893"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.060404,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HOOD",
-                    "relevance_score": "0.113597",
-                    "ticker_sentiment_score": "-0.059641",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GME",
-                    "relevance_score": "0.056943",
-                    "ticker_sentiment_score": "-0.066056",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Should You Buy Upstart Stock While It's Below $100?",
-            "url": "https://www.fool.com/investing/2025/01/12/should-you-buy-upstart-stock-while-its-below-100/",
-            "time_published": "20250112T113600",
-            "authors": [
-                "Leo Sun"
-            ],
-            "summary": "The AI-powered lending platform still has a bright future.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803485%2Ftwo-people-using-a-laptop.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.94762"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.249953,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "UPST",
-                    "relevance_score": "0.421485",
-                    "ticker_sentiment_score": "0.276588",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Have $100,000? Here Are 5 Ways to Grow That Money Into $1 Million for Retirement Savings",
-            "url": "https://www.fool.com/retirement/2025/01/12/here-are-5-ways-to-grow-that-money-into-1-million/",
-            "time_published": "20250112T113000",
-            "authors": [
-                "Selena Maranjian"
-            ],
-            "summary": "Are you aiming to amass $1 million for retirement? That's a great goal -- though some would have you question whether that will be enough. Whether you have $100,000 right now or you're starting from scratch, and whether you're aiming for $1 million or $2 million or more, there are lots of smart ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802724%2Fgetty-happy-smiling-photographer-colorful-background.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999816"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.25"
-                }
-            ],
-            "overall_sentiment_score": 0.385439,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MELI",
-                    "relevance_score": "0.063091",
-                    "ticker_sentiment_score": "0.254462",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.063091",
-                    "ticker_sentiment_score": "0.254462",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ISRG",
-                    "relevance_score": "0.063091",
-                    "ticker_sentiment_score": "0.254462",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TTD",
-                    "relevance_score": "0.063091",
-                    "ticker_sentiment_score": "0.254462",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.063091",
-                    "ticker_sentiment_score": "0.254462",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
