@@ -1,8 +1,43 @@
 {
-    "items": "39",
+    "items": "40",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Jeremy Ausmus Wins PGT\u00ae $1,000,000 Championship",
+            "url": "https://www.benzinga.com/pressreleases/25/01/n42933865/jeremy-ausmus-wins-pgt-1-000-000-championship",
+            "time_published": "20250112T025000",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "LAS VEGAS, Jan. 11, 2025 /PRNewswire/ -- Jeremy Ausmus, the 2024 PokerGO Tour\u00ae ( PGT\u00ae ) Player of the Year, capped off his extraordinary season by capturing the PGT $1,000,000 Championship title, earning an impressive $500,000 first-place prize.",
+            "banner_image": "https://mma.prnewswire.com/media/2595997/PGT_Championship_2024_winner_Jeremy_Ausmus_01_1200x800.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.352806,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.096671",
+                    "ticker_sentiment_score": "0.029901",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.096671",
+                    "ticker_sentiment_score": "0.029901",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "XRX DEADLINE ALERT: ROSEN, NATIONAL TRIAL LAWYERS, Encourages Xerox Holdings Corporation Investors to Secure Counsel Before Important January 21 Deadline in Securities Class Action - XRX - Xerox Holdings  ( NASDAQ:XRX ) ",
             "url": "https://www.benzinga.com/pressreleases/25/01/g42933845/xrx-deadline-alert-rosen-national-trial-lawyers-encourages-xerox-holdings-corporation-investors-to",
