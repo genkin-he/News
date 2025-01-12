@@ -1,8 +1,73 @@
 {
-    "items": "26",
+    "items": "27",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Community-Governed Meme Coin Flockerz Raises $9.5M in Presale Ahead of Exchange Launch",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42934272/community-governed-meme-coin-flockerz-raises-9-5m-in-presale-ahead-of-exchange-launch",
+            "time_published": "20250112T104954",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "KAMPOT, Cambodia, Jan. 12, 2025 ( GLOBE NEWSWIRE ) -- The community-governed meme coin project Flockerz ( FLOCK ) has raised $9.5 million in presale before its exchange debut. Flockerz's governance model is based on Vote-to-Earn rewards, where FLOCK holders can shape the project's future.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/841150e5-5285-4e95-a895-e91470d5a5c2/chainwire-1800x1080-35-1736535792xgy3qoafcg.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.202747,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Wall Street Pepe Presale Reaches $45M Milestone for New Trading Insights Platform",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g42934270/wall-street-pepe-presale-reaches-45m-milestone-for-new-trading-insights-platform",
+            "time_published": "20250112T104302",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "LUZERN, Switzerland, Jan. 12, 2025 ( GLOBE NEWSWIRE ) -- Wall Street Pepe ( WEPE ) , a new meme coin project, has secured over $45 million in its ongoing presale phase.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/29364f1f-9523-4e65-b706-e7ad006d9bb3/chainwire-1800x1080-36-1736536693e89k5musmh.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.249318,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:USDT",
+                    "relevance_score": "0.072655",
+                    "ticker_sentiment_score": "0.053314",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BNB",
+                    "relevance_score": "0.072655",
+                    "ticker_sentiment_score": "0.053314",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "2 AI Chip Stocks That Could Soar in 2025",
             "url": "https://www.fool.com/investing/2025/01/12/2-ai-chip-stocks-that-could-soar-in-2025/",
@@ -1346,49 +1411,6 @@
                     "ticker": "UBER",
                     "relevance_score": "0.08183",
                     "ticker_sentiment_score": "0.163527",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Miracle Play Set to Unveil \"AI GRANPRIX,\" Pioneering the Future of AI-Powered Esports in Web3",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42933984/miracle-play-set-to-unveil-ai-granprix-pioneering-the-future-of-ai-powered-esports-in-web3",
-            "time_published": "20250112T062720",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "KINGSTOWN, Saint Vincent and the Grenadines, Jan. 12, 2025 ( GLOBE NEWSWIRE ) -- Miracle Play, a leading platform company in the blockchain-based esports industry, today announced the imminent launch of \"AI GRANPRIX,\" a groundbreaking AI-powered racing game that will be the first offering on its ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/00dc8414-4722-4f12-bbc3-5b88b3dc132c/image-2.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.928139"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.87644"
-                }
-            ],
-            "overall_sentiment_score": 0.479724,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SNEJF",
-                    "relevance_score": "0.066506",
-                    "ticker_sentiment_score": "0.17284",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "RBLX",
-                    "relevance_score": "0.066506",
-                    "ticker_sentiment_score": "0.17284",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
