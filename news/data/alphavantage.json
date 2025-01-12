@@ -1,8 +1,564 @@
 {
-    "items": "15",
+    "items": "21",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "3 Artificial Intelligence  ( AI )  Stocks to Buy in 2025 and Hold for the Rest of the Decade",
+            "url": "https://www.fool.com/investing/2025/01/12/3-artificial-intelligence-ai-stocks-to-buy-in-2025/",
+            "time_published": "20250112T091700",
+            "authors": [
+                "Justin Pope"
+            ],
+            "summary": "These AI winners remain strong buys for their impressive growth outlooks over the next three to five years.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/802809/ai-tech-graphic.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.962106"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.321899,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.139804",
+                    "ticker_sentiment_score": "0.101086",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.27535",
+                    "ticker_sentiment_score": "0.295608",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.046816",
+                    "ticker_sentiment_score": "0.143363",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.185662",
+                    "ticker_sentiment_score": "0.132147",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "2 Growth Stocks Setting Up for a Bull Run in 2025",
+            "url": "https://www.fool.com/investing/2025/01/12/2-growth-stocks-setting-up-for-a-bull-run-in-2025/",
+            "time_published": "20250112T091500",
+            "authors": [
+                "John Ballard"
+            ],
+            "summary": "The S&P 500 ( SNPINDEX: ^GSPC ) had a great run in 2024, rising 25%. But some growth stocks didn't fare as well, even as the underlying businesses continued to grow. Here are two stocks that Wall Street is overlooking that could be ready to advance in the new year.Roku ( NASDAQ: ROKU ) has seen ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803471/2025-investment-stock-planning.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.962106"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.41624,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DKNG",
+                    "relevance_score": "0.31006",
+                    "ticker_sentiment_score": "0.523936",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ROKU",
+                    "relevance_score": "0.423504",
+                    "ticker_sentiment_score": "0.448552",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Meet the Monster EV Stock That Continues to Soar",
+            "url": "https://www.fool.com/investing/2025/01/12/meet-the-monster-ev-stock-that-continues-to-soar/",
+            "time_published": "20250112T091000",
+            "authors": [
+                "James Brumley"
+            ],
+            "summary": "The next chapter of the electric vehicle story doesn't have to be all about Tesla again.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803474%2F010925-rivian-results.png&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                }
+            ],
+            "overall_sentiment_score": 0.194825,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RIVN",
+                    "relevance_score": "0.093289",
+                    "ticker_sentiment_score": "0.141192",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.274834",
+                    "ticker_sentiment_score": "0.216935",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "The Best Dividend Stock to Invest $1,000 in Right Now",
+            "url": "https://www.fool.com/investing/2025/01/12/the-best-dividend-stock-to-invest-1000-in-right-no/",
+            "time_published": "20250112T090500",
+            "authors": [
+                "Geoffrey Seiler"
+            ],
+            "summary": "Investors are always on the search for stocks that pay generous dividends and have high yields. Unfortunately, that alone does not always make a great investment. That's why it's nice when you can find a stock not only with a high yield, but one that is also able to grow its dividend and ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803488%2Fgettyimages-508586886.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.623304"
+                }
+            ],
+            "overall_sentiment_score": 0.287024,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ET",
+                    "relevance_score": "0.494156",
+                    "ticker_sentiment_score": "0.422413",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Cathie Wood Takes Profits in Palantir. Should Investors Follow Suit?",
+            "url": "https://www.fool.com/investing/2025/01/12/cathie-wood-profits-palantir-stock-investors/",
+            "time_published": "20250112T085500",
+            "authors": [
+                "Geoffrey Seiler"
+            ],
+            "summary": "Famed investor Cathie Wood, the CEO and chief investment officer of Ark Invest who is best known for her high-flying Ark Innovation ( NYSEMKT: ARKK ) exchange-traded fund ( ETF ) , was recently selling shares of Palantir Technologies ( NASDAQ: PLTR ) .",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803295%2Fgettyimages-1522425869.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999767"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99393"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.228777,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.105836",
+                    "ticker_sentiment_score": "0.062588",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "How Will the Stock Market Perform in 2025? Here's What Wall Street Thinks.",
+            "url": "https://www.fool.com/investing/2025/01/12/how-will-the-stock-market-perform-in-2025-heres-wh/",
+            "time_published": "20250112T085000",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "Let the good times roll. That's the mantra for many investors as the new year begins. The S&P 500 ( SNPINDEX: ^GSPC ) jumped 23% in 2024 after soaring 24% in 2023. Another gain of 20% or more this year would be fantastic.How will the stock market perform in 2025?",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803430%2F2025-lighted-chart.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.995077"
+                }
+            ],
+            "overall_sentiment_score": 0.164114,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.113866",
+                    "ticker_sentiment_score": "0.047504",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.113866",
+                    "ticker_sentiment_score": "0.076187",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.057079",
+                    "ticker_sentiment_score": "0.042945",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.057079",
+                    "ticker_sentiment_score": "0.042945",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Smartest Dividend Growth ETF to Buy With $1,000 Right Now",
+            "url": "https://www.fool.com/investing/2025/01/12/the-smartest-dividend-growth-etf-to-buy-with-1000/",
+            "time_published": "20250112T084900",
+            "authors": [
+                "James Brumley"
+            ],
+            "summary": "There's more to the matter than a familiar name and a higher yield.",
+            "banner_image": "https://media.ycharts.com/charts/17353504023f3944229f78c290defdb6.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.304076,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.045482",
+                    "ticker_sentiment_score": "0.085555",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.090816",
+                    "ticker_sentiment_score": "0.172878",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.045482",
+                    "ticker_sentiment_score": "0.103393",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.045482",
+                    "ticker_sentiment_score": "0.085555",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia Was One of the Largest Companies by Market Cap in 2024. Will Its Reign Continue in 2025?",
+            "url": "https://www.fool.com/investing/2025/01/12/nvidia-was-one-of-the-largest-companies-by-market/",
+            "time_published": "20250112T084500",
+            "authors": [
+                "Johnny Rice"
+            ],
+            "summary": "2024 saw Nvidia ( NASDAQ: NVDA ) briefly take the title of the largest company in the world, as measured by market capitalization, before seeding the position back to Apple. Microsoft was also a contender, holding the top spot for some time, as well.While the other two big tech players have been ...",
+            "banner_image": "https://media.ycharts.com/charts/17701fd0db38ee0dd272ec3706faf405.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.239883,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.316439",
+                    "ticker_sentiment_score": "0.18233",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.536866",
+                    "ticker_sentiment_score": "0.257332",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "0.112505",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.064973",
+                    "ticker_sentiment_score": "0.331333",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "2 Artificial Intelligence  ( AI )  Stocks That Could Go Parabolic",
+            "url": "https://www.fool.com/investing/2025/01/12/artificial-intelligence-ai-stocks-go-parabolic/",
+            "time_published": "20250112T084500",
+            "authors": [
+                "Harsh Chauhan"
+            ],
+            "summary": "The adoption of artificial intelligence ( AI ) technology is set to continue at a rapid pace in 2025: Market research firm IDC estimates that investments in data center infrastructure, AI agents, and efforts taken by organizations to embed AI capabilities into their operations will add up to ...",
+            "banner_image": "https://media.ycharts.com/charts/8adfd4e94ee0bc10abd250fc23a72c10.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999691"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.333157,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MU",
+                    "relevance_score": "0.076847",
+                    "ticker_sentiment_score": "0.142873",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.076847",
+                    "ticker_sentiment_score": "0.075314",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.076847",
+                    "ticker_sentiment_score": "0.124361",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SNOW",
+                    "relevance_score": "0.335772",
+                    "ticker_sentiment_score": "0.326255",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:AMD",
+                    "relevance_score": "0.038468",
+                    "ticker_sentiment_score": "0.209284",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Social Security's Income Inequality Problem Is Worsening -- but Taxing the Rich Isn't the Cut-and-Dried Solution It's Made Out to Be",
+            "url": "https://www.fool.com/retirement/2025/01/12/social-security-income-inequality-problem-tax-rich/",
+            "time_published": "20250112T084400",
+            "authors": [
+                "Sean Williams"
+            ],
+            "summary": "The rich are getting richer, to Social Security's detriment.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F802948%2Fsocial-security-card-with-cash-retirement-benefits-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.9545"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.149261,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "3 Cheap Tech Stocks That Are Screaming Buys in January",
+            "url": "https://www.fool.com/investing/2025/01/12/cheap-tech-stocks-screaming-buys-january/",
+            "time_published": "20250112T083000",
+            "authors": [
+                "Leo Sun"
+            ],
+            "summary": "IBM, AT&T, and HP are all cheaply valued, but they all pay hefty dividends.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803413%2Fanalyst-investor-remote-tracking-trends.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999499"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.135999,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "0.040107",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "T",
+                    "relevance_score": "0.276491",
+                    "ticker_sentiment_score": "0.080681",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KD",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "-0.043924",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "2 Renewable Energy Stocks to Buy in 2025 and Hold for Decades",
             "url": "https://www.fool.com/investing/2025/01/12/2-renewable-energy-stocks-to-buy-in-2025-and-hold/",
@@ -466,184 +1022,6 @@
                     "relevance_score": "0.090134",
                     "ticker_sentiment_score": "0.279661",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Warner Bros. Discovery, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - WBD - Warner Bros. Discovery  ( NASDAQ:WBD ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42933885/rosen-a-leading-investor-rights-law-firm-encourages-warner-bros-discovery-inc-investors-to-secure-",
-            "time_published": "20250112T033300",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Warner Bros. Discovery, Inc. WBD between February 23, 2024 and August 7, 2024, both dates inclusive ( the \"Class Period\" ) , of the important January 24, ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.145595,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.057352",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Shanghai property deals to rise this year amid bargain hunting: JLL",
-            "url": "https://www.scmp.com/business/china-business/article/3294403/shanghai-property-deals-increase-amid-active-bargain-hunting-jll",
-            "time_published": "20250112T033027",
-            "authors": [
-                "Daniel Ren"
-            ],
-            "summary": "Landlords are willing to reduce prices while high-net-worth individuals pursue safe returns amid deflationary pressure.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2024/10/18/clean.jpg?itok=cc0zwSoZ",
-            "source": "South China Morning Post",
-            "category_within_source": "Companies",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.955357"
-                }
-            ],
-            "overall_sentiment_score": 0.129916,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Jeremy Ausmus Wins PGT\u00ae $1,000,000 Championship",
-            "url": "https://www.benzinga.com/pressreleases/25/01/n42933865/jeremy-ausmus-wins-pgt-1-000-000-championship",
-            "time_published": "20250112T025000",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "LAS VEGAS, Jan. 11, 2025 /PRNewswire/ -- Jeremy Ausmus, the 2024 PokerGO Tour\u00ae ( PGT\u00ae ) Player of the Year, capped off his extraordinary season by capturing the PGT $1,000,000 Championship title, earning an impressive $500,000 first-place prize.",
-            "banner_image": "https://mma.prnewswire.com/media/2595997/PGT_Championship_2024_winner_Jeremy_Ausmus_01_1200x800.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.352806,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.096671",
-                    "ticker_sentiment_score": "0.029901",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.096671",
-                    "ticker_sentiment_score": "0.029901",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "XRX DEADLINE ALERT: ROSEN, NATIONAL TRIAL LAWYERS, Encourages Xerox Holdings Corporation Investors to Secure Counsel Before Important January 21 Deadline in Securities Class Action - XRX - Xerox Holdings  ( NASDAQ:XRX ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/01/g42933845/xrx-deadline-alert-rosen-national-trial-lawyers-encourages-xerox-holdings-corporation-investors-to",
-            "time_published": "20250112T021100",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Jan. 11, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Xerox Holdings Corporation XRX between January 25, 2024 and October 28, 2024, both dates inclusive ( the \"Class Period\" ) , of the important January 21, ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.129247,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.061949",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "XRX",
-                    "relevance_score": "0.359014",
-                    "ticker_sentiment_score": "-0.020869",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Pop Mart's Labubu: From Blackpink fave to fading frenzy",
-            "url": "https://www.scmp.com/business/china-business/article/3294253/pop-marts-labubu-blackpink-fave-fading-frenzy-chinese-toy-firm",
-            "time_published": "20250112T020018",
-            "authors": [
-                "Yuke Xie"
-            ],
-            "summary": "Elfin character loses value on speculative market, but gives investors faith in Pop Mart's formula for monetising intellectual property.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/a1fdd455-af9f-4344-a120-b3b452ba3cc4_5503ce57.jpg?itok=LosKTydh&v=1736499937",
-            "source": "South China Morning Post",
-            "category_within_source": "Companies",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.929393"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.201166,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HUATF",
-                    "relevance_score": "0.047844",
-                    "ticker_sentiment_score": "0.338228",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "PMRTY",
-                    "relevance_score": "0.235823",
-                    "ticker_sentiment_score": "0.153284",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.047844",
-                    "ticker_sentiment_score": "0.080028",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
