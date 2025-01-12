@@ -1,8 +1,63 @@
 {
-    "items": "35",
+    "items": "33",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Top Wall Street analysts like the growth opportunities for these three stocks",
+            "url": "https://www.cnbc.com/2025/01/12/top-wall-street-analysts-like-the-growth-opportunities-for-these-three-stocks.html",
+            "time_published": "20250112T121820",
+            "authors": [],
+            "summary": "TipRanks' analyst ranking service underscores three stocks favored by the Street's top pros, including Uber Technologies and Nvidia.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Investing",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.891286"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.264239,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.1879",
+                    "ticker_sentiment_score": "0.294782",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.1879",
+                    "ticker_sentiment_score": "0.092896",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DDOG",
+                    "relevance_score": "0.260719",
+                    "ticker_sentiment_score": "0.164941",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "Job Growth, Fed Jitters, And Rising Mortgage Rates: This Week In Economics",
             "url": "https://www.benzinga.com/news/25/01/42934513/job-growth-fed-jitters-and-rising-mortgage-rates-this-week-in-economics",
@@ -1622,190 +1677,6 @@
                     "ticker_sentiment_label": "Somewhat-Bearish"
                 }
             ]
-        },
-        {
-            "title": "This Top ETF Has Generated 1,400% Returns in 20 Years. Here's Why It Can Still Soar Even Higher.",
-            "url": "https://www.fool.com/investing/2025/01/12/this-top-etf-has-generated-1400-returns-in-20-year/",
-            "time_published": "20250112T095000",
-            "authors": [
-                "David Jagielski"
-            ],
-            "summary": "Earning a great return in the stock market doesn't necessarily mean you have to be great at picking individual stocks. Exchange-traded funds ( ETFs ) can give you a simpler way of investing, and the good news is you can still earn a fantastic return by doing so.Some ETFs target top growth stocks ...",
-            "banner_image": "https://media.ycharts.com/charts/3164b2063c3f9e8b2fa7156c3fa9c457.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999939"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.25"
-                }
-            ],
-            "overall_sentiment_score": 0.412513,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSTR",
-                    "relevance_score": "0.064276",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ILMN",
-                    "relevance_score": "0.064276",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SMCI",
-                    "relevance_score": "0.064276",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AXON",
-                    "relevance_score": "0.064276",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "IVZ",
-                    "relevance_score": "0.427597",
-                    "ticker_sentiment_score": "0.423139",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "MRNA",
-                    "relevance_score": "0.064276",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.064276",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "A Russell 2000 Bull Market Could Be Coming: 1 Spectacular BlackRock ETF to Buy Hand Over Fist Before It Gets Here",
-            "url": "https://www.fool.com/investing/2025/01/12/russell-2000-bull-market-1-blackrock-etf-buy-hand/",
-            "time_published": "20250112T094800",
-            "authors": [
-                "Anthony Di Pizio"
-            ],
-            "summary": "The Russell 2000 index is home to approximately 2,000 of the smallest companies listed on U.S. stock exchanges. While the major market indexes like the S&P 500 ( SNPINDEX: ^GSPC ) have soared to new highs recently, the Russell still technically hasn't grown because it hasn't closed above its ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803443%2Fa-golden-bull-figurine-on-top-of-a-strip-of-money.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.2"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.995921"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.2"
-                }
-            ],
-            "overall_sentiment_score": 0.254183,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.110717",
-                    "ticker_sentiment_score": "0.138975",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.110717",
-                    "ticker_sentiment_score": "0.138975",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SFM",
-                    "relevance_score": "0.055492",
-                    "ticker_sentiment_score": "-0.003998",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SSB",
-                    "relevance_score": "0.055492",
-                    "ticker_sentiment_score": "-0.003998",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "INSM",
-                    "relevance_score": "0.055492",
-                    "ticker_sentiment_score": "-0.003998",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "3 Ways to Boost Your Retirement Income Without Holding Off on Claiming Social Security",
-            "url": "https://www.fool.com/retirement/2025/01/12/boost-retirement-income-claim-social-security/",
-            "time_published": "20250112T094500",
-            "authors": [
-                "Keith Speights"
-            ],
-            "summary": "\"Good things come to those who wait.\"You've undoubtedly heard that adage many times. It's often true. And the old saying definitely applies to anyone contemplating early retirement. Waiting to claim Social Security until your full retirement age ( or, even better, until age 70 ) will increase ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803302%2Fgetty-couple-high-five-happy.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.929393"
-                }
-            ],
-            "overall_sentiment_score": 0.361926,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
         }
     ]
 }
