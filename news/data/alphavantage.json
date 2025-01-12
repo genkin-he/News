@@ -1,5 +1,5 @@
 {
-    "items": "40",
+    "items": "41",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
@@ -73,6 +73,55 @@
                     "ticker": "XRX",
                     "relevance_score": "0.359014",
                     "ticker_sentiment_score": "-0.020869",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Pop Mart's Labubu: From Blackpink fave to fading frenzy",
+            "url": "https://www.scmp.com/business/china-business/article/3294253/pop-marts-labubu-blackpink-fave-fading-frenzy-chinese-toy-firm",
+            "time_published": "20250112T020018",
+            "authors": [
+                "Yuke Xie"
+            ],
+            "summary": "Elfin character loses value on speculative market, but gives investors faith in Pop Mart's formula for monetising intellectual property.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/01/10/a1fdd455-af9f-4344-a120-b3b452ba3cc4_5503ce57.jpg?itok=LosKTydh&v=1736499937",
+            "source": "South China Morning Post",
+            "category_within_source": "Companies",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.201166,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HUATF",
+                    "relevance_score": "0.047844",
+                    "ticker_sentiment_score": "0.338228",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PMRTY",
+                    "relevance_score": "0.235823",
+                    "ticker_sentiment_score": "0.153284",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.047844",
+                    "ticker_sentiment_score": "0.080028",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
