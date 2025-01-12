@@ -1,8 +1,431 @@
 {
-    "items": "21",
+    "items": "26",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "2 AI Chip Stocks That Could Soar in 2025",
+            "url": "https://www.fool.com/investing/2025/01/12/2-ai-chip-stocks-that-could-soar-in-2025/",
+            "time_published": "20250112T095200",
+            "authors": [
+                "John Ballard"
+            ],
+            "summary": "Artificial intelligence ( AI ) promises to bring significant advances to the global economy, which could result in higher worker productivity, faster product development, and more efficient supply chains. The lure of these benefits is creating tremendous demand for leading semiconductor companies ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/803442/ai-computer-chip.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99999"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.411245,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.149885",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.149885",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.149885",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.149885",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.110462",
+                    "ticker_sentiment_score": "0.164944",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "How Likely Is It That the Stock Market Crashes Under President Donald Trump in 2025? Here's What History Tells Us.",
+            "url": "https://www.fool.com/investing/2025/01/12/stock-market-crash-donald-trump-history-tells-us/",
+            "time_published": "20250112T095100",
+            "authors": [
+                "Sean Williams"
+            ],
+            "summary": "Trump is about to make dubious history.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803410%2F49750148681_73e99680b4_k.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999696"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.947132"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.067665,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.034984",
+                    "ticker_sentiment_score": "-0.151844",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "This Top ETF Has Generated 1,400% Returns in 20 Years. Here's Why It Can Still Soar Even Higher.",
+            "url": "https://www.fool.com/investing/2025/01/12/this-top-etf-has-generated-1400-returns-in-20-year/",
+            "time_published": "20250112T095000",
+            "authors": [
+                "David Jagielski"
+            ],
+            "summary": "Earning a great return in the stock market doesn't necessarily mean you have to be great at picking individual stocks. Exchange-traded funds ( ETFs ) can give you a simpler way of investing, and the good news is you can still earn a fantastic return by doing so.Some ETFs target top growth stocks ...",
+            "banner_image": "https://media.ycharts.com/charts/3164b2063c3f9e8b2fa7156c3fa9c457.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999939"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.412513,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.064276",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ILMN",
+                    "relevance_score": "0.064276",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SMCI",
+                    "relevance_score": "0.064276",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXON",
+                    "relevance_score": "0.064276",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.427597",
+                    "ticker_sentiment_score": "0.423139",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MRNA",
+                    "relevance_score": "0.064276",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.064276",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "A Russell 2000 Bull Market Could Be Coming: 1 Spectacular BlackRock ETF to Buy Hand Over Fist Before It Gets Here",
+            "url": "https://www.fool.com/investing/2025/01/12/russell-2000-bull-market-1-blackrock-etf-buy-hand/",
+            "time_published": "20250112T094800",
+            "authors": [
+                "Anthony Di Pizio"
+            ],
+            "summary": "The Russell 2000 index is home to approximately 2,000 of the smallest companies listed on U.S. stock exchanges. While the major market indexes like the S&P 500 ( SNPINDEX: ^GSPC ) have soared to new highs recently, the Russell still technically hasn't grown because it hasn't closed above its ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803443%2Fa-golden-bull-figurine-on-top-of-a-strip-of-money.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.995921"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                }
+            ],
+            "overall_sentiment_score": 0.254183,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.110717",
+                    "ticker_sentiment_score": "0.138975",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.110717",
+                    "ticker_sentiment_score": "0.138975",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SFM",
+                    "relevance_score": "0.055492",
+                    "ticker_sentiment_score": "-0.003998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SSB",
+                    "relevance_score": "0.055492",
+                    "ticker_sentiment_score": "-0.003998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INSM",
+                    "relevance_score": "0.055492",
+                    "ticker_sentiment_score": "-0.003998",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Is AMD Stock a Buy?",
+            "url": "https://www.fool.com/investing/2025/01/12/is-amd-stock-a-buy/",
+            "time_published": "20250112T094000",
+            "authors": [
+                "Chris Neiger"
+            ],
+            "summary": "Advanced Micro Devices ( NASDAQ: AMD ) has been a significant player in the semiconductor space for years, designing chips for everything from PCs to data centers. While many other semiconductor stocks have received a nice bump in their share price thanks to artificial intelligence ( AI ) , AMD ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803365%2Fgettyimages-1345658982-1200x675-128554e.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.94762"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.263247,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.78997",
+                    "ticker_sentiment_score": "0.452825",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.323927",
+                    "ticker_sentiment_score": "0.239461",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Prediction: This Will Be the First Artificial Intelligence  ( AI )  Company to Split Its Stock in 2025",
+            "url": "https://www.fool.com/investing/2025/01/12/predict-first-artificial-intelligence-stock-split/",
+            "time_published": "20250112T093500",
+            "authors": [
+                "Harsh Chauhan"
+            ],
+            "summary": "Stock splits have been in fashion in recent years in the technology sector as high-flying tech stocks have opted to go down this route in a bid to lower their share prices. Nvidia, Alphabet, Tesla, and Broadcom are some of the prominent names that have executed stock splits in recent years, ...",
+            "banner_image": "https://media.ycharts.com/charts/1b4503cd0a6ec564b832395ee73b63dc.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999491"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.224078,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "0.08871",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "0.08871",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "0.08871",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 Tech Stocks With More Potential Than Any Cryptocurrency",
+            "url": "https://www.fool.com/investing/2025/01/12/3-tech-stocks-with-more-potential-than-any-cryptoc/",
+            "time_published": "20250112T093300",
+            "authors": [
+                "Leo Sun"
+            ],
+            "summary": "Reddit, RocketLab, and Innodata could be potential multibaggers.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F803124%2Fa-couple-talks-to-a-financial-advisor.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.961735"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                }
+            ],
+            "overall_sentiment_score": 0.220609,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "INOD",
+                    "relevance_score": "0.288214",
+                    "ticker_sentiment_score": "0.377805",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.058903",
+                    "ticker_sentiment_score": "0.147",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RKLB",
+                    "relevance_score": "0.117486",
+                    "ticker_sentiment_score": "0.172932",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "RDDT",
+                    "relevance_score": "0.288214",
+                    "ticker_sentiment_score": "0.356685",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
         {
             "title": "3 Artificial Intelligence  ( AI )  Stocks to Buy in 2025 and Hold for the Rest of the Decade",
             "url": "https://www.fool.com/investing/2025/01/12/3-artificial-intelligence-ai-stocks-to-buy-in-2025/",
@@ -966,61 +1389,6 @@
                     "ticker": "RBLX",
                     "relevance_score": "0.066506",
                     "ticker_sentiment_score": "0.17284",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Cagamas Ends 2024 on High Note with Over RM21 Billion Total Funds Raised Amidst Market Uncertainty",
-            "url": "https://markets.businessinsider.com/news/stocks/cagamas-ends-2024-on-high-note-with-over-rm21-billion-total-funds-raised-amidst-market-uncertainty-1034197473",
-            "time_published": "20250112T052717",
-            "authors": [
-                "Plentisoft"
-            ],
-            "summary": "-- Cagamas Berhad ( \"Cagamas\" or \"the Company\" ) , the National Mortgage Corporation of Malaysia, successfully concluded its funding activities for 2024, raising a total of RM21.31 billion.",
-            "banner_image": "https://markets.businessinsider.com/Images/FacebookIcon.jpg",
-            "source": "Business Insider",
-            "category_within_source": "RSS",
-            "source_domain": "markets.businessinsider.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.451494"
-                }
-            ],
-            "overall_sentiment_score": 0.377945,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Delta Electronics Thailand Achieves Sustainability Disclosure Award for the 7th Consecutive Year",
-            "url": "https://markets.businessinsider.com/news/stocks/delta-electronics-thailand-achieves-sustainability-disclosure-award-for-the-7th-consecutive-year-1034202804",
-            "time_published": "20250112T052717",
-            "authors": [
-                "Plentisoft"
-            ],
-            "summary": "-- Delta Electronics ( Thailand ) Public Company Limited announced that it has received the Sustainability Disclosure Award 2024, marking its seventh consecutive year of recognition since 2017.",
-            "banner_image": "https://www.deltathailand.com/imgadmins/news/news_cover/DELTA_news_photo2025-01-07_10-50-20.jpg",
-            "source": "Business Insider",
-            "category_within_source": "RSS",
-            "source_domain": "markets.businessinsider.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.571917,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SPGI",
-                    "relevance_score": "0.090134",
-                    "ticker_sentiment_score": "0.279661",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
