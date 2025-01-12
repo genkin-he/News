@@ -4,6 +4,55 @@
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
         {
+            "title": "China's AI disrupter DeepSeek bets on 'young geniuses' to take on US giants",
+            "url": "https://www.scmp.com/tech/big-tech/article/3294357/chinas-ai-disrupter-deepseek-bets-low-key-team-young-geniuses-beat-us-giants",
+            "time_published": "20250112T012236",
+            "authors": [
+                "Ben Jiang"
+            ],
+            "summary": "DeepSeek prefers to hire new graduates, or those early in their AI career, in line with the company's preference for ability over experience.",
+            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/01/11/ab3d2fa0-5c15-4fec-bfd3-e7a1d60703d2_1126e908.jpg",
+            "source": "South China Morning Post",
+            "category_within_source": "Companies",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.240422,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XIACY",
+                    "relevance_score": "0.056674",
+                    "ticker_sentiment_score": "-0.054926",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.113062",
+                    "ticker_sentiment_score": "0.269234",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.056674",
+                    "ticker_sentiment_score": "0.088924",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "HD Hyundai Heavy Industries Begins Warship Construction in Peru",
             "url": "https://www.benzinga.com/pressreleases/25/01/n42933733/hd-hyundai-heavy-industries-begins-warship-construction-in-peru",
             "time_published": "20250112T004400",
@@ -1911,61 +1960,6 @@
                     "relevance_score": "0.053629",
                     "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "'That's Not Leadership That's Pissing On People' - Dave Ramsey Shares What He And Famous Nintendo CEO Have In Common",
-            "url": "https://www.benzinga.com/news/25/01/42933027/thats-not-leadership-thats-pissing-on-people-dave-ramsey-shares-what-he-and-famous-nintendo-ceo-have-in-comm",
-            "time_published": "20250111T170015",
-            "authors": [
-                "Adrian Volenik"
-            ],
-            "summary": "Corporate America has a bad habit that Dave Ramsey isn't shy about calling out: layoffs. Not because companies are struggling to stay afloat but because they want to boost profits and stock prices. In a rant, Ramsey made it clear that this isn't leadership - it's exploitation.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/11/7-Dave-Ramsey-Housing-Market-Predictions.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.142392,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ABNB",
-                    "relevance_score": "0.060085",
-                    "ticker_sentiment_score": "0.286219",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "UBER",
-                    "relevance_score": "0.060085",
-                    "ticker_sentiment_score": "0.286219",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NTDOF",
-                    "relevance_score": "0.11983",
-                    "ticker_sentiment_score": "0.112965",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "WMT",
-                    "relevance_score": "0.060085",
-                    "ticker_sentiment_score": "0.281205",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
