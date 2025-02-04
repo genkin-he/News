@@ -1,8 +1,47 @@
 {
-    "items": "44",
+    "items": "43",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Virtune AB  ( Publ )   ( \"Virtune\" )  has completed the monthly rebalancing for January 2025 of its Virtune Crypto Top 10 Index ETP, the first crypto index ETP in the Nordics",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020049/0/en/Virtune-AB-Publ-Virtune-has-completed-the-monthly-rebalancing-for-January-2025-of-its-Virtune-Crypto-Top-10-Index-ETP-the-first-crypto-index-ETP-in-the-Nordics.html",
+            "time_published": "20250204T095000",
+            "authors": [
+                "Virtune AB (Publ)"
+            ],
+            "summary": "Stockholm, 4th of February 2025 - Today Virtune announces that it has finalized its monthly rebalancing for Virtune Crypto Top 10 Index ETP, listed on Nasdaq Stockholm for both the SEK-denominated ( ISIN code SE0020052207, ticker name VIR10SEK ) and the EUR-denominated ( ISIN code SE0020052215, ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/da0bec69-79eb-4618-87fd-d96aa395aaed",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.890401"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.858979"
+                }
+            ],
+            "overall_sentiment_score": 0.258769,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.085022",
+                    "ticker_sentiment_score": "0.047212",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.085022",
+                    "ticker_sentiment_score": "0.047212",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Dow Trims Losses After Trump Delays Mexico, Canada Tariffs: Greed Index Remains In 'Fear' Zone - Owens & Minor  ( NYSE:OMI ) , Electronic Arts  ( NASDAQ:EA ) ",
             "url": "https://www.benzinga.com/25/02/43455955/dow-trims-losses-after-trump-delays-mexico-tariff-investor-sentiment-improves-fear-greed-index-in-fear-zone",
@@ -144,6 +183,92 @@
             "ticker_sentiment": []
         },
         {
+            "title": "Starbucks Shares Jump on Signs of a Turnaround. Is It Too Late to Buy the Stock?",
+            "url": "https://www.fool.com/investing/2025/02/04/starbucks-shares-jump-on-signs-of-a-turnaround-is/",
+            "time_published": "20250204T092400",
+            "authors": [
+                "Geoffrey Seiler"
+            ],
+            "summary": "Starbucks ( NASDAQ: SBUX ) shares got a boost following its fiscal Q1 earnings as CEO Brian Niccol continues to implement his turnaround plan. While its results topped analyst expectations, the coffee house operator is still seeing same-store sales and traffic declines.Let's take a closer look at ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806124%2Fgettyimages-1409787978.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.990893"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.98396"
+                }
+            ],
+            "overall_sentiment_score": 0.114625,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SBUX",
+                    "relevance_score": "0.567144",
+                    "ticker_sentiment_score": "0.305017",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Can Shiba Inu Reach $1 in 2025? Brace Yourself for a Surprising Answer",
+            "url": "https://www.fool.com/investing/2025/02/04/can-shiba-inu-reach-1-in-2025-surprising-answer/",
+            "time_published": "20250204T091600",
+            "authors": [
+                "Anthony Di Pizio"
+            ],
+            "summary": "Shiba Inu ( CRYPTO: SHIB ) soared by 45,278,000% during 2021, which means had you bought it on Jan. 1 and sold it on Dec. 31, an investment of as little as $3 could have made you a millionaire. Sadly, none of us own a crystal ball.It proved to be nothing more than a speculative rally because ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806051%2Fa-sad-shiba-inu-puppy-sitting-inside-a-cage.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.099462,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.344987",
+                    "ticker_sentiment_score": "0.155997",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.050894",
+                    "ticker_sentiment_score": "0.004014",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:SHIB",
+                    "relevance_score": "0.593341",
+                    "ticker_sentiment_score": "0.200592",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "Pfizer Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts - Pfizer  ( NYSE:PFE ) ",
             "url": "https://www.benzinga.com/25/02/43455760/pfizer-gears-up-for-q4-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
             "time_published": "20250204T091529",
@@ -203,6 +328,175 @@
             ]
         },
         {
+            "title": "Better Stock to Buy Right Now: Altria vs Kraft Heinz",
+            "url": "https://www.fool.com/investing/2025/02/04/best-stock-to-buy-right-now-altria-vs-kraft-heinz/",
+            "time_published": "20250204T091500",
+            "authors": [
+                "Leo Sun"
+            ],
+            "summary": "Which of these consumer staples giants is a more reliable investment?",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806220%2Fwatering-coins-next-to-piggy-bank.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999355"
+                }
+            ],
+            "overall_sentiment_score": 0.09075,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PM",
+                    "relevance_score": "0.046907",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MO",
+                    "relevance_score": "0.362065",
+                    "ticker_sentiment_score": "0.023399",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KHC",
+                    "relevance_score": "0.40348",
+                    "ticker_sentiment_score": "0.113116",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Should You Buy Nvidia Before Feb. 26? The Evidence Is Piling Up, and Here's What It Says.",
+            "url": "https://www.fool.com/investing/2025/02/04/should-you-buy-nvidia-before-feb-26-the-evidence-i/",
+            "time_published": "20250204T091000",
+            "authors": [
+                "Adria Cimino"
+            ],
+            "summary": "Nvidia ( NASDAQ: NVDA ) stock soared 171% last year for the best performance in the Dow Jones Industrial Average, which it recently joined. The year was fantastic for the artificial intelligence ( AI ) chip giant. It entered this famous benchmark, reported record revenue, and readied the release ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806243%2Fgettyimages-1072035598.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998663"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99977"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.248872,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.506433",
+                    "ticker_sentiment_score": "0.265263",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SDEC",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "0.166",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "28.4% of Warren Buffett's $303 Billion Portfolio Is Invested in 3 Stocks He Plans to Hold Forever",
+            "url": "https://www.fool.com/investing/2025/02/04/284-of-warren-buffetts-303-billion-portfolio-is-in/",
+            "time_published": "20250204T090500",
+            "authors": [
+                "Adam Levy"
+            ],
+            "summary": "Despite selling off lots of Berkshire's top positions, these three look safe from the chopping block.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806043%2Fbuffett11-tmf.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.962106"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.19232,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.103035",
+                    "ticker_sentiment_score": "0.090318",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OXY",
+                    "relevance_score": "0.068797",
+                    "ticker_sentiment_score": "0.210645",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.204359",
+                    "ticker_sentiment_score": "0.185076",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MA",
+                    "relevance_score": "0.03443",
+                    "ticker_sentiment_score": "0.083486",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.103035",
+                    "ticker_sentiment_score": "0.153847",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "Form 8.5  ( EPT/RI )  - Dowlais Group Plc",
             "url": "https://www.globenewswire.com/news-release/2025/02/04/3020026/0/en/Form-8-5-EPT-RI-Dowlais-Group-Plc.html",
             "time_published": "20250204T090200",
@@ -221,6 +515,85 @@
                 }
             ],
             "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Chinese bubble-tea giant Guming targets US$200 million in Hong Kong IPO",
+            "url": "https://www.scmp.com/business/banking-finance/article/3297306/chinese-bubble-tea-giant-guming-targets-us200-million-hong-kong-ipo",
+            "time_published": "20250204T090106",
+            "authors": [
+                "Aileen Chuang"
+            ],
+            "summary": "The company, which sells under the Good me brand, is offering 158.6 million shares in a price range of HK$8.68 to HK$9.94 each.",
+            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/02/04/e1bc2fa9-9714-4cfc-862f-03e479086362_081bddf3.jpg",
+            "source": "South China Morning Post",
+            "category_within_source": "Companies",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.890401"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": 0.190001,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.089462",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HKXCF",
+                    "relevance_score": "0.089462",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TCTZF",
+                    "relevance_score": "0.089462",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Social Security Got a Shake-Up in 2025, and 3 Changes May Surprise Retirees",
+            "url": "https://www.fool.com/retirement/2025/02/04/social-security-2025-3-changes-surprise-retirees/",
+            "time_published": "20250204T090100",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "The Social Security program undergoes a series of revisions each year to ensure benefit payments keep pace with inflation and wages. The latest round of revisions took effect in January, and a recent survey published by Nationwide Retirement Institute suggests some of the changes will surprise ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806236%2Fsocial-security-16.jpeg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.972193"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.201665,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
         },
@@ -311,6 +684,41 @@
                     "relevance_score": "0.097259",
                     "ticker_sentiment_score": "0.185285",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Atos ranked in the top 5% of the IT Services industry in the 2024 S&P Global Corporate Sustainability Assessment",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020023/0/en/Atos-ranked-in-the-top-5-of-the-IT-Services-industry-in-the-2024-S-P-Global-Corporate-Sustainability-Assessment.html",
+            "time_published": "20250204T090000",
+            "authors": [
+                "Atos International"
+            ],
+            "summary": "Press Release ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/819c7061-1f7d-4dcf-8904-ee7cd75b24d9/image1.jpeg",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.44944,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AEXAF",
+                    "relevance_score": "0.889725",
+                    "ticker_sentiment_score": "0.690309",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.506284",
+                    "ticker_sentiment_score": "0.564296",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -698,6 +1106,51 @@
                     "relevance_score": "0.160633",
                     "ticker_sentiment_score": "0.035732",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Investment Ideas feature highlights: Natural Gas ETF, United States Oil Fund, iShares Bitcoin ETF, MicroStrategy and Alibaba",
+            "url": "https://www.zacks.com/stock/news/2408825/zacks-investment-ideas-feature-highlights-natural-gas-etf-united-states-oil-fund-ishares-bitcoin-etf-microstrategy-and-alibaba",
+            "time_published": "20250204T082100",
+            "authors": [
+                "Zacks Investment Research"
+            ],
+            "summary": "Natural Gas ETF, United States Oil Fund, iShares Bitcoin ETF, MicroStrategy and Alibaba have been highlighted in this Investment Ideas article.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/27/42.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.891286"
+                }
+            ],
+            "overall_sentiment_score": 0.16789,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.178021",
+                    "ticker_sentiment_score": "0.232973",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.178021",
+                    "ticker_sentiment_score": "0.232973",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.119235",
+                    "ticker_sentiment_score": "0.185321",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         },
@@ -1412,399 +1865,6 @@
                     "ticker": "DIS",
                     "relevance_score": "0.02212",
                     "ticker_sentiment_score": "0.107729",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Chinese developer Sino-Ocean's debt plan wins court approval in UK",
-            "url": "https://www.scmp.com/business/china-business/article/3297288/chinese-developer-sino-oceans-debt-plan-wins-court-approval-uk",
-            "time_published": "20250204T073008",
-            "authors": [
-                "Yulu Ao"
-            ],
-            "summary": "The outcome 'will definitely be a factor' when a Hong Kong court considers a winding-up petition later this month, company adviser says.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/04/4c3671bf-575b-4db0-9ca8-7340026263c5_f0bb04cf.jpg?itok=1ujEJxRQ&v=1738652980",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.170667,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CILJF",
-                    "relevance_score": "0.083541",
-                    "ticker_sentiment_score": "0.145494",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "HLI",
-                    "relevance_score": "0.083541",
-                    "ticker_sentiment_score": "0.195003",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SIOLF",
-                    "relevance_score": "0.166169",
-                    "ticker_sentiment_score": "0.242492",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.083541",
-                    "ticker_sentiment_score": "-0.125967",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Spirits maker Diageo removes medium-term guidance on U.S. tariff uncertainty",
-            "url": "https://www.cnbc.com/2025/02/04/diageo-removes-medium-term-guidance-on-us-tariff-uncertainty.html",
-            "time_published": "20250204T072941",
-            "authors": [],
-            "summary": "The drinks maker has come under pressure from investors amid falling sales, management changes, and a broader trend toward reduced alcohol consumption.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Top News",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.004763,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "DEO",
-                    "relevance_score": "0.430454",
-                    "ticker_sentiment_score": "0.034504",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PDRDF",
-                    "relevance_score": "0.113062",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "CPI inflation likely to ease to 4.5 pc in Q4 FY25, 4.8 pc for full FY25: SBI Report - ETCFO",
-            "url": "https://cfo.economictimes.indiatimes.com/news/economy/cpi-inflation-likely-to-ease-to-4-5-pc-in-q4-fy25-4-8-pc-for-full-fy25-sbi-report/117906674",
-            "time_published": "20250204T071232",
-            "authors": [
-                "ETCFO"
-            ],
-            "summary": "State Bank of India's report predicts that retail inflation in India will decline to 4.5% by the last quarter of FY25, with an average for the year at 4.8%. The report also highlights challenges faced by the RBI in managing inflation, influenced by fiscal stimulus and global trade tensions.",
-            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
-            "source": "Economic Times",
-            "category_within_source": "Economy",
-            "source_domain": "cfo.economictimes.indiatimes.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.999682"
-                },
-                {
-                    "topic": "Economy - Macro",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": -0.078203,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SBKFF",
-                    "relevance_score": "0.087185",
-                    "ticker_sentiment_score": "-0.118618",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.087185",
-                    "ticker_sentiment_score": "-0.073061",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "DeepSeek's success gives Chinese firms jolt in quest to leapfrog sanctions",
-            "url": "https://www.scmp.com/economy/china-economy/article/3297286/deepseeks-success-gives-chinese-firms-jolt-beijing-seeks-sanction-beating-breakthroughs",
-            "time_published": "20250204T070248",
-            "authors": [
-                "Frank Chen"
-            ],
-            "summary": "Artificial intelligence start-up's rise to prominence can motivate China's tech industry, analysts said, even as US-led curbs continue.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/04/ea16d456-5087-434c-986b-2a7d66ad0f72_a0b89f75.jpg?itok=rGEHQ39j&v=1738652567",
-            "source": "South China Morning Post",
-            "category_within_source": "Economy",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.275953,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.051551",
-                    "ticker_sentiment_score": "-0.006987",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AFG",
-                    "relevance_score": "0.051551",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SZIHF",
-                    "relevance_score": "0.102888",
-                    "ticker_sentiment_score": "0.02469",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "IVZ",
-                    "relevance_score": "0.051551",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "As Tallink Grupp Statistics for January 2025",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019990/0/en/As-Tallink-Grupp-Statistics-for-January-2025.html",
-            "time_published": "20250204T070000",
-            "authors": [
-                "Tallink Grupp"
-            ],
-            "summary": "In January 2025 AS Tallink Grupp transported 299,991 passengers, which is a 9.1% decrease compared to January 2024. The number of cargo units decreased by 33.6% to 18,986 units and the number of passenger vehicles decreased by 13.2% to 43,622 units compared to the same period a year ago.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/bebb560a-d161-41e0-925c-7c6d95682e88",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [],
-            "overall_sentiment_score": 0.004671,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "IRCUF",
-                    "relevance_score": "0.183895",
-                    "ticker_sentiment_score": "0.044963",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Transaction in Own Shares",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019993/0/en/Transaction-in-Own-Shares.html",
-            "time_published": "20250204T070000",
-            "authors": [
-                "PayPoint plc"
-            ],
-            "summary": "4th February ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/01c8cd71-2417-44ba-b4a3-462b7db307c0",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [],
-            "overall_sentiment_score": 0.121802,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ITCFY",
-                    "relevance_score": "0.608634",
-                    "ticker_sentiment_score": "-0.281315",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Transaction in Own Shares",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019991/0/en/Transaction-in-Own-Shares.html",
-            "time_published": "20250204T070000",
-            "authors": [
-                "ICG Enterprise Trust Plc"
-            ],
-            "summary": "ICG Enterprise Trust plc ( the \"Company\" ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/8e1ac0a6-5f20-45e4-983b-dcdccae40d13",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.427149,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "NB Private Equity Partners Announces Transaction in Own Shares",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019996/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
-            "time_published": "20250204T070000",
-            "authors": [
-                "NB Private Equity Partners Limited"
-            ],
-            "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
-            "banner_image": "",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.803643"
-                }
-            ],
-            "overall_sentiment_score": 0.236207,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NBPVF",
-                    "relevance_score": "0.136499",
-                    "ticker_sentiment_score": "0.192875",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "As Tallink Grupp Statistics for January 2025",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019992/0/en/As-Tallink-Grupp-Statistics-for-January-2025.html",
-            "time_published": "20250204T070000",
-            "authors": [
-                "Tallink Grupp"
-            ],
-            "summary": "In January 2025 AS Tallink Grupp transported 299,991 passengers, which is a 9.1% decrease compared to January 2024. The number of cargo units decreased by 33.6% to 18,986 units and the number of passenger vehicles decreased by 13.2% to 43,622 units compared to the same period a year ago.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/bebb560a-d161-41e0-925c-7c6d95682e88",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [],
-            "overall_sentiment_score": 0.004671,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "IRCUF",
-                    "relevance_score": "0.183895",
-                    "ticker_sentiment_score": "0.044963",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Progress on share buyback programme",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019998/0/en/Progress-on-share-buyback-programme.html",
-            "time_published": "20250204T070000",
-            "authors": [
-                "ING Group"
-            ],
-            "summary": "ING announced today that, as part of our \u20ac2.0 billion share buyback programme announced on 31 October 2024, in total 4,550,623 shares were repurchased during the week of 27 January 2025 up to and including 31 January 2025. The shares were repurchased at an average price of \u20ac16.06 or a total ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/f98b0fea-4867-42b4-a7ea-9e63eda03ea5",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.614606"
-                }
-            ],
-            "overall_sentiment_score": 0.086651,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CURN",
-                    "relevance_score": "0.02493",
-                    "ticker_sentiment_score": "-0.012395",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MORN",
-                    "relevance_score": "0.02493",
-                    "ticker_sentiment_score": "0.128643",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ING",
-                    "relevance_score": "0.601191",
-                    "ticker_sentiment_score": "0.128016",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:XCP",
-                    "relevance_score": "0.02493",
-                    "ticker_sentiment_score": "-0.012395",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Correction: Holding ( s )  in Company",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019995/0/en/Correction-Holding-s-in-Company.html",
-            "time_published": "20250204T070000",
-            "authors": [
-                "Kenmare Resources"
-            ],
-            "summary": "Issuing correction to information in section ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/2d98d402-116c-49ac-9298-607d4d2e37d8",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.199173,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:XCP",
-                    "relevance_score": "0.036983",
-                    "ticker_sentiment_score": "-0.007731",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
