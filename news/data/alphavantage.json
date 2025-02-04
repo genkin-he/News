@@ -1,8 +1,51 @@
 {
-    "items": "48",
+    "items": "47",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Palantir Sounds Alarm On China's DeepSeek, Citing National Security Threat - But Won't Drop Clients Who Use It - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/25/02/43453280/peter-thiels-palantir-sounds-alarm-on-chinas-deepseek-citing-national-security-threat-but-says-it-wont-drop-clien",
+            "time_published": "20250204T033507",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "On Monday, Palantir Technologies Inc. PLTR advised its clients to avoid using AI models from Chinese startup DeepSeek. What Happened: Palantir's chief revenue officer, Ryan Taylor, stated, \"We would strongly discourage it [DeepSeek] and don't think any customer in the U.S. government will be able ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Palantir-Logo--Photo-by-Spyro-the-Dragon.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.104718,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSTK",
+                    "relevance_score": "0.112008",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.221819",
+                    "ticker_sentiment_score": "-0.213884",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
         {
             "title": "MAG Silver Appoints John Armstrong to the Board of Directors as Part of Planned Board Refreshment - MAG Silver  ( AMEX:MAG ) ",
             "url": "https://www.benzinga.com/pressreleases/25/02/g43453218/mag-silver-appoints-john-armstrong-to-the-board-of-directors-as-part-of-planned-board-refreshment",
@@ -66,6 +109,41 @@
                     "relevance_score": "0.101582",
                     "ticker_sentiment_score": "0.174565",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Pennant Acquires Senior Living Communities in Idaho and Texas - Pennant Gr  ( NASDAQ:PNTG ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43453191/pennant-acquires-senior-living-communities-in-idaho-and-texas",
+            "time_published": "20250204T030045",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "EAGLE, Idaho, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- The Pennant Group, Inc. PNTG, the parent company of the Pennant group of affiliated home health, hospice, home care and senior living companies, announced today that effective February 1, 2025, it has acquired three premier senior living ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Mergers",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.412735,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PNTG",
+                    "relevance_score": "0.697241",
+                    "ticker_sentiment_score": "0.547067",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "HCSG",
+                    "relevance_score": "0.091162",
+                    "ticker_sentiment_score": "0.070565",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
@@ -1968,147 +2046,6 @@
                     "relevance_score": "0.102449",
                     "ticker_sentiment_score": "0.192141",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Apple & China Tariffs: A Closer Look",
-            "url": "https://www.zacks.com/stock/news/2408814/apple-china-tariffs-a-closer-look",
-            "time_published": "20250204T010200",
-            "authors": [
-                "Derek Lewis"
-            ],
-            "summary": "Investor-favorite Apple has found itself in the crosshairs of recent tariffs talk given the heavy iPhone manufacturing exposure. What's its next move?",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6c/1151.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.069211,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.588876",
-                    "ticker_sentiment_score": "0.16239",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "MGPI INVESTOR ALERT: Kirby McInerney LLP Reminds MGP Ingredients, Inc. Investors of Looming Lead Plaintiff Deadline in Class Action Lawsuit - MGP Ingredients  ( NASDAQ:MGPI ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452408/mgpi-investor-alert-kirby-mcinerney-llp-reminds-mgp-ingredients-inc-investors-of-looming-lead-plai",
-            "time_published": "20250204T010000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- The law firm of Kirby McInerney LLP notifies investors of the approaching February 14, 2025, deadline to seek the role of lead plaintiff in a federal securities class action filed on behalf of those who acquired MGP Ingredients, Inc. ( \"MGP ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.614606"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.10099,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MGPI",
-                    "relevance_score": "0.546745",
-                    "ticker_sentiment_score": "0.101695",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Why Did Apple and Meta Platforms Rise While Nvidia Fell 17% in 1 Day?",
-            "url": "https://www.fool.com/investing/2025/02/03/apple-meta-platforms-rise-nvidia-stock-sell-off/",
-            "time_published": "20250204T010000",
-            "authors": [
-                "Daniel Foelber"
-            ],
-            "summary": "Jan. 27 was a wild day in the stock market as investors reacted to Chinese start-up DeepSeek's R1 \"reasoning\" model that competes with OpenAI's o1 model.Semiconductor stocks Nvidia ( NASDAQ: NVDA ) , Broadcom, and Taiwan Semiconductor Manufacturing -- which constitute over $5 trillion in ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F805687%2Fgettyimages-1399376472-1201x724-bbb8383-1.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.980922"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.947132"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.181566,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.048036",
-                    "ticker_sentiment_score": "0.084612",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.143415",
-                    "ticker_sentiment_score": "0.133597",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.492446",
-                    "ticker_sentiment_score": "0.17016",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.282234",
-                    "ticker_sentiment_score": "0.074326",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.048036",
-                    "ticker_sentiment_score": "-0.109897",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSM",
-                    "relevance_score": "0.048036",
-                    "ticker_sentiment_score": "-0.109897",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
