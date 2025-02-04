@@ -1,8 +1,216 @@
 {
-    "items": "43",
+    "items": "42",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Dassault Syst\u00e8mes: Strong Q4 results driven by new business acceleration and expanded 3DEXPERIENCE footprint",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019975/0/en/Dassault-Syst%C3%A8mes-Strong-Q4-results-driven-by-new-business-acceleration-and-expanded-3DEXPERIENCE-footprint.html",
+            "time_published": "20250204T055900",
+            "authors": [
+                "Dassault Systemes SE"
+            ],
+            "summary": "Press Release ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/cbe18714-5944-40e8-a049-6006dfe1ee86",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999355"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.723405"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.682689"
+                }
+            ],
+            "overall_sentiment_score": 0.230495,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.017471",
+                    "ticker_sentiment_score": "0.028834",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EADSF",
+                    "relevance_score": "0.008736",
+                    "ticker_sentiment_score": "0.116291",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.008736",
+                    "ticker_sentiment_score": "0.116291",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DASTF",
+                    "relevance_score": "0.322633",
+                    "ticker_sentiment_score": "0.226328",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MAHMF",
+                    "relevance_score": "0.008736",
+                    "ticker_sentiment_score": "0.116291",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BMY",
+                    "relevance_score": "0.008736",
+                    "ticker_sentiment_score": "0.116291",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:JPY",
+                    "relevance_score": "0.034933",
+                    "ticker_sentiment_score": "0.089681",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.008736",
+                    "ticker_sentiment_score": "0.042659",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.034933",
+                    "ticker_sentiment_score": "0.089681",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Dassault Syst\u00e8mes Reveals \"3D UNIV+RSES\" and Related AI-Based Services",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019974/0/en/Dassault-Syst%C3%A8mes-Reveals-3D-UNIV-RSES-and-Related-AI-Based-Services.html",
+            "time_published": "20250204T055800",
+            "authors": [
+                "Dassault Systemes SE"
+            ],
+            "summary": "Press ReleaseVELIZY-VILLACOUBLAY, France - February ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/cbe18714-5944-40e8-a049-6006dfe1ee86",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.347423,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DASTF",
+                    "relevance_score": "0.536562",
+                    "ticker_sentiment_score": "0.511303",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Dassault Syst\u00e8mes and Volkswagen Group Implement the 3DEXPERIENCE Platform to Optimize Vehicle Development",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019973/0/en/Dassault-Syst%C3%A8mes-and-Volkswagen-Group-Implement-the-3DEXPERIENCE-Platform-to-Optimize-Vehicle-Development.html",
+            "time_published": "20250204T055700",
+            "authors": [
+                "Dassault Systemes SE"
+            ],
+            "summary": "Dassault Syst\u00e8mes and Volkswagen Group Implement the 3DEXPERIENCE Platform to Optimize Vehicle Development \u2022 Dassault Syst\u00e8mes' 3DEXPERIENCE platform on the cloud becomes a foundational technology solution at Volkswagen Group to advance vehicle development \u2022 Virtual twin experiences reduce ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/cbe18714-5944-40e8-a049-6006dfe1ee86",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.314362,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DASTF",
+                    "relevance_score": "0.583787",
+                    "ticker_sentiment_score": "0.444434",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "BNP PARIBAS ANNOUNCES THE IMPLEMENTATION OF A SEMI-ANNNUAL INTERIM DIVIDEND PAYMENT STARTING IN 2025",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019972/0/en/BNP-PARIBAS-ANNOUNCES-THE-IMPLEMENTATION-OF-A-SEMI-ANNNUAL-INTERIM-DIVIDEND-PAYMENT-STARTING-IN-2025.html",
+            "time_published": "20250204T055000",
+            "authors": [
+                "BNP Paribas SA"
+            ],
+            "summary": "BNP PARIBAS ANNOUNCES THE IMPLEMENTATION OF A SEMI-ANNNUAL INTERIM DIVIDEND PAYMENT STARTING IN ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/3f5a5fef-fb91-489f-b8d1-7df66512e6ac",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.307318,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Mowi ASA  ( OSE:MOWI ) : Presentation of Q4 2024 results 12 February 2025 at 08:00  ( CET ) ",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019971/0/en/Mowi-ASA-OSE-MOWI-Presentation-of-Q4-2024-results-12-February-2025-at-08-00-CET.html",
+            "time_published": "20250204T053000",
+            "authors": [
+                "Mowi ASA"
+            ],
+            "summary": "Mowi ASA hereby invites you to the presentation of the results for the fourth quarter 2024 at Hotel Continental, Stortingsgaten 24/26, 0117 Oslo, Norway.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/b172e29b-d769-4a72-97d3-cfc88d60b267",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.232887,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MNHVF",
+                    "relevance_score": "0.407844",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "UK takes legal advice over pulling out of $20bn Total LNG project in Mozambique",
             "url": "https://www.ft.com/content/cacd29fb-1535-4462-bd5f-3f2bcb546a8d",
@@ -34,6 +242,98 @@
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
+        },
+        {
+            "title": "Goldman moves into active fixed income ETFs in Europe",
+            "url": "https://www.ft.com/content/8a8462e1-529d-41f1-846b-390fd1846b74",
+            "time_published": "20250204T050031",
+            "authors": [
+                "Theo Andrew"
+            ],
+            "summary": "Assets under management in active ETFs in Europe grew to $56.7bn in 2024, according to Morningstar ...",
+            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e08fd73-f4ce-4587-8e96-962cf78ae20b.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "source": "Financial Times",
+            "category_within_source": "Markets",
+            "source_domain": "www.ft.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999992"
+                }
+            ],
+            "overall_sentiment_score": 0.378424,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.513494",
+                    "ticker_sentiment_score": "0.527571",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.18343",
+                    "ticker_sentiment_score": "0.202941",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LDNXF",
+                    "relevance_score": "0.061631",
+                    "ticker_sentiment_score": "0.298453",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tech in 2025: The EU vs Big Tech",
+            "url": "https://www.ft.com/content/480fb701-0960-4b71-86c8-10d845a7d37a",
+            "time_published": "20250204T050000",
+            "authors": [],
+            "summary": "The EU wants to police the biggest tech companies. Should it?",
+            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2Fd9f24233-88e8-4579-b43a-1f742813e8b2?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "source": "Financial Times",
+            "category_within_source": "Companies",
+            "source_domain": "www.ft.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.03571,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.227007",
+                    "ticker_sentiment_score": "-0.169268",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Commercial real estate crawls back",
+            "url": "https://www.ft.com/content/af8d036d-b18e-4a4c-b6f9-e71d1d91f448",
+            "time_published": "20250204T050000",
+            "authors": [],
+            "summary": "Sector started to recover from a two-year slump at the end of ...",
+            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2Fd2e5e0a0-10a7-436c-83ff-5e9cba27372a?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "source": "Financial Times",
+            "category_within_source": "Economy",
+            "source_domain": "www.ft.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.104178,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
         },
         {
             "title": "Mohamed El-Erian Flags Market Jitters As Trump Tariff Pause On Canada Triggers Currency Swings - Larry Summers Warns Of Trade Fallout",
@@ -1447,445 +1747,6 @@
                     "ticker": "DPZ",
                     "relevance_score": "0.208464",
                     "ticker_sentiment_score": "-0.082896",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against ESSA, IIPR, Block, and Crocs and Encourages Investors to Contact the Firm - Crocs  ( NASDAQ:CROX ) , ESSA Pharma  ( NASDAQ:EPIX ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452806/bragar-eagel-squire-p-c-reminds-investors-that-class-action-lawsuits-have-been-filed-against-essa-",
-            "time_published": "20250204T020000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, reminds investors that class actions have been commenced on behalf of stockholders of ESSA Pharma Inc. EPIX, Innovative Industrial Properties, Inc. IIPR, Block, Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.650727"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": -0.30365,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "IIPR",
-                    "relevance_score": "0.256089",
-                    "ticker_sentiment_score": "-0.114708",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "EPIX",
-                    "relevance_score": "0.129749",
-                    "ticker_sentiment_score": "0.027999",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BSQKZ",
-                    "relevance_score": "0.043421",
-                    "ticker_sentiment_score": "0.027232",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BNXYF",
-                    "relevance_score": "0.043421",
-                    "ticker_sentiment_score": "-0.245526",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "CROX",
-                    "relevance_score": "0.256089",
-                    "ticker_sentiment_score": "0.00194",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.043421",
-                    "ticker_sentiment_score": "-0.245526",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Got $10,000? 2 Top Growth Stocks to Buy That Could Double Your Money",
-            "url": "https://www.fool.com/investing/2025/02/03/got-10000-2-top-growth-stocks-to-buy-that-could-do/",
-            "time_published": "20250204T020000",
-            "authors": [
-                "Brett Schafer"
-            ],
-            "summary": "These stocks are good long-term bets, but don't expect them to double your money overnight.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806125/gettyimages-1471299072.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.976913"
-                },
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                }
-            ],
-            "overall_sentiment_score": 0.196132,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ABNB",
-                    "relevance_score": "0.344872",
-                    "ticker_sentiment_score": "0.130625",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NTDOF",
-                    "relevance_score": "0.344872",
-                    "ticker_sentiment_score": "0.115839",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:JPY",
-                    "relevance_score": "0.059341",
-                    "ticker_sentiment_score": "0.038096",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.059341",
-                    "ticker_sentiment_score": "0.038096",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "GROCERY OUTLET ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against Grocery Outlet Holding Corp. and Encourages Investors to Contact the Firm - Grocery Outlet Holding  ( NASDAQ:GO ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452807/grocery-outlet-alert-bragar-eagel-squire-p-c-announces-that-a-class-action-lawsuit-has-been-filed-",
-            "time_published": "20250204T020000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized stockholder rights law firm, announces that a class action lawsuit has been filed against Grocery Outlet Holding Corp. ( \"Grocery Outlet\" or the \"Company\" ) GO in the United States District Court ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                }
-            ],
-            "overall_sentiment_score": 0.055445,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GO",
-                    "relevance_score": "0.539306",
-                    "ticker_sentiment_score": "0.037136",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "VISA ALERT: Bragar Eagel & Squire, P.C. is Investigating Visa Inc. on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm - Visa  ( NYSE:V ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452815/visa-alert-bragar-eagel-squire-p-c-is-investigating-visa-inc-on-behalf-of-long-term-stockholders-a",
-            "time_published": "20250204T020000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, is investigating potential claims against Visa Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": -0.081756,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "V",
-                    "relevance_score": "0.684999",
-                    "ticker_sentiment_score": "-0.280205",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Bitcoin, Ethereum, Dogecoin Stage Strong Rebound As Trump Pauses Canada, Mexico Tariffs: Analyst Flags Significance Of $101,000 For BTC - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",
-            "url": "https://www.benzinga.com/trading-ideas/movers/25/02/43452791/bitcoin-ethereum-dogecoin-stage-strong-rebound-as-trump-pauses-canada-mexico-tariffs-analyst",
-            "time_published": "20250204T015720",
-            "authors": [
-                "Aniket Verma"
-            ],
-            "summary": "Leading cryptocurrencies rebounded Monday as President Donald Trump's brief tariff reprieve fueled positive sentiment in risk-on markets. What Happened: Bitcoin surged past $100,000, a day after plunging below $92,000. The leading cryptocurrency hit an intraday high of $102,500 before paring ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Cryptocurrency-Photo-by-SvetlanaParnikov_0.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.769861"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.254767,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.613743",
-                    "ticker_sentiment_score": "0.562981",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.411848",
-                    "ticker_sentiment_score": "0.555761",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:DOGE",
-                    "relevance_score": "0.086245",
-                    "ticker_sentiment_score": "0.032779",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Ethereum, Solana Rebound as Trump Agrees to Pause Tariffs on Canada",
-            "url": "https://decrypt.co/304267/ethereum-solana-rebound-as-trump-agrees-to-pause-tariffs-on-canada",
-            "time_published": "20250204T015142",
-            "authors": [
-                "Vince Dioquino"
-            ],
-            "summary": "Ethereum and Solana rebounded sharply from weekend lows after the U.S. halted trade penalties, with AI tokens providing additional momentum.",
-            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/12/Ethereum-Solana-Rcc_Btn-Shutterstock-scaled-gID_7.jpg",
-            "source": "Decrypt.co",
-            "category_within_source": "n/a",
-            "source_domain": "decrypt.co",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.109954,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "APG",
-                    "relevance_score": "0.088147",
-                    "ticker_sentiment_score": "-0.082518",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "COIN",
-                    "relevance_score": "0.088147",
-                    "ticker_sentiment_score": "0.061834",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.420083",
-                    "ticker_sentiment_score": "0.210024",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:XRP",
-                    "relevance_score": "0.088147",
-                    "ticker_sentiment_score": "0.08673",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Walgreens Boots Alliance, Inc. Shareholder Alert: Shareholder Rights Law Firm Robbins LLP Reminds Investors of the Class Action Against WBA - Walgreens Boots Alliance  ( NASDAQ:WBA ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452784/walgreens-boots-alliance-inc-shareholder-alert-shareholder-rights-law-firm-robbins-llp-reminds-inv",
-            "time_published": "20250204T015139",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "SAN DIEGO, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Robbins LLP reminds stockholders that a class action was filed on behalf of all persons and entities that purchased or otherwise acquired Walgreens Boots Alliance, Inc. WBA common stock between April 2, 2020 and January 16, 2025.",
-            "banner_image": "https://ml.globenewswire.com/media/f6c754ad-b344-4389-a551-cf97ce05752e/small/robbins-llp-logo-white-background1583450-1-png.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.87644"
-                }
-            ],
-            "overall_sentiment_score": -0.017007,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WBA",
-                    "relevance_score": "0.333557",
-                    "ticker_sentiment_score": "0.10031",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Nvidia, TSMC Stocks Fell As Trump Hit Mexico, Canada, And China With Tariffs-But Top Analyst Sees Only 'Limited' Supply Chain Impact On Chips - Apple  ( NASDAQ:AAPL ) , Broadcom  ( NASDAQ:AVGO ) ",
-            "url": "https://www.benzinga.com/25/02/43452717/nvidia-tsmc-drop-as-trump-hits-mexico-canada-and-china-with-tariffsbut-top-analyst-sees-only-limited-supply-chain",
-            "time_published": "20250204T014646",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "Tech stocks tumbled on Monday after President Donald Trump imposed steep tariffs on imports from Canada, China, and Mexico, sparking fears of supply chain disruptions - yet Wedbush analyst Dan Ives says Nvidia Corporation NVDA and Taiwan Semiconductor Mfg. Co. Ltd. TSM won't face immediate fallout.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Barcelona--Spain--November-28--2022-Micr.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": -0.208672,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.18602",
-                    "ticker_sentiment_score": "-0.299403",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.519739",
-                    "ticker_sentiment_score": "-0.513836",
-                    "ticker_sentiment_label": "Bearish"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.18602",
-                    "ticker_sentiment_score": "-0.299403",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.18602",
-                    "ticker_sentiment_score": "-0.299403",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "INTC",
-                    "relevance_score": "0.18602",
-                    "ticker_sentiment_score": "-0.299403",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "SMCI",
-                    "relevance_score": "0.18602",
-                    "ticker_sentiment_score": "-0.299403",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "NYT",
-                    "relevance_score": "0.093653",
-                    "ticker_sentiment_score": "0.072472",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Bunker Hill Mining Receives Fourth Tranche from Sprott Standby Facility - Bunker Hill Mining  ( OTC:BHLL ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452708/bunker-hill-mining-receives-fourth-tranche-from-sprott-standby-facility",
-            "time_published": "20250204T014334",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "KELLOGG, Idaho, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Bunker Hill Mining Corp. ( \"Bunker Hill\" or the \"Company\" ) ( TSXV:BNKR |OTCQB: BHLL ) , ( TSX-V: BNKR |OTCQB:BHLL ) announces it has received the final tranche, in the amount of US$6 million under the senior secured credit facility ( the ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/e4dccce7-be82-450c-92b0-5ff2887e9c2d/bunkerhillminingcorp-4049033.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.988915"
-                }
-            ],
-            "overall_sentiment_score": 0.131937,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MALRF",
-                    "relevance_score": "0.045012",
-                    "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
