@@ -1,8 +1,202 @@
 {
-    "items": "47",
+    "items": "46",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Palantir's Shyam Sankar: US Is At War With China In AI-And The Time To Act Was 'Yesterday' - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/tech/25/02/43453553/palantirs-shyam-sankar-us-is-at-war-with-china-in-ai-and-the-time-to-act-was-yesterday",
+            "time_published": "20250204T042338",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "Palantir Technologies Inc.'s PLTR chief technology officer Shyam Sankar warned that the U.S. is in an \"AI arms race\" with China, calling for urgent action to maintain dominance as the race for artificial intelligence escalates.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Palantir-stock.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.004831,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.09439",
+                    "ticker_sentiment_score": "0.00754",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.187463",
+                    "ticker_sentiment_score": "0.181918",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Coinbase Says It's Become UK's Largest Crypto Exchange After Securing Regulatory Approval - Coinbase Glb  ( NASDAQ:COIN ) ",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/02/43453542/coinbase-says-its-become-uks-largest-crypto-exchange-after-securing-regulatory-approval",
+            "time_published": "20250204T042107",
+            "authors": [
+                "Aniket Verma"
+            ],
+            "summary": "Cryptocurrency trading behemoth Coinbase Global Inc. COIN announced its registration as the UK's largest cryptocurrency exchange on Monday, signifying a key step in its global growth strategy.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Coinbase-Global-Inc--COIN.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.312818,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.802374",
+                    "ticker_sentiment_score": "0.494358",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.2872",
+                    "ticker_sentiment_score": "0.181122",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "XRP Erases 'Black Sunday' Losses With 20% Surge As Jack Dorsey Posts Intriguing Video Featuring Bitcoin Bull Michael Saylor",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/02/43453368/xrp-erases-black-sunday-losses-with-20-surge-as-jack-dorsey-posts-intriguing-video-featuring",
+            "time_published": "20250204T041228",
+            "authors": [
+                "Aniket Verma"
+            ],
+            "summary": "XRP XRP/USD roared back into momentum on Monday, as investors welcomed President Donald Trump's temporary relief on tariffs. What happened: XRP rallied as much as 20%, recouping losses taken on 'Black Sunday,' which saw the third-largest cryptocurrency by market value fall to two-week lows.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/XRP.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.213596,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.121037",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.639128",
+                    "ticker_sentiment_score": "0.347711",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.239305",
+                    "ticker_sentiment_score": "0.287316",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "CALGO Launches Unified DeFi Platform, Simplifying Decentralized Finance for Investors",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43453353/calgo-launches-unified-defi-platform-simplifying-decentralized-finance-for-investors",
+            "time_published": "20250204T040903",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "PANAMA CITY, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- CALGO, a DeFi aggregator and investment platform, has officially launched, offering users a simplified way to access and manage decentralized finance ( DeFi ) investments.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/9b1b0e29-ac53-47a1-9856-cf881a588796/image1.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                }
+            ],
+            "overall_sentiment_score": 0.400649,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Dubai Duty Free Partners with TerraPay, Empowering 100 million+ Customers for Instant Digital Wallet Payments at Dubai Duty Free",
+            "url": "https://www.benzinga.com/pressreleases/25/02/n43453336/dubai-duty-free-partners-with-terrapay-empowering-100-million-customers-for-instant-digital-wallet",
+            "time_published": "20250204T040000",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "DUBAI, UAE, Feb. 4, 2025 /PRNewswire/ -- TerraPay, a global money movement company, has joined forces with Dubai Duty Free ( DDF ) , the world's largest single airport retailer, to revolutionize the shopping experience for over 100 million customers.",
+            "banner_image": "https://mma.prnewswire.com/media/1222771/TerraPay_Logo.jpg",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.403994,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BNXYF",
+                    "relevance_score": "0.046184",
+                    "ticker_sentiment_score": "0.302626",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "Palantir Sounds Alarm On China's DeepSeek, Citing National Security Threat - But Won't Drop Clients Who Use It - Palantir Technologies  ( NASDAQ:PLTR ) ",
             "url": "https://www.benzinga.com/25/02/43453280/peter-thiels-palantir-sounds-alarm-on-chinas-deepseek-citing-national-security-threat-but-says-it-wont-drop-clien",
@@ -1858,193 +2052,6 @@
                     "ticker": "DDS",
                     "relevance_score": "0.332509",
                     "ticker_sentiment_score": "0.161379",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "GigaCloud Technology Inc Donates More than $1 Million in Furniture to Habitat for Humanity Greater Los Angeles to Aid Wildfire Victims - GigaCloud Tech  ( NASDAQ:GCT ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452489/gigacloud-technology-inc-donates-more-than-1-million-in-furniture-to-habitat-for-humanity-greater-",
-            "time_published": "20250204T011403",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "EL MONTE, Calif., Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- GigaCloud Technology Inc GCT ( \"GigaCloud\" or the \"Company\" ) , a pioneer of global end-to-end B2B ecommerce technology solutions for large parcel merchandise, today announced it is donating more than $1 million in home furnishings to Habitat ...",
-            "banner_image": "https://ml.globenewswire.com/media/04713bca-038c-4873-b85e-9bcf23e73e9c/small/gigacloud-technology-copy-png.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                }
-            ],
-            "overall_sentiment_score": 0.342933,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GCT",
-                    "relevance_score": "0.191776",
-                    "ticker_sentiment_score": "0.27475",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "GigaCloud Technology Inc Donates More than $1 Million in Furniture to Habitat for Humanity Greater Los Angeles to Aid Wildfire Victims",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019944/0/en/GigaCloud-Technology-Inc-Donates-More-than-1-Million-in-Furniture-to-Habitat-for-Humanity-Greater-Los-Angeles-to-Aid-Wildfire-Victims.html",
-            "time_published": "20250204T011400",
-            "authors": [
-                "GigaCloud Technology"
-            ],
-            "summary": "EL MONTE, Calif., Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- GigaCloud Technology Inc ( Nasdaq: GCT ) ( \"GigaCloud\" or the \"Company\" ) , a pioneer of global end-to-end B2B ecommerce technology solutions for large parcel merchandise, today announced it is donating more than $1 million in home ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/04713bca-038c-4873-b85e-9bcf23e73e9c",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.351382,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GCT",
-                    "relevance_score": "0.160099",
-                    "ticker_sentiment_score": "0.250164",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Salesforce Cuts 1000 Jobs But Ramps Up Hiring For AI Sales Roles - Salesforce  ( NYSE:CRM ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/02/43452478/salesforce-cuts-1000-jobs-but-ramps-up-hiring-for-ai-sales-roles",
-            "time_published": "20250204T011246",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "Salesforce Inc. CRM is reportedly slashing 1,000 jobs as its latest fiscal year begins, Bloomberg reported on Monday, citing sources. Simultaneously, the company is hiring 2,000 employees for sales roles to promote its artificial intelligence products, according to CEO Marc Benioff's announcement ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/salesforce-shutter.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.221736,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Can't Afford OpenAI's $200 Research Bot? Here Are a Few Great Alternatives",
-            "url": "https://decrypt.co/304228/cant-afford-openais-200-research-bot-few-great-alternatives",
-            "time_published": "20250204T010809",
-            "authors": [
-                "Jose Antonio Lanz"
-            ],
-            "summary": "Several companies are offering similar or better AI research capabilities at a tenth of the price, while others provide free alternatives.",
-            "banner_image": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/Captura-de-pantalla-2025-02-03-173849.png@webp",
-            "source": "Decrypt.co",
-            "category_within_source": "n/a",
-            "source_domain": "decrypt.co",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.275324,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.176933",
-                    "ticker_sentiment_score": "0.165826",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.029728",
-                    "ticker_sentiment_score": "0.07697",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:NANO",
-                    "relevance_score": "0.029728",
-                    "ticker_sentiment_score": "0.07697",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Prediction: Disney Will Soar in 2025 and Beyond Thanks to This 1 Thing",
-            "url": "https://www.fool.com/investing/2025/02/03/prediction-disney-will-soar-2025-and-beyond/",
-            "time_published": "20250204T010500",
-            "authors": [
-                "Neil Patel"
-            ],
-            "summary": "Unlike visitors to its popular theme parks, Walt Disney ( NYSE: DIS ) investors haven't had a magical time. Shares of the House of Mouse have fallen 18% in the past three years, as the market has been worried -- mostly about the decline of cable TV and what were sizable streaming losses.But there ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/805752/hand-pointing-to-rising-chart-2025.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.684621"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                }
-            ],
-            "overall_sentiment_score": 0.311449,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NFLX",
-                    "relevance_score": "0.242285",
-                    "ticker_sentiment_score": "0.287452",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Aravind Srinivas, CEO Of Jeff Bezos-Backed Perplexity, Reveals Why Most Startups Fail: 'The Thing That Most People Get Wrong...'",
-            "url": "https://www.benzinga.com/tech/25/02/43452421/aravind-srinivas-ceo-of-jeff-bezos-backed-perplexity-reveals-why-most-startups-fail-the-thing-that-most-peop",
-            "time_published": "20250204T010358",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "Aravind Srinivas, CEO of Jeff Bezos-backed Perplexity AI, believes many startup founders fail because they chase market trends instead of working on problems they truly care about. What Happened: During a June 2024 episode of the Lex Fridman Podcast, Srinivas shared his thoughts on why many ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Perplexity-AI.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.188654,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.102449",
-                    "ticker_sentiment_score": "0.192141",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
