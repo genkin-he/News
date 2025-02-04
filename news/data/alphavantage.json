@@ -1,8 +1,319 @@
 {
-    "items": "45",
+    "items": "44",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Dow Trims Losses After Trump Delays Mexico, Canada Tariffs: Greed Index Remains In 'Fear' Zone - Owens & Minor  ( NYSE:OMI ) , Electronic Arts  ( NASDAQ:EA ) ",
+            "url": "https://www.benzinga.com/25/02/43455955/dow-trims-losses-after-trump-delays-mexico-tariff-investor-sentiment-improves-fear-greed-index-in-fear-zone",
+            "time_published": "20250204T092904",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "The CNN Money Fear and Greed index showed some improvement in the overall market sentiment, while the index remained in the \"Fear\" zone on Monday. U.S. stocks settled lower on Monday, with the Dow Jones index falling more than 100 points during the session after President Donald Trump announced ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Market-Sentiment--Fear-And-Greed-Index--.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": -0.096561,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.100308",
+                    "ticker_sentiment_score": "-0.173628",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "OMI",
+                    "relevance_score": "0.199037",
+                    "ticker_sentiment_score": "0.313219",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PEP",
+                    "relevance_score": "0.199037",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EA",
+                    "relevance_score": "0.199037",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PFE",
+                    "relevance_score": "0.199037",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSN",
+                    "relevance_score": "0.199037",
+                    "ticker_sentiment_score": "0.313219",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Dogecoin Regains Momentum After 'Black Sunday' Rout-Here's What Indicators Signal About The Memecoin's Next Moves",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/02/43455908/dogecoin-regains-momentum-after-black-sunday-rout-heres-what-indicators-signal-about-the-m",
+            "time_published": "20250204T092526",
+            "authors": [
+                "Aniket Verma"
+            ],
+            "summary": "Popular dog-themed cryptocurrency Dogecoin DOGE/USD resumed its uptrend Monday, igniting a strong wave of optimism among bulls. What happened: Dogecoin was up over 5% in the last 24 hours, recovering from the 'Black Sunday' crash that eroded 28% of the value of the world's largest meme coin.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Why-It-Matters.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.217044,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.393462",
+                    "ticker_sentiment_score": "0.149847",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.802099",
+                    "ticker_sentiment_score": "0.385862",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Final terms for bonds to be listed 7th February 2025",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020039/0/en/Final-terms-for-bonds-to-be-listed-7th-February-2025.html",
+            "time_published": "20250204T092500",
+            "authors": [
+                "Jyske Realkredit A/S"
+            ],
+            "summary": "To Nasdaq Copenhagen A/S 4th February 2025 Final terms for bonds to be listed 7th February 2025 On 7th February 2025, Jyske Realkredit A/S will be listing new Covered Bonds ( SDO ) . Final terms for the bonds are attached to this announcement.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/7e04bcc8-98c6-4a29-9732-3808e21a13cd",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.576289"
+                }
+            ],
+            "overall_sentiment_score": 0.044197,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Pfizer Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts - Pfizer  ( NYSE:PFE ) ",
+            "url": "https://www.benzinga.com/25/02/43455760/pfizer-gears-up-for-q4-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
+            "time_published": "20250204T091529",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "Pfizer Inc. PFE will release its fourth-quarter financial results, before the opening bell, on Tuesday, Feb. 4, 2025. Analysts expect the New York-based company to report quarterly earnings at 46 cents per share, up from 10 cents per share in the year-ago period.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/04041415/image-2-2-1024x593.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.078056,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.10607",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.10607",
+                    "ticker_sentiment_score": "-0.075588",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.10607",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PFE",
+                    "relevance_score": "0.576289",
+                    "ticker_sentiment_score": "0.076321",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Form 8.5  ( EPT/RI )  - Dowlais Group Plc",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020026/0/en/Form-8-5-EPT-RI-Dowlais-Group-Plc.html",
+            "time_published": "20250204T090200",
+            "authors": [
+                "INVESTEC BANK PLC"
+            ],
+            "summary": "FORM ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Percona Announces Comprehensive, Enterprise-Grade Support for Open Source Redis Alternative, Valkey",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43455690/percona-announces-comprehensive-enterprise-grade-support-for-open-source-redis-alternative-valkey",
+            "time_published": "20250204T090000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "RALEIGH, N.C., Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Percona, a global leader in enterprise-grade open source database software and services, today announced the availability of Percona Support for Valkey-a comprehensive, responsive, and flexible service offering that promises to maintain ... cloud.",
+            "banner_image": "https://ml.globenewswire.com/media/f65f2d87-fe29-44aa-be11-bac69e5b6414/small/percona-horizontal-logo-fullcolor-darktext-png.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.400091,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.040078",
+                    "ticker_sentiment_score": "0.175003",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "If You Put Just $100 in Your 401 ( k )  Every Month for 10 Years, You Could Have This Much Cash by Retirement",
+            "url": "https://www.fool.com/retirement/2025/02/04/if-you-put-just-100-in-your-401k-every-month-for-1/",
+            "time_published": "20250204T090000",
+            "authors": [
+                "Katie Brockman"
+            ],
+            "summary": "Investing consistently over many years is the key to building a healthy retirement fund, and the longer you give your money to grow, the less you'll need to save each month to see significant progress.Contributing even $100 per month to your 401 ( k ) can go a long way over time.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806184%2Fperson-sitting-at-a-desk-looking-at-a-laptop-with-a-child-nearby.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.744043"
+                }
+            ],
+            "overall_sentiment_score": 0.195653,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "ZMG7 LLC: Pioneering the UAE's digital asset transformation through global collaboration - Metalpha Technology  ( NASDAQ:MATH ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/n43455693/zmg7-llc-pioneering-the-uaes-digital-asset-transformation-through-global-collaboration",
+            "time_published": "20250204T090000",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "HONG KONG, Feb. 4, 2025 /PRNewswire/ -- Gewan Holding, Zodia Markets, and Metalpha Limited have today officially announced the launch of ZMG7 LLC, a partnership set to redefine the global digital asset ecosystem.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.955357"
+                }
+            ],
+            "overall_sentiment_score": 0.463345,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MATH",
+                    "relevance_score": "0.145437",
+                    "ticker_sentiment_score": "0.284387",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SCBFF",
+                    "relevance_score": "0.097259",
+                    "ticker_sentiment_score": "0.185285",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "Form 8.5  ( EPT/RI )  - De La Rue plc",
             "url": "https://www.globenewswire.com/news-release/2025/02/04/3020020/0/en/Form-8-5-EPT-RI-De-La-Rue-plc.html",
@@ -105,6 +416,96 @@
             "overall_sentiment_score": 0.160819,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
+        },
+        {
+            "title": "ExxonMobil Has Built a Juggernaut in the Oil Patch",
+            "url": "https://www.fool.com/investing/2025/02/04/exxonmobil-has-built-a-juggernaut-in-the-oil-patch/",
+            "time_published": "20250204T084100",
+            "authors": [
+                "Matt DiLallo"
+            ],
+            "summary": "ExxonMobil ( NYSE: XOM ) has built a premier oil company. The energy giant has an unrivaled asset base. It controls a treasure trove of low-cost oil and gas around the world. The company also has an integrated products solutions business in chemicals and refining that enables it to maximize ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806228/a-person-looking-at-an-oil-pump-with-the-sun-setting-in-the-background.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.983605"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                }
+            ],
+            "overall_sentiment_score": 0.329797,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CVX",
+                    "relevance_score": "0.057767",
+                    "ticker_sentiment_score": "0.027999",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.228073",
+                    "ticker_sentiment_score": "0.391448",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "2 Stock-Split AI Stocks to Buy Before They Soar in 2025, According to Wall Street",
+            "url": "https://www.fool.com/investing/2025/02/04/2-stock-split-ai-stocks-buy-before-soar-2025-wall/",
+            "time_published": "20250204T084000",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "Nvidia ( NASDAQ: NVDA ) and Lam Research ( NASDAQ: LRCX ) play important roles in the artificial intelligence ( AI ) supply chain. Both stocks outperformed the S&P 500 during the last five years, and both companies reset their soaring share prices with stock splits in 2024.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806270/growth-23.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.96136"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.243012,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LRCX",
+                    "relevance_score": "0.214462",
+                    "ticker_sentiment_score": "0.240759",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.413708",
+                    "ticker_sentiment_score": "0.359732",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
         },
         {
             "title": "Tesla's Cybertruck Just Got More Affordable Thanks To $7,500 Tax Credit - Tesla  ( NASDAQ:TSLA ) ",
@@ -1405,412 +1806,6 @@
                     "relevance_score": "0.036983",
                     "ticker_sentiment_score": "-0.007731",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "HONKARAKENNE OYJ'S SHAREHOLDERS' NOMINATION COMMITTEE'S PROPOSALS FOR THE COMPOSITION AND REMUNERATION OF THE BOARD OF DIRECTORS",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019997/0/en/HONKARAKENNE-OYJ-S-SHAREHOLDERS-NOMINATION-COMMITTEE-S-PROPOSALS-FOR-THE-COMPOSITION-AND-REMUNERATION-OF-THE-BOARD-OF-DIRECTORS.html",
-            "time_published": "20250204T070000",
-            "authors": [
-                "Honkarakenne Oyj"
-            ],
-            "summary": "Honkarakenne Oyj - Stock Exchange Release - Shareholders' Nomination Committee's proposals for the composition and remuneration of the Board of Directors ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/bc6bec70-7c7c-4a83-a8fe-b15c5d23637a",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.650727"
-                }
-            ],
-            "overall_sentiment_score": 0.053081,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CVS",
-                    "relevance_score": "0.069094",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Signify starts EUR 150 million share repurchase program",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019994/0/en/Signify-starts-EUR-150-million-share-repurchase-program.html",
-            "time_published": "20250204T070000",
-            "authors": [
-                "Signify"
-            ],
-            "summary": "Signify starts EUR 150 million share repurchase program Eindhoven, the Netherlands - Signify ( Euronext: LIGHT ) , the world leader in lighting, today announced the start of its share repurchase program to buy back up to EUR 150 million of its own shares, as announced in its press release of ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/d7fed6d4-9102-4273-82f2-a1cb07a42f32",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.335951,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Progress on share buyback programme",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43454469/progress-on-share-buyback-programme",
-            "time_published": "20250204T070000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "ING announced today that, as part of our \u20ac2.0 billion share buyback programme announced on 31 October 2024, in total 4,550,623 shares were repurchased during the week of 27 January 2025 up to and including 31 January 2025. The shares were repurchased at an average price of \u20ac16.06 or a total ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.744043"
-                }
-            ],
-            "overall_sentiment_score": 0.088861,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CURN",
-                    "relevance_score": "0.024347",
-                    "ticker_sentiment_score": "-0.01041",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MORN",
-                    "relevance_score": "0.024347",
-                    "ticker_sentiment_score": "0.126339",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ING",
-                    "relevance_score": "0.607187",
-                    "ticker_sentiment_score": "0.121398",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:XCP",
-                    "relevance_score": "0.024347",
-                    "ticker_sentiment_score": "-0.01041",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Budget 2025 impact: Consumer goods firms gear up to cash in on the cash in hand - ETCFO",
-            "url": "https://cfo.economictimes.indiatimes.com/news/economy/budget-2025-impact-consumer-goods-firms-gear-up-to-cash-in-on-the-cash-in-hand/117906255",
-            "time_published": "20250204T065653",
-            "authors": [
-                "Writankar Mukherjee",
-                "ETCFO",
-                "Sharmistha Mukherjee"
-            ],
-            "summary": "Manufacturers of consumer goods, such as electronics and two-wheelers, plan to increase production of entry-level products following income tax benefits in the budget. These benefits are expected to boost demand for mass market items that have been sluggish in recent years due to inflationary ...",
-            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
-            "source": "Economic Times",
-            "category_within_source": "Economy",
-            "source_domain": "cfo.economictimes.indiatimes.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.292285,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Hong Kong property sales hit 4-month low as tariffs, rate outlook rattle buyers",
-            "url": "https://www.scmp.com/business/article/3297285/hong-kong-property-sales-slip-4-month-low-tariffs-interest-rate-path-unnerved-buyers",
-            "time_published": "20250204T065359",
-            "authors": [
-                "Cheryl Arcibal"
-            ],
-            "summary": "Deals involving residential and commercial properties and parking spaces fell in January as buyers braced for geopolitical tensions, slower rate cuts.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/02/03/Clean_2.jpg?itok=RYFQXv4w",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.682689"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.905476"
-                }
-            ],
-            "overall_sentiment_score": -0.026813,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "China Strikes Back: New Tariffs Up To 15% On Certain US Imports In Retaliation For Trump's 10% Levy On Chinese Goods China Retaliates With New Tariffs On US Imports As Trade War Escalates - Chevron  ( NYSE:CVX ) , ConocoPhillips  ( NYSE:COP ) ",
-            "url": "https://www.benzinga.com/economics/macro-economic-events/25/02/43454424/china-strikes-back-new-tariffs-up-to-15-on-certain-us-imports-in-retaliation-for-",
-            "time_published": "20250204T065101",
-            "authors": [
-                "Namrata Sen"
-            ],
-            "summary": "In response to the United States' unilateral decision to impose a 10% tariff on all Chinese goods, China has announced its intention to retaliate by imposing tariffs on certain US imports.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Serious-Trade-Tension-Or-Trade-War-Betwe.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.036094,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CVX",
-                    "relevance_score": "0.184598",
-                    "ticker_sentiment_score": "-0.01661",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "COP",
-                    "relevance_score": "0.184598",
-                    "ticker_sentiment_score": "-0.01661",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GM",
-                    "relevance_score": "0.184598",
-                    "ticker_sentiment_score": "-0.01661",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "XOM",
-                    "relevance_score": "0.184598",
-                    "ticker_sentiment_score": "-0.01661",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Nintendo posts profit miss as it slashes Switch forecast again ahead of console's successor",
-            "url": "https://www.cnbc.com/2025/02/04/nintendo-switch-2-in-focus-as-gaming-giant-posts-profit-miss.html",
-            "time_published": "20250204T064319",
-            "authors": [],
-            "summary": "Nintendo investors and fans are awaiting more details on the Switch 2, the successor to the company's near eight-year-old Switch console.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Earnings",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.17368,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NTDOF",
-                    "relevance_score": "0.907043",
-                    "ticker_sentiment_score": "0.282491",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "FOREX:JPY",
-                    "relevance_score": "0.662945",
-                    "ticker_sentiment_score": "0.388471",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Winner Winner, Chicken Dinner: Tyson Foods Q1 Beat Showcases 'Improved Execution' In Poultry, Says CEO - iShares Russell 2000 ETF  ( ARCA:IWM ) , Tyson Foods  ( NYSE:TSN ) ",
-            "url": "https://www.benzinga.com/general/market-summary/25/02/43454291/winner-winner-chicken-dinner-tyson-foods-q1-beat-showcases-improved-execution-in-poultry-s",
-            "time_published": "20250204T063432",
-            "authors": [
-                "Rishabh Mishra"
-            ],
-            "summary": "Tyson Foods recorded third consecutive quarter of annual growth across key metrics. It achieved the best adjusted operating income of any quarter over the past eight years in the chicken segment. Get Wall Street's Hottest Chart Every Morning Tyson Foods Inc.",
-            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/04005115/Tyson-ANR-1024x384.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.744043"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.16881,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WBD",
-                    "relevance_score": "0.065327",
-                    "ticker_sentiment_score": "0.046038",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSN",
-                    "relevance_score": "0.256989",
-                    "ticker_sentiment_score": "0.175197",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "BCS",
-                    "relevance_score": "0.065327",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Tesla's Golden State Struggles: Registrations Decline In US' Largest EV Market For 5th Straight Quarter - Tesla  ( NASDAQ:TSLA ) ",
-            "url": "https://www.benzinga.com/tech/25/02/43454267/teslas-golden-state-struggles-registrations-decline-in-us-largest-ev-market-for-5th-straight-quarter",
-            "time_published": "20250204T063255",
-            "authors": [
-                "Anan Ashraf"
-            ],
-            "summary": "EV giant Tesla Inc. TSLA had 203,221 vehicle registrations in California in 2024, nearly 12% lower than the year before, according to recent industry data. What Happened: \"Things aren't looking so golden for EV automaker Tesla in the Golden State.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Tesla-Tackles-Cybertruck-Blind-Spots-Wit.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.145121,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.704675",
-                    "ticker_sentiment_score": "0.072964",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "DSV, 1150 - 2024 ANNUAL REPORT",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019988/0/en/DSV-1150-2024-ANNUAL-REPORT.html",
-            "time_published": "20250204T063100",
-            "authors": [
-                "DSV A/S"
-            ],
-            "summary": "Company Announcement No. ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/75955872-455b-4e54-9855-53fb2ab00c3c",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.838487"
-                }
-            ],
-            "overall_sentiment_score": 0.322676,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CURN",
-                    "relevance_score": "0.045054",
-                    "ticker_sentiment_score": "-0.122154",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.045054",
-                    "ticker_sentiment_score": "-0.122154",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Palantir Is 'Making America More Lethal' As Alex Karp-Led Company Secures $1.8 Billion in AI Contracts - US Commercial Customer Base Surges 73% - Palantir Technologies  ( NASDAQ:PLTR ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/02/43454250/palantir-is-making-america-more-lethal-as-alex-karp-led-company-secures-1-8-billion-in-ai-contra",
-            "time_published": "20250204T063059",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "Palantir Technologies Inc. PLTR delivered a blockbuster fourth-quarter performance, positioning itself as a critical player in the artificial intelligence revolution with a 36% year-over-year revenue increase and aggressive growth across commercial and government sectors.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/The-Palantir-Trade.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.905476"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                }
-            ],
-            "overall_sentiment_score": 0.348546,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.247838",
-                    "ticker_sentiment_score": "0.365031",
-                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         }
