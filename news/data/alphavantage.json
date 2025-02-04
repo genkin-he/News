@@ -1,8 +1,55 @@
 {
-    "items": "46",
+    "items": "45",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Mohamed El-Erian Flags Market Jitters As Trump Tariff Pause On Canada Triggers Currency Swings - Larry Summers Warns Of Trade Fallout",
+            "url": "https://www.benzinga.com/news/25/02/43453597/mohamed-el-erian-flags-market-jitters-as-tariff-pause-triggers-currency-swings-larry-summers-warns-of-trade-",
+            "time_published": "20250204T043121",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "U.S. tariffs imposed by President Donald Trump on imports from Canada, Mexico, and China are rattling markets and stirring sharp reactions from economists.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Trump-Tariffs-Strengthen-Dollar--But-Hed_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.012089,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ALIZF",
+                    "relevance_score": "0.069094",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:UYU",
+                    "relevance_score": "0.069094",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:MXN",
+                    "relevance_score": "0.069094",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:CAD",
+                    "relevance_score": "0.069094",
+                    "ticker_sentiment_score": "-0.002039",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Palantir's Shyam Sankar: US Is At War With China In AI-And The Time To Act Was 'Yesterday' - Palantir Technologies  ( NASDAQ:PLTR ) ",
             "url": "https://www.benzinga.com/tech/25/02/43453553/palantirs-shyam-sankar-us-is-at-war-with-china-in-ai-and-the-time-to-act-was-yesterday",
@@ -90,6 +137,39 @@
                     "relevance_score": "0.2872",
                     "ticker_sentiment_score": "0.181122",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Canadian Man Charged for Exploiting DeFi Vulnerabilities in $65M Hacking Scheme",
+            "url": "https://decrypt.co/304271/canadian-man-charged-for-exploiting-defi-vulnerabilities-in-65m-hacking-scheme",
+            "time_published": "20250204T041948",
+            "authors": [
+                "Vismaya V"
+            ],
+            "summary": "The man, still at large, faces five charges, including wire fraud, computer damage, extortion, and money laundering.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/Webp.net-resizeimage-27-gID_7.jpg",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": -0.252408,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.075635",
+                    "ticker_sentiment_score": "-0.069665",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
@@ -1911,147 +1991,6 @@
                     "ticker": "NU",
                     "relevance_score": "0.102449",
                     "ticker_sentiment_score": "0.193397",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Luxembourg can facilitate dialogue between world's superpowers: finance minister",
-            "url": "https://www.scmp.com/business/banking-finance/article/3297241/luxembourg-can-facilitate-dialogue-between-worlds-superpowers-finance-minister-says",
-            "time_published": "20250204T013025",
-            "authors": [
-                "Cao Li"
-            ],
-            "summary": "Gilles Roth says trade should not be fragmented amid tensions in Ukraine and the Middle East.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/04/d740f268-a7f7-40a9-a6a0-0b4b045b8b2b_fd826b47.jpg?itok=fyg52LfZ&v=1738632623",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.796627"
-                }
-            ],
-            "overall_sentiment_score": 0.1055,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BACHY",
-                    "relevance_score": "0.059049",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Palantir Stock Soars 23% as Artificial Intelligence  ( AI )  Demand Drives 75% Earnings Growth",
-            "url": "https://www.fool.com/investing/2025/02/03/pltr-stock-earnings-best-ai-stocks/",
-            "time_published": "20250204T013000",
-            "authors": [
-                "Beth McKenna"
-            ],
-            "summary": "The AI-driven software company turned in fantastic Q4 2024 results and 2025 guidance.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806321/pltr-stock-earnings-best-ai-stocks-2025.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.267746,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.062434",
-                    "ticker_sentiment_score": "0.13707",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.124486",
-                    "ticker_sentiment_score": "0.238102",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "2 Growth Stocks Wall Street Might Be Sleeping On, but I'm Not",
-            "url": "https://www.fool.com/investing/2025/02/03/2-growth-stocks-wall-street-might-be-sleeping-on-b/",
-            "time_published": "20250204T012000",
-            "authors": [
-                "Jeremy Bowman"
-            ],
-            "summary": "The current bull market has been fueled by a handful of stocks known as the \"Magnificent Seven,\" which have outperformed the S&P 500 and taken over the spotlight over the last two years.However, there have been other winners that have flown under the radar or have yet to get the attention they ...",
-            "banner_image": "https://media.ycharts.com/charts/8b5a7712415de7a154553595f673a2f4.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.839681"
-                }
-            ],
-            "overall_sentiment_score": 0.365161,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CPNG",
-                    "relevance_score": "0.383765",
-                    "ticker_sentiment_score": "0.473383",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "MELI",
-                    "relevance_score": "0.057079",
-                    "ticker_sentiment_score": "0.218",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "DDS",
-                    "relevance_score": "0.332509",
-                    "ticker_sentiment_score": "0.161379",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
