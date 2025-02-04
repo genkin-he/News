@@ -1,8 +1,688 @@
 {
-    "items": "49",
+    "items": "50",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "PyroGenesis Provides Update on Impact of Potential U.S. Tariffs",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020726/0/en/PyroGenesis-Provides-Update-on-Impact-of-Potential-U-S-Tariffs.html",
+            "time_published": "20250204T192100",
+            "authors": [
+                "PyroGenesis Inc."
+            ],
+            "summary": "The Company expects to be relatively unaffected by U.S. tariffs.Remains encouraged by key campaign promises to boost industrial innovation and accelerate capital projects and energy grid growth.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/be715f43-295f-49b0-ae9a-5190ef3b76bf",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.839681"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.243555,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WM",
+                    "relevance_score": "0.032294",
+                    "ticker_sentiment_score": "0.11966",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Ford Q4 Earnings Preview: EV Tax Credit, Tariffs Could Reshape Auto Giant's Future - Ford Motor  ( NYSE:F ) ",
+            "url": "https://www.benzinga.com/news/global/25/02/43475069/ford-q4-earnings-preview-ev-tax-credit-tariffs-could-reshape-auto-giants-future",
+            "time_published": "20250204T191743",
+            "authors": [
+                "Chris Katje"
+            ],
+            "summary": "Ford reports fourth-quarter financial results after market close Wednesday, Feb. 5. Among the key items to watch will be if the company comments on the impact tariffs and the removal of the EV federal tax credit could have.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Ford-Motor-Company-F.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.947132"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.134959,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.344712",
+                    "ticker_sentiment_score": "0.135831",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.071145",
+                    "ticker_sentiment_score": "0.071346",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Spotify Is Still One Of Top 4 Best Ideas For 2025: Analyst - Spotify Technology  ( NYSE:SPOT ) ",
+            "url": "https://www.benzinga.com/25/02/43475015/spotifys-strong-subscriber-growth-and-rising-margins-keep-analysts-bullish",
+            "time_published": "20250204T191602",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "Spotify's Q4 revenue grew 16% to $4.53B, beating estimates, as premium subscribers and gross margins exceeded expectations. Analysts remain bullish on Spotify, citing strong profitability trends, rising pricing power, and stable user and subscriber growth. Get Wall Street's Hottest Chart Every ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Spotify-Photo-by-esthermm-on-Shutterstoc.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999759"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.341306,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.1172",
+                    "ticker_sentiment_score": "0.210013",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.582526",
+                    "ticker_sentiment_score": "0.637553",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Spotlight on Futu Hldgs: Analyzing the Surge in Options Activity - Futu Hldgs  ( NASDAQ:FUTU ) ",
+            "url": "https://www.benzinga.com/insights/options/25/02/43475004/spotlight-on-futu-hldgs-analyzing-the-surge-in-options-activity",
+            "time_published": "20250204T191536",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Investors with a lot of money to spend have taken a bearish stance on Futu Hldgs FUTU. We noticed this today when the positions showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738696533_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.989041"
+                }
+            ],
+            "overall_sentiment_score": 0.159876,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FUTU",
+                    "relevance_score": "0.779232",
+                    "ticker_sentiment_score": "0.23592",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Unpacking the Latest Options Trading Trends in SoFi Techs - SoFi Techs  ( NASDAQ:SOFI ) ",
+            "url": "https://www.benzinga.com/insights/options/25/02/43475002/unpacking-the-latest-options-trading-trends-in-sofi-techs",
+            "time_published": "20250204T191531",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Deep-pocketed investors have adopted a bullish approach towards SoFi Techs SOFI, and it's something market players shouldn't ignore. Our tracking of public options records at Benzinga unveiled this significant move today.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738696528_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                }
+            ],
+            "overall_sentiment_score": 0.195956,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "A Closer Look at Exxon Mobil's Options Market Dynamics - Exxon Mobil  ( NYSE:XOM ) ",
+            "url": "https://www.benzinga.com/insights/options/25/02/43475000/a-closer-look-at-exxon-mobils-options-market-dynamics",
+            "time_published": "20250204T191526",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Deep-pocketed investors have adopted a bullish approach towards Exxon Mobil XOM, and it's something market players shouldn't ignore. Our tracking of public options records at Benzinga unveiled this significant move today.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738696523_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.962106"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.182151,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.067919",
+                    "ticker_sentiment_score": "0.030169",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.693563",
+                    "ticker_sentiment_score": "0.301811",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "PARIS SAINT-GERMAIN AND BEIN SPORTS COME TOGETHER TO BRING LIVE LIGUE 1 MATCHES IN VR TO US FANS, AVAILABLE ON XTADIUM",
+            "url": "https://www.benzinga.com/pressreleases/25/02/n43474998/paris-saint-germain-and-bein-sports-come-together-to-bring-live-ligue-1-matches-in-vr-to-us-fans-a",
+            "time_published": "20250204T191500",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "DLC, Feb. 4, 2025 /PRNewswire/ -- Paris Saint-Germain continues to innovate, offering its fans increasingly cutting-edge experiences. The Club is proud to announce the launch of an exclusive immersive room on Xtadium, the leading platform for immersive sports experiences, in partnership with beIN ...",
+            "banner_image": "https://mma.prnewswire.com/media/2612620/Yerba_Buena_VR__PSG_will_be_Live_in_VR.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.395493,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "New Toll Brothers Model Home Opens at Hidden Oaks Community in Chatsworth, California",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020725/1924/en/New-Toll-Brothers-Model-Home-Opens-at-Hidden-Oaks-Community-in-Chatsworth-California.html",
+            "time_published": "20250204T191400",
+            "authors": [
+                "Toll Brothers",
+                "Inc."
+            ],
+            "summary": "Exclusive community offers luxury homes with expansive backyards and modern designs Exclusive community offers luxury homes with expansive backyards and modern designs ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/7090110e-aa59-4747-be1c-bdb9b5008623/8714-ca-streetscape-lots4-6-2-cc-rgb.jpg",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.744043"
+                }
+            ],
+            "overall_sentiment_score": 0.32921,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TOL",
+                    "relevance_score": "0.672864",
+                    "ticker_sentiment_score": "0.458022",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Disney  ( DIS )  Stock Rides Bullish Wave: Can Q1 Earnings Keep The Magic Alive? - Walt Disney  ( NYSE:DIS ) ",
+            "url": "https://www.benzinga.com/general/entertainment/25/02/43474913/disney-dis-stock-bullish-q1-earnings-magic-alive",
+            "time_published": "20250204T191122",
+            "authors": [
+                "Surbhi Jain"
+            ],
+            "summary": "Disney stock remains in a strong uptrend, trading above key moving averages ahead of Q1 earnings. Analysts see further upside, with a consensus price target of $123.14, implying a 13.04% gain. Walt Disney Co DIS will be reporting its first-quarter earnings on Wednesday.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/04125731/Screenshot-2025-02-04-at-11.09.26-PM.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.692272"
+                }
+            ],
+            "overall_sentiment_score": 0.364016,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MCQEF",
+                    "relevance_score": "0.103331",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.103331",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Amazon 'Relatively Well-Positioned' To Face Trump's Tariffs: Analyst - Amazon.com  ( NASDAQ:AMZN ) ",
+            "url": "https://www.benzinga.com/25/02/43474797/amazon-faces-trumps-tariffs",
+            "time_published": "20250204T190725",
+            "authors": [
+                "Erica Kollmann"
+            ],
+            "summary": "President Donald Trump's new tariffs on China-made goods go into effect on Tuesday. \"The negative impact on the tech sector will ultimately be much more bark than bite in our view,\" Wedbush analysts write. President Donald Trump officially implemented new tariffs on China-made goods as of ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/What-Amazon-Thinks-About-The-Protests-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.175292,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PDD",
+                    "relevance_score": "0.187463",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.523202",
+                    "ticker_sentiment_score": "0.23827",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Gold Moves Higher; Est\u00e9e Lauder Shares Slide - Atkore  ( NYSE:ATKR ) , Estee Lauder Cos  ( NYSE:EL ) ",
+            "url": "https://www.benzinga.com/25/02/43474623/gold-moves-higher-estee-lauder-shares-slide",
+            "time_published": "20250204T190255",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "U.S. stocks traded higher toward the end of trading, with the S&P 500 gaining around 0.6% on Tuesday. The Dow traded up 0.13% to 44,481.08 while the NASDAQ gained 1.18% to 19,620.50. The S&P 500 also rose, gaining, 0.58% to 6,029.54. In trading on Monday, utilities shares fell by 0.9%.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Gold.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.289739,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UPC",
+                    "relevance_score": "0.188928",
+                    "ticker_sentiment_score": "0.214627",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ATKR",
+                    "relevance_score": "0.188928",
+                    "ticker_sentiment_score": "-0.10279",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.188928",
+                    "ticker_sentiment_score": "0.389674",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.095138",
+                    "ticker_sentiment_score": "0.348019",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why Is Grab Stock Trading Higher On Tuesday? - Grab Holdings  ( NASDAQ:GRAB ) ",
+            "url": "https://www.benzinga.com/25/02/43474603/grab-and-goto-set-2025-merger-goal-to-battle-uber-report",
+            "time_published": "20250204T190232",
+            "authors": [
+                "Shivani Kumaresan"
+            ],
+            "summary": "Grab and GoTo are targeting a 2025 merger deadline. A merger aims to strengthen competition against Uber in Southeast Asia. Get Wall Street's Hottest Chart Every Morning Shares of ride-hailing, food delivery and digital payment services provider Grab Holdings Ltd. GRAB are trading higher on ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/GRAB.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.326,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GRAB",
+                    "relevance_score": "0.3007",
+                    "ticker_sentiment_score": "0.262707",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.3007",
+                    "ticker_sentiment_score": "0.368497",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "SFTBF",
+                    "relevance_score": "0.102449",
+                    "ticker_sentiment_score": "0.116713",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:IDR",
+                    "relevance_score": "0.102449",
+                    "ticker_sentiment_score": "0.181492",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Dogecoin, Shiba Inu, Popcat Have Corrected Multiple Times And Bounced Back, D.O.G.E Set To Do The Same, Trader Argues",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/02/43474596/dogecoin-shiba-inu-popcat-have-corrected-multiple-times-and-bounced-back-doge-set-to-do-th",
+            "time_published": "20250204T190218",
+            "authors": [
+                "Khyathi Dalal"
+            ],
+            "summary": "Crypto trader Unipcs highlights that deep corrections are common in meme coins, and D.O.G.E is no exception. He predicts D.O.G.E could go parabolic soon, fueled by its strong narrative tied to Trump's administration. Get Wall Street's Hottest Chart Every Morning",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/What-Caused-The-Surge-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [],
+            "overall_sentiment_score": 0.239603,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:SHIB",
+                    "relevance_score": "0.210274",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.210274",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Market Whales and Their Recent Bets on RDDT Options - Reddit  ( NYSE:RDDT ) ",
+            "url": "https://www.benzinga.com/insights/options/25/02/43474549/market-whales-and-their-recent-bets-on-rddt-options",
+            "time_published": "20250204T190036",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Financial giants have made a conspicuous bullish move on Reddit. Our analysis of options history for Reddit RDDT revealed 125 unusual trades. Delving into the details, we found 47% of traders were bullish, while 37% showed bearish tendencies.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738695633_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.955357"
+                }
+            ],
+            "overall_sentiment_score": 0.175542,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.085936",
+                    "ticker_sentiment_score": "-0.0021",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RDDT",
+                    "relevance_score": "0.764792",
+                    "ticker_sentiment_score": "0.214994",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Roblox's Options: A Look at What the Big Money is Thinking - Roblox  ( NYSE:RBLX ) ",
+            "url": "https://www.benzinga.com/insights/options/25/02/43474544/robloxs-options-a-look-at-what-the-big-money-is-thinking",
+            "time_published": "20250204T190031",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Financial giants have made a conspicuous bearish move on Roblox. Our analysis of options history for Roblox RBLX revealed 22 unusual trades. Delving into the details, we found 40% of traders were bullish, while 50% showed bearish tendencies.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738695628_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                }
+            ],
+            "overall_sentiment_score": 0.18786,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RBLX",
+                    "relevance_score": "0.832201",
+                    "ticker_sentiment_score": "0.204986",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "This Is What Whales Are Betting On Lockheed Martin - Lockheed Martin  ( NYSE:LMT ) ",
+            "url": "https://www.benzinga.com/insights/options/25/02/43474538/this-is-what-whales-are-betting-on-lockheed-martin",
+            "time_published": "20250204T190025",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Investors with a lot of money to spend have taken a bearish stance on Lockheed Martin LMT. We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738695622_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.192302,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.791081",
+                    "ticker_sentiment_score": "0.31598",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.062597",
+                    "ticker_sentiment_score": "0.047069",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.062597",
+                    "ticker_sentiment_score": "0.047069",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.062597",
+                    "ticker_sentiment_score": "0.047069",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Defy Investments Acquires Davis Homes",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43474517/defy-investments-acquires-davis-homes",
+            "time_published": "20250204T190000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Fort Wayne, Indiana, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Defy Investments, a newly established investment and management company focused on acquiring and growing commercial and residential construction companies, announced today it has acquired Indianapolis-based homebuilder Davis Homes.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Mergers",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.996023"
+                }
+            ],
+            "overall_sentiment_score": 0.409063,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
         {
             "title": "Pfizer Shares Are Falling Today: What's Going On? - Pfizer  ( NYSE:PFE ) ",
             "url": "https://www.benzinga.com/trading-ideas/movers/25/02/43474497/pfizer-shares-are-falling-today-whats-going-on",
@@ -52,6 +732,73 @@
                     "ticker": "UNH",
                     "relevance_score": "0.118064",
                     "ticker_sentiment_score": "0.038986",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "SHAREHOLDER INVESTIGATION: Halper Sadeh LLC Investigates LGTY, ENFN, ITCI, SSTK on Behalf of Shareholders - Enfusion  ( NYSE:ENFN ) , Intra-Cellular Therapies  ( NASDAQ:ITCI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43474435/shareholder-investigation-halper-sadeh-llc-investigates-lgty-enfn-itci-sstk-on-behalf-of-sharehold",
+            "time_published": "20250204T185639",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Halper Sadeh LLC, an investor rights law firm, is investigating the following companies for potential violations of the federal securities laws and/or breaches of fiduciary duties to shareholders relating to: Logility Supply Chain Solutions, Inc.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": 0.152182,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ENFN",
+                    "relevance_score": "0.207571",
+                    "ticker_sentiment_score": "0.173261",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SSTK",
+                    "relevance_score": "0.207571",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GETY",
+                    "relevance_score": "0.104683",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ITCI",
+                    "relevance_score": "0.104683",
+                    "ticker_sentiment_score": "0.083919",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LGTY",
+                    "relevance_score": "0.104683",
+                    "ticker_sentiment_score": "0.142443",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.104683",
+                    "ticker_sentiment_score": "0.083919",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -152,6 +899,49 @@
                     "ticker": "NCPL",
                     "relevance_score": "0.326283",
                     "ticker_sentiment_score": "0.400228",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "SoundHound AI  ( SOUN )  technical analysis - SoundHound AI  ( NASDAQ:SOUN ) , ResMed  ( NYSE:RMD ) ",
+            "url": "https://www.benzinga.com/25/02/43474285/stock-of-the-day-different-ways-to-profit-from-soundhound",
+            "time_published": "20250204T185003",
+            "authors": [
+                "Mark Putrino"
+            ],
+            "summary": "Shares of SoundHound AI ( SOUN ) are trading within a range. Some traders may trade the stock if it breaks out or breaks down. Get the Real Story Behind Every Major Earnings Report Shares of SoundHound AI, Inc. SOUN are making a nice move higher Tuesday.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/04134953/111-1024x546.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                }
+            ],
+            "overall_sentiment_score": 0.101675,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RMD",
+                    "relevance_score": "0.17715",
+                    "ticker_sentiment_score": "0.077638",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SOUN",
+                    "relevance_score": "0.345674",
+                    "ticker_sentiment_score": "0.361848",
                     "ticker_sentiment_label": "Bullish"
                 }
             ]
@@ -347,6 +1137,26 @@
             ]
         },
         {
+            "title": "As Trump considers ways to dismantle the Education Dept., here's what to know about your student loans",
+            "url": "https://www.cnbc.com/2025/02/04/trumps-moves-to-abolish-education-dept-imperil-student-loan-programs.html",
+            "time_published": "20250204T184440",
+            "authors": [],
+            "summary": "The Trump administration is looking to shut down the Education Department. Here's what it could mean for the 42 million Americans with federal student loans.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.503496"
+                }
+            ],
+            "overall_sentiment_score": 0.021731,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
             "title": "Apple's App Store Booms As ChatGPT, Productivity Apps Drive Revenue Growth, Analyst Says - Apple  ( NASDAQ:AAPL ) ",
             "url": "https://www.benzinga.com/25/02/43474095/apples-app-store-booms-as-chatgpt-productivity-apps-drive-revenue-growth-analyst-says",
             "time_published": "20250204T184329",
@@ -380,6 +1190,53 @@
                     "relevance_score": "0.496597",
                     "ticker_sentiment_score": "0.379634",
                     "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "SUI DEADLINE ALERT: ROSEN, SKILLED INVESTOR COUNSEL, Encourages Sun Communities, Inc. Investors to Secure Counsel Before Important February 10 Deadline in Securities Class Action - SUI - Sun Communities  ( NYSE:SUI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43474087/sui-deadline-alert-rosen-skilled-investor-counsel-encourages-sun-communities-inc-investors-to-secu",
+            "time_published": "20250204T184300",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Sun Communities, Inc. SUI between February 28, 2019 and September 24, 2024, both dates inclusive ( the \"Class Period\" ) , of the important February 10, ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.207057,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.057907",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SUI",
+                    "relevance_score": "0.337044",
+                    "ticker_sentiment_score": "0.160551",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         },
@@ -490,6 +1347,184 @@
             ]
         },
         {
+            "title": "Lowey Dannenberg Notifies Pacira Biosciences, Inc.  ( \"Pacira\" or the \"Company\" )   ( NASDAQ: PCRX )  Investors of Securities Class Action Lawsuit and Encourages Investors with more than $100,000 in Losses to Contact the Firm - Pacira BioSciences  ( NASDAQ:PCRX ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43473888/lowey-dannenberg-notifies-pacira-biosciences-inc-pacira-or-the-company-nasdaq-pcrx-investors-of-se",
+            "time_published": "20250204T183606",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Lowey Dannenberg P.C., a preeminent law firm in obtaining redress for consumers and investors, announces the filing of a class action lawsuit against Pacira Biosciences, Inc. ( \"Pacira\" or the \"Company\" ) PCRX for violations of the federal securities ...",
+            "banner_image": "https://ml.globenewswire.com/media/38c8d81f-4a6b-4f23-8411-e6be6a60dda1/small/ld-logo-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                }
+            ],
+            "overall_sentiment_score": 0.0,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PCRX",
+                    "relevance_score": "0.179121",
+                    "ticker_sentiment_score": "-0.020629",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Lowey Dannenberg Notifies AstraZeneca PLC  ( \"AstraZeneca\" or the \"Company\" )   ( NASDAQ: AZN )  Investors of Securities Class Action Lawsuit and Encourages Investors with more than $200,000 in Losses to Contact the Firm - AstraZeneca  ( NASDAQ:AZN ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43473837/lowey-dannenberg-notifies-astrazeneca-plc-astrazeneca-or-the-company-nasdaq-azn-investors-of-secur",
+            "time_published": "20250204T183433",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Lowey Dannenberg P.C., a preeminent law firm in obtaining redress for consumers and investors, announces the filing of a class action lawsuit against AstraZeneca PLC ( \"AstraZeneca\" or the \"Company\" ) AZN for violations of the federal securities laws ...",
+            "banner_image": "https://ml.globenewswire.com/media/38c8d81f-4a6b-4f23-8411-e6be6a60dda1/small/ld-logo-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.77141"
+                }
+            ],
+            "overall_sentiment_score": -0.090249,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AZN",
+                    "relevance_score": "0.716023",
+                    "ticker_sentiment_score": "-0.298152",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Cardinal Health Analysts Raise Their Forecasts Following Upbeat Earnings - Cardinal Health  ( NYSE:CAH ) ",
+            "url": "https://www.benzinga.com/25/02/43473832/cardinal-health-analysts-raise-their-forecasts-following-upbeat-earnings-2",
+            "time_published": "20250204T183421",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "Cardinal Health CAH reported better-than-expected second-quarter financial results on Thursday. Cardinal Health posted adjusted earnings of $1.93 per share, beating market estimates of $1.76 per share. The company posted sales of $55.3 billion, topping expectations of $54.915 billion.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/04133226/image-2-5-1024x575.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.714479"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.436644,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.156461",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CAH",
+                    "relevance_score": "0.924319",
+                    "ticker_sentiment_score": "0.659636",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "World's First Holographic 3D Ad Network Launches at Simon Malls Nationwide - Simon Property Group  ( NYSE:SPG ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43473830/worlds-first-holographic-3d-ad-network-launches-at-simon-malls-nationwide",
+            "time_published": "20250204T183401",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "New York, New York, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Hologram Media Network ( HMN ) has launched the world's first always-on holographic advertising network, built in collaboration with Proto Hologram.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/a861deda-4ac8-4784-8fbe-017aad52a4ef/proto-hmn-delamomall-stevenhong1.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.362753,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SNEJF",
+                    "relevance_score": "0.029989",
+                    "ticker_sentiment_score": "0.153016",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "RBLX",
+                    "relevance_score": "0.029989",
+                    "ticker_sentiment_score": "0.034923",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPG",
+                    "relevance_score": "0.029989",
+                    "ticker_sentiment_score": "0.181142",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "VZ",
+                    "relevance_score": "0.029989",
+                    "ticker_sentiment_score": "0.190952",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.029989",
+                    "ticker_sentiment_score": "0.190952",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "Lowey Dannenberg Notifies Crocs, Inc.  ( \"Crocs\" or the \"Company\" )   ( NASDAQ: CROX )  Investors of Securities Class Action Lawsuit and Encourages Investors with more than $100,000 in Losses to Contact the Firm - Crocs  ( NASDAQ:CROX ) ",
             "url": "https://www.benzinga.com/pressreleases/25/02/g43473820/lowey-dannenberg-notifies-crocs-inc-crocs-or-the-company-nasdaq-crox-investors-of-securities-class",
             "time_published": "20250204T183330",
@@ -527,6 +1562,39 @@
             ]
         },
         {
+            "title": "Park Aerospace Corp. Announces That It Has Paid Over $600 Million in Cash Dividends Since the Beginning of Its 2005 Fiscal Year - Park Aerospace  ( NYSE:PKE ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43473800/park-aerospace-corp-announces-that-it-has-paid-over-600-million-in-cash-dividends-since-the-beginn",
+            "time_published": "20250204T183241",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEWTON, Kan., Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Park Aerospace Corp. ( NYSE-PKE ) announced that, with today's payment of the regular cash dividend of $0.125 per share, the Company has now paid $601.1 Million in cash dividends, or $29.35 per share, since the beginning of the Company's 2005 ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.038333,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PKE",
+                    "relevance_score": "0.234307",
+                    "ticker_sentiment_score": "0.041698",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Park Aerospace Corp. Announces That It Has Paid Over $600 Million in Cash Dividends Since the Beginning of Its 2005 Fiscal Year",
             "url": "https://www.globenewswire.com/news-release/2025/02/04/3020706/0/en/Park-Aerospace-Corp-Announces-That-It-Has-Paid-Over-600-Million-in-Cash-Dividends-Since-the-Beginning-of-Its-2005-Fiscal-Year.html",
             "time_published": "20250204T183200",
@@ -552,6 +1620,43 @@
                     "relevance_score": "0.261117",
                     "ticker_sentiment_score": "0.043635",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Cumberland Pharmaceuticals' Duchenne Candidate Shows Improved Heart Function In Patients With Associated Heart Disease - Cumberland  ( NASDAQ:CPIX ) ",
+            "url": "https://www.benzinga.com/general/biotech/25/02/43473776/cumberland-pharmaceuticals-duchenne-candidate-shows-improved-heart-function-in-patients-with-asso",
+            "time_published": "20250204T183148",
+            "authors": [
+                "Vandana Singh"
+            ],
+            "summary": "High-dose ifetroban improved LVEF by 3.3%, with a 5.4% gain compared to natural history controls, while control patients saw a 3.6% decline. Ifetroban was well-tolerated with no serious drug-related events. It holds FDA Orphan Drug and Rare Pediatric Disease designations.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/CPIX.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.171921,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CPIX",
+                    "relevance_score": "0.313484",
+                    "ticker_sentiment_score": "-0.241413",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
                 }
             ]
         },
@@ -662,6 +1767,446 @@
                     "relevance_score": "0.197413",
                     "ticker_sentiment_score": "0.221592",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Market Whales and Their Recent Bets on UPST Options - Upstart Hldgs  ( NASDAQ:UPST ) ",
+            "url": "https://www.benzinga.com/insights/options/25/02/43473650/market-whales-and-their-recent-bets-on-upst-options",
+            "time_published": "20250204T183026",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Whales with a lot of money to spend have taken a noticeably bearish stance on Upstart Hldgs. Looking at options history for Upstart Hldgs UPST we detected 21 trades. If we consider the specifics of each trade, it is accurate to state that 33% of the investors opened trades with bullish ...",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738693823_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.206753,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UPST",
+                    "relevance_score": "0.783525",
+                    "ticker_sentiment_score": "0.286609",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "US Stocks Rise Despite China's Trade Fears, Palantir Defies Gravity, Gold Rallies Further: What's Driving Markets Tuesday? - Archer-Daniels Midland  ( NYSE:ADM ) ",
+            "url": "https://www.benzinga.com/economics/macro-economic-events/25/02/43473576/us-stocks-rise-despite-chinas-trade-fears-palantir-defies-gravity-gold-rallies-fu",
+            "time_published": "20250204T182826",
+            "authors": [
+                "Piero Cingari"
+            ],
+            "summary": "U.S. stocks gain despite geopolitical tensions as China imposes new tariffs and trade restrictions on U.S. goods and companies. Palantir surges 22% on strong earnings; gold hits a record high, silver rises 2.2% and Bitcoin drops to $99,000.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/wall-street-photo-by-marek-masik-on-shut.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.795202"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.142857"
+                }
+            ],
+            "overall_sentiment_score": 0.109098,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MPC",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GPK",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PVH",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.007442",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMCR",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OCSL",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ADM",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPG",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMGN",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PFE",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ARMK",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PRU",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PNR",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AME",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HLNE",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PJT",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CMG",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EA",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SLAB",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CMI",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MLAB",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ILMN",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.007442",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IT",
+                    "relevance_score": "0.043421",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HUBB",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JKHY",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WEC",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSGS",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CNC",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CNH",
+                    "relevance_score": "0.043421",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IEX",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ENPH",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MDLZ",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ATKR",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ENR",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LANC",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "J",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MPLX",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PINC",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.043421",
+                    "ticker_sentiment_score": "0.24543",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "APOS",
+                    "relevance_score": "0.043421",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FICO",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BERY",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TDG",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INMD",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.197295",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PYPL",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BALL",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.004183",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AZPN",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XYL",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INGR",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ATI",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXTA",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PEP",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ATO",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "REGN",
+                    "relevance_score": "0.086713",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.129749",
+                    "ticker_sentiment_score": "0.105771",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
@@ -907,980 +2452,6 @@
             "overall_sentiment_score": 0.285495,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
-        },
-        {
-            "title": " ( ARQQ )  - Analyzing Arqit Quantum's Short Interest - Arqit Quantum  ( NASDAQ:ARQQ ) ",
-            "url": "https://www.benzinga.com/insights/short-sellers/25/02/43473251/arqq-analyzing-arqit-quantums-short-interest",
-            "time_published": "20250204T181515",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "Arqit Quantum's ARQQ short percent of float has fallen 16.82% since its last report. The company recently reported that it has 385 thousand shares sold short, which is 5.49% of all regular shares that are available for trading.",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738692912_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                }
-            ],
-            "overall_sentiment_score": 0.266742,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ARQQ",
-                    "relevance_score": "0.209365",
-                    "ticker_sentiment_score": "0.079385",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Disney Q1 Earnings Preview: Can 'Moana 2,' 'Mufasa: The Lion King' Help Continue Streak Of Analyst Beats? - Walt Disney  ( NYSE:DIS ) ",
-            "url": "https://www.benzinga.com/general/sports/25/02/43473207/disney-q1-earnings-preview-can-moana-2-mufasa-the-lion-king-help-continue-streak-of-analyst-beats",
-            "time_published": "20250204T181344",
-            "authors": [
-                "Chris Katje"
-            ],
-            "summary": "Disney reports Q1 financial results before market open Wednesday. The company's Disney+ streaming platform will be closely watched after Netflix's recent record quarter. Get Wall Street's Hottest Chart Every Morning",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Optimistic-Despite-Concerns.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999939"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.230027,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MCQEF",
-                    "relevance_score": "0.046452",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NFLX",
-                    "relevance_score": "0.046452",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "C",
-                    "relevance_score": "0.046452",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.046452",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "QCI Heatmap: A Modern Evolution of Classic Data Visualization with Cutting-Edge Technology",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43473185/qci-heatmap-a-modern-evolution-of-classic-data-visualization-with-cutting-edge-technology",
-            "time_published": "20250204T181157",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "SAN DIEGO, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Quick Custom Intelligence ( QCI ) is revolutionizing data exploration and visualization with the launch of QCI Heatmap, an advanced contour heatmapping tool that transforms the way casinos interact with slot performance data.",
-            "banner_image": "https://ml.globenewswire.com/media/8e34ffde-2b41-4182-b7cc-17cdcc7afa1b/small/qci-png.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.428734,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BBY",
-                    "relevance_score": "0.03473",
-                    "ticker_sentiment_score": "0.229876",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TTRAF",
-                    "relevance_score": "0.03473",
-                    "ticker_sentiment_score": "0.229876",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "WMT",
-                    "relevance_score": "0.03473",
-                    "ticker_sentiment_score": "0.229876",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Could The Trump-Established Sovereign Wealth Fund Invest In Bitcoin, Nvidia, TikTok?",
-            "url": "https://www.benzinga.com/markets/cryptocurrency/25/02/43473182/could-the-trump-established-sovereign-wealth-fund-invest-in-bitcoin-nvidia-tiktok",
-            "time_published": "20250204T181156",
-            "authors": [
-                "Murtuza Merchant"
-            ],
-            "summary": "Experts emphasize that the SWF's success depends on reducing the U.S. deficit and balancing volatile assets with diversified holdings. The U.S. Sovereign Wealth Fund may serve dual purposes: generating returns and advancing national security interests, experts highlight.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Federal-Reserve-Building--Washington-Dc-.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.623304"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.650727"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": 0.270617,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.089462",
-                    "ticker_sentiment_score": "0.079637",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.089462",
-                    "ticker_sentiment_score": "0.079637",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.46341",
-                    "ticker_sentiment_score": "0.401045",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "\"THE 67TH ANNUAL GRAMMY AWARDS\u00ae\" ON CBS NETS 15.4 MILLION VIEWERS AND RAISES NEARLY $9 MILLION",
-            "url": "https://www.benzinga.com/pressreleases/25/02/n43473143/the-67th-annual-grammy-awards-on-cbs-nets-15-4-million-viewers-and-raises-nearly-9-million",
-            "time_published": "20250204T180900",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "LOS ANGELES, Feb. 4, 2025 /PRNewswire/ -- Sunday night's CBS telecast of THE 67TH ANNUAL GRAMMY AWARDS was seen by 15.4 million viewers. Nearly $9 million was raised on GRAMMY Sunday to aid wildfire relief efforts.",
-            "banner_image": "https://mma.prnewswire.com/media/2612666/CBS_GRAMMYS.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [],
-            "overall_sentiment_score": 0.40819,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:SOC",
-                    "relevance_score": "0.285526",
-                    "ticker_sentiment_score": "0.63105",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "PepsiCo Remains Very Well Positioned Despite Near-Term Headwinds: Goldman Sachs - PepsiCo  ( NASDAQ:PEP ) ",
-            "url": "https://www.benzinga.com/25/02/43472876/pepsicos-solid-brand-strength-to-drive-long-term-growth-says-analyst",
-            "time_published": "20250204T180115",
-            "authors": [
-                "Shivani Kumaresan"
-            ],
-            "summary": "PepsiCo's Q4 earnings beat analyst estimates with effective cost management. Analyst sees sustainable growth despite short-term challenges in U.S. market. Get Pro-Level Earnings Insights Before the Market Moves",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/In-This-Photo-Illustration--The-New-Peps.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.77141"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999696"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.468577,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.082677",
-                    "ticker_sentiment_score": "0.106244",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PEP",
-                    "relevance_score": "0.593715",
-                    "ticker_sentiment_score": "0.617697",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Nokia Corporation - Managers' transactions  ( Uitto ) ",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020691/0/en/Nokia-Corporation-Managers-transactions-Uitto.html",
-            "time_published": "20250204T180100",
-            "authors": [
-                "Nokia Oyj"
-            ],
-            "summary": "Nokia CorporationManagers' transactions4 February 2025 at 20:00 EETNokia Corporation - Managers' transactions ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e6523d78-c43a-4057-8aa9-68206d3af4a8",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.512893,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NOK",
-                    "relevance_score": "0.727604",
-                    "ticker_sentiment_score": "0.827459",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Behind the Scenes of NIO's Latest Options Trends - NIO  ( NYSE:NIO ) ",
-            "url": "https://www.benzinga.com/insights/options/25/02/43472844/behind-the-scenes-of-nios-latest-options-trends",
-            "time_published": "20250204T180037",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "Investors with a lot of money to spend have taken a bullish stance on NIO NIO. We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know.",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738692033_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.232476,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NIO",
-                    "relevance_score": "0.62382",
-                    "ticker_sentiment_score": "0.371862",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Smart Money Is Betting Big In MNDY Options - Monday.Com  ( NASDAQ:MNDY ) ",
-            "url": "https://www.benzinga.com/insights/options/25/02/43472842/smart-money-is-betting-big-in-mndy-options",
-            "time_published": "20250204T180031",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "Deep-pocketed investors have adopted a bearish approach towards Monday.Com MNDY, and it's something market players shouldn't ignore. Our tracking of public options records at Benzinga unveiled this significant move today.",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738692028_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                }
-            ],
-            "overall_sentiment_score": 0.176266,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WFC",
-                    "relevance_score": "0.073098",
-                    "ticker_sentiment_score": "0.040593",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "C",
-                    "relevance_score": "0.073098",
-                    "ticker_sentiment_score": "0.040593",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Decoding Palantir Technologies's Options Activity: What's the Big Picture? - Palantir Technologies  ( NASDAQ:PLTR ) ",
-            "url": "https://www.benzinga.com/insights/options/25/02/43472838/decoding-palantir-technologiess-options-activity-whats-the-big-picture",
-            "time_published": "20250204T180025",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "Whales with a lot of money to spend have taken a noticeably bullish stance on Palantir Technologies. Looking at options history for Palantir Technologies PLTR we detected 569 trades. If we consider the specifics of each trade, it is accurate to state that 51% of the investors opened trades with ...",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738692022_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.87644"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.210767,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.077094",
-                    "ticker_sentiment_score": "0.028566",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.666827",
-                    "ticker_sentiment_score": "0.288834",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Nokia Corporation - Managers' transactions  ( Hammar\u00e9n ) ",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020687/0/en/Nokia-Corporation-Managers-transactions-Hammar%C3%A9n.html",
-            "time_published": "20250204T180000",
-            "authors": [
-                "Nokia Oyj"
-            ],
-            "summary": "Nokia CorporationManagers' transactions4 February 2025 at 20:00 EETNokia Corporation - Managers' transactions ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e6523d78-c43a-4057-8aa9-68206d3af4a8",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.512893,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NOK",
-                    "relevance_score": "0.727604",
-                    "ticker_sentiment_score": "0.827459",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "KIA AMERICA INVITES FOOTBALL FANS TO NATIONWIDE GAME-WITHIN-A-GAME VEHICLE SWEEPSTAKES\u00b9",
-            "url": "https://www.benzinga.com/pressreleases/25/02/n43472867/kia-america-invites-football-fans-to-nationwide-game-within-a-game-vehicle-sweepstakes",
-            "time_published": "20250204T180000",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "\"Kia Squares\" offers players up to four chances to win a new Kia vehicle at the end of each quarter on Sunday Enter for a chance to win at www.kiasquares.com. Sweepstakes begins at 12:00 a.m. ET on 2/4 and ends at 5:30 p.m. ET on 2/9",
-            "banner_image": "https://mma.prnewswire.com/media/2612639/KIA_Squares.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.066004,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.044222",
-                    "ticker_sentiment_score": "-0.108046",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Transaction in Own Shares",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020690/0/en/Transaction-in-Own-Shares.html",
-            "time_published": "20250204T180000",
-            "authors": [
-                "Shell plc"
-            ],
-            "summary": "Shell plc ( the 'Company' ) announces that on 04 February, 2025 it purchased the following number of Shares for cancellation. Aggregated information on Shares purchased according to trading venue:",
-            "banner_image": "",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.033861,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "RYDAF",
-                    "relevance_score": "0.107016",
-                    "ticker_sentiment_score": "0.205938",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "GM cuts 50% of Cruise staff after ending robotaxi business",
-            "url": "https://www.cnbc.com/2025/02/04/gm-cuts-50percent-of-cruise-staff-after-ending-robotaxi-business.html",
-            "time_published": "20250204T175902",
-            "authors": [],
-            "summary": "General Motors is laying off off roughly half of its employees who remain at its discontinued Cruise robotaxi business.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Top News",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.071682,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GM",
-                    "relevance_score": "0.758753",
-                    "ticker_sentiment_score": "-0.152349",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "FirstFarms A/S adjusts upwards the expectation to the year's result",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020686/0/en/FirstFarms-A-S-adjusts-upwards-the-expectation-to-the-year-s-result.html",
-            "time_published": "20250204T175800",
-            "authors": [
-                "FirstFarms A/S"
-            ],
-            "summary": "As a result of several isolated operational positive events towards the end of the year, FirstFarms A/S adjusts upwards its expectations for the year's result.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/67c32b0d-285f-4d98-928e-7283991f19e2",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.301467,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Cboe Global Markets Announces Plans For 24-Hour Stock Trading - Cboe Global Markets  ( BATS:CBOE ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/02/43472768/cboe-global-markets-announces-plans-for-24-hour-stock-trading",
-            "time_published": "20250204T175751",
-            "authors": [
-                "Erica Kollmann"
-            ],
-            "summary": "Cboe plans to offer 24-hour, five days a week trading for U.S. equities on its Cboe EDGX Equities Exchange. Cboe says it will collaborate with other industry participants to ensure operational readiness. Cboe Global Markets, Inc.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/CBOE-trading-floor-in-Chicago.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.31747,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SCHW",
-                    "relevance_score": "0.18602",
-                    "ticker_sentiment_score": "0.199142",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CBOE",
-                    "relevance_score": "0.275867",
-                    "ticker_sentiment_score": "0.257375",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "IBKR",
-                    "relevance_score": "0.18602",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "HOOD",
-                    "relevance_score": "0.18602",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Saudia Advancing Saudi Vision 2030 with Major Milestones",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43472770/saudia-advancing-saudi-vision-2030-with-major-milestones",
-            "time_published": "20250204T175741",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "JEDDAH, Saudi Arabia, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Saudia, the national flag carrier of the Kingdom of Saudi Arabia, continues to lead the way in advancing the Kingdom's Vision 2030, showcasing a strong commitment to the nation's aviation goals throughout 2024.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [],
-            "overall_sentiment_score": 0.514827,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AGZNF",
-                    "relevance_score": "0.049835",
-                    "ticker_sentiment_score": "0.284446",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "What's In Store For Amazon In Q4? Analyst Sees Growing AI-Contribution For AWS - Amazon.com  ( NASDAQ:AMZN ) ",
-            "url": "https://www.benzinga.com/25/02/43472744/amazon-poised-for-strong-q4-with-aws-growth-and-north-america-retail-margin-expansion-says-bofa",
-            "time_published": "20250204T175732",
-            "authors": [
-                "Lekha Gupta"
-            ],
-            "summary": "BofA expects Amazon to post strong Q4 results, with $187B sales and $19.7B GAAP operating profit. AWS growth forecast at 19-20%, while N.A. retail margins may expand to 7.0% on unit growth leverage. Get Pro-Level Earnings Insights Before the Market Moves",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/August-21--2019-San-Francisco-----Ca----.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.858979"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.427953,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SSTK",
-                    "relevance_score": "0.084423",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AMZN",
-                    "relevance_score": "0.403913",
-                    "ticker_sentiment_score": "0.412907",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Pieridae to Hold Conference Call and Webcast to Discuss Fourth Quarter and Year-End 2024 Results",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43472701/pieridae-to-hold-conference-call-and-webcast-to-discuss-fourth-quarter-and-year-end-2024-results",
-            "time_published": "20250204T175353",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR DISSEMINATION IN UNITED STATES CALGARY, Alberta, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Pieridae Energy Limited ( \"Pieridae\" or the \"Company\" ) PEA will release its financial and operating results for the 2024 fourth quarter and year-end, ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [],
-            "overall_sentiment_score": 0.298678,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PTOAF",
-                    "relevance_score": "0.136113",
-                    "ticker_sentiment_score": "-0.053876",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Pieridae to Hold Conference Call and Webcast to Discuss Fourth Quarter and Year-End 2024 Results",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020684/0/en/Pieridae-to-Hold-Conference-Call-and-Webcast-to-Discuss-Fourth-Quarter-and-Year-End-2024-Results.html",
-            "time_published": "20250204T175300",
-            "authors": [
-                "Pieridae Alberta Production Ltd."
-            ],
-            "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR DISSEMINATION IN UNITED STATES ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/6be64e0c-e023-46c4-886c-1f7a59d231a3",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [],
-            "overall_sentiment_score": 0.308683,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PTOAF",
-                    "relevance_score": "0.16849",
-                    "ticker_sentiment_score": "-0.066773",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "How Is The Market Feeling About Gold Fields? - Gold Fields  ( NYSE:GFI ) ",
-            "url": "https://www.benzinga.com/insights/short-sellers/25/02/43472382/how-is-the-market-feeling-about-gold-fields",
-            "time_published": "20250204T174525",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "Gold Fields's GFI short percent of float has risen 36.84% since its last report. The company recently reported that it has 9.83 million shares sold short, which is 1.3% of all regular shares that are available for trading. Based on its trading volume, it would take traders 4.16 days to cover ...",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738691122_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                }
-            ],
-            "overall_sentiment_score": 0.307624,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GFI",
-                    "relevance_score": "0.209365",
-                    "ticker_sentiment_score": "0.175989",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Peering Into MasTec's Recent Short Interest - MasTec  ( NYSE:MTZ ) ",
-            "url": "https://www.benzinga.com/insights/short-sellers/25/02/43472379/peering-into-mastecs-recent-short-interest",
-            "time_published": "20250204T174520",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "MasTec's MTZ short percent of float has risen 8.33% since its last report. The company recently reported that it has 2.11 million shares sold short, which is 3.38% of all regular shares that are available for trading. Based on its trading volume, it would take traders 2.35 days to cover their ...",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738691117_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                }
-            ],
-            "overall_sentiment_score": 0.289997,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MTZ",
-                    "relevance_score": "0.212115",
-                    "ticker_sentiment_score": "0.151778",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Peering Into Riot Platforms's Recent Short Interest - Riot Platforms  ( NASDAQ:RIOT ) ",
-            "url": "https://www.benzinga.com/insights/short-sellers/25/02/43472376/peering-into-riot-platformss-recent-short-interest",
-            "time_published": "20250204T174515",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "Riot Platforms's RIOT short percent of float has risen 3.18% since its last report. The company recently reported that it has 68.48 million shares sold short, which is 20.1% of all regular shares that are available for trading.",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738691112_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                }
-            ],
-            "overall_sentiment_score": 0.254125,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "RIOT",
-                    "relevance_score": "0.209365",
-                    "ticker_sentiment_score": "0.097359",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Feuling Parts New Anti-Reversion Exhaust Systems",
-            "url": "https://www.benzinga.com/pressreleases/25/02/r43472354/feuling-parts-new-anti-reversion-exhaust-systems",
-            "time_published": "20250204T174226",
-            "authors": [
-                "PR.com"
-            ],
-            "summary": "Oceanside, CA February 04, 2025 -- ( PR.com ) -- Feuling Parts new 2 into 1 Stainless Exhaust Systems are handcrafted in house for a premium fit and finish and are now available for '17-'24 Milwaukee Eight touring models. Tuned Length, bulletproof Triple stepped 1 3/4\" to 1 7/8\" to 2\"",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.175507,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "ROSEN, NATIONALLY REGARDED INVESTOR COUNSEL, Encourages Polestar Automotive Holding UK PLC Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - PSNY - Polestar Automotive  ( NASDAQ:PSNY ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43472088/rosen-nationally-regarded-investor-counsel-encourages-polestar-automotive-holding-uk-plc-investors",
-            "time_published": "20250204T173400",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, announces it has filed a class action lawsuit on behalf of purchasers of securities of Polestar Automotive Holding UK PLC PSNY between November 14, 2022 and January 16, 2025, both dates ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.150561,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.062434",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PSNY",
-                    "relevance_score": "0.124486",
-                    "ticker_sentiment_score": "0.068383",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "P/E Ratio Insights for Wingstop - Wingstop  ( NASDAQ:WING ) ",
-            "url": "https://www.benzinga.com/insights/news/25/02/43471870/pe-ratio-insights-for-wingstop",
-            "time_published": "20250204T173013",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "In the current market session, Wingstop Inc. WING stock price is at $303.55, after a 0.04% drop. However, over the past month, the company's stock went up by 7.55%, and in the past year, by 3.67%.",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738690210_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                }
-            ],
-            "overall_sentiment_score": 0.115584,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WING",
-                    "relevance_score": "0.432291",
-                    "ticker_sentiment_score": "0.091052",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "RTX and Xanadu Partner to Advance Quantum Devices for DARPA's INSPIRED Program",
-            "url": "https://www.benzinga.com/pressreleases/25/02/n43471858/rtx-and-xanadu-partner-to-advance-quantum-devices-for-darpas-inspired-program",
-            "time_published": "20250204T173000",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "TORONTO, Feb. 4, 2025 /PRNewswire/ - RTX's BBN Technologies and Xanadu, in collaboration with the University of Maryland and Raytheon's Advanced Technology business, are spearheading a groundbreaking project in response to DARPA MTO's INSPIRED Program.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.326827,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Aramis Group - Governance changes at Aramis Group",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020678/0/en/Aramis-Group-Governance-changes-at-Aramis-Group.html",
-            "time_published": "20250204T173000",
-            "authors": [
-                "ARAMIS GROUP"
-            ],
-            "summary": "PRESS RELEASE ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/be1ceb13-ffec-47c2-a20f-915a1996cc3f",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [],
-            "overall_sentiment_score": 0.213733,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AFRAF",
-                    "relevance_score": "0.054857",
-                    "ticker_sentiment_score": "0.106818",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
         }
     ]
 }
