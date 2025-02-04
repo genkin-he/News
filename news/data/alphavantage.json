@@ -1,8 +1,293 @@
 {
-    "items": "40",
+    "items": "42",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "As Tallink Grupp Statistics for January 2025",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019990/0/en/As-Tallink-Grupp-Statistics-for-January-2025.html",
+            "time_published": "20250204T070000",
+            "authors": [
+                "Tallink Grupp"
+            ],
+            "summary": "In January 2025 AS Tallink Grupp transported 299,991 passengers, which is a 9.1% decrease compared to January 2024. The number of cargo units decreased by 33.6% to 18,986 units and the number of passenger vehicles decreased by 13.2% to 43,622 units compared to the same period a year ago.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/bebb560a-d161-41e0-925c-7c6d95682e88",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.004671,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IRCUF",
+                    "relevance_score": "0.183895",
+                    "ticker_sentiment_score": "0.044963",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Transaction in Own Shares",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019993/0/en/Transaction-in-Own-Shares.html",
+            "time_published": "20250204T070000",
+            "authors": [
+                "PayPoint plc"
+            ],
+            "summary": "4th February ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/01c8cd71-2417-44ba-b4a3-462b7db307c0",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.121802,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ITCFY",
+                    "relevance_score": "0.608634",
+                    "ticker_sentiment_score": "-0.281315",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Transaction in Own Shares",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019991/0/en/Transaction-in-Own-Shares.html",
+            "time_published": "20250204T070000",
+            "authors": [
+                "ICG Enterprise Trust Plc"
+            ],
+            "summary": "ICG Enterprise Trust plc ( the \"Company\" ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/8e1ac0a6-5f20-45e4-983b-dcdccae40d13",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.427149,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "As Tallink Grupp Statistics for January 2025",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019992/0/en/As-Tallink-Grupp-Statistics-for-January-2025.html",
+            "time_published": "20250204T070000",
+            "authors": [
+                "Tallink Grupp"
+            ],
+            "summary": "In January 2025 AS Tallink Grupp transported 299,991 passengers, which is a 9.1% decrease compared to January 2024. The number of cargo units decreased by 33.6% to 18,986 units and the number of passenger vehicles decreased by 13.2% to 43,622 units compared to the same period a year ago.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/bebb560a-d161-41e0-925c-7c6d95682e88",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.004671,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IRCUF",
+                    "relevance_score": "0.183895",
+                    "ticker_sentiment_score": "0.044963",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Progress on share buyback programme",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019998/0/en/Progress-on-share-buyback-programme.html",
+            "time_published": "20250204T070000",
+            "authors": [
+                "ING Group"
+            ],
+            "summary": "ING announced today that, as part of our \u20ac2.0 billion share buyback programme announced on 31 October 2024, in total 4,550,623 shares were repurchased during the week of 27 January 2025 up to and including 31 January 2025. The shares were repurchased at an average price of \u20ac16.06 or a total ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/f98b0fea-4867-42b4-a7ea-9e63eda03ea5",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.614606"
+                }
+            ],
+            "overall_sentiment_score": 0.086651,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.02493",
+                    "ticker_sentiment_score": "-0.012395",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.02493",
+                    "ticker_sentiment_score": "0.128643",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ING",
+                    "relevance_score": "0.601191",
+                    "ticker_sentiment_score": "0.128016",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:XCP",
+                    "relevance_score": "0.02493",
+                    "ticker_sentiment_score": "-0.012395",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "HONKARAKENNE OYJ'S SHAREHOLDERS' NOMINATION COMMITTEE'S PROPOSALS FOR THE COMPOSITION AND REMUNERATION OF THE BOARD OF DIRECTORS",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019997/0/en/HONKARAKENNE-OYJ-S-SHAREHOLDERS-NOMINATION-COMMITTEE-S-PROPOSALS-FOR-THE-COMPOSITION-AND-REMUNERATION-OF-THE-BOARD-OF-DIRECTORS.html",
+            "time_published": "20250204T070000",
+            "authors": [
+                "Honkarakenne Oyj"
+            ],
+            "summary": "Honkarakenne Oyj - Stock Exchange Release - Shareholders' Nomination Committee's proposals for the composition and remuneration of the Board of Directors ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/bc6bec70-7c7c-4a83-a8fe-b15c5d23637a",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                }
+            ],
+            "overall_sentiment_score": 0.053081,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CVS",
+                    "relevance_score": "0.069094",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Signify starts EUR 150 million share repurchase program",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019994/0/en/Signify-starts-EUR-150-million-share-repurchase-program.html",
+            "time_published": "20250204T070000",
+            "authors": [
+                "Signify"
+            ],
+            "summary": "Signify starts EUR 150 million share repurchase program Eindhoven, the Netherlands - Signify ( Euronext: LIGHT ) , the world leader in lighting, today announced the start of its share repurchase program to buy back up to EUR 150 million of its own shares, as announced in its press release of ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/d7fed6d4-9102-4273-82f2-a1cb07a42f32",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.335951,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Progress on share buyback programme",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43454469/progress-on-share-buyback-programme",
+            "time_published": "20250204T070000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "ING announced today that, as part of our \u20ac2.0 billion share buyback programme announced on 31 October 2024, in total 4,550,623 shares were repurchased during the week of 27 January 2025 up to and including 31 January 2025. The shares were repurchased at an average price of \u20ac16.06 or a total ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.744043"
+                }
+            ],
+            "overall_sentiment_score": 0.088861,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.024347",
+                    "ticker_sentiment_score": "-0.01041",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.024347",
+                    "ticker_sentiment_score": "0.126339",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ING",
+                    "relevance_score": "0.607187",
+                    "ticker_sentiment_score": "0.121398",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:XCP",
+                    "relevance_score": "0.024347",
+                    "ticker_sentiment_score": "-0.01041",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Hong Kong property sales hit 4-month low as tariffs, rate outlook rattle buyers",
+            "url": "https://www.scmp.com/business/article/3297285/hong-kong-property-sales-slip-4-month-low-tariffs-interest-rate-path-unnerved-buyers",
+            "time_published": "20250204T065359",
+            "authors": [
+                "Cheryl Arcibal"
+            ],
+            "summary": "Deals involving residential and commercial properties and parking spaces fell in January as buyers braced for geopolitical tensions, slower rate cuts.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/02/03/Clean_2.jpg?itok=RYFQXv4w",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.905476"
+                }
+            ],
+            "overall_sentiment_score": -0.026813,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
         {
             "title": "China Strikes Back: New Tariffs Up To 15% On Certain US Imports In Retaliation For Trump's 10% Levy On Chinese Goods China Retaliates With New Tariffs On US Imports As Trade War Escalates - Chevron  ( NYSE:CVX ) , ConocoPhillips  ( NYSE:COP ) ",
             "url": "https://www.benzinga.com/economics/macro-economic-events/25/02/43454424/china-strikes-back-new-tariffs-up-to-15-on-certain-us-imports-in-retaliation-for-",
@@ -51,6 +336,39 @@
                     "relevance_score": "0.184598",
                     "ticker_sentiment_score": "-0.01661",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nintendo posts profit miss as it slashes Switch forecast again ahead of console's successor",
+            "url": "https://www.cnbc.com/2025/02/04/nintendo-switch-2-in-focus-as-gaming-giant-posts-profit-miss.html",
+            "time_published": "20250204T064319",
+            "authors": [],
+            "summary": "Nintendo investors and fans are awaiting more details on the Switch 2, the successor to the company's near eight-year-old Switch console.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Earnings",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.17368,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NTDOF",
+                    "relevance_score": "0.907043",
+                    "ticker_sentiment_score": "0.282491",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:JPY",
+                    "relevance_score": "0.662945",
+                    "ticker_sentiment_score": "0.388471",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -1225,309 +1543,6 @@
                     "relevance_score": "0.069094",
                     "ticker_sentiment_score": "-0.002039",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Palantir's Shyam Sankar: US Is At War With China In AI-And The Time To Act Was 'Yesterday' - Palantir Technologies  ( NASDAQ:PLTR ) ",
-            "url": "https://www.benzinga.com/tech/25/02/43453553/palantirs-shyam-sankar-us-is-at-war-with-china-in-ai-and-the-time-to-act-was-yesterday",
-            "time_published": "20250204T042338",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "Palantir Technologies Inc.'s PLTR chief technology officer Shyam Sankar warned that the U.S. is in an \"AI arms race\" with China, calling for urgent action to maintain dominance as the race for artificial intelligence escalates.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Palantir-stock.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.684621"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": -0.004831,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.09439",
-                    "ticker_sentiment_score": "0.00754",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.187463",
-                    "ticker_sentiment_score": "0.181918",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Coinbase Says It's Become UK's Largest Crypto Exchange After Securing Regulatory Approval - Coinbase Glb  ( NASDAQ:COIN ) ",
-            "url": "https://www.benzinga.com/markets/cryptocurrency/25/02/43453542/coinbase-says-its-become-uks-largest-crypto-exchange-after-securing-regulatory-approval",
-            "time_published": "20250204T042107",
-            "authors": [
-                "Aniket Verma"
-            ],
-            "summary": "Cryptocurrency trading behemoth Coinbase Global Inc. COIN announced its registration as the UK's largest cryptocurrency exchange on Monday, signifying a key step in its global growth strategy.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Coinbase-Global-Inc--COIN.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.312818,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "COIN",
-                    "relevance_score": "0.802374",
-                    "ticker_sentiment_score": "0.494358",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.2872",
-                    "ticker_sentiment_score": "0.181122",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Canadian Man Charged for Exploiting DeFi Vulnerabilities in $65M Hacking Scheme",
-            "url": "https://decrypt.co/304271/canadian-man-charged-for-exploiting-defi-vulnerabilities-in-65m-hacking-scheme",
-            "time_published": "20250204T041948",
-            "authors": [
-                "Vismaya V"
-            ],
-            "summary": "The man, still at large, faces five charges, including wire fraud, computer damage, extortion, and money laundering.",
-            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/Webp.net-resizeimage-27-gID_7.jpg",
-            "source": "Decrypt.co",
-            "category_within_source": "n/a",
-            "source_domain": "decrypt.co",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": -0.252408,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.075635",
-                    "ticker_sentiment_score": "-0.069665",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "XRP Erases 'Black Sunday' Losses With 20% Surge As Jack Dorsey Posts Intriguing Video Featuring Bitcoin Bull Michael Saylor",
-            "url": "https://www.benzinga.com/trading-ideas/movers/25/02/43453368/xrp-erases-black-sunday-losses-with-20-surge-as-jack-dorsey-posts-intriguing-video-featuring",
-            "time_published": "20250204T041228",
-            "authors": [
-                "Aniket Verma"
-            ],
-            "summary": "XRP XRP/USD roared back into momentum on Monday, as investors welcomed President Donald Trump's temporary relief on tariffs. What happened: XRP rallied as much as 20%, recouping losses taken on 'Black Sunday,' which saw the third-largest cryptocurrency by market value fall to two-week lows.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/XRP.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.213596,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSTR",
-                    "relevance_score": "0.121037",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.639128",
-                    "ticker_sentiment_score": "0.347711",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.239305",
-                    "ticker_sentiment_score": "0.287316",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "CALGO Launches Unified DeFi Platform, Simplifying Decentralized Finance for Investors",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43453353/calgo-launches-unified-defi-platform-simplifying-decentralized-finance-for-investors",
-            "time_published": "20250204T040903",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "PANAMA CITY, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- CALGO, a DeFi aggregator and investment platform, has officially launched, offering users a simplified way to access and manage decentralized finance ( DeFi ) investments.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/9b1b0e29-ac53-47a1-9856-cf881a588796/image1.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                }
-            ],
-            "overall_sentiment_score": 0.400649,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Dubai Duty Free Partners with TerraPay, Empowering 100 million+ Customers for Instant Digital Wallet Payments at Dubai Duty Free",
-            "url": "https://www.benzinga.com/pressreleases/25/02/n43453336/dubai-duty-free-partners-with-terrapay-empowering-100-million-customers-for-instant-digital-wallet",
-            "time_published": "20250204T040000",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "DUBAI, UAE, Feb. 4, 2025 /PRNewswire/ -- TerraPay, a global money movement company, has joined forces with Dubai Duty Free ( DDF ) , the world's largest single airport retailer, to revolutionize the shopping experience for over 100 million customers.",
-            "banner_image": "https://mma.prnewswire.com/media/1222771/TerraPay_Logo.jpg",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.403994,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BNXYF",
-                    "relevance_score": "0.046184",
-                    "ticker_sentiment_score": "0.302626",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Palantir Sounds Alarm On China's DeepSeek, Citing National Security Threat - But Won't Drop Clients Who Use It - Palantir Technologies  ( NASDAQ:PLTR ) ",
-            "url": "https://www.benzinga.com/25/02/43453280/peter-thiels-palantir-sounds-alarm-on-chinas-deepseek-citing-national-security-threat-but-says-it-wont-drop-clien",
-            "time_published": "20250204T033507",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "On Monday, Palantir Technologies Inc. PLTR advised its clients to avoid using AI models from Chinese startup DeepSeek. What Happened: Palantir's chief revenue officer, Ryan Taylor, stated, \"We would strongly discourage it [DeepSeek] and don't think any customer in the U.S. government will be able ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Palantir-Logo--Photo-by-Spyro-the-Dragon.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.104718,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SSTK",
-                    "relevance_score": "0.112008",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.221819",
-                    "ticker_sentiment_score": "-0.213884",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "MAG Silver Appoints John Armstrong to the Board of Directors as Part of Planned Board Refreshment - MAG Silver  ( AMEX:MAG ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43453218/mag-silver-appoints-john-armstrong-to-the-board-of-directors-as-part-of-planned-board-refreshment",
-            "time_published": "20250204T031155",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "VANCOUVER, British Columbia, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- MAG Silver Corp. MAG ( \"MAG\" or \"MAG Silver\" ) announces the appointment of John Armstrong to the Board of Directors, effective January 31, 2025, as part of MAG's planned Board refreshment.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.94762"
-                }
-            ],
-            "overall_sentiment_score": 0.198875,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FNLPF",
-                    "relevance_score": "0.097655",
-                    "ticker_sentiment_score": "0.16734",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
