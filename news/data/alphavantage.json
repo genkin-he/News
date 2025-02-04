@@ -1,8 +1,375 @@
 {
-    "items": "42",
+    "items": "46",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "PepsiCo, Pfizer And 3 Stocks To Watch Heading Into Tuesday - NXP Semiconductors  ( NASDAQ:NXPI ) , Electronic Arts  ( NASDAQ:EA ) ",
+            "url": "https://www.benzinga.com/news/earnings/25/02/43455233/pepsico-pfizer-and-3-stocks-to-watch-heading-into-tuesday",
+            "time_published": "20250204T074854",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "With U.S. stock futures trading lower this morning on Tuesday, some of the stocks that may grab investor focus today are as follows: Wall Street expects PepsiCo Inc. PEP to report quarterly earnings at $1.94 per share on revenue of $27.89 billion before the opening bell, according to data from ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Pfizer-shutterstock2.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999759"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.296782,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PEP",
+                    "relevance_score": "0.373378",
+                    "ticker_sentiment_score": "0.209272",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "EA",
+                    "relevance_score": "0.373378",
+                    "ticker_sentiment_score": "0.487974",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "PFE",
+                    "relevance_score": "0.373378",
+                    "ticker_sentiment_score": "0.414484",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NXPI",
+                    "relevance_score": "0.373378",
+                    "ticker_sentiment_score": "0.444538",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "UBS",
+                    "relevance_score": "0.373378",
+                    "ticker_sentiment_score": "0.021545",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Mustang Mach-E Accelerates Ford's EV Sales In January Even As F-150 Lightning Slows Down - Ford Motor  ( NYSE:F ) ",
+            "url": "https://www.benzinga.com/25/02/43455022/fords-mustang-mach-e-was-its-saving-grace-in-january-as-sales-of-its-other-evs-dipped",
+            "time_published": "20250204T074751",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Ford Motor Co. F witnessed electric vehicle sales soar 21.2% in the U.S. in January despite a drop in sales of both its E-transit van and F-150 Lightning truck. EV Sales Buoyed By Mustang Mach-E: Ford sold 5,666 electric vehicles in January as compared to the 4,674 sold in the corresponding ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Ford-2025-Mustang-Mach-E-Rally.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.056421,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.543935",
+                    "ticker_sentiment_score": "0.117346",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Windows 11 Disaster? Microsoft Quietly Removes Workaround For Unsupported PCs, Potentially Leaving Millions Unable To Upgrade - Microsoft  ( NASDAQ:MSFT ) ",
+            "url": "https://www.benzinga.com/25/02/43455003/windows-11-disaster-microsoft-quietly-removes-workaround-for-unsupported-pcs-leaving-millions-stranded",
+            "time_published": "20250204T074555",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "Microsoft Corporation MSFT has quietly removed a workaround that allowed users to install Windows 11 on unsupported PCs. What Happened: The workaround, initially provided when Windows 11 version 21H2 was released, enabled users to bypass system requirements, including TPM 2.0 and specific CPU ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/microsoft-shutter5.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.163639,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.495015",
+                    "ticker_sentiment_score": "0.185637",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Gaming Market to Grow by USD 100.8 Billion from 2025-2029, Growing Adoption of AR and VR Games Boost the Market, Report on How AI is Driving Market Transformation - Technavio",
+            "url": "https://www.benzinga.com/pressreleases/25/02/n43454949/gaming-market-to-grow-by-usd-100-8-billion-from-2025-2029-growing-adoption-of-ar-and-vr-games-boos",
+            "time_published": "20250204T073600",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "NEW YORK, Feb. 4, 2025 /PRNewswire/ -- Report with the AI impact on market trends - The global gaming market size is estimated to grow by USD 100.8 billion from 2025-2029, according to Technavio. The market is estimated to grow at a CAGR of 8.4% during the forecast period.",
+            "banner_image": "https://mma.prnewswire.com/media/2611156/IRTNTR45494_bw_info_v4.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.353763,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.107729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NTES",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.107729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SNEJF",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.107729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.107729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NCBDF",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.107729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NTDOF",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.107729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DNACF",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.107729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SQNXF",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.107729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBSFF",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.107729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EA",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.107729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DIS",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.107729",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Chinese developer Sino-Ocean's debt plan wins court approval in UK",
+            "url": "https://www.scmp.com/business/china-business/article/3297288/chinese-developer-sino-oceans-debt-plan-wins-court-approval-uk",
+            "time_published": "20250204T073008",
+            "authors": [
+                "Yulu Ao"
+            ],
+            "summary": "The outcome 'will definitely be a factor' when a Hong Kong court considers a winding-up petition later this month, company adviser says.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/04/4c3671bf-575b-4db0-9ca8-7340026263c5_f0bb04cf.jpg?itok=1ujEJxRQ&v=1738652980",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.170667,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CILJF",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "0.145494",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HLI",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "0.195003",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SIOLF",
+                    "relevance_score": "0.166169",
+                    "ticker_sentiment_score": "0.242492",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "-0.125967",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Spirits maker Diageo removes medium-term guidance on U.S. tariff uncertainty",
+            "url": "https://www.cnbc.com/2025/02/04/diageo-removes-medium-term-guidance-on-us-tariff-uncertainty.html",
+            "time_published": "20250204T072941",
+            "authors": [],
+            "summary": "The drinks maker has come under pressure from investors amid falling sales, management changes, and a broader trend toward reduced alcohol consumption.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.004763,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DEO",
+                    "relevance_score": "0.430454",
+                    "ticker_sentiment_score": "0.034504",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PDRDF",
+                    "relevance_score": "0.113062",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "DeepSeek's success gives Chinese firms jolt in quest to leapfrog sanctions",
+            "url": "https://www.scmp.com/economy/china-economy/article/3297286/deepseeks-success-gives-chinese-firms-jolt-beijing-seeks-sanction-beating-breakthroughs",
+            "time_published": "20250204T070248",
+            "authors": [
+                "Frank Chen"
+            ],
+            "summary": "Artificial intelligence start-up's rise to prominence can motivate China's tech industry, analysts said, even as US-led curbs continue.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/04/ea16d456-5087-434c-986b-2a7d66ad0f72_a0b89f75.jpg?itok=rGEHQ39j&v=1738652567",
+            "source": "South China Morning Post",
+            "category_within_source": "Economy",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.275953,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.051551",
+                    "ticker_sentiment_score": "-0.006987",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AFG",
+                    "relevance_score": "0.051551",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SZIHF",
+                    "relevance_score": "0.102888",
+                    "ticker_sentiment_score": "0.02469",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.051551",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "As Tallink Grupp Statistics for January 2025",
             "url": "https://www.globenewswire.com/news-release/2025/02/04/3019990/0/en/As-Tallink-Grupp-Statistics-for-January-2025.html",
@@ -72,6 +439,39 @@
             "overall_sentiment_score": 0.427149,
             "overall_sentiment_label": "Bullish",
             "ticker_sentiment": []
+        },
+        {
+            "title": "NB Private Equity Partners Announces Transaction in Own Shares",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019996/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
+            "time_published": "20250204T070000",
+            "authors": [
+                "NB Private Equity Partners Limited"
+            ],
+            "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.803643"
+                }
+            ],
+            "overall_sentiment_score": 0.236207,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NBPVF",
+                    "relevance_score": "0.136499",
+                    "ticker_sentiment_score": "0.192875",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
         },
         {
             "title": "As Tallink Grupp Statistics for January 2025",
@@ -148,6 +548,39 @@
                     "ticker": "CRYPTO:XCP",
                     "relevance_score": "0.02493",
                     "ticker_sentiment_score": "-0.012395",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Correction: Holding ( s )  in Company",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019995/0/en/Correction-Holding-s-in-Company.html",
+            "time_published": "20250204T070000",
+            "authors": [
+                "Kenmare Resources"
+            ],
+            "summary": "Issuing correction to information in section ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/2d98d402-116c-49ac-9298-607d4d2e37d8",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.199173,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:XCP",
+                    "relevance_score": "0.036983",
+                    "ticker_sentiment_score": "-0.007731",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -1371,177 +1804,6 @@
                     "ticker": "MNHVF",
                     "relevance_score": "0.407844",
                     "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "UK takes legal advice over pulling out of $20bn Total LNG project in Mozambique",
-            "url": "https://www.ft.com/content/cacd29fb-1535-4462-bd5f-3f2bcb546a8d",
-            "time_published": "20250204T050031",
-            "authors": [
-                "Jim Pickard",
-                "David Pilling",
-                "Ian Johnston",
-                "Malcolm Moore"
-            ],
-            "summary": "Britain has pledged to halt new export finance to oil and gas developments in wake of COP26 in ...",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa4c1e35a-463b-40ab-98a2-12af263ae3c2.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Markets",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.004884,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TTE",
-                    "relevance_score": "0.073321",
-                    "ticker_sentiment_score": "0.060928",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Goldman moves into active fixed income ETFs in Europe",
-            "url": "https://www.ft.com/content/8a8462e1-529d-41f1-846b-390fd1846b74",
-            "time_published": "20250204T050031",
-            "authors": [
-                "Theo Andrew"
-            ],
-            "summary": "Assets under management in active ETFs in Europe grew to $56.7bn in 2024, according to Morningstar ...",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e08fd73-f4ce-4587-8e96-962cf78ae20b.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Markets",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999992"
-                }
-            ],
-            "overall_sentiment_score": 0.378424,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.513494",
-                    "ticker_sentiment_score": "0.527571",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "MORN",
-                    "relevance_score": "0.18343",
-                    "ticker_sentiment_score": "0.202941",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "LDNXF",
-                    "relevance_score": "0.061631",
-                    "ticker_sentiment_score": "0.298453",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Tech in 2025: The EU vs Big Tech",
-            "url": "https://www.ft.com/content/480fb701-0960-4b71-86c8-10d845a7d37a",
-            "time_published": "20250204T050000",
-            "authors": [],
-            "summary": "The EU wants to police the biggest tech companies. Should it?",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2Fd9f24233-88e8-4579-b43a-1f742813e8b2?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Companies",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.03571,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.227007",
-                    "ticker_sentiment_score": "-0.169268",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Commercial real estate crawls back",
-            "url": "https://www.ft.com/content/af8d036d-b18e-4a4c-b6f9-e71d1d91f448",
-            "time_published": "20250204T050000",
-            "authors": [],
-            "summary": "Sector started to recover from a two-year slump at the end of ...",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2Fd2e5e0a0-10a7-436c-83ff-5e9cba27372a?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Economy",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.104178,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Mohamed El-Erian Flags Market Jitters As Trump Tariff Pause On Canada Triggers Currency Swings - Larry Summers Warns Of Trade Fallout",
-            "url": "https://www.benzinga.com/news/25/02/43453597/mohamed-el-erian-flags-market-jitters-as-tariff-pause-triggers-currency-swings-larry-summers-warns-of-trade-",
-            "time_published": "20250204T043121",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "U.S. tariffs imposed by President Donald Trump on imports from Canada, Mexico, and China are rattling markets and stirring sharp reactions from economists.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Trump-Tariffs-Strengthen-Dollar--But-Hed_0.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.012089,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ALIZF",
-                    "relevance_score": "0.069094",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:UYU",
-                    "relevance_score": "0.069094",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:MXN",
-                    "relevance_score": "0.069094",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:CAD",
-                    "relevance_score": "0.069094",
-                    "ticker_sentiment_score": "-0.002039",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
