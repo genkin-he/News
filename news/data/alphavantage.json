@@ -1,8 +1,416 @@
 {
-    "items": "46",
+    "items": "47",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Comstock Fuels Approved for $152 Million Allocation for Oklahoma Qualified Private Activity Bonds",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020098/0/en/Comstock-Fuels-Approved-for-152-Million-Allocation-for-Oklahoma-Qualified-Private-Activity-Bonds.html",
+            "time_published": "20250204T113000",
+            "authors": [
+                "Comstock Inc."
+            ],
+            "summary": "OKLAHOMA CITY, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Comstock Inc. ( NYSE: LODE ) today announced that its subsidiary, Comstock Fuels Corporation ( \"Comstock Fuels\" ) , was approved by the Oklahoma State Treasurer's Office to issue up to $152 million in qualified private activity bonds.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/23ea433d-b7af-4e94-8100-d1933b728e02",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999993"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.19019,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.019602",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Clorox Beats Expectations Despite 15% Sales Drop, CEO Stays Confident In Q4 Growth - SPDR S&P 500  ( ARCA:SPY ) , Clorox  ( NYSE:CLX ) ",
+            "url": "https://www.benzinga.com/25/02/43456966/clorox-forecasts-q4-sales-to-clean-sweep-the-market-driven-by-cloud-based-erp-system-rollout",
+            "time_published": "20250204T110714",
+            "authors": [
+                "Rishabh Mishra"
+            ],
+            "summary": "ERP refers to a significant software system upgrade that Clorox is implementing. Clorox exceeded its second-quarter earnings and revenue expectations. Clorox Co.'s CLX second-quarter earnings and revenue exceeded expectations, however, its net sales declined 15% annually.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/04044618/CLX-ANR-1024x381.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.928769"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.257563,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CLX",
+                    "relevance_score": "0.64962",
+                    "ticker_sentiment_score": "0.320103",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.092927",
+                    "ticker_sentiment_score": "0.012662",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "WTW Reports Fourth Quarter and Full Year 2024 Earnings",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020089/0/en/WTW-Reports-Fourth-Quarter-and-Full-Year-2024-Earnings.html",
+            "time_published": "20250204T110500",
+            "authors": [
+                "Willis Towers Watson US LLC"
+            ],
+            "summary": "LONDON, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- WTW ( NASDAQ: WTW ) ( the \"Company\" ) , a leading global advisory, broking and solutions company, today announced financial results for the fourth quarter ended December 31, 2024.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/d60448c5-44c1-4061-a525-161810e55c26",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999763"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.216018,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.030898",
+                    "ticker_sentiment_score": "0.02922",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Ingredion Incorporated Reports Strong 2024 Fourth Quarter and Full-Year Results",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020088/0/en/Ingredion-Incorporated-Reports-Strong-2024-Fourth-Quarter-and-Full-Year-Results.html",
+            "time_published": "20250204T110500",
+            "authors": [
+                "Ingredion Incorporated"
+            ],
+            "summary": "WESTCHESTER, Ill., Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Ingredion Incorporated ( NYSE: INGR ) , a leading global provider of ingredient solutions to the food and beverage manufacturing industry, today reported its fourth quarter 2024 and full-year 2024 results.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/778e04aa-d52d-4cbe-9a68-b3f502efba46",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999998"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.234215,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "INGR",
+                    "relevance_score": "0.113436",
+                    "ticker_sentiment_score": "0.130516",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:UYU",
+                    "relevance_score": "0.011382",
+                    "ticker_sentiment_score": "0.080545",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:MXN",
+                    "relevance_score": "0.011382",
+                    "ticker_sentiment_score": "0.080545",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.011382",
+                    "ticker_sentiment_score": "0.080545",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Townsquare Announces Evolution of Its Management Structure and Key Promotions on Leadership Team",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020085/0/en/Townsquare-Announces-Evolution-of-Its-Management-Structure-and-Key-Promotions-on-Leadership-Team.html",
+            "time_published": "20250204T110000",
+            "authors": [
+                "Townsquare Media Inc."
+            ],
+            "summary": "PURCHASE, N.Y., Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Townsquare Media, Inc. ( NYSE: TSQ ) ( \"Townsquare\" or the \"Company\" ) announced today the promotion of three tenured Townsquare employees to newly created positions that allow the Company to tackle the numerous opportunities ahead.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/92ff76d4-4d04-4de6-809b-09dcda7d55d7",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.450639,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSQ",
+                    "relevance_score": "0.087985",
+                    "ticker_sentiment_score": "0.204698",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Bombardier Announces New Paint Facility at its London Biggin Hill Service Centre Site, Continues to Enhance its Services and Support Capabilities in Europe",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020078/0/en/Bombardier-Announces-New-Paint-Facility-at-its-London-Biggin-Hill-Service-Centre-Site-Continues-to-Enhance-its-Services-and-Support-Capabilities-in-Europe.html",
+            "time_published": "20250204T110000",
+            "authors": [
+                "Bombardier Inc."
+            ],
+            "summary": "MONTR\u00c9AL, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Bombardier announced today the enhancement of its London Biggin Hill Service Centre site with a new paint facility adjacent to the service centre building, ensuring that its dynamic location at the London Biggin Hill Airport provides a complete ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/07345dda-806c-4a21-934a-a6ddfdfa112b/london-biggin-hill-service-centre.jpg",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.420408,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BDRBF",
+                    "relevance_score": "0.052918",
+                    "ticker_sentiment_score": "0.076672",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Oaktree Specialty Lending Corporation Announces First Fiscal Quarter 2025 Financial Results",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020082/10393/en/Oaktree-Specialty-Lending-Corporation-Announces-First-Fiscal-Quarter-2025-Financial-Results.html",
+            "time_published": "20250204T110000",
+            "authors": [
+                "Oaktree Specialty Lending Corporation"
+            ],
+            "summary": "LOS ANGELES, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Oaktree Specialty Lending Corporation ( NASDAQ: OCSL ) ( \"Oaktree Specialty Lending\" or the \"Company\" ) , a specialty finance company, today announced its financial results for the fiscal quarter ended December 31, 2024.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/bd6ce1de-44fc-4ace-8fd9-6dc53d905e48",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.779048"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.210409,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "OCSL",
+                    "relevance_score": "0.063739",
+                    "ticker_sentiment_score": "0.088443",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Movember Invests $4.9 Million Into 18 Grants Addressing Health Inequities in Prostate Cancer Care",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43456856/movember-invests-4-9-million-into-18-grants-addressing-health-inequities-in-prostate-cancer-care",
+            "time_published": "20250204T110000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "TORONTO, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Movember is proud to announce its latest prostate cancer investment of over $4.9 million. Eighteen grants ( 16 proposals and 2 community development grants ) that are directly tackling inequities in prostate cancer care are receiving funding over three ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/a82fad68-42b3-4b2d-898e-70f47550fcc7/mcs-3013-prostate-cancer-grants-carousel-can-v22.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.218002,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "WaveMaker Launches AI-powered Design-to-Code Accelerator for Pixel-Perfect UI Development",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43456853/wavemaker-launches-ai-powered-design-to-code-accelerator-for-pixel-perfect-ui-development",
+            "time_published": "20250204T110000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "PLANO, TX, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- WaveMaker, the modern acceleration platform for professional application developers and large enterprises, today announced the release of WaveMaker AutoCode, an innovative AI-powered plugin for the Figma universe that produces pixel-perfect ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.265811,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "APG",
+                    "relevance_score": "0.047749",
+                    "ticker_sentiment_score": "0.105324",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Axalta Releases Fourth Quarter and Full Year 2024 Results",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020084/0/en/Axalta-Releases-Fourth-Quarter-and-Full-Year-2024-Results.html",
+            "time_published": "20250204T110000",
+            "authors": [
+                "Axalta Coating Systems LLC"
+            ],
+            "summary": "PHILADELPHIA, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Axalta Coating Systems Ltd. ( NYSE:AXTA ) ( \"Axalta\" ) , a leading global coatings company, announced its financial results for the fourth quarter and full year ended December 31, 2024.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/6be5adf5-f29a-4164-a51e-0676150ac909",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.96136"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.206908,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.014988",
+                    "ticker_sentiment_score": "0.048739",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXTA",
+                    "relevance_score": "0.014988",
+                    "ticker_sentiment_score": "0.17641",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CVGI",
+                    "relevance_score": "0.02997",
+                    "ticker_sentiment_score": "0.107016",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.014988",
+                    "ticker_sentiment_score": "0.088547",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "AT&T Leverages Nokia Cloud Platform To Modernize IMS Voice Core - Nokia  ( NYSE:NOK ) ",
             "url": "https://www.benzinga.com/25/02/43456801/att-leverages-nokia-cloud-platform-to-modernize-ims-voice-core",
@@ -98,6 +506,49 @@
                     "ticker": "TSLA",
                     "relevance_score": "0.565003",
                     "ticker_sentiment_score": "0.064444",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Xiaomi's market value hits HK$1 trillion on bullish EV sales outlook",
+            "url": "https://www.scmp.com/business/article/3297336/xiaomi-market-value-tops-hk1-trillion-amid-bullish-view-ev-business",
+            "time_published": "20250204T103118",
+            "authors": [
+                "Leopold Chen"
+            ],
+            "summary": "Smartphone maker reaps benefits of its diversification into EV manufacturing as order backlog grows.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/02/03/Clean_2.jpg?itok=RYFQXv4w",
+            "source": "South China Morning Post",
+            "category_within_source": "Companies",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.977154"
+                }
+            ],
+            "overall_sentiment_score": 0.069519,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XIACY",
+                    "relevance_score": "0.344712",
+                    "ticker_sentiment_score": "0.007366",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.141726",
+                    "ticker_sentiment_score": "0.053836",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -806,6 +1257,69 @@
             ]
         },
         {
+            "title": "Sea Limited and Foot Locker have been highlighted as Zacks Bull and Bear of the Day",
+            "url": "https://www.zacks.com/stock/news/2408843/sea-limited-and-foot-locker-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+            "time_published": "20250204T100000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Chicago, IL - February 4, 2025 - Zacks Equity Research shares Sea Limited ( SE Quick QuoteSE - ) as the Bull of the Day and Foot Locker ( FL Quick QuoteFL - ) as the Bear of the Day.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3c/755.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.803643"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.283158,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SE",
+                    "relevance_score": "0.269776",
+                    "ticker_sentiment_score": "0.360541",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.063425",
+                    "ticker_sentiment_score": "0.036097",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.30928",
+                    "ticker_sentiment_score": "0.316399",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FL",
+                    "relevance_score": "0.16805",
+                    "ticker_sentiment_score": "-0.078814",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Best Dividend Stocks: Verizon Stock vs. AT&T Stock",
             "url": "https://www.fool.com/investing/2025/02/04/best-dividend-stocks-verizon-stock-vs-att-stock/",
             "time_published": "20250204T100000",
@@ -1316,6 +1830,81 @@
             ]
         },
         {
+            "title": "The Zacks Analyst Blog Highlights Alphabet, Blackstone, KLA and Crawford United",
+            "url": "https://www.zacks.com/stock/news/2408840/the-zacks-analyst-blog-highlights-alphabet-blackstone-kla-and-crawford-united",
+            "time_published": "20250204T093900",
+            "authors": [
+                "Zacks Investment Research"
+            ],
+            "summary": "Alphabet, Blackstone, KLA and Crawford United are included in this Analyst Blog.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/20/444.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998932"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.223326,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "0.163078",
+                    "ticker_sentiment_score": "0.140601",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.041039",
+                    "ticker_sentiment_score": "-0.116",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.122685",
+                    "ticker_sentiment_score": "0.104167",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRAWA",
+                    "relevance_score": "0.08197",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BX",
+                    "relevance_score": "0.163078",
+                    "ticker_sentiment_score": "-0.023632",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:AMD",
+                    "relevance_score": "0.041039",
+                    "ticker_sentiment_score": "0.096536",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Is Intel Stock a Buy Now?",
             "url": "https://www.fool.com/investing/2025/02/04/is-intel-stock-a-buy-now/",
             "time_published": "20250204T093500",
@@ -1463,681 +2052,106 @@
             ]
         },
         {
-            "title": "Got $100 per Month? 3 Magnificent Growth ETFs to Buy Now and Hold Forever.",
-            "url": "https://www.fool.com/investing/2025/02/04/100-per-month-growth-etfs-buy-hold-forever/",
-            "time_published": "20250204T093000",
-            "authors": [
-                "Katie Brockman"
-            ],
-            "summary": "Investing in exchange-traded funds ( ETFs ) can be a smart alternative to buying individual stocks, as they often require less effort while offering greater diversification.Growth ETFs, specifically, aim to outperform the market over time.",
-            "banner_image": "https://media.ycharts.com/charts/4d8a41a87652da23a2f6c75657c7e255.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.184341,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.054732",
-                    "ticker_sentiment_score": "0.048848",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.054732",
-                    "ticker_sentiment_score": "0.048848",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.054732",
-                    "ticker_sentiment_score": "0.048848",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "IVZ",
-                    "relevance_score": "0.054732",
-                    "ticker_sentiment_score": "0.067001",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Dow Trims Losses After Trump Delays Mexico, Canada Tariffs: Greed Index Remains In 'Fear' Zone - Owens & Minor  ( NYSE:OMI ) , Electronic Arts  ( NASDAQ:EA ) ",
-            "url": "https://www.benzinga.com/25/02/43455955/dow-trims-losses-after-trump-delays-mexico-tariff-investor-sentiment-improves-fear-greed-index-in-fear-zone",
-            "time_published": "20250204T092904",
-            "authors": [
-                "Avi Kapoor"
-            ],
-            "summary": "The CNN Money Fear and Greed index showed some improvement in the overall market sentiment, while the index remained in the \"Fear\" zone on Monday. U.S. stocks settled lower on Monday, with the Dow Jones index falling more than 100 points during the session after President Donald Trump announced ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Market-Sentiment--Fear-And-Greed-Index--.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.25"
-                }
-            ],
-            "overall_sentiment_score": -0.096561,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WBD",
-                    "relevance_score": "0.100308",
-                    "ticker_sentiment_score": "-0.173628",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "OMI",
-                    "relevance_score": "0.199037",
-                    "ticker_sentiment_score": "0.313219",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "PEP",
-                    "relevance_score": "0.199037",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "EA",
-                    "relevance_score": "0.199037",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PFE",
-                    "relevance_score": "0.199037",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSN",
-                    "relevance_score": "0.199037",
-                    "ticker_sentiment_score": "0.313219",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Dogecoin Regains Momentum After 'Black Sunday' Rout-Here's What Indicators Signal About The Memecoin's Next Moves",
-            "url": "https://www.benzinga.com/markets/cryptocurrency/25/02/43455908/dogecoin-regains-momentum-after-black-sunday-rout-heres-what-indicators-signal-about-the-m",
-            "time_published": "20250204T092526",
-            "authors": [
-                "Aniket Verma"
-            ],
-            "summary": "Popular dog-themed cryptocurrency Dogecoin DOGE/USD resumed its uptrend Monday, igniting a strong wave of optimism among bulls. What happened: Dogecoin was up over 5% in the last 24 hours, recovering from the 'Black Sunday' crash that eroded 28% of the value of the world's largest meme coin.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Why-It-Matters.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.217044,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.393462",
-                    "ticker_sentiment_score": "0.149847",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:DOGE",
-                    "relevance_score": "0.802099",
-                    "ticker_sentiment_score": "0.385862",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Final terms for bonds to be listed 7th February 2025",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020039/0/en/Final-terms-for-bonds-to-be-listed-7th-February-2025.html",
-            "time_published": "20250204T092500",
-            "authors": [
-                "Jyske Realkredit A/S"
-            ],
-            "summary": "To Nasdaq Copenhagen A/S 4th February 2025 Final terms for bonds to be listed 7th February 2025 On 7th February 2025, Jyske Realkredit A/S will be listing new Covered Bonds ( SDO ) . Final terms for the bonds are attached to this announcement.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/7e04bcc8-98c6-4a29-9732-3808e21a13cd",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.576289"
-                }
-            ],
-            "overall_sentiment_score": 0.044197,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Starbucks Shares Jump on Signs of a Turnaround. Is It Too Late to Buy the Stock?",
-            "url": "https://www.fool.com/investing/2025/02/04/starbucks-shares-jump-on-signs-of-a-turnaround-is/",
-            "time_published": "20250204T092400",
-            "authors": [
-                "Geoffrey Seiler"
-            ],
-            "summary": "Starbucks ( NASDAQ: SBUX ) shares got a boost following its fiscal Q1 earnings as CEO Brian Niccol continues to implement his turnaround plan. While its results topped analyst expectations, the coffee house operator is still seeing same-store sales and traffic declines.Let's take a closer look at ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806124%2Fgettyimages-1409787978.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.990893"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.98396"
-                }
-            ],
-            "overall_sentiment_score": 0.114625,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SBUX",
-                    "relevance_score": "0.567144",
-                    "ticker_sentiment_score": "0.305017",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Can Shiba Inu Reach $1 in 2025? Brace Yourself for a Surprising Answer",
-            "url": "https://www.fool.com/investing/2025/02/04/can-shiba-inu-reach-1-in-2025-surprising-answer/",
-            "time_published": "20250204T091600",
-            "authors": [
-                "Anthony Di Pizio"
-            ],
-            "summary": "Shiba Inu ( CRYPTO: SHIB ) soared by 45,278,000% during 2021, which means had you bought it on Jan. 1 and sold it on Dec. 31, an investment of as little as $3 could have made you a millionaire. Sadly, none of us own a crystal ball.It proved to be nothing more than a speculative rally because ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806051%2Fa-sad-shiba-inu-puppy-sitting-inside-a-cage.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.099462,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.344987",
-                    "ticker_sentiment_score": "0.155997",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.050894",
-                    "ticker_sentiment_score": "0.004014",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:SHIB",
-                    "relevance_score": "0.593341",
-                    "ticker_sentiment_score": "0.200592",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Pfizer Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts - Pfizer  ( NYSE:PFE ) ",
-            "url": "https://www.benzinga.com/25/02/43455760/pfizer-gears-up-for-q4-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
-            "time_published": "20250204T091529",
-            "authors": [
-                "Avi Kapoor"
-            ],
-            "summary": "Pfizer Inc. PFE will release its fourth-quarter financial results, before the opening bell, on Tuesday, Feb. 4, 2025. Analysts expect the New York-based company to report quarterly earnings at 46 cents per share, up from 10 cents per share in the year-ago period.",
-            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/04041415/image-2-2-1024x593.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.796627"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.614606"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.078056,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BCS",
-                    "relevance_score": "0.10607",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "C",
-                    "relevance_score": "0.10607",
-                    "ticker_sentiment_score": "-0.075588",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "WFC",
-                    "relevance_score": "0.10607",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PFE",
-                    "relevance_score": "0.576289",
-                    "ticker_sentiment_score": "0.076321",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Better Stock to Buy Right Now: Altria vs Kraft Heinz",
-            "url": "https://www.fool.com/investing/2025/02/04/best-stock-to-buy-right-now-altria-vs-kraft-heinz/",
-            "time_published": "20250204T091500",
-            "authors": [
-                "Leo Sun"
-            ],
-            "summary": "Which of these consumer staples giants is a more reliable investment?",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806220%2Fwatering-coins-next-to-piggy-bank.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.54554"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999355"
-                }
-            ],
-            "overall_sentiment_score": 0.09075,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PM",
-                    "relevance_score": "0.046907",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MO",
-                    "relevance_score": "0.362065",
-                    "ticker_sentiment_score": "0.023399",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "KHC",
-                    "relevance_score": "0.40348",
-                    "ticker_sentiment_score": "0.113116",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Zacks Industry Outlook Highlights Qualcomm, Motorola and InterDigital",
-            "url": "https://www.zacks.com/stock/news/2408834/zacks-industry-outlook-highlights-qualcomm-motorola-and-interdigital",
-            "time_published": "20250204T091300",
+            "title": "The Zacks Analyst Blog Highlights Disney, Amazon, Netflix and Comcast",
+            "url": "https://www.zacks.com/stock/news/2408839/the-zacks-analyst-blog-highlights-disney-amazon-netflix-and-comcast",
+            "time_published": "20250204T093100",
             "authors": [
                 "Zacks Investment Research"
             ],
-            "summary": "Qualcomm, Motorola and InterDigital have been highlighted in this Industry Outlook article.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/0d/701.jpg",
+            "summary": "Disney, Amazon, Netflix and Comcast are included in this Analyst Blog.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/7b/520.jpg",
             "source": "Zacks Commentary",
             "category_within_source": "n/a",
             "source_domain": "www.zacks.com",
             "topics": [
                 {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999365"
-                },
-                {
-                    "topic": "Manufacturing",
+                    "topic": "Retail & Wholesale",
                     "relevance_score": "0.5"
                 },
                 {
-                    "topic": "Earnings",
-                    "relevance_score": "0.994953"
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
                 },
                 {
-                    "topic": "Real Estate & Construction",
+                    "topic": "Earnings",
+                    "relevance_score": "0.99246"
+                },
+                {
+                    "topic": "Technology",
                     "relevance_score": "0.5"
                 }
             ],
-            "overall_sentiment_score": 0.24452,
+            "overall_sentiment_score": 0.287979,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": [
                 {
-                    "ticker": "IDCC",
-                    "relevance_score": "0.082017",
-                    "ticker_sentiment_score": "0.108992",
+                    "ticker": "NFLX",
+                    "relevance_score": "0.10863",
+                    "ticker_sentiment_score": "0.145278",
                     "ticker_sentiment_label": "Neutral"
                 },
                 {
-                    "ticker": "MSI",
-                    "relevance_score": "0.082017",
-                    "ticker_sentiment_score": "0.108992",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "QCOM",
-                    "relevance_score": "0.189883",
-                    "ticker_sentiment_score": "0.213723",
+                    "ticker": "WBD",
+                    "relevance_score": "0.03631",
+                    "ticker_sentiment_score": "0.275895",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 },
                 {
-                    "ticker": "WMGTF",
-                    "relevance_score": "0.027382",
-                    "ticker_sentiment_score": "0.249067",
+                    "ticker": "CCZ",
+                    "relevance_score": "0.072545",
+                    "ticker_sentiment_score": "0.134009",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.144491",
+                    "ticker_sentiment_score": "0.165395",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DIS",
+                    "relevance_score": "0.284282",
+                    "ticker_sentiment_score": "0.221782",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         },
         {
-            "title": "Should You Buy Nvidia Before Feb. 26? The Evidence Is Piling Up, and Here's What It Says.",
-            "url": "https://www.fool.com/investing/2025/02/04/should-you-buy-nvidia-before-feb-26-the-evidence-i/",
-            "time_published": "20250204T091000",
+            "title": "Bull of the Day: Sea Limited  ( SE ) ",
+            "url": "https://www.zacks.com/commentary/2408646/bull-of-the-day-sea-limited-se",
+            "time_published": "20250204T093000",
             "authors": [
-                "Adria Cimino"
+                "Ethan Feller"
             ],
-            "summary": "Nvidia ( NASDAQ: NVDA ) stock soared 171% last year for the best performance in the Dow Jones Industrial Average, which it recently joined. The year was fantastic for the artificial intelligence ( AI ) chip giant. It entered this famous benchmark, reported record revenue, and readied the release ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806243%2Fgettyimages-1072035598.jpg&op=resize&w=700",
-            "source": "Motley Fool",
+            "summary": "Sea Limited stock continues to gain momentum as earnings forecasts rise ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default87.jpg",
+            "source": "Zacks Commentary",
             "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
+            "source_domain": "www.zacks.com",
             "topics": [
                 {
                     "topic": "Earnings",
-                    "relevance_score": "0.998663"
+                    "relevance_score": "0.999953"
                 },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.99977"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.248872,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.506433",
-                    "ticker_sentiment_score": "0.265263",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SDEC",
-                    "relevance_score": "0.049629",
-                    "ticker_sentiment_score": "0.166",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "28.4% of Warren Buffett's $303 Billion Portfolio Is Invested in 3 Stocks He Plans to Hold Forever",
-            "url": "https://www.fool.com/investing/2025/02/04/284-of-warren-buffetts-303-billion-portfolio-is-in/",
-            "time_published": "20250204T090500",
-            "authors": [
-                "Adam Levy"
-            ],
-            "summary": "Despite selling off lots of Berkshire's top positions, these three look safe from the chopping block.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806043%2Fbuffett11-tmf.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.962106"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.796627"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.19232,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AXP",
-                    "relevance_score": "0.103035",
-                    "ticker_sentiment_score": "0.090318",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "OXY",
-                    "relevance_score": "0.068797",
-                    "ticker_sentiment_score": "0.210645",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "KO",
-                    "relevance_score": "0.204359",
-                    "ticker_sentiment_score": "0.185076",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MA",
-                    "relevance_score": "0.03443",
-                    "ticker_sentiment_score": "0.083486",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BRK-A",
-                    "relevance_score": "0.103035",
-                    "ticker_sentiment_score": "0.153847",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Form 8.5  ( EPT/RI )  - Dowlais Group Plc",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020026/0/en/Form-8-5-EPT-RI-Dowlais-Group-Plc.html",
-            "time_published": "20250204T090200",
-            "authors": [
-                "INVESTEC BANK PLC"
-            ],
-            "summary": "FORM ...",
-            "banner_image": "",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.160819,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Chinese bubble-tea giant Guming targets US$200 million in Hong Kong IPO",
-            "url": "https://www.scmp.com/business/banking-finance/article/3297306/chinese-bubble-tea-giant-guming-targets-us200-million-hong-kong-ipo",
-            "time_published": "20250204T090106",
-            "authors": [
-                "Aileen Chuang"
-            ],
-            "summary": "The company, which sells under the Good me brand, is offering 158.6 million shares in a price range of HK$8.68 to HK$9.94 each.",
-            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/02/04/e1bc2fa9-9714-4cfc-862f-03e479086362_081bddf3.jpg",
-            "source": "South China Morning Post",
-            "category_within_source": "Companies",
-            "source_domain": "www.scmp.com",
-            "topics": [
                 {
                     "topic": "IPO",
-                    "relevance_score": "0.890401"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
+                    "relevance_score": "0.158519"
                 },
                 {
                     "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
+                    "relevance_score": "0.266143"
                 }
             ],
-            "overall_sentiment_score": 0.190001,
-            "overall_sentiment_label": "Somewhat-Bullish",
+            "overall_sentiment_score": 0.432719,
+            "overall_sentiment_label": "Bullish",
             "ticker_sentiment": [
                 {
-                    "ticker": "GS",
-                    "relevance_score": "0.089462",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "HKXCF",
-                    "relevance_score": "0.089462",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TCTZF",
-                    "relevance_score": "0.089462",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
+                    "ticker": "SE",
+                    "relevance_score": "0.752955",
+                    "ticker_sentiment_score": "0.678371",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
-        },
-        {
-            "title": "Social Security Got a Shake-Up in 2025, and 3 Changes May Surprise Retirees",
-            "url": "https://www.fool.com/retirement/2025/02/04/social-security-2025-3-changes-surprise-retirees/",
-            "time_published": "20250204T090100",
-            "authors": [
-                "Trevor Jennewine"
-            ],
-            "summary": "The Social Security program undergoes a series of revisions each year to ensure benefit payments keep pace with inflation and wages. The latest round of revisions took effect in January, and a recent survey published by Nationwide Retirement Institute suggests some of the changes will surprise ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806236%2Fsocial-security-16.jpeg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.972193"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.201665,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
         }
     ]
 }
