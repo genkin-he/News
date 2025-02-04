@@ -1,8 +1,305 @@
 {
-    "items": "46",
+    "items": "45",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Form 8.5  ( EPT/RI )  - De La Rue plc",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020020/0/en/Form-8-5-EPT-RI-De-La-Rue-plc.html",
+            "time_published": "20250204T085400",
+            "authors": [
+                "INVESTEC BANK PLC"
+            ],
+            "summary": "FORM ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Arcade Gaming Market to Grow by USD 1.99 Billion from 2025-2029, Rising Physical Activity in Arcade Gaming Boosts Market, Report with Market Evolution Powered by AI - Technavio",
+            "url": "https://www.benzinga.com/pressreleases/25/02/n43455662/arcade-gaming-market-to-grow-by-usd-1-99-billion-from-2025-2029-rising-physical-activity-in-arcade",
+            "time_published": "20250204T085300",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "NEW YORK, Feb. 4, 2025 /PRNewswire/ -- Report on how AI is driving market transformation - The global arcade gaming market size is estimated to grow by USD 1.99 billion from 2025-2029, according to Technavio. The market is estimated to grow at a CAGR of 1.9% during the forecast period.",
+            "banner_image": "https://mma.prnewswire.com/media/2611191/Global_Arcade_Gaming_Market_2025_2029.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.35487,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SQNXF",
+                    "relevance_score": "0.022326",
+                    "ticker_sentiment_score": "0.192385",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DBOXF",
+                    "relevance_score": "0.022326",
+                    "ticker_sentiment_score": "0.192385",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SGAMF",
+                    "relevance_score": "0.022326",
+                    "ticker_sentiment_score": "0.192385",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NCBDF",
+                    "relevance_score": "0.022326",
+                    "ticker_sentiment_score": "0.192385",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CCOEF",
+                    "relevance_score": "0.022326",
+                    "ticker_sentiment_score": "0.192385",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NTDOF",
+                    "relevance_score": "0.022326",
+                    "ticker_sentiment_score": "0.192385",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Form 8.5  ( EPT/RI )  - Alliance Pharma plc",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020019/0/en/Form-8-5-EPT-RI-Alliance-Pharma-plc.html",
+            "time_published": "20250204T084900",
+            "authors": [
+                "INVESTEC BANK PLC"
+            ],
+            "summary": "FORM ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Tesla's Cybertruck Just Got More Affordable Thanks To $7,500 Tax Credit - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/tech/25/02/43455539/teslas-cybertruck-just-got-more-affordable-thanks-to-7500-tax-credit",
+            "time_published": "20250204T083736",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Tesla Inc. TSLA customers can now avail $7,500 federal EV tax credit on Cybertruck purchases provided they are eligible for it. What Happened: The 2025 all-wheel drive variant of the Cybertruck is eligible for the tax credit, Tesla announced in a post on social media platform X.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Tesla-Unlocks-325-kW-Fast-Charging-For-C.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.088916,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.632565",
+                    "ticker_sentiment_score": "-0.055148",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "El Salvador Goes Bigger on Bitcoin: Daily Purchase Jumps 10x Amid Market Slump",
+            "url": "https://www.benzinga.com/25/02/43455529/el-salvador-buys-the-dipnayib-bukele-led-nation-purchases-bitcoin-worth-over-a-million-after-market-crash",
+            "time_published": "20250204T083612",
+            "authors": [
+                "Aniket Verma"
+            ],
+            "summary": "El Salvador cashed in on the market slump Monday to add 11 Bitcoins BTC/USD, worth over $1 million, to its strategic reserve. What happened: The Central American nation increased its daily purchases to 11, which is 10 more than the one Bitcoin per day policy, according to its treasury holdings ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Nobel-Prize-Winner-Predicts-Bitcoins-Val.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.367927,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.888031",
+                    "ticker_sentiment_score": "0.579075",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Trump tariffs push gold prices to record high as investors seek safe haven",
+            "url": "https://www.scmp.com/economy/global-economy/article/3297307/trump-tariffs-push-gold-prices-record-high-investors-seek-safe-haven",
+            "time_published": "20250204T083045",
+            "authors": [
+                "Alice Li"
+            ],
+            "summary": "Investor concerns about a potential global trade war have caused gold prices to soar to unprecedented levels.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/04/453ebf76-734e-43ef-90bb-15df82dbf9d3_c1c3cee8.jpg?itok=i56Rsctd&v=1738657845",
+            "source": "South China Morning Post",
+            "category_within_source": "Money",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.818451"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.101584,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.087824",
+                    "ticker_sentiment_score": "0.065764",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CIIHY",
+                    "relevance_score": "0.087824",
+                    "ticker_sentiment_score": "-0.005323",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CHOWF",
+                    "relevance_score": "0.087824",
+                    "ticker_sentiment_score": "0.049408",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Opinion | Trump's digital dollar ban opens the door for China's yuan",
+            "url": "https://www.scmp.com/opinion/world-opinion/article/3297187/trumps-digital-dollar-ban-opens-door-chinas-yuan",
+            "time_published": "20250204T083008",
+            "authors": [
+                "Hugh Harsono"
+            ],
+            "summary": "The US president's decision to halt CBDC development may inadvertently hasten the de-dollarisation trend, smoothing path for yuan internationalisation.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/03/feef98de-d5a8-46bb-b170-06ad87aff434_c9b16b09.jpg?itok=1gCrZAaG&v=1738576356",
+            "source": "South China Morning Post",
+            "category_within_source": "Economy",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.890401"
+                }
+            ],
+            "overall_sentiment_score": 0.19372,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BCMXY",
+                    "relevance_score": "0.040416",
+                    "ticker_sentiment_score": "0.172237",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SCBFF",
+                    "relevance_score": "0.040416",
+                    "ticker_sentiment_score": "0.172237",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:JPY",
+                    "relevance_score": "0.040416",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.040416",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:GBP",
+                    "relevance_score": "0.040416",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:BRL",
+                    "relevance_score": "0.040416",
+                    "ticker_sentiment_score": "0.053131",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:CNY",
+                    "relevance_score": "0.351668",
+                    "ticker_sentiment_score": "0.25874",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.035732",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Stock Music Market to Grow by USD 650.4 Million from 2024-2028, Rising Adoption of Subscription Model Boosts the Market, AI's Impact on Evolution - Technavio",
             "url": "https://www.benzinga.com/pressreleases/25/02/n43455441/stock-music-market-to-grow-by-usd-650-4-million-from-2024-2028-rising-adoption-of-subscription-mod",
@@ -184,6 +481,39 @@
             ]
         },
         {
+            "title": "For the Third Consecutive Year, Check Point Software Demonstrates Industry's Highest Threat Prevention Rate in Miercom's Enterprise and Hybrid Mesh Firewall Security Report",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020008/0/en/For-the-Third-Consecutive-Year-Check-Point-Software-Demonstrates-Industry-s-Highest-Threat-Prevention-Rate-in-Miercom-s-Enterprise-and-Hybrid-Mesh-Firewall-Security-Report.html",
+            "time_published": "20250204T080200",
+            "authors": [
+                "Check Point Software Technologies INC"
+            ],
+            "summary": "For the Third Year, Check Point Software Demonstrates Industry's Highest Threat Prevention Rate in Miercom's Enterprise and Hybrid Mesh Firewall report.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/60b803b3-dc47-42f3-8792-20f48abcc38a",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.128643,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CHKP",
+                    "relevance_score": "0.164749",
+                    "ticker_sentiment_score": "0.150452",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "For the Third Consecutive Year, Check Point Software Demonstrates Industry's Highest Threat Prevention Rate in Miercom's Enterprise and Hybrid Mesh Firewall Security Report - Check Point Software  ( NASDAQ:CHKP ) ",
             "url": "https://www.benzinga.com/pressreleases/25/02/g43455290/for-the-third-consecutive-year-check-point-software-demonstrates-industrys-highest-threat-preventi",
             "time_published": "20250204T080200",
@@ -282,6 +612,110 @@
                     "relevance_score": "0.17689",
                     "ticker_sentiment_score": "0.249637",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Check Point Announces New AI-Powered Innovations to Bolster Unified Security Management for the Infinity Platform",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020006/0/en/Check-Point-Announces-New-AI-Powered-Innovations-to-Bolster-Unified-Security-Management-for-the-Infinity-Platform.html",
+            "time_published": "20250204T080100",
+            "authors": [
+                "Check Point Software Technologies INC"
+            ],
+            "summary": "check Point announces two new AI management bundles within the Infinity Platform that allow for more effective security in hybrid environments.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/60b803b3-dc47-42f3-8792-20f48abcc38a",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.162318,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.078611",
+                    "ticker_sentiment_score": "0.092157",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CHKP",
+                    "relevance_score": "0.156461",
+                    "ticker_sentiment_score": "0.262353",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NIHL",
+                    "relevance_score": "0.039353",
+                    "ticker_sentiment_score": "0.134056",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Hi-View Resources Appoints CEO",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020007/0/en/Hi-View-Resources-Appoints-CEO.html",
+            "time_published": "20250204T080100",
+            "authors": [
+                "Hi-View Resources Inc."
+            ],
+            "summary": "VANCOUVER, British Columbia, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Hi-View Resources Inc. ( 'Hi-View' or the 'Company' ) ( CSE: HVW. OTCQB: HVWRF. FSE: B63 ) announces it has appointed Mr. Robert \"Nick\" Horsley to the role of CEO. Mr. Horsley has over 20 years of public markets experience in ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/fe9f9314-72ab-49a8-962a-dd9094a55b93",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.127467,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "AT&T extends voice core relationship with Nokia to drive new services, faster deployment times, and operational efficiencies",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020004/0/en/AT-T-extends-voice-core-relationship-with-Nokia-to-drive-new-services-faster-deployment-times-and-operational-efficiencies.html",
+            "time_published": "20250204T080000",
+            "authors": [
+                "Nokia Oyj"
+            ],
+            "summary": "Press Release ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e6523d78-c43a-4057-8aa9-68206d3af4a8",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.490129,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NOK",
+                    "relevance_score": "0.777061",
+                    "ticker_sentiment_score": "0.713473",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -665,6 +1099,45 @@
                     "ticker": "PDRDF",
                     "relevance_score": "0.113062",
                     "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "CPI inflation likely to ease to 4.5 pc in Q4 FY25, 4.8 pc for full FY25: SBI Report - ETCFO",
+            "url": "https://cfo.economictimes.indiatimes.com/news/economy/cpi-inflation-likely-to-ease-to-4-5-pc-in-q4-fy25-4-8-pc-for-full-fy25-sbi-report/117906674",
+            "time_published": "20250204T071232",
+            "authors": [
+                "ETCFO"
+            ],
+            "summary": "State Bank of India's report predicts that retail inflation in India will decline to 4.5% by the last quarter of FY25, with an average for the year at 4.8%. The report also highlights challenges faced by the RBI in managing inflation, influenced by fiscal stimulus and global trade tensions.",
+            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
+            "source": "Economic Times",
+            "category_within_source": "Economy",
+            "source_domain": "cfo.economictimes.indiatimes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.999682"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.078203,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SBKFF",
+                    "relevance_score": "0.087185",
+                    "ticker_sentiment_score": "-0.118618",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.087185",
+                    "ticker_sentiment_score": "-0.073061",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -1340,469 +1813,6 @@
                     "ticker_sentiment_label": "Bullish"
                 }
             ]
-        },
-        {
-            "title": "Jim Chanos Blasts Tesla's Billion-Dollar Subsidies As Cybertruck Secures $7,500 Incentive After Elon Musk's Call To Shut Down USAID - Tesla  ( NASDAQ:TSLA ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/02/43454236/short-seller-jim-chanos-calls-out-teslas-billion-dollar-subsidies-as-cybertruck-secures-7500-inc",
-            "time_published": "20250204T063019",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "Prominent Wall Street short seller Jim Chanos has called attention to the billions in federal subsidies received by Tesla Inc. TSLA and its customers, amid growing scrutiny of CEO Elon Musk's political activities and declining sales in key markets.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Toronto--On--Canada---October-31--2022-T.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.173278,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.188193",
-                    "ticker_sentiment_score": "0.037137",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "The Board of Directors of eQ Plc has decided on a new option program",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019987/0/en/The-Board-of-Directors-of-eQ-Plc-has-decided-on-a-new-option-program.html",
-            "time_published": "20250204T063000",
-            "authors": [
-                "eQ Oyj"
-            ],
-            "summary": "eQ Plc Stock Exchange Release4 February 2025, at 8:30 am ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/09ebc337-723f-42ed-a133-1e0561828c22",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.333688,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Coloplast A/S - Interim Financial Report, Q1 2024/25",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019986/0/en/Coloplast-A-S-Interim-Financial-Report-Q1-2024-25.html",
-            "time_published": "20250204T063000",
-            "authors": [
-                "Coloplast A/S"
-            ],
-            "summary": "...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/9de3c9b2-934d-44da-ab32-c5f9ba5d9bfe",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.891286"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.42497,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AEXAF",
-                    "relevance_score": "0.039944",
-                    "ticker_sentiment_score": "0.233594",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CLPBY",
-                    "relevance_score": "0.311335",
-                    "ticker_sentiment_score": "0.404004",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Publicis Groupe : Full Year 2024 Results",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019985/0/en/Publicis-Groupe-Full-Year-2024-Results.html",
-            "time_published": "20250204T062900",
-            "authors": [
-                "Publicis Finance Services"
-            ],
-            "summary": "Full Year 2024 Results ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/0aa8ccda-7e8d-406b-984e-eef66fabdb3c",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Economy - Macro",
-                    "relevance_score": "0.576289"
-                }
-            ],
-            "overall_sentiment_score": 0.255865,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.012545",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.012545",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:UYU",
-                    "relevance_score": "0.012545",
-                    "ticker_sentiment_score": "0.077963",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.037622",
-                    "ticker_sentiment_score": "0.214891",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "January 2025 P&C Reinsurance Renewals Results: Sustained growth in preferred lines coupled with attractive margins",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019984/0/en/January-2025-P-C-Reinsurance-Renewals-Results-Sustained-growth-in-preferred-lines-coupled-with-attractive-margins.html",
-            "time_published": "20250204T062600",
-            "authors": [
-                "SCOR"
-            ],
-            "summary": "Press release4 February ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/06a75b77-5192-4a58-9335-0bdcec9a690a",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [],
-            "overall_sentiment_score": 0.117397,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SZCRF",
-                    "relevance_score": "0.513269",
-                    "ticker_sentiment_score": "0.299614",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Swiss giant UBS posts $770 million in net profit, launches $1 billion share buyback in first half",
-            "url": "https://www.cnbc.com/2025/02/04/ubs-earnings-q4-2024.html",
-            "time_published": "20250204T061858",
-            "authors": [],
-            "summary": "UBS revealed plans for up to $3 billion of share repurchases over the course of 2025.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Finance",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.004833,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "JBARF",
-                    "relevance_score": "0.098659",
-                    "ticker_sentiment_score": "0.047534",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:CHF",
-                    "relevance_score": "0.098659",
-                    "ticker_sentiment_score": "-0.033758",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Trump-Announced Wealth Fund Should Choose MicroStrategy Bonds Over Bitcoin, Analyst Says - MicroStrategy  ( NASDAQ:MSTR ) ",
-            "url": "https://www.benzinga.com/25/02/43454192/microstrategys-convertible-bonds-a-better-choice-than-spot-bitcoin-for-inclusion-in-sovereign-wealth-fund-says-an",
-            "time_published": "20250204T061855",
-            "authors": [
-                "Aniket Verma"
-            ],
-            "summary": "Cryptocurrency analyst James Van Straten recommended having exposure to MicroStrategy Inc. MSTR in the newly announced U.S. sovereign wealth fund instead of spot Bitcoin BTC/USD on Monday.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/MicroStrategy--Photo-by-JOCA-PH-on-Shutt.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.929393"
-                }
-            ],
-            "overall_sentiment_score": 0.190552,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSTR",
-                    "relevance_score": "0.599092",
-                    "ticker_sentiment_score": "0.33714",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.813165",
-                    "ticker_sentiment_score": "0.270552",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Notice of the Annual General Meeting 2025",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019983/0/en/Notice-of-the-Annual-General-Meeting-2025.html",
-            "time_published": "20250204T061500",
-            "authors": [
-                "eQ Oyj"
-            ],
-            "summary": "eQ Plc Stock Exchange Release4 February 2025, at 8:15 am ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/09ebc337-723f-42ed-a133-1e0561828c22",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.87644"
-                }
-            ],
-            "overall_sentiment_score": 0.148297,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NWG",
-                    "relevance_score": "0.01992",
-                    "ticker_sentiment_score": "0.088904",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Coinbase CLO to Address 'Operation Chokepoint 2.0' in Congressional Hearing",
-            "url": "https://decrypt.co/304275/coinbase-clo-to-address-operation-chokepoint-2-0-in-congressional-hearing",
-            "time_published": "20250204T060609",
-            "authors": [
-                "Vismaya V"
-            ],
-            "summary": "Coinbase CLO Paul Grewal will testify before Congress on regulators allegedly pressuring banks to cut off crypto.",
-            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/05/shutterstock_5672319101-gID_7.jpg",
-            "source": "Decrypt.co",
-            "category_within_source": "n/a",
-            "source_domain": "decrypt.co",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": -0.130396,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GLYYY",
-                    "relevance_score": "0.076358",
-                    "ticker_sentiment_score": "0.045445",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "COIN",
-                    "relevance_score": "0.152018",
-                    "ticker_sentiment_score": "-0.113905",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Developing | China launches antitrust probe into Google in response to Trump tariffs",
-            "url": "https://www.scmp.com/tech/big-tech/article/3297282/china-launches-antitrust-probe-google-response-trump-tariffs",
-            "time_published": "20250204T060116",
-            "authors": [
-                "Iris Deng"
-            ],
-            "summary": "China's State Administration for Market Regulation initiated a probe into the US search giant after US imposed 10 per cent tariffs.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/04/ee321b5c-dcaa-4f86-94b2-25bedf65ea48_d7e9be69.jpg?itok=MRma-9ni&v=1738648874",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.269096,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.414559",
-                    "ticker_sentiment_score": "-0.287377",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Sales Q4 and FY2024",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019979/0/en/Sales-Q4-and-FY2024.html",
-            "time_published": "20250204T060000",
-            "authors": [
-                "MAISONS DU MONDE"
-            ],
-            "summary": "PRESS RELEASENantes, 4 February ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/49edece0-379e-4c7e-ab11-15bc26f7445f",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.245496,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MDOUF",
-                    "relevance_score": "0.075874",
-                    "ticker_sentiment_score": "0.18132",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "eQ Plc's financial statements release 2024 - eQ's operating profit EUR 34.5 million, proposed dividend EUR 0.66",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019977/0/en/eQ-Plc-s-financial-statements-release-2024-eQ-s-operating-profit-EUR-34-5-million-proposed-dividend-EUR-0-66.html",
-            "time_published": "20250204T060000",
-            "authors": [
-                "eQ Oyj"
-            ],
-            "summary": "eQ Plc financial statements release4 February 2025 at 8:00 AM ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/09ebc337-723f-42ed-a133-1e0561828c22",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.769861"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.199367,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Fagron solidifies its leadership position with the acquisition of Guinama in Spain",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019978/0/en/Fagron-solidifies-its-leadership-position-with-the-acquisition-of-Guinama-in-Spain.html",
-            "time_published": "20250204T060000",
-            "authors": [
-                "Fagron NV"
-            ],
-            "summary": "Regulated informationNazareth ( Belgium ) /Rotterdam ( The Netherlands ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/3973851e-1f98-4337-a6ce-c854d399304c",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.242167,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
         }
     ]
 }
