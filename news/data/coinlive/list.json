@@ -1,6 +1,16 @@
 {
     "data": [
         {
+            "id": 733229,
+            "title": "Ethereum Validators Support Gas Limit Increase",
+            "description": "According to Cointelegraph, over 50% of Ethereum validators have expressed support for raising the network's gas limit, which determines the maximum amount of gas that can be used for transactions in a single Ethereum block. As of February 4, data from Gaslimit.pics indicates that 52% of validators are in favor of this change, surpassing the necessary threshold of at least half to agree on scaling the layer 1 network.\n\nValidators have the ability to adjust their node configurations to signal support for increasing the gas limit, allowing the network to scale without requiring a hard fork. The average gas limit on Ethereum has been approximately 30 million since August 2021, following an increase from 15 million, as reported by Ycharts. Recent data from Blockscout, a multichain block explorer, shows that the gas limit is already on the rise, with a transaction recorded around 3 am UTC displaying a gas limit exceeding 33 million.\n\nCrypto commentator Evan Van Ness, formerly of blockchain tech company Consensys, noted in a February 4 post on X that this marks the first increase under proof-of-stake following the Merge upgrade in September 2022. He highlighted that the decentralized nature of PoS compared to PoW contributed to the longer coordination time. Following the successful vote, Ethereum co-founder Vitalik Buterin has called for the Pectra fork, anticipated in March, which aims to increase the blob target from three to six. This fork will also be staker-voted using the same mechanism as the gas limit, according to Buterin, ensuring that the limit can increase in response to technological advancements without waiting for hard forks.\n\nThe decision to increase the gas limit has sparked debate within the Ethereum community. Proponents argue that raising the limit to 36 million would enhance the L1 network's capacity and stimulate innovation. Ethereum researcher Justin Drake mentioned in a December 9 post on X that he would configure his validator for a 36 million gas limit to facilitate safe network operations. In March, core Ethereum developer Eric Connor and former MakerDAO smart contracts head Mariano Conti launched a website advocating for a gas limit increase to 40 million, suggesting it would lower transaction fees.\n\nHowever, concerns have been raised about potential risks to blockchain stability and security. Toni Wahrstätter from the Ethereum Foundation warned in a December 9 post on the Ethereum Research page that increasing the gas limit to 60 million per block could lead to propagation failures, missed validator slots, and network destabilization. The Pump The Gas site also acknowledged these risks, suggesting that a gradual increase makes sense to avoid making the chain too large for solo node operators to validate and download.",
+            "link": "https://www.coinlive.com/mobile/hot-news/detail/?id=733229&language=en-US",
+            "pub_date": "2025-02-04 13:43:45",
+            "source": "coinlive",
+            "kind": 2,
+            "language": "en"
+        },
+        {
             "id": 733226,
             "title": "BNB Drops Below 580 USDT with a Narrowed 4.56% Increase in 24 Hours",
             "description": "On Feb 04, 2025, 05:26 AM(UTC). According to Binance Market Data, BNB has dropped below 580 USDT and is now trading at 579.969971 USDT, with a narrowed narrowed 4.56% increase in 24 hours.",
@@ -86,16 +96,6 @@
             "description": "On Feb 04, 2025, 05:06 AM(UTC). According to Binance Market Data, BNB has dropped below 590 USDT and is now trading at 589.799988 USDT, with a narrowed narrowed 8.22% increase in 24 hours.",
             "link": "https://www.coinlive.com/mobile/hot-news/detail/?id=733216&language=en-US",
             "pub_date": "2025-02-04 13:06:36",
-            "source": "coinlive",
-            "kind": 2,
-            "language": "en"
-        },
-        {
-            "id": 733209,
-            "title": "The Ethereum spot ETF has accumulated a total net inflow of US$2.842 billion, and the ETF net asset ratio has reached 3.06%.",
-            "description": "Odaily Planet Daily News According to SoSoValue data, yesterday (February 3, Eastern Time), the total net inflow of Ethereum spot ETFs was 83.5404 million US dollars.\nYesterday, Grayscale Ethereum Trust ETF ETHE had a single-day net inflow of 15.8517 million US dollars, and the current historical net outflow of ETHE is 3.918 billion US dollars.\nGrayscale Ethereum Mini Trust ETF ETH had a single-day net inflow of 12.7543 million US dollars, and the current historical total net inflow of Grayscale Ethereum Mini Trust ETH is 607 million US dollars.\nThe Ethereum spot ETF with the largest single-day net inflow yesterday was Fidelity ETF FETH, with a single-day net inflow of 49.7493 million US dollars, and the current historical total net inflow of FETH reached 1.462 billion US dollars.\nThe second is Grayscale ETF ETHE, with a single-day net inflow of US$15.8517 million. Currently, ETHE has a total net outflow of US$3.918 billion.\nAs of press time, the total net asset value of Ethereum spot ETF is US$9.979 billion, and the ETF net asset ratio (market value to Ethereum's total market value) is 3.06%, and the historical cumulative net inflow has reached US$2.842 billion.",
-            "link": "https://www.coinlive.com/mobile/hot-news/detail/?id=733209&language=en-US",
-            "pub_date": "2025-02-04 12:54:10",
             "source": "coinlive",
             "kind": 2,
             "language": "en"
