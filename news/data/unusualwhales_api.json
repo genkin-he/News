@@ -2,6 +2,94 @@
     "news": [
         {
             "beta_headline": null,
+            "category": "securities",
+            "date": "2025-02-04",
+            "headline": "US stocks mixed: Dow fell 0.12% to 44,369.81, NASDAQ up 0.09% to 19,409.37, S&P 500 down 0.01% to 5,993.91. PepsiCo's Q4 sales down 0.2% to $27.78B, missing estimates.",
+            "id": "e67f2635-3d6a-417c-a311-f587c33be051",
+            "is_major": false,
+            "source": "Benzinga",
+            "source_type": "news",
+            "summary": "This morning, U.S. stocks had mixed performance, with the Dow Jones index dropping by approximately 0.1%. The Dow was down by 0.12% to 44,369.81, while the NASDAQ rose by 0.09% to 19,409.37. The S&P 500 also experienced a slight decrease, falling by 0.01% to 5,993.91. Communication services shares saw a notable increase of 0.7%, while utilities shares suffered a decline of 1.1% on Tuesday. PepsiCo Inc (NASDAQ:PEP) announced lower-than-expected fourth-quarter revenue, with a 0.2% year-on-year sales decrease to $27.78 billion, missing the estimated $27.89 billion. Additionally, net revenue from Frito-Lay North America dropped by 2% year-on-year.",
+            "tickers": [
+                "QNTM",
+                "VLCN",
+                "OMGA",
+                "EJH",
+                "UPC",
+                "AZTR",
+                "PEP",
+                "DOW"
+            ],
+            "time": "14:46:08",
+            "timestamp": "2025-02-04T14:46:08Z",
+            "url": "https://www.benzinga.com/25/02/43464430/us-stocks-mixed-pepsico-posts-downbeat-sales"
+        },
+        {
+            "beta_headline": null,
+            "category": "commodities",
+            "date": "2025-02-04",
+            "headline": "Colombia's crawler excavator market expects 3,070 units by 2030 with 4.35% CAGR from 2024, driven by construction growth.",
+            "id": "605c1e4f-8a7f-4fc7-b4ed-805f7a9cbfac",
+            "is_major": false,
+            "source": "Business Wire",
+            "source_type": "news",
+            "summary": "A recent report titled \"Colombia Crawler Excavator Market - Strategic Assessment & Forecast 2025-2030\" has been included in ResearchAndMarkets.com's offerings. The Colombia crawler excavator market is witnessing a notable increase in demand, projected to reach 3,070 units by 2030. This growth is driven by a robust compound annual growth rate (CAGR) of 4.35% from 2024. The expansion highlights the strength of Colombia's construction and mining sectors, which are increasingly dependent on technology.",
+            "tickers": [
+                "NDXP"
+            ],
+            "time": "14:44:02",
+            "timestamp": "2025-02-04T14:44:02Z",
+            "url": "http://www.businesswire.com/news/home/20250204426596/en/Colombia-Crawler-Excavator-Market-Assessment-Forecasts-2024-2025-2030-Technological-Advancements-and-Infrastructure-Projects-Fueling-Growth---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ=="
+        },
+        {
+            "beta_headline": null,
+            "category": "investing",
+            "date": "2025-02-04",
+            "headline": "The US Secretary of State will modify or rescind existing sanctions waivers and cooperate with Treasury to implement a campaign aimed at driving Iran's oil exports to zero - US Official.",
+            "id": "c9e45356-f65c-47e8-a9d1-8a560b84e1ac",
+            "is_major": true,
+            "source": "Tradex",
+            "source_type": "news",
+            "summary": null,
+            "tickers": [],
+            "time": "14:43:48",
+            "timestamp": "2025-02-04T14:43:48Z",
+            "url": null
+        },
+        {
+            "beta_headline": null,
+            "category": "securities",
+            "date": "2025-02-04",
+            "headline": "Seafarer Capital Partners explores key drivers of emerging markets value investing, identifying seven sources of value.",
+            "id": "55750ad9-0a2f-4323-b82a-fcc89b302aff",
+            "is_major": false,
+            "source": "Benzinga",
+            "source_type": "news",
+            "summary": "Seafarer Capital Partners recently published a white paper titled \"Revisiting the Seven Sources of Value in Emerging Markets,\" which examines their findings on investing in seven distinct sources of value in emerging markets. The white paper discusses the practical lessons learned by Seafarer in pursuing these sources of value, focusing on the Fund's performance since inception. The paper provides insights into each source of value, such as Asset Productivity, and includes emblematic stock examples to illustrate the concepts. The full paper is available on Seafarer's website. For more details, refer to the Benzinga.com article.",
+            "tickers": [
+                "NDXP"
+            ],
+            "time": "14:42:08",
+            "timestamp": "2025-02-04T14:42:08Z",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43464026/seafarer-capital-partners-reveals-key-drivers-of-performance-in-emerging-markets-value-investing"
+        },
+        {
+            "beta_headline": null,
+            "category": "investing",
+            "date": "2025-02-04",
+            "headline": "Trump's order on Iran directs the US Treasury Secretary to impose maximum economic pressure on Iran, including sanctions and enforcement mechanisms on those violating existing sanctions - US Official.",
+            "id": "520b1f17-b057-4df7-bb9b-73e5c6cd3b96",
+            "is_major": true,
+            "source": "Tradex",
+            "source_type": "news",
+            "summary": null,
+            "tickers": [],
+            "time": "14:41:48",
+            "timestamp": "2025-02-04T14:41:48Z",
+            "url": null
+        },
+        {
+            "beta_headline": null,
             "category": "commodities",
             "date": "2025-02-04",
             "headline": "Enterprise Products Partners L.P. had a Q4 sales decline to $14.201B, beating consensus, with adjusted EBITDA at $2.59B, EPS at 74 cents, and non-GAAP distributable cash flow at $2.16B, targeting $6B in 2025 expansions.",
@@ -770,93 +858,6 @@
             "time": "14:29:48",
             "timestamp": "2025-02-04T14:29:48Z",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWZXOFBEcEV3Z2t4MHpYRWFJdnlWdzFiMHFxX2g1aVFWaTRFUFdPU0ExODNJQ0hfYm1hc1VxdktlZzU2V1lOcE45RmxGSkZ3UUhJNmVpdG9Kb1FRVmIwXzg1RVowbEtNOW1vU2RkN2F0UlZtTlh1M0NoZTB6aDRPMWxPZ3dKYy1fRzI3bVAyTjBuNV9PQkxOcDEzTjdZeFk4TzV2bjYya0lPaUZQZ0VhQkJ5TkU?oc=5"
-        },
-        {
-            "beta_headline": null,
-            "category": "securities",
-            "date": "2025-02-04",
-            "headline": "ATIF Holdings Ltd. secures $2.5M through registered direct offering and private placement with institutional investor.",
-            "id": "95f33385-ec89-4090-b29a-31b48501374d",
-            "is_major": false,
-            "source": "GlobeNewswire",
-            "source_type": "news",
-            "summary": "Lake Forest, California-based ATIF Holdings Limited (Nasdaq: ZBAI) revealed today that it has finalized deals with an institutional investor for the acquisition and trade of its ordinary shares and pre-funded warrants in a registered direct offering. The company, which specializes in providing IPO, M&A advisory, and post-IPO compliance services to small and medium-sized businesses looking to go public in the US, will also sell warrants to purchase ordinary shares in a separate private placement. The combined transactions are anticipated to bring in total gross proceeds of roughly $2.5 million.",
-            "tickers": [
-                "NDXP",
-                "ZBAI"
-            ],
-            "time": "14:29:47",
-            "timestamp": "2025-02-04T14:29:47Z",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020453/0/en/ATIF-Holdings-Limited-Announces-Approximately-2-5-Million-Registered-Direct-and-Private-Placement.html"
-        },
-        {
-            "beta_headline": null,
-            "category": "securities",
-            "date": "2025-02-04",
-            "headline": "Investment firm assembles wealth management team, recruits professionals from First Republic.",
-            "id": "812cae0f-e672-4d6e-ab9e-2192a70f9b1b",
-            "is_major": false,
-            "source": "Bloomberg",
-            "source_type": "news",
-            "summary": null,
-            "tickers": [
-                "NDXP"
-            ],
-            "time": "14:29:46",
-            "timestamp": "2025-02-04T14:29:46Z",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVHVGOUN0bnFvNmJGcXlpQ1d6a1AwdEU3M19QRmw4Qk5tbDFvUVhVOXRLVS1UYjFmYktvdDZ0NXNEaDVGZW93emhXMGxnbVBJV3Atazg3LXZqdXp0ZWt2WkE4LWZpNUpfMUpTSDRRa3M0Q2ZvU1RucUlDUk0wZ0dseF9rcld0aE1WcGFFN0I1Z0QxSzRUcVBRZHJFOG5HTVVwOXpNbG8xRHZaeUhoSlZIOA?oc=5"
-        },
-        {
-            "beta_headline": null,
-            "category": "securities",
-            "date": "2025-02-04",
-            "headline": "Vega Stella appoints Al Hansen as Senior Managing Director to lead healthcare strategy. Effective Feb 10, 2025. #Healthcare #VegaStella",
-            "id": "2974a74b-e4bd-4e2e-bfc4-a46a7725b877",
-            "is_major": false,
-            "source": "PR NewsWire",
-            "source_type": "news",
-            "summary": "Today, Vega Stella revealed the selection of Al Hansen as the Senior Managing Director, commencing his role on February 10, 2025. Mr. Hansen will be responsible for advancing the firm's healthcare strategy, with a particular emphasis on enhancing knowledge in critical healthcare sectors.",
-            "tickers": [
-                "NDXP"
-            ],
-            "time": "14:27:45",
-            "timestamp": "2025-02-04T14:27:45Z",
-            "url": "https://www.prnewswire.com/news-releases/vega-stella-appoints-al-hansen-former-questcor-chairman-as-senior-managing-director-to-lead-healthcare-strategy-302366161.html"
-        },
-        {
-            "beta_headline": null,
-            "category": "securities",
-            "date": "2025-02-04",
-            "headline": "Jupiter Neurosciences (NASDAQ: JUNS) addresses market volatility, focusing on advancing clinical trials, plans DTC launch generating revenue.",
-            "id": "51069253-a324-4fc2-8eea-1e4f7d3a57cc",
-            "is_major": false,
-            "source": "GlobeNewswire",
-            "source_type": "news",
-            "summary": "On February 4, 2025, in Jupiter, Florida, Jupiter Neurosciences, Inc. (NASDAQ: JUNS), a clinical-stage pharmaceutical company, announced plans for the launch of its patented resveratrol-based platform, JOTROL\u2122. Amidst market volatility, the company aims to introduce a Direct-to-Consumer product towards the end of the year. This move is anticipated to bring in immediate revenues as Jupiter progresses in its clinical trials.",
-            "tickers": [
-                "JUNS",
-                "NDXP"
-            ],
-            "time": "14:26:23",
-            "timestamp": "2025-02-04T14:26:23Z",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020449/0/en/Jupiter-Neurosciences-Addresses-Market-Volatility-as-it-Remains-Focused-on-Advancing-Clinical-and-Commercial-Milestones.html"
-        },
-        {
-            "beta_headline": null,
-            "category": "commodities",
-            "date": "2025-02-04",
-            "headline": "VDURA debuts new data platform at Rice University's Energy HPC Conference, Feb 25-27, 2025. Leading AI and HPC solutions provider in energy sector.",
-            "id": "6654c1bb-e60d-491c-8364-80cd1a8621c1",
-            "is_major": false,
-            "source": "Business Wire",
-            "source_type": "news",
-            "summary": "VDURA, a prominent company specializing in AI and HPC data infrastructure solutions, is set to showcase its latest data platform at the upcoming 18th annual Energy HPC Conference at Rice University's Ken Kennedy Institute from February 25 to 27, 2025. With a strong reputation in the energy industry, VDURA aims to drive advancements in energy innovation by offering rapid data processing, top-notch data durability, and cutting-edge technology. This event will bring together industry experts and innovators to discuss the latest trends in high-performance computing for the energy sector.",
-            "tickers": [
-                "NDXP"
-            ],
-            "time": "14:25:45",
-            "timestamp": "2025-02-04T14:25:45Z",
-            "url": "http://www.businesswire.com/news/home/20250204453525/en/VDURA-Showcases-Next-Gen-Data-Platform-at-Rice-Universitys-Energy-HPC-Conference/?feedref=JjAwJuNHiystnCoBq_hl-YKT6SDyMw5Lye4ovXwHmkqD8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5idAXrgr_e1ZUbxvK6BY66Xm"
         }
     ]
 }
