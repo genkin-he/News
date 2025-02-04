@@ -3,6 +3,27 @@
     "data": {
         "itemList": [
             {
+                "itemId": 3152096608655878,
+                "itemType": 20,
+                "templateMaterial": {
+                    "itemId": 3152096608655878,
+                    "templateType": 0,
+                    "widgetImage": "",
+                    "publishTime": 1738660709024,
+                    "widgetTitle": "\u4e07\u5174\u79d1\u6280\u5b8c\u6210DeepSeek-R1\u9002\u914d\uff0c\u65d7\u4e0b\u591a\u6b3e\u4ea7\u54c1\u5df2\u878d\u5408\u76f8\u5173\u80fd\u529b",
+                    "widgetContent": "36\u6c2a\u83b7\u6089\uff0c\u4e07\u5174\u79d1\u6280\u5b8c\u6210\u6df1\u5ea6\u6c42\u7d22\uff08DeepSeek\uff09\u6700\u65b0\u63a8\u7406\u5927\u6a21\u578bDeepSeek-R1\u7684\u6df1\u5165\u9002\u914d\uff0c\u65d7\u4e0b\u89c6\u9891\u521b\u610f\u3001\u7ed8\u56fe\u521b\u610f\u53ca\u6587\u6863\u521b\u610f\u8f6f\u4ef6\u4e1a\u52a1\u4ea7\u54c1\uff0c\u8bf8\u5982\u4e07\u5174\u55b5\u5f71\u3001\u4ebf\u56fe\u56fe\u793a\u3001\u4ebf\u56fe\u8111\u56feMindMaster\u3001\u4e07\u5174PDF\u7b49\u5747\u5df2\u878d\u5408DeepSeek-R1\u5927\u6a21\u578b\u76f8\u5173\u80fd\u529b\uff0c\u7528\u6237\u53ef\u62a2\u9c9c\u4f53\u9a8c\u3002",
+                    "hasRed": 0,
+                    "statComment": 0,
+                    "hasRelevant": 0,
+                    "relevantProject": {
+                        "projectUrlRoute": "https://36kr.com/project/1678231564530691",
+                        "projectName": "\u4e07\u5174\u79d1\u6280"
+                    }
+                },
+                "route": "detail_newsflash?itemId=3152096608655878",
+                "siteId": 1
+            },
+            {
                 "itemId": 3152074650868485,
                 "itemType": 20,
                 "templateMaterial": {
@@ -363,27 +384,9 @@
                 },
                 "route": "detail_newsflash?itemId=3151865449241091",
                 "siteId": 1
-            },
-            {
-                "itemId": 3151754052540933,
-                "itemType": 20,
-                "templateMaterial": {
-                    "itemId": 3151754052540933,
-                    "templateType": 0,
-                    "widgetImage": "",
-                    "publishTime": 1738639801058,
-                    "widgetTitle": "OpenAI\u548c\u97e9\u56fd\u5934\u90e8\u804a\u5929\u5e94\u7528\u8fd0\u8425\u5546Kakao\u8ba1\u5212\u5408\u4f5c\u5f00\u53d1\u9762\u5411\u97e9\u56fd\u5e02\u573a\u7684\u4eba\u5de5\u667a\u80fd\u4ea7\u54c1",
-                    "widgetContent": "ChatGPT\u5f00\u53d1\u8005OpenAI\u548c\u97e9\u56fd\u5360\u4e3b\u5bfc\u5730\u4f4d\u7684\u804a\u5929\u5e94\u7528\u8fd0\u8425\u5546Kakao\u5468\u4e8c\u8868\u793a\uff0c\u53cc\u65b9\u8ba1\u5212\u5efa\u7acb\u6218\u7565\u4f19\u4f34\u5173\u7cfb\uff0c\u5f00\u53d1\u9762\u5411\u97e9\u56fd\u5e02\u573a\u7684\u4eba\u5de5\u667a\u80fd\u4ea7\u54c1\u3002Kakao\u9996\u5e2d\u6267\u884c\u5b98Chung Shina\u5728\u9996\u5c14\u4e3e\u884c\u7684\u65b0\u95fb\u53d1\u5e03\u4f1a\u4e0a\u8868\u793a\uff0cKakao\u5c06\u5728\u5176\u5e94\u7528\u4e0a\u4f7f\u7528OpenAI\u6280\u672f\u3002\u88ab\u95ee\u53caOpenAI\u662f\u5426\u6b63\u5728\u8003\u8651\u6295\u8d44\u548c\u52a0\u5165\u97e9\u56fd\u7684\u4eba\u5de5\u667a\u80fd\u8ba1\u7b97\u4e2d\u5fc3\u9879\u76ee\uff0cOpenAICEO\u5965\u7279\u66fc\u8868\u793a\uff0c\u516c\u53f8\u6b63\u5728\u201c\u79ef\u6781\u8003\u8651\u201d\u8fd9\u4e00\u4e3e\u63aa\u3002\uff08\u8d22\u8054\u793e\uff09",
-                    "hasRed": 0,
-                    "sourceUrlRoute": "webview?url=https%3A%2F%2Fwww.cls.cn%2Fdetail%2F1933897",
-                    "statComment": 0,
-                    "hasRelevant": 0
-                },
-                "route": "detail_newsflash?itemId=3151754052540933",
-                "siteId": 1
             }
         ],
-        "pageCallback": "eyJmaXJzdElkIjozMTUyMDc0NjUwODY4NDg1LCJsYXN0SWQiOjMxNTE3NTQwNTI1NDA5MzMsImZpcnN0Q3JlYXRlVGltZSI6MTczODY1OTM2ODgyNywibGFzdENyZWF0ZVRpbWUiOjE3Mzg2Mzk4MDEwNTgsImxhc3RQYXJhbSI6IjEifQ",
+        "pageCallback": "eyJmaXJzdElkIjozMTUyMDk2NjA4NjU1ODc4LCJsYXN0SWQiOjMxNTE4NjU0NDkyNDEwOTEsImZpcnN0Q3JlYXRlVGltZSI6MTczODY2MDcwOTAyNCwibGFzdENyZWF0ZVRpbWUiOjE3Mzg2NDY2MDAxNzMsImxhc3RQYXJhbSI6IjEifQ",
         "hasNextPage": 1
     }
 }
