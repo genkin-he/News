@@ -71,7 +71,6 @@ def run():
             for index in range(len(items)):
                 if index > 1:
                     break
-                print(items[index])
                 link = items[index]["href"].strip()
                 title = items[index]["data-title"].strip()
                 if link in ",".join(_links):
