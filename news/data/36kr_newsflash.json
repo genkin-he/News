@@ -3,6 +3,23 @@
     "data": {
         "itemList": [
             {
+                "itemId": 3151865449241091,
+                "itemType": 20,
+                "templateMaterial": {
+                    "itemId": 3151865449241091,
+                    "templateType": 0,
+                    "widgetImage": "",
+                    "publishTime": 1738646600173,
+                    "widgetTitle": "\u6296\u97f3\u751f\u6d3b\u670d\u52a1\uff1a\u6625\u8282\u56e2\u8d2d\u8ba2\u5355\u91cf\u8fd1\u53bb\u5e741.5\u500d\uff0c\u201c\u65c5\u6e38\u8fc7\u5e74\u201d\u201c\u8fd4\u4e61\u63a2\u4eb2\u201d\u5e26\u52a8\u8d2d\u9500\u4e24\u65fa",
+                    "widgetContent": "36\u6c2a\u83b7\u6089\uff0c\u6296\u97f3\u751f\u6d3b\u670d\u52a1\u53d1\u5e03\u300a2025\u6625\u8282\u6d88\u8d39\u6570\u636e\u62a5\u544a\u300b\uff0c\u5c55\u73b0\u4e59\u5df3\u5e74\u519c\u5386\u9664\u5915\u81f3\u6b63\u6708\u521d\u516d\u671f\u95f4\u6d88\u8d39\u7279\u8272\u53ca\u7528\u6237\u8d2d\u4e70\u504f\u597d\u3002\u6570\u636e\u663e\u793a\uff0c\u4eca\u5e74\u6625\u8282\u6d88\u8d39\u9700\u6c42\u65fa\u76db\uff0c1\u670828\u65e5\u81f32\u67083\u65e5\uff0c\u5e73\u53f0\u5403\u559d\u6e38\u73a9\u56e2\u8d2d\u8ba2\u5355\u91cf\u63a5\u8fd1\u53bb\u5e74\u76841.5\u500d\uff0c\u6296\u97f3\u76f4\u64ad\u5185\u5bb9\u5e26\u52a8\u56e2\u8d2d\u8ba2\u5355\u91cf\u589e\u957f\u8d8570%\u3002",
+                    "hasRed": 0,
+                    "statComment": 0,
+                    "hasRelevant": 0
+                },
+                "route": "detail_newsflash?itemId=3151865449241091",
+                "siteId": 1
+            },
+            {
                 "itemId": 3151754052540933,
                 "itemType": 20,
                 "templateMaterial": {
@@ -368,27 +385,9 @@
                 },
                 "route": "detail_newsflash?itemId=3150484583521031",
                 "siteId": 1
-            },
-            {
-                "itemId": 3150482587277830,
-                "itemType": 20,
-                "templateMaterial": {
-                    "itemId": 3150482587277830,
-                    "templateType": 0,
-                    "widgetImage": "",
-                    "publishTime": 1738562196977,
-                    "widgetTitle": "OpenAI\u6b63\u5f0f\u63a8\u51fa\u9762\u5411\u6df1\u5ea6\u7814\u7a76\u9886\u57df\u7684\u667a\u80fd\u4f53\u4ea7\u54c1\u6df1\u5ea6\u7814\u7a76\uff08Deep research\uff09\u529f\u80fd",
-                    "widgetContent": "\u5317\u4eac\u65f6\u95f42\u67083\u65e5\u4e0a\u5348\uff0cOpenAI\u6b63\u5f0f\u63a8\u51fa\u9762\u5411\u6df1\u5ea6\u7814\u7a76\u9886\u57df\u7684\u667a\u80fd\u4f53\u4ea7\u54c1\u6df1\u5ea6\u7814\u7a76\uff08Deep research\uff09\u529f\u80fd\u3002\u8be5\u529f\u80fd\u53ef\u57285-30\u5206\u949f\u5b8c\u6210\u4e13\u4e1a\u62a5\u544a\uff0c\u652f\u6301\u591a\u9886\u57df\u9ad8\u5f3a\u5ea6\u77e5\u8bc6\u5de5\u4f5c\u8005\uff0c\u7531o3\u6a21\u578b\u63d0\u4f9b\u652f\u6301\uff0c\u901a\u8fc7\u7aef\u5230\u7aef\u5f3a\u5316\u5b66\u4e60\u8bad\u7ec3\uff0c\u7531\u56db\u6a21\u5757\u534f\u540c\u5de5\u4f5c\uff0c\u5df2\u5728ChatGPT\u4e0a\u7ebf\uff0c\u672a\u6765\u8ba1\u5212\u6269\u5c55\u6570\u636e\u6e90\u548c\u7ed3\u5408Operator\u6267\u884c\u590d\u6742\u4efb\u52a1\u3002\uff08\u817e\u8baf\u79d1\u6280\uff09",
-                    "hasRed": 0,
-                    "sourceUrlRoute": "webview?url=https%3A%2F%2Fbaijiahao.baidu.com%2Fs%3Fid%3D1823013918942459805%26wfr%3Dspider%26for%3Dpc",
-                    "statComment": 0,
-                    "hasRelevant": 0
-                },
-                "route": "detail_newsflash?itemId=3150482587277830",
-                "siteId": 1
             }
         ],
-        "pageCallback": "eyJmaXJzdElkIjozMTUxNzU0MDUyNTQwOTMzLCJsYXN0SWQiOjMxNTA0ODI1ODcyNzc4MzAsImZpcnN0Q3JlYXRlVGltZSI6MTczODYzOTgwMTA1OCwibGFzdENyZWF0ZVRpbWUiOjE3Mzg1NjIxOTY5NzcsImxhc3RQYXJhbSI6IjEifQ",
+        "pageCallback": "eyJmaXJzdElkIjozMTUxODY1NDQ5MjQxMDkxLCJsYXN0SWQiOjMxNTA0ODQ1ODM1MjEwMzEsImZpcnN0Q3JlYXRlVGltZSI6MTczODY0NjYwMDE3MywibGFzdENyZWF0ZVRpbWUiOjE3Mzg1NjIzMTg4MTgsImxhc3RQYXJhbSI6IjEifQ",
         "hasNextPage": 1
     }
 }
