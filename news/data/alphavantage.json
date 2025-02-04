@@ -1,8 +1,40 @@
 {
-    "items": "45",
+    "items": "43",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "UK takes legal advice over pulling out of $20bn Total LNG project in Mozambique",
+            "url": "https://www.ft.com/content/cacd29fb-1535-4462-bd5f-3f2bcb546a8d",
+            "time_published": "20250204T050031",
+            "authors": [
+                "Jim Pickard",
+                "David Pilling",
+                "Ian Johnston",
+                "Malcolm Moore"
+            ],
+            "summary": "Britain has pledged to halt new export finance to oil and gas developments in wake of COP26 in ...",
+            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa4c1e35a-463b-40ab-98a2-12af263ae3c2.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "source": "Financial Times",
+            "category_within_source": "Markets",
+            "source_domain": "www.ft.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.004884,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TTE",
+                    "relevance_score": "0.073321",
+                    "ticker_sentiment_score": "0.060928",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Mohamed El-Erian Flags Market Jitters As Trump Tariff Pause On Canada Triggers Currency Swings - Larry Summers Warns Of Trade Fallout",
             "url": "https://www.benzinga.com/news/25/02/43453597/mohamed-el-erian-flags-market-jitters-as-tariff-pause-triggers-currency-swings-larry-summers-warns-of-trade-",
@@ -1855,143 +1887,6 @@
                     "relevance_score": "0.045012",
                     "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Bunker Hill Mining Receives Fourth Tranche from Sprott Standby Facility",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019947/0/en/Bunker-Hill-Mining-Receives-Fourth-Tranche-from-Sprott-Standby-Facility.html",
-            "time_published": "20250204T014300",
-            "authors": [
-                "Bunker Hill Mining Corporation"
-            ],
-            "summary": "KELLOGG, Idaho, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Bunker Hill Mining Corp. ( \"Bunker Hill\" or the \"Company\" ) ( TSX-V: BNKR |OTCQB: BHLL ) announces it has received the final tranche, in the amount of US$6 million under the senior secured credit facility ( the \"Standby Facility\" ) with Sprott ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/e4dccce7-be82-450c-92b0-5ff2887e9c2d/bunkerhillminingcorp-4049033.jpg",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.976913"
-                }
-            ],
-            "overall_sentiment_score": 0.134313,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MALRF",
-                    "relevance_score": "0.045874",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "ModivCare, Inc. Shareholder Alert: Shareholder Rights Law Firm Robbins LLP Reminds Investors of the Class Action Against MODV - ModivCare  ( NASDAQ:MODV ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452688/modivcare-inc-shareholder-alert-shareholder-rights-law-firm-robbins-llp-reminds-investors-of-the-c",
-            "time_published": "20250204T013849",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "SAN DIEGO, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Robbins LLP reminds stockholders that a class action was filed on behalf of persons and entities that purchased or otherwise acquired ModivCare, Inc. MODV securities between November 3, 2022 and September 15, 2024.",
-            "banner_image": "https://ml.globenewswire.com/media/f6c754ad-b344-4389-a551-cf97ce05752e/small/robbins-llp-logo-white-background1583450-1-png.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.140019,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MODV",
-                    "relevance_score": "0.616447",
-                    "ticker_sentiment_score": "0.346881",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Cathie Wood's Ark Invest Dumps Lockheed Martin Shares, Swoops Up Stock Of This Satellite Phone Provider - ARK Fintech Innovation ETF  ( ARCA:ARKF ) , ARK Autonomous Technology & Robotics ETF  ( BATS:ARKQ ) ",
-            "url": "https://www.benzinga.com/25/02/43452687/cathie-woods-ark-invest-dumps-lockheed-martin-shares-swoops-up-stock-of-this-satellite-phone-provider",
-            "time_published": "20250204T013837",
-            "authors": [
-                "Shivdeep Dhaliwal"
-            ],
-            "summary": "On Monday, Cathie Wood-led Ark Invest made significant trades involving Lockheed Martin Corp LMT, Reddit Inc RDDT, and Iridium Communications Inc IRDM.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/03/Other-Key-Trades.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.891286"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.650727"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.300233,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "IRDM",
-                    "relevance_score": "0.393462",
-                    "ticker_sentiment_score": "0.632477",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "LMT",
-                    "relevance_score": "0.560201",
-                    "ticker_sentiment_score": "0.195177",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "RDDT",
-                    "relevance_score": "0.48028",
-                    "ticker_sentiment_score": "0.37512",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "ACCD",
-                    "relevance_score": "0.203215",
-                    "ticker_sentiment_score": "0.410382",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "LHX",
-                    "relevance_score": "0.102449",
-                    "ticker_sentiment_score": "0.232399",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NU",
-                    "relevance_score": "0.102449",
-                    "ticker_sentiment_score": "0.193397",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
