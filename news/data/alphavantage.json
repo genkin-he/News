@@ -1,8 +1,183 @@
 {
-    "items": "42",
+    "items": "40",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Jim Chanos Blasts Tesla's Billion-Dollar Subsidies As Cybertruck Secures $7,500 Incentive After Elon Musk's Call To Shut Down USAID - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/02/43454236/short-seller-jim-chanos-calls-out-teslas-billion-dollar-subsidies-as-cybertruck-secures-7500-inc",
+            "time_published": "20250204T063019",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "Prominent Wall Street short seller Jim Chanos has called attention to the billions in federal subsidies received by Tesla Inc. TSLA and its customers, amid growing scrutiny of CEO Elon Musk's political activities and declining sales in key markets.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Toronto--On--Canada---October-31--2022-T.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.173278,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.188193",
+                    "ticker_sentiment_score": "0.037137",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Trump-Announced Wealth Fund Should Choose MicroStrategy Bonds Over Bitcoin, Analyst Says - MicroStrategy  ( NASDAQ:MSTR ) ",
+            "url": "https://www.benzinga.com/25/02/43454192/microstrategys-convertible-bonds-a-better-choice-than-spot-bitcoin-for-inclusion-in-sovereign-wealth-fund-says-an",
+            "time_published": "20250204T061855",
+            "authors": [
+                "Aniket Verma"
+            ],
+            "summary": "Cryptocurrency analyst James Van Straten recommended having exposure to MicroStrategy Inc. MSTR in the newly announced U.S. sovereign wealth fund instead of spot Bitcoin BTC/USD on Monday.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/MicroStrategy--Photo-by-JOCA-PH-on-Shutt.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                }
+            ],
+            "overall_sentiment_score": 0.190552,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.599092",
+                    "ticker_sentiment_score": "0.33714",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.813165",
+                    "ticker_sentiment_score": "0.270552",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Coinbase CLO to Address 'Operation Chokepoint 2.0' in Congressional Hearing",
+            "url": "https://decrypt.co/304275/coinbase-clo-to-address-operation-chokepoint-2-0-in-congressional-hearing",
+            "time_published": "20250204T060609",
+            "authors": [
+                "Vismaya V"
+            ],
+            "summary": "Coinbase CLO Paul Grewal will testify before Congress on regulators allegedly pressuring banks to cut off crypto.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/05/shutterstock_5672319101-gID_7.jpg",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": -0.130396,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GLYYY",
+                    "relevance_score": "0.076358",
+                    "ticker_sentiment_score": "0.045445",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.152018",
+                    "ticker_sentiment_score": "-0.113905",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "eQ Plc's financial statements release 2024 - eQ's operating profit EUR 34.5 million, proposed dividend EUR 0.66",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019977/0/en/eQ-Plc-s-financial-statements-release-2024-eQ-s-operating-profit-EUR-34-5-million-proposed-dividend-EUR-0-66.html",
+            "time_published": "20250204T060000",
+            "authors": [
+                "eQ Oyj"
+            ],
+            "summary": "eQ Plc financial statements release4 February 2025 at 8:00 AM ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/09ebc337-723f-42ed-a133-1e0561828c22",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.199367,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Fagron solidifies its leadership position with the acquisition of Guinama in Spain",
+            "url": "https://www.globenewswire.com/news-release/2025/02/04/3019978/0/en/Fagron-solidifies-its-leadership-position-with-the-acquisition-of-Guinama-in-Spain.html",
+            "time_published": "20250204T060000",
+            "authors": [
+                "Fagron NV"
+            ],
+            "summary": "Regulated informationNazareth ( Belgium ) /Rotterdam ( The Netherlands ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/3973851e-1f98-4337-a6ce-c854d399304c",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.242167,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
         {
             "title": "Dassault Syst\u00e8mes: Strong Q4 results driven by new business acceleration and expanded 3DEXPERIENCE footprint",
             "url": "https://www.globenewswire.com/news-release/2025/02/04/3019975/0/en/Dassault-Syst%C3%A8mes-Strong-Q4-results-driven-by-new-business-acceleration-and-expanded-3DEXPERIENCE-footprint.html",
@@ -149,6 +324,72 @@
                     "relevance_score": "0.583787",
                     "ticker_sentiment_score": "0.444434",
                     "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Crypto Dips Again as China Set to Impose Tariffs on US Goods",
+            "url": "https://decrypt.co/304274/crypto-dips-again-as-china-set-to-impose-tariffs-on-us-goods",
+            "time_published": "20250204T055633",
+            "authors": [
+                "Vince Dioquino"
+            ],
+            "summary": "China has responded with its own tariff measures against some US goods as crypto took another dive early Tuesday.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/08/dollar-yuan-gID_7.jpg",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": -0.142941,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.299478",
+                    "ticker_sentiment_score": "-0.175352",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.152499",
+                    "ticker_sentiment_score": "-0.093788",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "China to launch antitrust probe into Google",
+            "url": "https://www.cnbc.com/2025/02/04/china-to-launch-antitrust-probe-into-google.html",
+            "time_published": "20250204T055451",
+            "authors": [],
+            "summary": "China said on Tuesday it will launch an antitrust investigation into Google over alleged anti-monopoly practices. The country's State Administration for Market Regulation said that it would initiate an investigation into the technology giant because of alleged violations of China's anti-monopoly ...",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.147148,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.939207",
+                    "ticker_sentiment_score": "-0.261881",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
                 }
             ]
         },
@@ -1278,475 +1519,6 @@
                     "ticker": "BRO",
                     "relevance_score": "0.233556",
                     "ticker_sentiment_score": "0.065907",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "If You Invest $5,000 in Coca-Cola Stock, Will You Become a Millionaire One Day?",
-            "url": "https://www.fool.com/investing/2025/02/03/invest-5000-coca-cola-stock-you-become-millionaire/",
-            "time_published": "20250204T020500",
-            "authors": [
-                "Neil Patel"
-            ],
-            "summary": "There's no doubt that most people on the face of the planet have heard of or been a customer of Coca-Cola ( NYSE: KO ) . The company that offers its namesake drink, as well as more than 200 others, has a presence in a jaw-dropping 200 countries and territories.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/805935/sitting-in-chair-throwing-money-in-air.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.77141"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.303971,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "KO",
-                    "relevance_score": "0.534445",
-                    "ticker_sentiment_score": "0.409384",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "BRK-A",
-                    "relevance_score": "0.064623",
-                    "ticker_sentiment_score": "0.169287",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Nvidia Calls China's DeepSeek an \"Excellent AI Advancement\": Should Investors Press the Buy Button?",
-            "url": "https://www.fool.com/investing/2025/02/03/nvidia-says-chinas-deepseek-is-excellent-ai-advanc/",
-            "time_published": "20250204T020300",
-            "authors": [
-                "Bram Berkowitz"
-            ],
-            "summary": "One might think that artificial intelligence ( AI ) chip king Nvidia ( NASDAQ: NVDA ) might not be so pleased with the Chinese company DeepSeek, considering that news of DeepSeek's achievement in the AI space led to an intense single-day sell-off that erased roughly $600 billion of Nvidia's ...",
-            "banner_image": "https://media.ycharts.com/charts/3de5de583581d1119039f2d44bfc1bd8.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.744043"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.160173,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.053992",
-                    "ticker_sentiment_score": "0.115747",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.656912",
-                    "ticker_sentiment_score": "0.277868",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against BioAge, AstraZeneca, FTAI, and Revance and Encourages Investors to Contact the Firm - AstraZeneca  ( NASDAQ:AZN ) , Bioage Labs  ( NASDAQ:BIOA ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452810/bragar-eagel-squire-p-c-reminds-investors-that-class-action-lawsuits-have-been-filed-against-bioag",
-            "time_published": "20250204T020000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, reminds investors that class actions have been commenced on behalf of stockholders of BioAge Labs, Inc. BIOA, AstraZeneca PLC AZN, FTAI Aviation Ltd.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": -0.114181,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AZN",
-                    "relevance_score": "0.386626",
-                    "ticker_sentiment_score": "-0.247025",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "BIOA",
-                    "relevance_score": "0.150278",
-                    "ticker_sentiment_score": "0.030324",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FTAI",
-                    "relevance_score": "0.295273",
-                    "ticker_sentiment_score": "-0.121216",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RVNC",
-                    "relevance_score": "0.150278",
-                    "ticker_sentiment_score": "0.030324",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against Kyverna, Sun Communities, DMC Global, and Marqeta and Encourages Investors to Contact the Firm - Kyverna Therapeutics  ( NASDAQ:KYTX ) , DMC Glb  ( NASDAQ:BOOM ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452811/bragar-eagel-squire-p-c-reminds-investors-that-class-action-lawsuits-have-been-filed-against-kyver",
-            "time_published": "20250204T020000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, reminds investors that class actions have been commenced on behalf of stockholders of Kyverna Therapeutics, Inc. KYTX, Sun Communities SUI, DMC Global Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.858979"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": -0.139943,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "KYTX",
-                    "relevance_score": "0.157827",
-                    "ticker_sentiment_score": "0.031258",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BOOM",
-                    "relevance_score": "0.209365",
-                    "ticker_sentiment_score": "0.038318",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MQ",
-                    "relevance_score": "0.309539",
-                    "ticker_sentiment_score": "-0.201615",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "SUI",
-                    "relevance_score": "0.209365",
-                    "ticker_sentiment_score": "0.038318",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against Capri, Caribou, Nextracker, and Transocean and Encourages Investors to Contact the Firm - Capri Holdings  ( NYSE:CPRI ) , Caribou Biosciences  ( NASDAQ:CRBU ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452808/bragar-eagel-squire-p-c-reminds-investors-that-class-action-lawsuits-have-been-filed-against-capri",
-            "time_published": "20250204T020000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, reminds investors that class actions have been commenced on behalf of stockholders of Capri Holdings Limited CPRI, Caribou Biosciences, Inc. CRBU, Nextracker Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.918141"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.25"
-                }
-            ],
-            "overall_sentiment_score": 0.038894,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "EVR",
-                    "relevance_score": "0.081552",
-                    "ticker_sentiment_score": "0.019701",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RIG",
-                    "relevance_score": "0.108589",
-                    "ticker_sentiment_score": "0.002188",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CPRI",
-                    "relevance_score": "0.367219",
-                    "ticker_sentiment_score": "0.197235",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRBU",
-                    "relevance_score": "0.081552",
-                    "ticker_sentiment_score": "0.002042",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NXT(EXP20091224)",
-                    "relevance_score": "0.108589",
-                    "ticker_sentiment_score": "-0.037592",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:NXT",
-                    "relevance_score": "0.054421",
-                    "ticker_sentiment_score": "0.001996",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "PAYPAL ALERT: Bragar Eagel & Squire, P.C. is Investigating PayPal Holdings, Inc. on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm - PayPal Holdings  ( NASDAQ:PYPL ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452812/paypal-alert-bragar-eagel-squire-p-c-is-investigating-paypal-holdings-inc-on-behalf-of-long-term-s",
-            "time_published": "20250204T020000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, is investigating potential claims against PayPal Holdings, Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                }
-            ],
-            "overall_sentiment_score": 0.084998,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PYPL",
-                    "relevance_score": "0.948064",
-                    "ticker_sentiment_score": "0.129416",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Bragar Eagel & Squire, P.C. Is Investigating Dave, TransMedics, and Red Cat and Encourages Investors to Contact the Firm - Red Cat Hldgs  ( NASDAQ:RCAT ) , Dave  ( NASDAQ:DAVE ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452813/bragar-eagel-squire-p-c-is-investigating-dave-transmedics-and-red-cat-and-encourages-investors-to-",
-            "time_published": "20250204T020000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, is investigating potential claims against Dave, Inc. DAVE, TransMedics Group, Inc. TMDX, and Red Cat Holdings, Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": -0.117841,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "RCAT",
-                    "relevance_score": "0.342803",
-                    "ticker_sentiment_score": "-0.122029",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TMDX",
-                    "relevance_score": "0.405651",
-                    "ticker_sentiment_score": "-0.384399",
-                    "ticker_sentiment_label": "Bearish"
-                },
-                {
-                    "ticker": "DAVE",
-                    "relevance_score": "0.277433",
-                    "ticker_sentiment_score": "-0.054668",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against Kaspi, Applied Therapeutics, Cassava, and MGPI and Encourages Investors to Contact the Firm - Kaspi.kz  ( NASDAQ:KSPI ) , Applied Therapeutics  ( NASDAQ:APLT ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452809/bragar-eagel-squire-p-c-reminds-investors-that-class-action-lawsuits-have-been-filed-against-kaspi",
-            "time_published": "20250204T020000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, reminds investors that class actions have been commenced on behalf of stockholders of Joint Stock Company Kaspi.kz KSPI, Applied Therapeutics, Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999864"
-                }
-            ],
-            "overall_sentiment_score": -0.048572,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "APLT",
-                    "relevance_score": "0.38588",
-                    "ticker_sentiment_score": "-0.11045",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MGPI",
-                    "relevance_score": "0.350014",
-                    "ticker_sentiment_score": "-0.012569",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SAVA",
-                    "relevance_score": "0.12023",
-                    "ticker_sentiment_score": "0.025924",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "DOMINO'S ALERT: Bragar Eagel & Squire, P.C. is Investigating Domino's Pizza, Inc. on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm - Domino's Pizza  ( NASDAQ:DPZ ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43452814/dominos-alert-bragar-eagel-squire-p-c-is-investigating-dominos-pizza-inc-on-behalf-of-long-term-st",
-            "time_published": "20250204T020000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 03, 2025 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, is investigating potential claims against Domino's Pizza, Inc.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.009748,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "DMPZF",
-                    "relevance_score": "0.105141",
-                    "ticker_sentiment_score": "-0.055932",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "DPZ",
-                    "relevance_score": "0.208464",
-                    "ticker_sentiment_score": "-0.082896",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
