@@ -4,6 +4,43 @@
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
         {
+            "title": "AMD, Alphabet, Snap, Chipotle, And Tesla: Why These 5 Stocks Are On Investors' Radars Today - Advanced Micro Devices  ( NASDAQ:AMD ) , Chipotle Mexican Grill  ( NYSE:CMG ) ",
+            "url": "https://www.benzinga.com/25/02/43485175/amd-alphabet-snap-chipotle-and-tesla-why-these-5-stocks-are-on-investors-radars-today",
+            "time_published": "20250205T023717",
+            "authors": [
+                "Shivdeep Dhaliwal"
+            ],
+            "summary": "The U.S. stock market showed a positive trend on Tuesday, with the Nasdaq Composite surging by over 260 points to end the day at 19,654.02. The Dow Jones Industrial Average also rose by 0.3% to 44,556.04, while the S&P 500 gained 0.7% to 6,037.88.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Nvidia--Palantir--Ionq--Novavax--And-Tes.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.972476"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990999"
+                }
+            ],
+            "overall_sentiment_score": 0.167618,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.10607",
+                    "ticker_sentiment_score": "0.053837",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Why GS1 Digital Link QR Code Matters to Global Supply Chain",
             "url": "https://www.benzinga.com/pressreleases/25/02/g43485120/why-gs1-digital-link-qr-code-matters-to-global-supply-chain",
             "time_published": "20250205T022143",
@@ -24,6 +61,126 @@
             "overall_sentiment_score": 0.320313,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
+        },
+        {
+            "title": "Chinese stocks lose ground in Hong Kong and mainland amid tariff uncertainty",
+            "url": "https://www.scmp.com/business/markets/article/3297387/chinese-stocks-lose-ground-hong-kong-and-mainland-amid-tariff-uncertainty",
+            "time_published": "20250205T022054",
+            "authors": [
+                "Aileen Chuang"
+            ],
+            "summary": "Technology stocks outperform as the DeepSeek effect draws investors.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/05/a26a6a41-8a01-43a1-bf31-2ada2f53b2a9_790834e7.jpg?itok=CWzWNwoX&v=1738722052",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": -0.041184,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LNVGF",
+                    "relevance_score": "0.085629",
+                    "ticker_sentiment_score": "-0.127479",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OROVY",
+                    "relevance_score": "0.085629",
+                    "ticker_sentiment_score": "0.210345",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WHGRF",
+                    "relevance_score": "0.085629",
+                    "ticker_sentiment_score": "0.210345",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BYDIY",
+                    "relevance_score": "0.085629",
+                    "ticker_sentiment_score": "-0.127479",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NNFSF",
+                    "relevance_score": "0.085629",
+                    "ticker_sentiment_score": "-0.060496",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KSFTF",
+                    "relevance_score": "0.085629",
+                    "ticker_sentiment_score": "-0.174039",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "KC",
+                    "relevance_score": "0.085629",
+                    "ticker_sentiment_score": "-0.174039",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "HDALF",
+                    "relevance_score": "0.085629",
+                    "ticker_sentiment_score": "-0.060496",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MEIUF",
+                    "relevance_score": "0.085629",
+                    "ticker_sentiment_score": "-0.174039",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Nissan and Honda shares rise as report says automakers may call off merger talks",
+            "url": "https://www.cnbc.com/2025/02/05/nissan-and-honda-shares-rise-upon-potential-merger-talk-cancelation.html",
+            "time_published": "20250205T021950",
+            "authors": [],
+            "summary": "Honda and Nissan are considering calling off their merger talks, Japan's Asahi Shimbun reported on Wednesday citing several sources.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.026077,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSBHF",
+                    "relevance_score": "0.29234",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RNSDF",
+                    "relevance_score": "0.148731",
+                    "ticker_sentiment_score": "-0.062057",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASBRF",
+                    "relevance_score": "0.148731",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
         },
         {
             "title": "MPWR INVESTOR ALERT: Robbins Geller Rudman & Dowd LLP Files Class Action Lawsuit Against Monolithic Power Systems, Inc. and Announces Opportunity for Investors with Substantial Losses to Lead the Monolithic Power Systems Class Action Lawsuit - Monolithic Power Systems  ( NASDAQ:MPWR ) ",
@@ -588,6 +745,72 @@
             ]
         },
         {
+            "title": "Here's What Key Metrics Tell Us About Voya  ( VOYA )  Q4 Earnings",
+            "url": "https://www.zacks.com/stock/news/2409705/heres-what-key-metrics-tell-us-about-voya-voya-q4-earnings",
+            "time_published": "20250205T010004",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Although the revenue and EPS for Voya (VOYA) give a sense of how its business performed in the quarter ended December 2024, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Madison Square Garden  ( MSGS )  Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
+            "url": "https://www.zacks.com/stock/news/2409707/madison-square-garden-msgs-q2-earnings-taking-a-look-at-key-metrics-versus-estimates",
+            "time_published": "20250205T010004",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "While the top- and bottom-line numbers for Madison Square Garden (MSGS) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Compared to Estimates, Unum  ( UNM )  Q4 Earnings: A Look at Key Metrics",
+            "url": "https://www.zacks.com/stock/news/2409706/compared-to-estimates-unum-unm-q4-earnings-a-look-at-key-metrics",
+            "time_published": "20250205T010004",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "The headline numbers for Unum (UNM) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
             "title": "This Magnificent Artificial Intelligence  ( AI )  Stock Has Shot Up Over 175% in Just 3 Months, and It Could Soar Higher in 2025",
             "url": "https://www.fool.com/investing/2025/02/04/this-magnificent-artificial-intelligence-ai-stock/",
             "time_published": "20250205T010000",
@@ -925,6 +1148,94 @@
             "ticker_sentiment": []
         },
         {
+            "title": "Compared to Estimates, Amgen  ( AMGN )  Q4 Earnings: A Look at Key Metrics",
+            "url": "https://www.zacks.com/stock/news/2409700/compared-to-estimates-amgen-amgn-q4-earnings-a-look-at-key-metrics",
+            "time_published": "20250205T003005",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "While the top- and bottom-line numbers for Amgen (AMGN) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Nov Inc.  ( NOV )  Reports Q4 Earnings: What Key Metrics Have to Say",
+            "url": "https://www.zacks.com/stock/news/2409702/nov-inc-nov-reports-q4-earnings-what-key-metrics-have-to-say",
+            "time_published": "20250205T003005",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "While the top- and bottom-line numbers for Nov Inc. (NOV) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "American Financial  ( AFG )  Reports Q4 Earnings: What Key Metrics Have to Say",
+            "url": "https://www.zacks.com/stock/news/2409701/american-financial-afg-reports-q4-earnings-what-key-metrics-have-to-say",
+            "time_published": "20250205T003005",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "The headline numbers for American Financial (AFG) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Compared to Estimates, Atmos  ( ATO )  Q1 Earnings: A Look at Key Metrics",
+            "url": "https://www.zacks.com/stock/news/2409703/compared-to-estimates-atmos-ato-q1-earnings-a-look-at-key-metrics",
+            "time_published": "20250205T003004",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "While the top- and bottom-line numbers for Atmos (ATO) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
             "title": "Here's How Many Shares of NextEra Energy You Should Own to Get $1,000 in Yearly Dividends",
             "url": "https://www.fool.com/investing/2025/02/04/heres-how-many-shares-of-nextera-energy-dividends/",
             "time_published": "20250205T003000",
@@ -1007,6 +1318,43 @@
                     "relevance_score": "0.437165",
                     "ticker_sentiment_score": "0.065263",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Buy the Surge in Palantir Technologies  ( PLTR )  Stock After Q4 Earnings?",
+            "url": "https://www.zacks.com/commentary/2409676/buy-the-surge-in-palantir-technologies-pltr-stock-after-q4-earnings",
+            "time_published": "20250205T002400",
+            "authors": [
+                "Shaun Pruitt"
+            ],
+            "summary": "Spiking over +20% in Wednesday's trading session, Palantir Technologies (PLTR) stock has been a highlight of this week's earnings lineup after reporting strong Q4 results yesterday evening.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/c4/92938.jpg?v=467374788",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.961735"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.367175,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.21686",
+                    "ticker_sentiment_score": "0.327068",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         },
@@ -1367,384 +1715,6 @@
             "overall_sentiment_score": 0.270926,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
-        },
-        {
-            "title": "Prediction: MasterCard Will Outperform in 2025. Here's Why.",
-            "url": "https://www.fool.com/investing/2025/02/04/prediction-mastercard-will-outperform-in-2025-here/",
-            "time_published": "20250205T000000",
-            "authors": [
-                "Motley Fool YouTube"
-            ],
-            "summary": "Explore the exciting world of Mastercard ( NYSE: MA ) with our expert analysts in this Motley Fool Scoreboard episode. Check out the video below to gain valuable insights into market trends and potential investment opportunities!*Stock prices used were the prices of Jan. 8, 2025.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/805085/ma.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [],
-            "overall_sentiment_score": -0.527791,
-            "overall_sentiment_label": "Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MA",
-                    "relevance_score": "0.99188",
-                    "ticker_sentiment_score": "-0.783794",
-                    "ticker_sentiment_label": "Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Best Crypto Wallet  ( 2025 ) : Ledger Recognized as Best Bitcoin Wallet by Expert Consumers",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43483644/best-crypto-wallet-2025-ledger-recognized-as-best-bitcoin-wallet-by-expert-consumers",
-            "time_published": "20250204T235750",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "New York City, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Expert Consumers has named Ledger the best crypto wallet for 2025, recognizing its strong security architecture, offline storage capabilities, and broad asset compatibility.",
-            "banner_image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeKPT7ndSDYe_Sv9tZ2sAyxSpT6FVtB722gtxsHqaMiYyL2GbQJehC2BE0DbmMd6tEyCYg9EWKkMpFt6yH6KSiOiTmLtM1xBl9P8a2Upk8tTt0kqZfionnxAB3f4X9LbI9ohWnh?key=H5_9GTcwRJcPdH-QalYKVULs",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.890401"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.197384,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.165409",
-                    "ticker_sentiment_score": "0.117909",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:NANO",
-                    "relevance_score": "0.110717",
-                    "ticker_sentiment_score": "0.198359",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Marvel's Alleged AI Flub? Fans Spot Odd Hands in New Fantastic Four Poster",
-            "url": "https://decrypt.co/304440/marvels-alleged-ai-flub-fans-spot-odd-hands-in-new-fantastic-four-poster",
-            "time_published": "20250204T235730",
-            "authors": [
-                "Jason Nelson"
-            ],
-            "summary": "Marvel Studios faces backlash online after fans allegedly spot AI-generated hands in the new Fantastic Four poster.",
-            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/02/Decrypt-Wallpaper-Format-1600-x-900-px-6-gID_7.png",
-            "source": "Decrypt.co",
-            "category_within_source": "n/a",
-            "source_domain": "decrypt.co",
-            "topics": [],
-            "overall_sentiment_score": 0.092726,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MVES",
-                    "relevance_score": "0.076847",
-                    "ticker_sentiment_score": "-0.112104",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Nov Inc.  ( NOV )  Beats Q4 Earnings and Revenue Estimates",
-            "url": "https://www.zacks.com/stock/news/2409689/nov-inc-nov-beats-q4-earnings-and-revenue-estimates",
-            "time_published": "20250204T235502",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "Nov Inc. (NOV) delivered earnings and revenue surprises of 17.14% and 3.19%, respectively, for the quarter ended December 2024. Do the numbers hold clues to what lies ahead for the stock?",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default155.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999992"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.126037,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NOV",
-                    "relevance_score": "0.391923",
-                    "ticker_sentiment_score": "0.072891",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MTRX",
-                    "relevance_score": "0.135729",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Bukele's Big House: El Salvador Offers US A Prison Deal Like No Other, Musk Says 'Great Idea' - CoreCivic  ( NYSE:CXW ) ",
-            "url": "https://www.benzinga.com/news/global/25/02/43483622/bukeles-big-house-el-salvador-offers-us-a-prison-deal-like-no-other-musk-says-great-idea",
-            "time_published": "20250204T235414",
-            "authors": [
-                "Maureen Meehan"
-            ],
-            "summary": "Pres Bukele will incarcerate convicted criminals from the U.S. in his country, a macabre offer Marco Rubio praised as 'unprecedented.' 'No country's ever made an offer of friendship such as this. We are profoundly grateful,\" said Rubio. NOW OPEN: 200 Charter Memberships to Benzinga Trade Alerts",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Flag-Of-El-Salvador-And-Police-Handcuffs.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.115731,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GEO",
-                    "relevance_score": "0.146025",
-                    "ticker_sentiment_score": "0.239175",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "WBD",
-                    "relevance_score": "0.073321",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CXW",
-                    "relevance_score": "0.146025",
-                    "ticker_sentiment_score": "0.239175",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.146025",
-                    "ticker_sentiment_score": "0.468795",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Pan American Energy Announces Private Placement",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020860/0/en/Pan-American-Energy-Announces-Private-Placement.html",
-            "time_published": "20250204T235200",
-            "authors": [
-                "Pan American Energy Corp."
-            ],
-            "summary": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/7bd0f379-3f6b-4d57-81d9-6f77d1ac356b",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.495866"
-                }
-            ],
-            "overall_sentiment_score": 0.120897,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Why Regeneron Pharmaceuticals Stock Topped the Market on Tuesday",
-            "url": "https://www.fool.com/investing/2025/02/04/why-regeneron-pharmaceuticals-stock-topped-the-mar/",
-            "time_published": "20250204T234442",
-            "authors": [
-                "Eric Volkman"
-            ],
-            "summary": "News of a significant earnings beat propelled Regeneron Pharmaceuticals ( NASDAQ: REGN ) to a nearly 5% share price gain on the second trading day of the week. The company posted its fourth-quarter and full-year 2024 results before market open, and investors were clearly impressed by the numbers.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806486/two-people-in-white-lab-coats-looking-at-a-computer-display.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.990893"
-                },
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.297182,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "REGN",
-                    "relevance_score": "0.252987",
-                    "ticker_sentiment_score": "0.379449",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "SNY",
-                    "relevance_score": "0.128135",
-                    "ticker_sentiment_score": "-0.022322",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Uber Q4 Earnings Preview: Gross Bookings, Margins On Watch - Uber Technologies  ( NYSE:UBER ) ",
-            "url": "https://www.benzinga.com/news/earnings/25/02/43483461/uber-q4-earnings-preview-gross-bookings-margins-on-watch",
-            "time_published": "20250204T234059",
-            "authors": [
-                "Erica Kollmann"
-            ],
-            "summary": "Uber shares are up more than 15% year-to-date after trading mostly flat through 2024. Investors will watch Uber's margins after record quarterly margins in both Mobility and Delivery in the third quarter. Brand New Membership Level: Benzinga Trade Alerts Uber Technologies Inc.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Uber-stock_0.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.614606"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.142418,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "UBER",
-                    "relevance_score": "0.718177",
-                    "ticker_sentiment_score": "0.253421",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Why Illumina Stock Plummeted Today",
-            "url": "https://www.fool.com/investing/2025/02/04/why-illumina-stock-plummeted-today/",
-            "time_published": "20250204T233800",
-            "authors": [
-                "Eric Volkman"
-            ],
-            "summary": "Genomic sequencing specialist Illumina ( NASDAQ: ILMN ) was something of a victim in the U.S.-China trade spat on Tuesday. The government of the sprawling Asian nation placed the U.S. company on a blacklist, and given the size and power of that economy, investors weren't happy about the news.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806496/two-people-in-white-lab-coats-looking-at-a-computer-display.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.079026,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ILMN",
-                    "relevance_score": "0.824531",
-                    "ticker_sentiment_score": "0.004112",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Match Group Beats EPS, but Revenue Slips",
-            "url": "https://www.fool.com/data-news/2025/02/04/match-group-beats-eps-but-revenue-slips/",
-            "time_published": "20250204T233226",
-            "authors": [
-                "JesterAI"
-            ],
-            "summary": "The online dating app giant delivered mixed results, outpacing analysts' estimates but falling short of management's revenue guidance.",
-            "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/dc53c47ed19ab9c5d94ad9c5fb9a482b1b73b0d7-1200x800.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999997"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.290817,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.085022",
-                    "ticker_sentiment_score": "0.093321",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Here's How Much $100 Invested In Centene 20 Years Ago Would Be Worth Today - Centene  ( NYSE:CNC ) ",
-            "url": "https://www.benzinga.com/insights/news/25/02/43483370/heres-how-much-100-invested-in-centene-20-years-ago-would-be-worth-today",
-            "time_published": "20250204T233017",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "Centene CNC has outperformed the market over the past 20 years by 2.02% on an annualized basis producing an average annual return of 10.38%. Currently, Centene has a market capitalization of $30.94 billion.",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738711813_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.238974,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CNC",
-                    "relevance_score": "0.95919",
-                    "ticker_sentiment_score": "0.384695",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
         }
     ]
 }
