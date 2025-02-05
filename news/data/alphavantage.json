@@ -1,8 +1,93 @@
 {
-    "items": "41",
+    "items": "40",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Equinor to commence first tranche of the 2025 share buy-back programme",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020898/0/en/Equinor-to-commence-first-tranche-of-the-2025-share-buy-back-programme.html",
+            "time_published": "20250205T054700",
+            "authors": [
+                "Equinor ASA"
+            ],
+            "summary": "Equinor ( OSE: EQNR, NYSE: EQNR ) will on 6 February 2025 commence the first tranche of up to USD 1.2 billion of the share buy-back programme for 2025, as announced at the Capital Market Update 5 February 2025.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e60cd9f0-14f4-48a6-8ef3-351dd8211a6c",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.98396"
+                }
+            ],
+            "overall_sentiment_score": 0.303868,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Equinor ASA: Key information relating to proposed cash dividend for fourth quarter 2024",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020897/0/en/Equinor-ASA-Key-information-relating-to-proposed-cash-dividend-for-fourth-quarter-2024.html",
+            "time_published": "20250205T054600",
+            "authors": [
+                "Equinor ASA"
+            ],
+            "summary": "Key information relating to the proposed cash dividend to be paid by Equinor ( OSE: EQNR, NYSE: EQNR ) for fourth quarter 2024.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e60cd9f0-14f4-48a6-8ef3-351dd8211a6c",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.255043,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EQNR",
+                    "relevance_score": "0.916507",
+                    "ticker_sentiment_score": "0.498135",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Equinor fourth quarter and full year 2024 results",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020896/0/en/Equinor-fourth-quarter-and-full-year-2024-results.html",
+            "time_published": "20250205T054500",
+            "authors": [
+                "Equinor ASA"
+            ],
+            "summary": "Equinor ( OSE:EQNR, NYSE:EQNR ) delivered adjusted operating income* of USD 7.90 billion and USD 2.29 billion after tax in the fourth quarter of 2024. Net operating income was USD 8.74 billion and net income was USD 2.00 billion, leading to adjusted earnings per share* of USD 0.63.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e60cd9f0-14f4-48a6-8ef3-351dd8211a6c",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.714479"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99999"
+                }
+            ],
+            "overall_sentiment_score": 0.252444,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
         {
             "title": "Live Streaming Market To Grow By USD 20.64 Billion From 2025-2029, Rising Smartphone Penetration And Internet Access Boosting Growth, Report On AI-Powered Market Evolution - Technavio",
             "url": "https://www.benzinga.com/pressreleases/25/02/n43486001/live-streaming-market-to-grow-by-usd-20-64-billion-from-2025-2029-rising-smartphone-penetration-an",
@@ -89,6 +174,118 @@
             ]
         },
         {
+            "title": "Why Archer Daniels Midland Stock Was Slipping Today",
+            "url": "https://www.fool.com/investing/2025/02/05/why-archer-daniels-midland-stock-was-slipping-toda/",
+            "time_published": "20250205T051609",
+            "authors": [
+                "Jeremy Bowman"
+            ],
+            "summary": "Shares of Archer-Daniels-Midland ( NYSE: ADM ) were moving lower Tuesday after the agricultural giant posted disappointing results in its fourth-quarter earnings report.As of 10:37 a.m. ET, the stock was down 2.8% on the news.Image source: Getty Images.Continue reading ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806396%2Fgarden-family-farming-fresh-produce-1.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.967321"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.012274,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ADM",
+                    "relevance_score": "0.696319",
+                    "ticker_sentiment_score": "-0.344331",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Amgen  ( AMGN )  Q4 2024 Earnings Call Transcript",
+            "url": "https://www.fool.com/earnings/call-transcripts/2025/02/05/amgen-amgn-q4-2024-earnings-call-transcript/",
+            "time_published": "20250205T051513",
+            "authors": [
+                "Motley Fool Transcribing"
+            ],
+            "summary": "AMGN earnings call for the period ending December 31, 2024.",
+            "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.303768,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.004436",
+                    "ticker_sentiment_score": "0.182221",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.004436",
+                    "ticker_sentiment_score": "0.182221",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMGN",
+                    "relevance_score": "0.057618",
+                    "ticker_sentiment_score": "0.151024",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ONC",
+                    "relevance_score": "0.017742",
+                    "ticker_sentiment_score": "0.154716",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.004436",
+                    "ticker_sentiment_score": "0.174017",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.004436",
+                    "ticker_sentiment_score": "0.182221",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "'Pharma Bro' Martin Shkreli Defends Palantir's Valuation Amid 24% Surge, Says AI Firm's Cash Flow Justifies 'Expensive' Price - Palantir Technologies  ( NASDAQ:PLTR ) ",
             "url": "https://www.benzinga.com/markets/equities/25/02/43485885/pharma-bro-martin-shkreli-defends-palantirs-valuation-amid-24-surge-says-ai-firms-cash-flow-just",
             "time_published": "20250205T050902",
@@ -144,6 +341,172 @@
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
+        },
+        {
+            "title": "Here's what to expect when Disney reports earnings before the bell",
+            "url": "https://www.cnbc.com/2025/02/05/disney-dis-earnings-q1-2025.html",
+            "time_published": "20250205T050101",
+            "authors": [],
+            "summary": "Disney reports its fiscal first quarter earnings before the bell - here's what to expect.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Earnings",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.744043"
+                }
+            ],
+            "overall_sentiment_score": 0.304312,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.155451",
+                    "ticker_sentiment_score": "0.136128",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Lights, camera, no AI action: Hollywood hesitates on OpenAI's Sora video tool",
+            "url": "https://www.scmp.com/tech/big-tech/article/3297402/openais-video-generation-tool-sora-sees-hollywood-resistance-amid-data-labour-concerns",
+            "time_published": "20250205T050015",
+            "authors": [
+                "Bloomberg"
+            ],
+            "summary": "OpenAI has spent months talking to the industry's largest studios such as Disney and Warner Bros but faces a hard sell after 2023 labour strikes.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2024/02/28/thumb-clean.jpg?itok=czzgMlz_",
+            "source": "South China Morning Post",
+            "category_within_source": "Companies",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.152089,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.103331",
+                    "ticker_sentiment_score": "0.105316",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.103331",
+                    "ticker_sentiment_score": "0.105316",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.051774",
+                    "ticker_sentiment_score": "0.142035",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.051774",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Abrdn and JPMorgan move to bolster European active ETF suites",
+            "url": "https://www.ft.com/content/1eea3f26-0d56-4834-9024-c1438ead8bb8",
+            "time_published": "20250205T050009",
+            "authors": [
+                "Alf Wilkinson"
+            ],
+            "summary": "Move will bring total of active fixed income ETFs offered by JPMAM in Europe to ...",
+            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e08fd73-f4ce-4587-8e96-962cf78ae20b.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "source": "Financial Times",
+            "category_within_source": "Markets",
+            "source_domain": "www.ft.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.391216,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SLFPF",
+                    "relevance_score": "0.391311",
+                    "ticker_sentiment_score": "0.29846",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BKRIF",
+                    "relevance_score": "0.081552",
+                    "ticker_sentiment_score": "0.098874",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.391311",
+                    "ticker_sentiment_score": "0.448044",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "UK's Leading Management Consultants 2025: the ratings",
+            "url": "https://www.ft.com/content/5b385146-a124-472b-ad66-953f2620f6f4",
+            "time_published": "20250205T050008",
+            "authors": [],
+            "summary": "Consultancies recommended by clients and peers, rated by sectors and services ...",
+            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fpublic.flourish.studio%2Fvisualisation%2F21212909%2Fthumbnail%3FcacheBuster%3D965962?source=cp-content-pipeline&fit=scale-down&quality=highest&width=1020&dpr=1",
+            "source": "Financial Times",
+            "category_within_source": "Companies",
+            "source_domain": "www.ft.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.233704,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FPH",
+                    "relevance_score": "0.040622",
+                    "ticker_sentiment_score": "0.087872",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Big Oil is resisting Trump's call to 'drill, baby, drill'",
+            "url": "https://www.ft.com/content/32bf1a43-d31b-4382-a2c4-41b88ddba338",
+            "time_published": "20250205T050000",
+            "authors": [],
+            "summary": "Several factors are playing into energy producers' decisions on drilling ...",
+            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F210ef42d-6f72-4e60-aa96-61e96652e909?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "source": "Financial Times",
+            "category_within_source": "Companies",
+            "source_domain": "www.ft.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.04076,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
         },
         {
             "title": "Toyota Motor posts nearly 28% drop in third-quarter operating profit, missing estimates",
@@ -1215,403 +1578,6 @@
                     "relevance_score": "0.304787",
                     "ticker_sentiment_score": "0.03182",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "ChatGPT-Maker OpenAI's Future Hangs In The Balance As Judge Says Elon Musk's Lawsuit Will Partially Go To Trial - SoftBank Group  ( OTC:SFTBF ) , SoftBank Group  ( OTC:SFTBY ) ",
-            "url": "https://www.benzinga.com/25/02/43484737/chatgpt-maker-openais-future-hangs-in-the-balance-as-judge-says-musks-lawsuit-will-partially-proceed-to-trial",
-            "time_published": "20250205T014834",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "On Tuesday, a federal judge decided that parts of Elon Musk's lawsuit against OpenAI will advance to trial. This legal battle centers on Musk's efforts to halt OpenAI's transition to a for-profit model. What Happened: U.S.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Elon-Musk-and-Sam-Altman.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.178751,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SFTBF",
-                    "relevance_score": "0.377142",
-                    "ticker_sentiment_score": "0.276543",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Mark Zuckerberg Once Told Sam Altman That The Most Painful Moment In His Life Was Not Rejecting A $1 Billion Buyout Offer For Facebook But Losing An Entire Team - Here's Why - Meta Platforms  ( NASDAQ:META ) ",
-            "url": "https://www.benzinga.com/tech/25/02/43484644/mark-zuckerberg-once-told-sam-altman-that-the-most-painful-moment-in-his-life-was-not-rejecting-a-1-billion-",
-            "time_published": "20250205T013354",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "Facebook co-founder and CEO Mark Zuckerberg once revealed to Sam Altman that one of the most painful moments in his career was not rejecting a billion-dollar acquisition offer-but watching his entire management team walk away because they disagreed with his decision.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Mark-Zuckerberg.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.158867,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.746491",
-                    "ticker_sentiment_score": "0.316736",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Every Lucid Group Investor Should Keep an Eye on This Number",
-            "url": "https://www.fool.com/investing/2025/02/04/every-lucid-group-investor-should-keep-an-eye-on-t/",
-            "time_published": "20250205T013300",
-            "authors": [
-                "Ryan Vanzo"
-            ],
-            "summary": "Lucid Group ( NASDAQ: LCID ) is entering one of the most exciting years in its history. Following the recent launch of its Gravity SUV platform, analysts expect the company to more than double its sales this year. That's a big reason why shares are priced at a lofty 11 times sales.If you're ...",
-            "banner_image": "https://media.ycharts.com/charts/8790d835995ed30cfc12b72cabdbfd56.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.199289,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LCID",
-                    "relevance_score": "0.549012",
-                    "ticker_sentiment_score": "0.218043",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "RIVN",
-                    "relevance_score": "0.11983",
-                    "ticker_sentiment_score": "0.097424",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.236972",
-                    "ticker_sentiment_score": "0.099588",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Compared to Estimates, TransDigm  ( TDG )  Q1 Earnings: A Look at Key Metrics",
-            "url": "https://www.zacks.com/stock/news/2409708/compared-to-estimates-transdigm-tdg-q1-earnings-a-look-at-key-metrics",
-            "time_published": "20250205T013002",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "While the top- and bottom-line numbers for TransDigm (TDG) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Cathie Wood-Led Ark Invest Dumps $7M Worth Of Palantir Stock Amid Searing Rally - ARK Innovation ETF  ( ARCA:ARKK ) , Palantir Technologies  ( NASDAQ:PLTR ) ",
-            "url": "https://www.benzinga.com/25/02/43484615/cathie-wood-led-ark-invest-dumps-7m-worth-of-palantir-stock-amid-searing-rally",
-            "time_published": "20250205T012621",
-            "authors": [
-                "Shivdeep Dhaliwal"
-            ],
-            "summary": "On Tuesday, Cathie Wood-led Ark Invest made notable trades, including the sale of shares in Palantir Technologies Inc PLTR. This move came as Palantir's stock surged following its impressive fourth-quarter results and optimistic future guidance.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Other-Aspects.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.77141"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.471222,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TXG",
-                    "relevance_score": "0.280615",
-                    "ticker_sentiment_score": "0.568784",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "TWST",
-                    "relevance_score": "0.280615",
-                    "ticker_sentiment_score": "0.568784",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "ACCD",
-                    "relevance_score": "0.280615",
-                    "ticker_sentiment_score": "0.509361",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "ILMN",
-                    "relevance_score": "0.280615",
-                    "ticker_sentiment_score": "0.568784",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.280615",
-                    "ticker_sentiment_score": "0.509361",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Where Will Nike Stock Be in 1 Year?",
-            "url": "https://www.fool.com/investing/2025/02/04/where-will-nike-stock-be-in-1-year/",
-            "time_published": "20250205T011800",
-            "authors": [
-                "Leo Sun"
-            ],
-            "summary": "The leading athletic footwear and apparel brand faces formidable challenges.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806081%2Finvestor-looking-at-stock-trading-screen.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.316726"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.021808,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NKE",
-                    "relevance_score": "0.619419",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Fair Isaac Revenue Up, EPS Misses Mark",
-            "url": "https://www.fool.com/data-news/2025/02/05/fair-isaac-revenue-up-eps-misses-mark/",
-            "time_published": "20250205T011625",
-            "authors": [
-                "JesterAI"
-            ],
-            "summary": "Fair Isaac reported robust growth in revenue and net income, but missed analyst expectations for adjusted EPS and revenue.",
-            "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/50af7230060cde961186bc3cad8019547d7a29e5-1200x800.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999998"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.349266,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FICO",
-                    "relevance_score": "0.640683",
-                    "ticker_sentiment_score": "0.455944",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Here's What Key Metrics Tell Us About Voya  ( VOYA )  Q4 Earnings",
-            "url": "https://www.zacks.com/stock/news/2409705/heres-what-key-metrics-tell-us-about-voya-voya-q4-earnings",
-            "time_published": "20250205T010004",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "Although the revenue and EPS for Voya (VOYA) give a sense of how its business performed in the quarter ended December 2024, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Madison Square Garden  ( MSGS )  Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
-            "url": "https://www.zacks.com/stock/news/2409707/madison-square-garden-msgs-q2-earnings-taking-a-look-at-key-metrics-versus-estimates",
-            "time_published": "20250205T010004",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "While the top- and bottom-line numbers for Madison Square Garden (MSGS) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Compared to Estimates, Unum  ( UNM )  Q4 Earnings: A Look at Key Metrics",
-            "url": "https://www.zacks.com/stock/news/2409706/compared-to-estimates-unum-unm-q4-earnings-a-look-at-key-metrics",
-            "time_published": "20250205T010004",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "The headline numbers for Unum (UNM) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "This Magnificent Artificial Intelligence  ( AI )  Stock Has Shot Up Over 175% in Just 3 Months, and It Could Soar Higher in 2025",
-            "url": "https://www.fool.com/investing/2025/02/04/this-magnificent-artificial-intelligence-ai-stock/",
-            "time_published": "20250205T010000",
-            "authors": [
-                "Manali Pradhan"
-            ],
-            "summary": "SoundHound AI has soared over 175% in the past three months, and could jump even higher in 2025.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/805840/analyst_studying_stock_chart_on_a-desktop_screen.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.256266,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.043579",
-                    "ticker_sentiment_score": "-0.059558",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.043579",
-                    "ticker_sentiment_score": "-0.059558",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.043579",
-                    "ticker_sentiment_score": "-0.059558",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SOUN",
-                    "relevance_score": "0.377142",
-                    "ticker_sentiment_score": "0.351093",
-                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         }
