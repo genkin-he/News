@@ -1,8 +1,187 @@
 {
-    "items": "44",
+    "items": "41",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Live Streaming Market To Grow By USD 20.64 Billion From 2025-2029, Rising Smartphone Penetration And Internet Access Boosting Growth, Report On AI-Powered Market Evolution - Technavio",
+            "url": "https://www.benzinga.com/pressreleases/25/02/n43486001/live-streaming-market-to-grow-by-usd-20-64-billion-from-2025-2029-rising-smartphone-penetration-an",
+            "time_published": "20250205T052400",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "NEW YORK, Feb. 5, 2025 /PRNewswire/ -- Report on how AI is driving market transformation - The global live streaming market size is estimated to grow by USD 20.64 billion from 2025-2029, according to Technavio. The market is estimated to grow at a CAGR of 16.6% during the forecast period.",
+            "banner_image": "https://mma.prnewswire.com/media/2612541/Global_Live_Streaming_Market_2025_2029_Infographic.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.334304,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.025113",
+                    "ticker_sentiment_score": "0.099251",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.050201",
+                    "ticker_sentiment_score": "0.228355",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.025113",
+                    "ticker_sentiment_score": "0.099251",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TVBCF",
+                    "relevance_score": "0.025113",
+                    "ticker_sentiment_score": "0.079679",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HAIVF",
+                    "relevance_score": "0.025113",
+                    "ticker_sentiment_score": "0.099251",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IBM",
+                    "relevance_score": "0.025113",
+                    "ticker_sentiment_score": "0.099251",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RNWK",
+                    "relevance_score": "0.025113",
+                    "ticker_sentiment_score": "0.146602",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BCOV",
+                    "relevance_score": "0.025113",
+                    "ticker_sentiment_score": "0.099251",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TCTZF",
+                    "relevance_score": "0.025113",
+                    "ticker_sentiment_score": "0.099251",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "'Pharma Bro' Martin Shkreli Defends Palantir's Valuation Amid 24% Surge, Says AI Firm's Cash Flow Justifies 'Expensive' Price - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/02/43485885/pharma-bro-martin-shkreli-defends-palantirs-valuation-amid-24-surge-says-ai-firms-cash-flow-just",
+            "time_published": "20250205T050902",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "Martin Shkreli, the former hedge fund manager known as \"Pharma Bro,\" defended Palantir Technologies Inc.'s PLTR valuation on Tuesday amid the company's surging stock price, projecting substantial cash flow growth for the data analytics firm through 2025.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Palantir-Technologies-Japan-Logo--Tokyo-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.962106"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.967645"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.148757,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.087185",
+                    "ticker_sentiment_score": "0.219371",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.087185",
+                    "ticker_sentiment_score": "0.219371",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.257442",
+                    "ticker_sentiment_score": "0.051597",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Toyota Motor posts nearly 28% drop in third-quarter operating profit, missing estimates",
+            "url": "https://www.cnbc.com/2025/02/05/toyota-motor-posts-nearly-28percent-drop-in-third-quarter-operating-profit-missing-estimates.html",
+            "time_published": "20250205T044839",
+            "authors": [],
+            "summary": "Toyota Motor on Wednesday reported a second consecutive fall in profit, as it navigates competition in China and a market shift toward electric vehicles.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.111946,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TM",
+                    "relevance_score": "0.238133",
+                    "ticker_sentiment_score": "0.057559",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:JPY",
+                    "relevance_score": "0.930964",
+                    "ticker_sentiment_score": "0.484161",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
         {
             "title": "OpenAI's Big Rebrand: ChatGPT-Parent Wants To Reflect A 'More Organic' Future With New Logo, Typeface",
             "url": "https://www.benzinga.com/tech/25/02/43485775/openais-big-rebrand-chatgpt-parent-wants-to-reflect-a-more-organic-future-with-new-logo-typeface",
@@ -1433,242 +1612,6 @@
                     "relevance_score": "0.377142",
                     "ticker_sentiment_score": "0.351093",
                     "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "McEwen Mining Issues Correction: Grey Fox Gold Resources Hit a Significant Milestone - McEwen Mining  ( NYSE:MUX ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43484398/mcewen-mining-issues-correction-grey-fox-gold-resources-hit-a-significant-milestone",
-            "time_published": "20250205T005420",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "32% Increase in the Indicated Resource to 1,538,000 Ounces of Gold 95% Increase in the Inferred Resource to 458,000 Ounces of Gold TORONTO, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- McEwen Mining Inc. MUX MUX is providing minor corrections to yesterday's press release.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/cb7d1604-3095-4dd1-8918-fffb057d67c3/fox-complex-regional-map.jpeg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999346"
-                }
-            ],
-            "overall_sentiment_score": 0.176769,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MUX",
-                    "relevance_score": "0.244667",
-                    "ticker_sentiment_score": "0.037903",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AWON",
-                    "relevance_score": "0.0226",
-                    "ticker_sentiment_score": "0.015555",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MALRF",
-                    "relevance_score": "0.134968",
-                    "ticker_sentiment_score": "0.029869",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "McEwen Mining Issues Correction: Grey Fox Gold Resources Hit a Significant Milestone",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020872/37420/en/McEwen-Mining-Issues-Correction-Grey-Fox-Gold-Resources-Hit-a-Significant-Milestone.html",
-            "time_published": "20250205T005400",
-            "authors": [
-                "McEwen Mining"
-            ],
-            "summary": "32% Increase in the Indicated Resource to 1,538,000 Ounces of Gold 95% Increase in the Inferred Resource to 458,000 Ounces of Gold ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/cb7d1604-3095-4dd1-8918-fffb057d67c3/fox-complex-regional-map.jpeg",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.998311"
-                }
-            ],
-            "overall_sentiment_score": 0.172232,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MUX",
-                    "relevance_score": "0.250386",
-                    "ticker_sentiment_score": "0.038673",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AWON",
-                    "relevance_score": "0.023146",
-                    "ticker_sentiment_score": "0.015627",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MALRF",
-                    "relevance_score": "0.138198",
-                    "ticker_sentiment_score": "0.037723",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Constellation Software Inc. and Topicus.com Inc. announce execution of Treasury Shares Purchase Agreement",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020871/0/en/Constellation-Software-Inc-and-Topicus-com-Inc-announce-execution-of-Treasury-Shares-Purchase-Agreement.html",
-            "time_published": "20250205T005200",
-            "authors": [
-                "Topicus.com Inc."
-            ],
-            "summary": "TORONTO, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Constellation Software Inc. ( TSX: CSU ) and Topicus.com Inc. ( TOI.V ) today announced that Topicus' subsidiary, Yukon Niebieski Kapital B.V. ( \"Yukon\" ) , has entered into a share purchase agreement with Asseco Poland S.A. ( the \"Company\" ) and the ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/98399122-9723-4bd6-b4b4-0f530f1fdc46",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.744043"
-                }
-            ],
-            "overall_sentiment_score": 0.406344,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WSEWF",
-                    "relevance_score": "0.115787",
-                    "ticker_sentiment_score": "0.133198",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ASOZY",
-                    "relevance_score": "0.229149",
-                    "ticker_sentiment_score": "0.351521",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Mustang Energy Engages Axiom Exploration for Airborne Geophysical Survey over the Dutton Project",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020870/0/en/Mustang-Energy-Engages-Axiom-Exploration-for-Airborne-Geophysical-Survey-over-the-Dutton-Project.html",
-            "time_published": "20250205T004900",
-            "authors": [
-                "Mustang Energy Corp."
-            ],
-            "summary": "VANCOUVER, British Columbia, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Mustang Energy Corp. ( CSE: MEC, OTC:MECPF, FRA:92T ) ( the \"Company\" or \"Mustang\" ) is pleased to announce that it has engaged Axiom Exploration Group ( \"Axiom\" ) to conduct an Aerial Electromagnetic Survey ( \"Xcite\u2122 TDEM\" ) over ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/2f77d603-77b0-44d1-ba37-d2dde5de6662/4050017-1.jpg",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.224549,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CCJ",
-                    "relevance_score": "0.06471",
-                    "ticker_sentiment_score": "0.015069",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Constellation Software Inc. and Topicus.com Inc. announce execution of Treasury Shares Purchase Agreement",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020869/0/en/Constellation-Software-Inc-and-Topicus-com-Inc-announce-execution-of-Treasury-Shares-Purchase-Agreement.html",
-            "time_published": "20250205T004500",
-            "authors": [
-                "Constellation Software Inc."
-            ],
-            "summary": "TORONTO, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Constellation Software Inc. ( TSX: CSU ) and Topicus.com Inc. ( TOI.V ) today announced that Topicus' subsidiary, Yukon Niebieski Kapital B.V. ( \"Yukon\" ) , has entered into a share purchase agreement with Asseco Poland S.A. ( the \"Company\" ) and the ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/4642ab2b-6290-4044-9dd0-c2817c1d200b",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.744043"
-                }
-            ],
-            "overall_sentiment_score": 0.406344,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WSEWF",
-                    "relevance_score": "0.115787",
-                    "ticker_sentiment_score": "0.133198",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ASOZY",
-                    "relevance_score": "0.229149",
-                    "ticker_sentiment_score": "0.351521",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Integral Ad Science Holding Corp. Investors to Secure Counsel Before Important Deadline in Securities Class Action - IAS - Integral Ad Science  ( NASDAQ:IAS ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43484163/rosen-leading-investor-counsel-encourages-integral-ad-science-holding-corp-investors-to-secure-cou",
-            "time_published": "20250205T004100",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, announces the filing of a class action lawsuit on behalf of purchasers of common stock of Integral Ad Science Holding Corp. IAS between March 2, 2023 and February 27, 2024, inclusive ( the ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.891286"
-                }
-            ],
-            "overall_sentiment_score": 0.074998,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.057079",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "IAS",
-                    "relevance_score": "0.526003",
-                    "ticker_sentiment_score": "-0.152414",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
                 }
             ]
         }
