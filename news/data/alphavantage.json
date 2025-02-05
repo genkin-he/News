@@ -1,8 +1,111 @@
 {
-    "items": "43",
+    "items": "39",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Tesla Launches Limited-Time Car Insurance Subsidy for Model 3 In China, Researcher Expects It To Have 'Limited Impact' On EV Maker's Delivery Hardships In Q1 - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/25/02/43487852/tesla-launches-limited-time-8000-yuan-car-insurance-subsidy-for-model-3-in-china-researcher-expects-it-to-have-li",
+            "time_published": "20250205T084337",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "EV giant Tesla Inc. TSLA has launched a limited-time insurance subsidy of 8000 yuan ( about $1100 ) in China on the purchase of a new Model 3 vehicle, likely in a bid to increase demand.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Tesla-Model-3.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.064148,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.749418",
+                    "ticker_sentiment_score": "0.015865",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tennis Ball Machine Market to Generate US$ 40.3 Million in Sales by 2035 as Smart Training Tools Gain Popularity | Latest Report by Transparency Market Research, Inc.",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43487838/tennis-ball-machine-market-to-generate-us-40-3-million-in-sales-by-2035-as-smart-training-tools-ga",
+            "time_published": "20250205T084110",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Wilmington, Delaware, Transparency Market Research Inc. -, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- The Global Tennis Ball Machines Market, valued at US$ 27.4 Mn in 2024, is projected to experience steady growth in the coming years.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/d1d3782b-1a1d-4a22-8984-982257251358/tennis-ball-machine-market.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.383413,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.026444",
+                    "ticker_sentiment_score": "0.050659",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMGTF",
+                    "relevance_score": "0.079217",
+                    "ticker_sentiment_score": "0.086481",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Xinhua Silk Road: China's baijiu maker Wuliangye sends Spring Festival greetings to world at New York Times Square",
+            "url": "https://www.benzinga.com/pressreleases/25/02/n43487837/xinhua-silk-road-chinas-baijiu-maker-wuliangye-sends-spring-festival-greetings-to-world-at-new-yor",
+            "time_published": "20250205T083900",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "BEIJING, Feb. 5, 2025 /PRNewswire/ -- China's leading baijiu maker Wuliangye sent its Spring Festival greetings to the world through a 3D advertisement released on January 27 at the Times Square, New York.",
+            "banner_image": "https://mma.prnewswire.com/media/2610929/1.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.461375,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NYT",
+                    "relevance_score": "0.088799",
+                    "ticker_sentiment_score": "0.328108",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:CNY",
+                    "relevance_score": "0.088799",
+                    "ticker_sentiment_score": "0.1271",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Alex Karp Says Elon Musk's DOGE Initiative Will Be 'Very Good' For Palantir: 'Expecting To See Really Unexpected Things And To Win' Palantir CEO Hails Elon Musk's DOGE Initiative, Anticipates Positive Outcome - Tesla  ( NASDAQ:TSLA ) , Palantir Technologies  ( NASDAQ:PLTR ) ",
             "url": "https://www.benzinga.com/25/02/43487682/palantir-ceo-hails-elon-musks-doge-initiative-anticipates-positive-outcome",
@@ -149,6 +252,45 @@
             ]
         },
         {
+            "title": "Intchains Group Limited to Participate in the \"Digital Assets 2025: To Bitcoin and Beyond,\" Virtual Conference Presented by Maxim Group LLC on Wednesday, February 12th at 9:30 a.m. EST - Intchains Gr  ( NASDAQ:ICG ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43487621/intchains-group-limited-to-participate-in-the-digital-assets-2025-to-bitcoin-and-beyond-virtual-co",
+            "time_published": "20250205T080806",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "SHANGHAI, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Intchains Group Limited ICG ( \"we,\" or the \"Company\" ) , an innovative altcoins development company that primarily focuses on providing integrated solutions consisting of mining products for altcoins, and on acquiring and holding ETH-based ... EST.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.955357"
+                }
+            ],
+            "overall_sentiment_score": 0.280577,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ICG",
+                    "relevance_score": "0.451494",
+                    "ticker_sentiment_score": "0.365966",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.281153",
+                    "ticker_sentiment_score": "0.23134",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "Intchains Group Limited to Participate in the \"Digital Assets 2025: To Bitcoin and Beyond,\" Virtual Conference Presented by Maxim Group LLC on Wednesday, February 12th at 9:30 a.m. EST",
             "url": "https://www.globenewswire.com/news-release/2025/02/05/3020938/0/en/Intchains-Group-Limited-to-Participate-in-the-Digital-Assets-2025-To-Bitcoin-and-Beyond-Virtual-Conference-Presented-by-Maxim-Group-LLC-on-Wednesday-February-12th-at-9-30-a-m-EST.html",
             "time_published": "20250205T080800",
@@ -254,6 +396,51 @@
                     "ticker": "META",
                     "relevance_score": "0.295867",
                     "ticker_sentiment_score": "-0.147945",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "EV price war: Tesla offers Model 3 subsidies, Xpeng dangles zero-interest loans",
+            "url": "https://www.scmp.com/business/china-business/article/3297449/tesla-xpeng-reignite-china-ev-price-war-insurance-and-loan-subsidies",
+            "time_published": "20250205T080040",
+            "authors": [
+                "Daniel Ren"
+            ],
+            "summary": "Tesla and Xpeng are offering rebates on car insurance and loans in February in response to BYD's price cut in December.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2024/09/12/clean-thumb-ev-subsidy.jpg?itok=MBoxL27h",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.033041,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.078611",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XPEV",
+                    "relevance_score": "0.156461",
+                    "ticker_sentiment_score": "0.042241",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.306963",
+                    "ticker_sentiment_score": "0.102515",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -1349,349 +1536,6 @@
             "overall_sentiment_score": 0.24875,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
-        },
-        {
-            "title": "Alm. Brand A/S - Interim report Q4 2024",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020911/0/en/Alm-Brand-A-S-Interim-report-Q4-2024.html",
-            "time_published": "20250205T063000",
-            "authors": [
-                "Alm. Brand A/S"
-            ],
-            "summary": "Highly satisfactory Q4 performance ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/69b3bbb6-1181-4a00-adce-3cc887c788d5",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [],
-            "overall_sentiment_score": 0.264126,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CODAF",
-                    "relevance_score": "0.072435",
-                    "ticker_sentiment_score": "0.234258",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Nykredit today announces the Annual Reports for 2024 - Nykredit Realkredit A/S",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020908/0/en/Nykredit-today-announces-the-Annual-Reports-for-2024-Nykredit-Realkredit-A-S.html",
-            "time_published": "20250205T063000",
-            "authors": [
-                "Nykredit Realkredit A/S"
-            ],
-            "summary": "Nykredit today announces the Annual Reports for 2024 of:Nykredit A/S, CVR no 12 71 92 48 Nykredit Realkredit A/S, CVR no 12 71 92 80 Nykredit Bank A/S, CVR no 10 51 96 08 Totalkredit A/S, CVR no ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/8d4b6c95-67cf-4128-bde2-9c93a0f894ca",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.77141"
-                }
-            ],
-            "overall_sentiment_score": 0.24875,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "SEC Dials Down Crypto Oversight, Reassigns Agency Lawyers: Report",
-            "url": "https://decrypt.co/304501/sec-dials-down-crypto-oversight-reassigns-agency-lawyers-report",
-            "time_published": "20250205T062824",
-            "authors": [
-                "Vismaya V"
-            ],
-            "summary": "The crypto unit overhaul aligns with Trump's pledge to limit government intervention and position the U.S. as a leader in digital assets.",
-            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/06/sec-shutterstock_1128745520-16x9-1-gID_7.jpg",
-            "source": "Decrypt.co",
-            "category_within_source": "n/a",
-            "source_domain": "decrypt.co",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.026968,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NYT",
-                    "relevance_score": "0.085629",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "COIN",
-                    "relevance_score": "0.085629",
-                    "ticker_sentiment_score": "-0.0679",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Trump's trade war could have a clear winner: The UK",
-            "url": "https://www.cnbc.com/2025/02/05/trumps-trade-war-could-have-a-clear-winner-the-uk.html",
-            "time_published": "20250205T061612",
-            "authors": [],
-            "summary": "Britain's economy could get a major boost if the country remains on the sidelines of Trump's trade war.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Top News",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                }
-            ],
-            "overall_sentiment_score": 0.110431,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FOREX:EUR",
-                    "relevance_score": "0.102303",
-                    "ticker_sentiment_score": "0.014545",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:GBP",
-                    "relevance_score": "0.169676",
-                    "ticker_sentiment_score": "0.012962",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:CAD",
-                    "relevance_score": "0.034185",
-                    "ticker_sentiment_score": "-0.048982",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.034185",
-                    "ticker_sentiment_score": "0.107446",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Nomad Internet Launches Nomad Dragon- The Best Verizon Modem on the Planet",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43486374/nomad-internet-launches-nomad-dragon-the-best-verizon-modem-on-the-planet",
-            "time_published": "20250205T061512",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "NEW BRAUNFELS, Texas, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Nomad Internet has announced the launch of Nomad Dragon, the best Verizon Modem on the planet. Nomad Dragon comes with high-speed internet connectivity and up to 10 hours of battery backup, which means users can work, stream, and stay ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/f5535f54-cc1d-4a68-a9ef-a46d1b5cbd4e/nomad-dragon.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.509866,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "VZ",
-                    "relevance_score": "0.152983",
-                    "ticker_sentiment_score": "0.330989",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Strong launch for Cresemba in Japan triggers first sales milestone payment from AKP to Basilea",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020905/0/en/Strong-launch-for-Cresemba-in-Japan-triggers-first-sales-milestone-payment-from-AKP-to-Basilea.html",
-            "time_published": "20250205T061500",
-            "authors": [
-                "Allschwil",
-                "Basilea Pharmaceutica AG"
-            ],
-            "summary": "Allschwil, Switzerland, February ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/4403c5ae-6c9a-43d2-8c5f-deb2de747a47",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [],
-            "overall_sentiment_score": 0.103369,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AHKSF",
-                    "relevance_score": "0.07423",
-                    "ticker_sentiment_score": "-0.008179",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ASBRF",
-                    "relevance_score": "0.07423",
-                    "ticker_sentiment_score": "-0.008179",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.147818",
-                    "ticker_sentiment_score": "0.018198",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "XRP Ledger Suffers Hour-Long Outage Before Recovery: Ripple CTO Says 'Silent Network' Failure Didn't Impact User Funds",
-            "url": "https://www.benzinga.com/markets/cryptocurrency/25/02/43486359/xrp-ledger-suffers-hour-long-outage-before-recovery-ripple-cto-says-silent-network-failure",
-            "time_published": "20250205T061307",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "The XRP Ledger ( XRPL ) , the blockchain network that powers XRP XRP/USD, experienced an unprecedented hour-long interruption in block production on Tuesday before spontaneously recovering, according to Ripple's Chief Technology Officer David Schwartz. What Happened: \"The network is now ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/DeepSeek-Themed-Crypto-Explodes-600-On-A.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": -0.046623,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:XRP",
-                    "relevance_score": "0.427184",
-                    "ticker_sentiment_score": "-0.198977",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Movie Production Market to Grow by USD 90.4 Billion  ( 2025-2029 )  with Growing Popularity of Global Box Office Boosting the Market, Report with Market Evolution Powered by AI - Technavio",
-            "url": "https://www.benzinga.com/pressreleases/25/02/n43486321/movie-production-market-to-grow-by-usd-90-4-billion-2025-2029-with-growing-popularity-of-global-bo",
-            "time_published": "20250205T060800",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "NEW YORK, Feb. 5, 2025 /PRNewswire/ -- Report on how AI is driving market transformation - The global movie production market size is estimated to grow by USD 90.4 billion from 2025-2029, according to Technavio. The market is estimated to grow at a CAGR of 14.6% during the forecast period.",
-            "banner_image": "https://mma.prnewswire.com/media/2612648/IRTNTR77337_bw2.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.281212,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NFLX",
-                    "relevance_score": "0.023395",
-                    "ticker_sentiment_score": "0.110691",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SNEJF",
-                    "relevance_score": "0.023395",
-                    "ticker_sentiment_score": "0.16059",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "PARA",
-                    "relevance_score": "0.023395",
-                    "ticker_sentiment_score": "0.16059",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "DIS",
-                    "relevance_score": "0.023395",
-                    "ticker_sentiment_score": "0.16059",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "LGF-A",
-                    "relevance_score": "0.023395",
-                    "ticker_sentiment_score": "0.16059",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Tesla Bear Expects EV Giant's Earnings To Fall Below Bullish Estimates In 2025, Notes Majority Of Company's Revenues Come From Car Deliveries - Tesla  ( NASDAQ:TSLA ) ",
-            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/02/43486319/tesla-bear-expects-ev-giants-earnings-to-fall-below-bullish-estimates-in-2025-notes",
-            "time_published": "20250205T060743",
-            "authors": [
-                "Anan Ashraf"
-            ],
-            "summary": "GLJ Research LLC CEO and Tesla Inc. TSLA bear Gordon Johnson on Wednesday slammed bulls for their high price targets based on the assumption that the Elon Musk-owned company is \"more than a car company.\"",
-            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/05004352/image-31.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.99393"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.061632,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.720339",
-                    "ticker_sentiment_score": "0.003852",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
         }
     ]
 }
