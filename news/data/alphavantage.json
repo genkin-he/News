@@ -1,8 +1,32 @@
 {
-    "items": "45",
+    "items": "44",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "OpenAI's Big Rebrand: ChatGPT-Parent Wants To Reflect A 'More Organic' Future With New Logo, Typeface",
+            "url": "https://www.benzinga.com/tech/25/02/43485775/openais-big-rebrand-chatgpt-parent-wants-to-reflect-a-more-organic-future-with-new-logo-typeface",
+            "time_published": "20250205T043655",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "On Tuesday, OpenAI introduced a comprehensive rebranding initiative featuring a new logo and typeface. What Happened: The revamped logo, referred to as a \"blossom,\" showcases a slightly larger central space and refined lines.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/04231210/OpenAI-black-monoblossom.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [],
+            "overall_sentiment_score": 0.173071,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SFTBF",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "0.182185",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "Google AI's Search Revenue Matches Traditional Ads, Says Alphabet But There Is Rising Competition From OpenAI, Perplexity, DeepSeek - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",
             "url": "https://www.benzinga.com/markets/equities/25/02/43485518/google-ais-search-revenue-matches-traditional-ads-says-alphabet-but-there-is-rising-competition-",
@@ -1647,52 +1671,6 @@
                     "ticker_sentiment_label": "Somewhat-Bearish"
                 }
             ]
-        },
-        {
-            "title": "Fed Vice Chair Jefferson advocates remaining cautious on rates as policy drama unfolds",
-            "url": "https://www.cnbc.com/2025/02/04/fed-vice-chair-jefferson-advocates-remaining-cautious-on-rates-as-policy-drama-unfolds.html",
-            "time_published": "20250205T003659",
-            "authors": [],
-            "summary": "Jefferson echoed recent statements from other officials that it's in the Fed's best interest to move slowly as it evaluates evolving conditions.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Economy",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.99489"
-                }
-            ],
-            "overall_sentiment_score": -0.045965,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Callan JMB Announces Pricing of $5.12 Million Initial Public Offering",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020867/0/en/Callan-JMB-Announces-Pricing-of-5-12-Million-Initial-Public-Offering.html",
-            "time_published": "20250205T003400",
-            "authors": [
-                "Callan JMB Inc."
-            ],
-            "summary": "SPRING BRANCH, Texas, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Callan JMB Inc. ( NASDAQ: CJMB ) ( \"Callan\" or the \"Company\" ) , an integrative logistics company empowering the healthcare industry and emergency management agencies through exceptional fulfillment, storage, monitoring, and cold chain ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/c52355df-551b-4c4a-976a-0baca3bebb1a",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.838487"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999346"
-                }
-            ],
-            "overall_sentiment_score": 0.148296,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
         }
     ]
 }
