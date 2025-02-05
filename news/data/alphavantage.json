@@ -1,8 +1,343 @@
 {
-    "items": "48",
+    "items": "47",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "INTEGRAL AD SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against Integral Ad Science Holding Corp. - IAS - Integral Ad Science  ( NASDAQ:IAS ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43485429/integral-ad-shareholder-alert-by-former-louisiana-attorney-general-kahn-swick-foti-llc-reminds-inv",
+            "time_published": "20250205T034400",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW ORLEANS, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Kahn Swick & Foti, LLC ( \"KSF\" ) and KSF partner, former Attorney General of Louisiana, Charles C.",
+            "banner_image": "https://ml.globenewswire.com/media/0434ab48-35bf-4861-9c2d-0da59f482cf0/small/2021-05-10-ksf-logo-sec-200-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.160591,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IAS",
+                    "relevance_score": "0.265859",
+                    "ticker_sentiment_score": "0.1254",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "CROCS SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against Crocs, Inc. - CROX - Crocs  ( NASDAQ:CROX ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43485424/crocs-shareholder-alert-by-former-louisiana-attorney-general-kahn-swick-foti-llc-reminds-investors",
+            "time_published": "20250205T034300",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW ORLEANS, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Kahn Swick & Foti, LLC ( \"KSF\" ) and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors that they have until March 24, 2025 to file lead plaintiff applications in a securities class action lawsuit against ...",
+            "banner_image": "https://ml.globenewswire.com/media/0434ab48-35bf-4861-9c2d-0da59f482cf0/small/2021-05-10-ksf-logo-sec-200-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.131201,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CROX",
+                    "relevance_score": "0.479683",
+                    "ticker_sentiment_score": "0.24217",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "INNOVATIVE INDUSTRIAL SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against Innovative Industrial Properties, Inc. - IIPR - Innovative Ind Props  ( NYSE:IIPR ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43485421/innovative-industrial-shareholder-alert-by-former-louisiana-attorney-general-kahn-swick-foti-llc-r",
+            "time_published": "20250205T034200",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW ORLEANS, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Kahn Swick & Foti, LLC ( \"KSF\" ) and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors that they have until March 18, 2025 to file lead plaintiff applications in a securities class action lawsuit against ...",
+            "banner_image": "https://ml.globenewswire.com/media/0434ab48-35bf-4861-9c2d-0da59f482cf0/small/2021-05-10-ksf-logo-sec-200-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.119575,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IIPR",
+                    "relevance_score": "0.246167",
+                    "ticker_sentiment_score": "0.130909",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "FTAI AVIATION SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against FTAI Aviation Ltd. - FTAI - FTAI Aviation  ( NASDAQ:FTAI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43485414/ftai-aviation-shareholder-alert-by-former-louisiana-attorney-general-kahn-swick-foti-llc-reminds-i",
+            "time_published": "20250205T034100",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW ORLEANS, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Kahn Swick & Foti, LLC ( \"KSF\" ) and KSF partner, former Attorney General of Louisiana, Charles C.",
+            "banner_image": "https://ml.globenewswire.com/media/0434ab48-35bf-4861-9c2d-0da59f482cf0/small/2021-05-10-ksf-logo-sec-200-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.072412,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FTAI",
+                    "relevance_score": "0.485711",
+                    "ticker_sentiment_score": "0.113499",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "AgiBot Establishes Robotics and AI Solutions Enterprise in Kazakhstan",
+            "url": "https://www.benzinga.com/pressreleases/25/02/n43485418/agibot-establishes-robotics-and-ai-solutions-enterprise-in-kazakhstan",
+            "time_published": "20250205T034100",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "SHANGHAI, Feb. 4, 2025 /PRNewswire/ -- AgiBot, a Leader in AI and Robotics Integration, is to establish a Robotics and AI Solutions Enterprise in Kazakhstan.",
+            "banner_image": "https://mma.prnewswire.com/media/2613172/image_5032900_9415249.jpg",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.24359,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "PACIRA BIOSCIENCES SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against Pacira BioSciences, Inc. - PCRX - Pacira BioSciences  ( NASDAQ:PCRX ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43485413/pacira-biosciences-shareholder-alert-by-former-louisiana-attorney-general-kahn-swick-foti-llc-remi",
+            "time_published": "20250205T034100",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW ORLEANS, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Kahn Swick & Foti, LLC ( \"KSF\" ) and KSF partner, former Attorney General of Louisiana, Charles C.",
+            "banner_image": "https://ml.globenewswire.com/media/0434ab48-35bf-4861-9c2d-0da59f482cf0/small/2021-05-10-ksf-logo-sec-200-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.091318,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PCRX",
+                    "relevance_score": "0.260189",
+                    "ticker_sentiment_score": "0.129096",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "TRANSOCEAN SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against Transocean Ltd. - RIG - Transocean  ( NYSE:RIG ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43485412/transocean-shareholder-alert-by-former-louisiana-attorney-general-kahn-swick-foti-llc-reminds-inve",
+            "time_published": "20250205T034000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW ORLEANS, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Kahn Swick & Foti, LLC ( \"KSF\" ) and KSF partner, former Attorney General of Louisiana, Charles C.",
+            "banner_image": "https://ml.globenewswire.com/media/0434ab48-35bf-4861-9c2d-0da59f482cf0/small/2021-05-10-ksf-logo-sec-200-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.164783,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RIG",
+                    "relevance_score": "0.364987",
+                    "ticker_sentiment_score": "0.18825",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "NEXTRACKER SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against Nextracker Inc. - NXT - NEXTracker  ( NASDAQ:NXT ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43485410/nextracker-shareholder-alert-by-former-louisiana-attorney-general-kahn-swick-foti-llc-reminds-inve",
+            "time_published": "20250205T033900",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW ORLEANS, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Kahn Swick & Foti, LLC ( \"KSF\" ) and KSF partner, former Attorney General of Louisiana, Charles C.",
+            "banner_image": "https://ml.globenewswire.com/media/0434ab48-35bf-4861-9c2d-0da59f482cf0/small/2021-05-10-ksf-logo-sec-200-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.093488,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NXT(EXP20091224)",
+                    "relevance_score": "0.415927",
+                    "ticker_sentiment_score": "0.215572",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:NXT",
+                    "relevance_score": "0.087185",
+                    "ticker_sentiment_score": "0.077633",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "CAPRI HOLDINGS SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against Capri Holdings Limited - CPRI - Capri Holdings  ( NYSE:CPRI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43485405/capri-holdings-shareholder-alert-by-former-louisiana-attorney-general-kahn-swick-foti-llc-reminds-",
+            "time_published": "20250205T033800",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW ORLEANS, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Kahn Swick & Foti, LLC ( \"KSF\" ) and KSF partner, former Attorney General of Louisiana, Charles C.",
+            "banner_image": "https://ml.globenewswire.com/media/0434ab48-35bf-4861-9c2d-0da59f482cf0/small/2021-05-10-ksf-logo-sec-200-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.171352,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CPRI",
+                    "relevance_score": "0.524949",
+                    "ticker_sentiment_score": "0.288444",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TPR",
+                    "relevance_score": "0.081276",
+                    "ticker_sentiment_score": "0.158183",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "CASSAVA SCIENCES SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against Cassava Sciences, Inc. - SAVA",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43485400/cassava-sciences-shareholder-alert-by-former-louisiana-attorney-general-kahn-swick-foti-llc-remind",
+            "time_published": "20250205T033700",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW ORLEANS, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Kahn Swick & Foti, LLC ( \"KSF\" ) and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors that they have until February 10, 2025 to file lead plaintiff applications in a securities class action lawsuit against ...",
+            "banner_image": "https://ml.globenewswire.com/media/0434ab48-35bf-4861-9c2d-0da59f482cf0/small/2021-05-10-ksf-logo-sec-200-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.122517,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SAVA",
+                    "relevance_score": "0.266828",
+                    "ticker_sentiment_score": "0.137647",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Gold Outshines Bitcoin As Trump's Gaza Plan, US-China Tensions Fuel Rally-Peter Schiff Calls It 'Extremely Bullish'",
             "url": "https://www.benzinga.com/markets/commodities/25/02/43485292/gold-outshines-bitcoin-as-trumps-gaza-plan-us-china-tensions-fuel-rally-peter-schiff-calls-it",
@@ -1374,312 +1709,6 @@
                     "ticker_sentiment_label": "Bullish"
                 }
             ]
-        },
-        {
-            "title": "Cogeco Communications Announces Private Offering of $325 Million 4.743% Senior Secured Notes",
-            "url": "https://www.benzinga.com/pressreleases/25/02/n43483945/cogeco-communications-announces-private-offering-of-325-million-4-743-senior-secured-notes",
-            "time_published": "20250205T002600",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "/NOT FOR DISTRIBUTION TO U.S. NEWS WIRE SERVICES OR DISSEMINATION IN THE U.S./ MONTR\u00c9AL, Feb. 4, 2025 /CNW/ - Cogeco Communications Inc. CCA ( \"Cogeco Communications\" or the \"Corporation\" ) announced today that it has priced an offering of $325 million aggregate principal amount of 4.743% senior ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.967321"
-                }
-            ],
-            "overall_sentiment_score": 0.09381,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CGECF",
-                    "relevance_score": "0.466811",
-                    "ticker_sentiment_score": "0.068097",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MORN",
-                    "relevance_score": "0.035502",
-                    "ticker_sentiment_score": "-0.002898",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CGEAF",
-                    "relevance_score": "0.437165",
-                    "ticker_sentiment_score": "0.065263",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Buy the Surge in Palantir Technologies  ( PLTR )  Stock After Q4 Earnings?",
-            "url": "https://www.zacks.com/commentary/2409676/buy-the-surge-in-palantir-technologies-pltr-stock-after-q4-earnings",
-            "time_published": "20250205T002400",
-            "authors": [
-                "Shaun Pruitt"
-            ],
-            "summary": "Spiking over +20% in Wednesday's trading session, Palantir Technologies (PLTR) stock has been a highlight of this week's earnings lineup after reporting strong Q4 results yesterday evening.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/c4/92938.jpg?v=467374788",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.961735"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.367175,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.21686",
-                    "ticker_sentiment_score": "0.327068",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "HP Inc. Sets Annual Meeting and Record Dates",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020865/0/en/HP-Inc-Sets-Annual-Meeting-and-Record-Dates.html",
-            "time_published": "20250205T001500",
-            "authors": [
-                "HP Inc."
-            ],
-            "summary": "PALO ALTO, Calif., Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- The HP Inc. ( NYSE: HPQ ) board of directors has established a record date for its 2025 annual meeting of stockholders. HP Inc.'s stockholders of record at the close of business on February 20, 2025 will be entitled to notice of the annual ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/37c4d49c-63cd-4ba2-9a1a-c89d07424eb9",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.298702,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HPQ",
-                    "relevance_score": "0.862496",
-                    "ticker_sentiment_score": "0.492926",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "HP Inc. Sets Annual Meeting and Record Dates - HP  ( NYSE:HPQ ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43483714/hp-inc-sets-annual-meeting-and-record-dates",
-            "time_published": "20250205T001500",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "PALO ALTO, Calif., Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- The HP Inc. HPQ board of directors has established a record date for its 2025 annual meeting of stockholders. HP Inc.'s stockholders of record at the close of business on February 20, 2025 will be entitled to notice of the annual meeting and ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.319619,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HPQ",
-                    "relevance_score": "0.784902",
-                    "ticker_sentiment_score": "0.472481",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "K&F Growth Acquisition Corp. II Announces the Pricing of $250,000,000 Initial Public Offering",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43483670/k-f-growth-acquisition-corp-ii-announces-the-pricing-of-250-000-000-initial-public-offering",
-            "time_published": "20250205T000056",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "Each Unit Includes One Class A Ordinary Share and One Share Right to Receive 1/15th of a Class A Ordinary Share New York, NY, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- K&F Growth Acquisition Corp. II ( the \"Company\" ) announced today the pricing of its initial public offering of 25,000,000 units at a ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.682689"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                }
-            ],
-            "overall_sentiment_score": 0.27543,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Mercury Systems  ( MRCY )  Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
-            "url": "https://www.zacks.com/stock/news/2409690/mercury-systems-mrcy-q2-earnings-taking-a-look-at-key-metrics-versus-estimates",
-            "time_published": "20250205T000012",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "While the top- and bottom-line numbers for Mercury Systems (MRCY) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Douglas Emmett  ( DEI )  Reports Q4 Earnings: What Key Metrics Have to Say",
-            "url": "https://www.zacks.com/stock/news/2409693/douglas-emmett-dei-reports-q4-earnings-what-key-metrics-have-to-say",
-            "time_published": "20250205T000011",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "Although the revenue and EPS for Douglas Emmett (DEI) give a sense of how its business performed in the quarter ended December 2024, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "The AZEK Company  ( AZEK )  Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
-            "url": "https://www.zacks.com/stock/news/2409691/the-azek-company-azek-q1-earnings-taking-a-look-at-key-metrics-versus-estimates",
-            "time_published": "20250205T000011",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "The headline numbers for The AZEK Company (AZEK) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Compared to Estimates, Mattel  ( MAT )  Q4 Earnings: A Look at Key Metrics",
-            "url": "https://www.zacks.com/stock/news/2409694/compared-to-estimates-mattel-mat-q4-earnings-a-look-at-key-metrics",
-            "time_published": "20250205T000011",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "The headline numbers for Mattel (MAT) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Match Group  ( MTCH )  Q4 Earnings: How Key Metrics Compare to Wall Street Estimates",
-            "url": "https://www.zacks.com/stock/news/2409692/match-group-mtch-q4-earnings-how-key-metrics-compare-to-wall-street-estimates",
-            "time_published": "20250205T000011",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "The headline numbers for Match Group (MTCH) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Compared to Estimates, Modine  ( MOD )  Q3 Earnings: A Look at Key Metrics",
-            "url": "https://www.zacks.com/stock/news/2409695/compared-to-estimates-modine-mod-q3-earnings-a-look-at-key-metrics",
-            "time_published": "20250205T000010",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "Although the revenue and EPS for Modine (MOD) give a sense of how its business performed in the quarter ended December 2024, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
         }
     ]
 }
