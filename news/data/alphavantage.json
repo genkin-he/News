@@ -1,8 +1,562 @@
 {
-    "items": "46",
+    "items": "49",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Man Group PLC : Form 8.3 - Spirent Communications plc",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021070/0/en/Man-Group-PLC-Form-8-3-Spirent-Communications-plc.html",
+            "time_published": "20250205T122800",
+            "authors": [
+                "Man Group PLC"
+            ],
+            "summary": "FORM ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/91104804-f792-492b-830c-0b7f53193a71",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.23066,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Wall Street's Most Accurate Analysts Spotlight On 3 Industrials Stocks Delivering High-Dividend Yields - ManpowerGroup  ( NYSE:MAN ) , Karat Packaging  ( NASDAQ:KRT ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/price-target/25/02/43491430/wall-streets-most-accurate-analysts-spotlight-on-3-industrials-stocks-delivering-hig",
+            "time_published": "20250205T122533",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "During times of turbulence and uncertainty in the markets, many investors turn to dividend-yielding stocks. These are often companies that have high free cash flows and reward shareholders with a high dividend payout.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/05055239/image-38.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.744043"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.099194,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KRT",
+                    "relevance_score": "0.199037",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.100308",
+                    "ticker_sentiment_score": "-0.07434",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MAN",
+                    "relevance_score": "0.199037",
+                    "ticker_sentiment_score": "-0.219886",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Man Group PLC : Form 8.3 - International Distribution Services plc",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021069/0/en/Man-Group-PLC-Form-8-3-International-Distribution-Services-plc.html",
+            "time_published": "20250205T122500",
+            "authors": [
+                "Man Group PLC"
+            ],
+            "summary": "FORM ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/91104804-f792-492b-830c-0b7f53193a71",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.23066,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Scatec ASA - Successful placement of senior unsecured green bonds",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021068/0/en/Scatec-ASA-Successful-placement-of-senior-unsecured-green-bonds.html",
+            "time_published": "20250205T122000",
+            "authors": [
+                "Scatec ASA"
+            ],
+            "summary": "Oslo, 05 February 2025: Scatec ASA ( \"Scatec\" ) has successfully issued a NOK 1,250 million 4-year senior unsecured green bond with a coupon of 3 months NIBOR + 3.15% p.a. The bond issue attracted substantial demand and was significantly oversubscribed.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/8bb6739a-c766-436e-94da-6c261fa5a56f",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.977154"
+                }
+            ],
+            "overall_sentiment_score": 0.381709,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "STECF",
+                    "relevance_score": "0.143415",
+                    "ticker_sentiment_score": "0.176287",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Recent Draganfly Sales and Activities with Policing Agencies Signals Growing Focus on Northern  ( Canada )  Border Security",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021065/0/en/Recent-Draganfly-Sales-and-Activities-with-Policing-Agencies-Signals-Growing-Focus-on-Northern-Canada-Border-Security.html",
+            "time_published": "20250205T121500",
+            "authors": [
+                "Draganfly Inc"
+            ],
+            "summary": "Draganfly Confirms Its Strategic & Tactical Positioning and Preparedness for Growing Border Security Demand Amid Global Trade and Security Initiatives ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/53b6faaf-3b78-4779-ba9d-36c0e91d44cb",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.285149,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DPRO",
+                    "relevance_score": "0.501986",
+                    "ticker_sentiment_score": "0.545826",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "GM To Integrate Cruise Technology Into Its Assisted Driving System Upon Completing Acquisition - General Motors  ( NYSE:GM ) ",
+            "url": "https://www.benzinga.com/tech/25/02/43490839/gm-to-integrate-cruise-technology-into-its-assisted-driving-system-upon-completing-acquisition",
+            "time_published": "20250205T121217",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "General Motors Co. GM said on Tuesday that it will integrate the technology of Cruise into its Super Cruise assisted driving system now that it has fully acquired the latter.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Detroit-May-6--2014-General-Motors-Build.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.243736,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.597213",
+                    "ticker_sentiment_score": "0.510035",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "This Snap Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Wednesday - Hilton Worldwide Holdings  ( NYSE:HLT ) , MGIC Investment  ( NYSE:MTG ) ",
+            "url": "https://www.benzinga.com/25/02/43490717/this-snap-analyst-is-no-longer-bullish-here-are-top-5-downgrades-for-wednesday",
+            "time_published": "20250205T120759",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades, downgrades and initiations, please see our analyst ratings page. Mizuho analyst Ben Chaiken downgraded the rating for Hilton Worldwide Holdings Inc.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/05070554/image-41-1024x572.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.205151,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HLT",
+                    "relevance_score": "0.397098",
+                    "ticker_sentiment_score": "0.279114",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MTG",
+                    "relevance_score": "0.397098",
+                    "ticker_sentiment_score": "0.161305",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.137671",
+                    "ticker_sentiment_score": "-0.012602",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.137671",
+                    "ticker_sentiment_score": "0.069931",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.137671",
+                    "ticker_sentiment_score": "-0.056086",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WRBY",
+                    "relevance_score": "0.397098",
+                    "ticker_sentiment_score": "0.153457",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SNAP",
+                    "relevance_score": "0.271274",
+                    "ticker_sentiment_score": "-0.091885",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Ethical Web AI appoints Tom Symonds as the new Chief Executive Officer",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021039/0/en/Ethical-Web-AI-appoints-Tom-Symonds-as-the-new-Chief-Executive-Officer.html",
+            "time_published": "20250205T120000",
+            "authors": [
+                "Ethical Web AI"
+            ],
+            "summary": "Ethical Web AI Partners appoints Tom Symonds as the new Chief Executive Officer ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/33151a8b-936b-46b1-8d0f-3c88971e03fa",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.839681"
+                }
+            ],
+            "overall_sentiment_score": 0.346487,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BBLR",
+                    "relevance_score": "0.091509",
+                    "ticker_sentiment_score": "0.171908",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Perspective Therapeutics to Participate in Upcoming February Investor Conferences",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021034/0/en/Perspective-Therapeutics-to-Participate-in-Upcoming-February-Investor-Conferences.html",
+            "time_published": "20250205T120000",
+            "authors": [
+                "Inc.",
+                "Perspective Therapeutics"
+            ],
+            "summary": "SEATTLE, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Perspective Therapeutics, Inc. ( \"Perspective\" or the \"Company\" ) ( NYSE AMERICAN: CATX ) , a radiopharmaceutical company that is pioneering advanced treatment applications for cancers throughout the body, today announced that members of its senior ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/e8b42463-3d31-441e-8c09-6b88826fe1c6",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.192527,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "BioXcel Therapeutics Provides Clinical and Business Update - BioXcel Therapeutics  ( NASDAQ:BTAI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43490353/bioxcel-therapeutics-provides-clinical-and-business-update",
+            "time_published": "20250205T120000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Patient enrollment advancing in SERENITY At-Home Phase 3 trial of BXCL501 for acute treatment of agitation associated with bipolar disorders or schizophrenia Developed plans for TRANQUILITY In-Care Phase 3 trial of BXCL501 for agitation associated with Alzheimer's dementia",
+            "banner_image": "https://ml.globenewswire.com/media/63fea215-2cfc-4e2b-b169-43dcfff60b34/small/btai-logo-png-220x123-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.119074,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BTAI",
+                    "relevance_score": "0.277004",
+                    "ticker_sentiment_score": "0.179201",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PFE",
+                    "relevance_score": "0.025706",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BIIB",
+                    "relevance_score": "0.025706",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tonix Pharmaceuticals to Participate in the 2025 BIO CEO & Investor Conference - Tonix Pharmaceuticals  ( NASDAQ:TNXP ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43490356/tonix-pharmaceuticals-to-participate-in-the-2025-bio-ceo-investor-conference",
+            "time_published": "20250205T120000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "CHATHAM, N.J., Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Tonix Pharmaceuticals Holding Corp.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": -0.111256,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TNXP",
+                    "relevance_score": "0.100623",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Plymouth Industrial REIT Executes Value-Add Initiatives in Recently Acquired Memphis Logistics Portfolio - Plymouth Industrial REIT  ( NYSE:PLYM ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43490347/plymouth-industrial-reit-executes-value-add-initiatives-in-recently-acquired-memphis-logistics-por",
+            "time_published": "20250205T120000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "BOSTON, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Plymouth Industrial REIT, Inc. PLYM announced the sale of a 33,688-square-foot flex building in Memphis, TN to an end user at a price of $2.4 million. The building was part of a portfolio Plymouth acquired in July 2024 for $100.5 million.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Mergers",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                }
+            ],
+            "overall_sentiment_score": 0.156045,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLYM",
+                    "relevance_score": "0.300394",
+                    "ticker_sentiment_score": "0.258398",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ValOre Affiliate Hatchet Uranium Corp. Closes $1,500,000 Financing Related to Saskatchewan Uranium Properties Acquisitions",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021036/0/en/ValOre-Affiliate-Hatchet-Uranium-Corp-Closes-1-500-000-Financing-Related-to-Saskatchewan-Uranium-Properties-Acquisitions.html",
+            "time_published": "20250205T120000",
+            "authors": [
+                "ValOre Metals Corporation"
+            ],
+            "summary": "VANCOUVER, British Columbia, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- ValOre Metals Corp. ( \"ValOre\". TSX\u2010V: VO. OTCQB: KVLQF. Frankfurt: KEQ0 ) today provided an update on developments concerning Hatchet Uranium Corp. ( \"Hatchet\" ) , in which ValOre currently holds an approximate 56.8% ownership ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.199306,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RIO",
+                    "relevance_score": "0.029508",
+                    "ticker_sentiment_score": "0.135115",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BURCF",
+                    "relevance_score": "0.029508",
+                    "ticker_sentiment_score": "0.159335",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "VOYRF",
+                    "relevance_score": "0.029508",
+                    "ticker_sentiment_score": "0.159335",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BSLK",
+                    "relevance_score": "0.029508",
+                    "ticker_sentiment_score": "0.159335",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MALRF",
+                    "relevance_score": "0.058976",
+                    "ticker_sentiment_score": "0.046006",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Medicenna Therapeutics to Participate in Two Healthcare Investor Conferences in February 2025 - Medicenna Therapeutics  ( OTC:MDNAF ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43490348/medicenna-therapeutics-to-participate-in-two-healthcare-investor-conferences-in-february-2025",
+            "time_published": "20250205T120000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "TORONTO and HOUSTON, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Medicenna Therapeutics Corp. ( \"Medicenna\" or the \"Company\" ) MDNAMDNAF, a clinical-stage immunotherapy company focused on the development of Superkines for the treatment of cancer, and inflammatory and autoimmune diseases, today announced ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.093035,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Ascot Resources Provides Further Update on CEO Review",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021040/0/en/Ascot-Resources-Provides-Further-Update-on-CEO-Review.html",
+            "time_published": "20250205T120000",
+            "authors": [
+                "Ascot Resources Ltd."
+            ],
+            "summary": "VANCOUVER, British Columbia, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Ascot Resources Ltd. ( TSX: AOT. OTCQX: AOTVF ) ( \"Ascot\" or the \"Company\" ) is providing an update on the progress of the Premier Gold Project following an initial review conducted by President and Chief Executive Officer Jim ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/72ffad12-c53a-429f-880f-677c7a723d23",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": 0.201013,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.043499",
+                    "ticker_sentiment_score": "0.048655",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MALRF",
+                    "relevance_score": "0.08687",
+                    "ticker_sentiment_score": "0.051377",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Pasithea Therapeutics Announces Positive Safety Review Committee  ( SRC )  Recommendation from its ongoing Phase 1 Clinical Trial of PAS-004 in Advanced Cancer",
             "url": "https://www.globenewswire.com/news-release/2025/02/05/3021033/0/en/Pasithea-Therapeutics-Announces-Positive-Safety-Review-Committee-SRC-Recommendation-from-its-ongoing-Phase-1-Clinical-Trial-of-PAS-004-in-Advanced-Cancer.html",
@@ -24,6 +578,55 @@
             "overall_sentiment_score": 0.088979,
             "overall_sentiment_label": "Neutral",
             "ticker_sentiment": []
+        },
+        {
+            "title": "Top 2 Health Care Stocks That May Crash In February - Orthofix Medical  ( NASDAQ:OFIX ) , Globus Medical  ( NYSE:GMED ) ",
+            "url": "https://www.benzinga.com/25/02/43490310/top-2-health-care-stocks-that-may-crash-in-february",
+            "time_published": "20250205T115735",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "As of Feb. 5, 2025, two stocks in the health care sector could be flashing a real warning to investors who value momentum as a key criteria in their trading decisions. The RSI is a momentum indicator, which compares a stock's strength on days when prices go up to its strength on days when prices ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/5-Healthcare-Stocks-To-Keep-On-Your-Rada.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.288017,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GMED",
+                    "relevance_score": "0.33628",
+                    "ticker_sentiment_score": "-0.115806",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IBKR",
+                    "relevance_score": "0.172097",
+                    "ticker_sentiment_score": "0.194174",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "OFIX",
+                    "relevance_score": "0.485711",
+                    "ticker_sentiment_score": "0.297837",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
         },
         {
             "title": "This NXP Semiconductors Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Wednesday - Janus Henderson Group  ( NYSE:JHG ) , Cardinal Health  ( NYSE:CAH ) ",
@@ -211,6 +814,55 @@
             ]
         },
         {
+            "title": "Why Cava Stock Jumped 20% in January",
+            "url": "https://www.fool.com/investing/2025/02/05/why-cava-stock-jumped-20-in-january/",
+            "time_published": "20250205T114821",
+            "authors": [
+                "Jennifer Saibil"
+            ],
+            "summary": "Cava Group ( NYSE: CAVA ) stock jumped 20% in January, according to data from S&P Global Market Intelligence. There was no news specific to the company, but investors have been enthusiastic about the economy and the markets since Donald Trump took office two weeks ago.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806523/food-prep-meal-kit-getty.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.918141"
+                }
+            ],
+            "overall_sentiment_score": 0.374541,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CMG",
+                    "relevance_score": "0.192694",
+                    "ticker_sentiment_score": "0.214019",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.097062",
+                    "ticker_sentiment_score": "0.184851",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CAVA",
+                    "relevance_score": "0.192694",
+                    "ticker_sentiment_score": "0.263568",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "KK MINER: Best Free Bitcoin Litecoin and Dogecoin Cloud Mining Platform Regulated in the UK",
             "url": "https://www.benzinga.com/pressreleases/25/02/g43489958/kk-miner-best-free-bitcoin-litecoin-and-dogecoin-cloud-mining-platform-regulated-in-the-uk",
             "time_published": "20250205T114816",
@@ -260,6 +912,53 @@
             ]
         },
         {
+            "title": "3 Reasons to Buy This Artificial Intelligence  ( AI )  Stock on the Dip",
+            "url": "https://www.fool.com/investing/2025/02/05/3-reasons-to-buy-this-artificial-intelligence-ai-s/",
+            "time_published": "20250205T114500",
+            "authors": [
+                "Bradley Guichard"
+            ],
+            "summary": "The popular phrase \"reports of my death are greatly exaggerated,\" an adaptation of a famous Mark Twain quote, is a terrific way to describe Nvidia ( NASDAQ: NVDA ) after the DeepSeek bombshell ( more on this below ) sank its stock more than 20%.",
+            "banner_image": "https://media.ycharts.com/charts/c0dfe54ebb16dcdd9e03e83f2a82b0e2.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.839681"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.164613,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.121343",
+                    "ticker_sentiment_score": "0.093465",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.59892",
+                    "ticker_sentiment_score": "0.237248",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "Elon Musk To Reportedly Meet Indian PM Modi Later This Month: Tesla, Starlink Launch Talks On Radar? - Tesla  ( NASDAQ:TSLA ) ",
             "url": "https://www.benzinga.com/25/02/43489837/elon-musk-likely-to-meet-india-pm-later-this-month-report",
             "time_published": "20250205T114047",
@@ -285,6 +984,65 @@
                     "relevance_score": "0.655281",
                     "ticker_sentiment_score": "-0.014594",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Claiming Social Security Spousal Benefits? Don't Make This Big Mistake",
+            "url": "https://www.fool.com/retirement/2025/02/05/claiming-social-security-spousal-benefits-dont-mak/",
+            "time_published": "20250205T113600",
+            "authors": [
+                "Maurie Backman"
+            ],
+            "summary": "It's a blunder that could cost you.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806420%2Folder-couple-smiling-laptop-gettyimages-1443467748.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.244645,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Uber opens 'interest list' for Waymo robotaxi rides in Austin",
+            "url": "https://www.cnbc.com/2025/02/05/uber-opens-interest-list-for-waymo-robotaxi-rides-in-austin.html",
+            "time_published": "20250205T113504",
+            "authors": [],
+            "summary": "Uber and Waymo beat Tesla to the punch offering robotaxi rides in Austin, Texas ...",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.172806,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.708701",
+                    "ticker_sentiment_score": "0.24795",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.236972",
+                    "ticker_sentiment_score": "0.152489",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         },
@@ -349,6 +1107,61 @@
                     "ticker": "ILMN",
                     "relevance_score": "0.19661",
                     "ticker_sentiment_score": "0.050373",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "CEO Elon Musk Says Tesla Could Be Worth More Than the World's 5 Largest Companies. Is the Stock a Buy?",
+            "url": "https://www.fool.com/investing/2025/02/05/tesla-disappoints-again-as-auto-revenue-sinks-but/",
+            "time_published": "20250205T113000",
+            "authors": [
+                "Geoffrey Seiler"
+            ],
+            "summary": "Tesla ( NASDAQ: TSLA ) shares initially shrugged off a weak earnings report before the stock got caught in the trade-war sell-off. The electric vehicle ( EV ) maker had a tough year in 2024, although Chief Executive Officer Elon Musk continues to be very upbeat about the future.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806264%2Fgettyimages-2032424629.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999966"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.061872,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.047749",
+                    "ticker_sentiment_score": "-0.140746",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.563692",
+                    "ticker_sentiment_score": "-0.020495",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OPTGF",
+                    "relevance_score": "0.095327",
+                    "ticker_sentiment_score": "0.184349",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.142565",
+                    "ticker_sentiment_score": "-0.11085",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -1344,618 +2157,6 @@
                     "relevance_score": "0.695399",
                     "ticker_sentiment_score": "0.538869",
                     "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Hansen Trade Experiences Strong Growth, Strategic Market Expansion",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021008/0/en/Hansen-Trade-Experiences-Strong-Growth-Strategic-Market-Expansion.html",
-            "time_published": "20250205T105400",
-            "authors": [
-                "Hansen Technologies"
-            ],
-            "summary": "Energy companies across the Nordics, UK and Western Europe are benefiting from the modular software & unique and advanced capabilities of Hansen Trade.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/8de15bef-d5cf-469a-bbfb-26ba88452391",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                }
-            ],
-            "overall_sentiment_score": 0.526214,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "1 Unstoppable BlackRock ETF With 40.6% of Its Portfolio Invested in Broadcom, Amazon, Nvidia, Microsoft, and Palantir",
-            "url": "https://www.fool.com/investing/2025/02/05/1-blackrock-etf-406-portfolio-in-nvidia-palantir/",
-            "time_published": "20250205T105300",
-            "authors": [
-                "Anthony Di Pizio"
-            ],
-            "summary": "BlackRock ( NYSE: BLK ) oversees more than $11.6 trillion worth of client money, making it the largest asset manager in the world. Around $3.5 trillion of that is invested in exchange-traded funds ( ETFs ) which are operated by its iShares subsidiary. ETFs can hold hundreds or even thousands of ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806142%2Fa-digital-rendering-of-a-circuit-board-with-a-chip-embossed-with-the-letters-ai.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.995869"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.246375,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.104683",
-                    "ticker_sentiment_score": "0.088616",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.257805",
-                    "ticker_sentiment_score": "0.162334",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "AVGO",
-                    "relevance_score": "0.306963",
-                    "ticker_sentiment_score": "0.158896",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "PANW",
-                    "relevance_score": "0.052455",
-                    "ticker_sentiment_score": "0.166609",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "This Ultrahigh-Yield Dividend Stock Adds More Fuel to Its Growth Engine to Extend Its Growth Outlook Through 2029",
-            "url": "https://www.fool.com/investing/2025/02/05/this-ultra-high-yield-dividend-stock-adds-more-fue/",
-            "time_published": "20250205T105300",
-            "authors": [
-                "Matt DiLallo"
-            ],
-            "summary": "MPLX ( NYSE: MPLX ) continues to provide investors with the best of both worlds. The master limited partnership ( MLP ) offers investors a very lucrative cash distribution ( currently yielding over 7% ) . On top of that, it's delivering high-octane growth.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806427/dividend-growth-hundred-dollar-bills-arrow-up.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.252131,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ENB",
-                    "relevance_score": "0.058615",
-                    "ticker_sentiment_score": "0.128997",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "OKE",
-                    "relevance_score": "0.174587",
-                    "ticker_sentiment_score": "0.051625",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Toyota Stock Rises 3% Pre-Market After It Upgrades Full Year Forecast Despite Drop In Q3 Earnings - Toyota Motor  ( NYSE:TM ) ",
-            "url": "https://www.benzinga.com/markets/25/02/43488964/toyota-stock-rises-3-pre-market-after-it-upgrades-full-year-forecast-despite-drop-in-q3-earnings",
-            "time_published": "20250205T104831",
-            "authors": [
-                "Anan Ashraf"
-            ],
-            "summary": "Japanese automaker Toyota Motor Corp. TM on Wednesday hiked its full-year operating income outlook by 400 billion yen ( $2.62 billion ) to 4,700 billion yen for the financial year ending March 2025.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Toyota-Photo-by-josefkubes-on-Shuttersto.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.650727"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.242293,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TM",
-                    "relevance_score": "0.25168",
-                    "ticker_sentiment_score": "0.120508",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:JPY",
-                    "relevance_score": "0.577527",
-                    "ticker_sentiment_score": "0.101106",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Spotify Stock Jumps 10%: Here's What You Need to Know",
-            "url": "https://www.fool.com/investing/2025/02/05/spotify-stock-jumps-10-heres-what-you-need-to-know/",
-            "time_published": "20250205T104500",
-            "authors": [
-                "Travis Hoium"
-            ],
-            "summary": "Spotify continues to fire on all cylinders, including impressive margin improvements.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806400/music-played-on-a-smartphone.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.144047,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SPOT",
-                    "relevance_score": "0.9545",
-                    "ticker_sentiment_score": "0.374033",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Interval Funds: 6 Things to Know Before You Invest",
-            "url": "https://www.fool.com/retirement/2025/02/05/interval-funds-6-things-to-know-before-you-invest/",
-            "time_published": "20250205T104500",
-            "authors": [
-                "FINRA Staff"
-            ],
-            "summary": "Evaluate whether the product is right for you and the level of risk you're willing to accept with your investments.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806492/gettyimages-1354077575-1200x800-5b2df79.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999864"
-                }
-            ],
-            "overall_sentiment_score": 0.164294,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Snacks Giant Mondelez Q4 Earnings: Sales Miss, EPS Falls Short, Cocoa Inflation Threatens 2025 & More - Mondelez International  ( NASDAQ:MDLZ ) ",
-            "url": "https://www.benzinga.com/25/02/43488899/your-oreos-to-cost-more-mondelez-warns-of-unprecedented-cocoa-price",
-            "time_published": "20250205T103818",
-            "authors": [
-                "Shivani Kumaresan"
-            ],
-            "summary": "Mondelez's Q4 sales and adjusted EPS miss estimates. Mondelez expects adjusted EPS to decline 10% due to cocoa cost inflation. Brand New Membership Level: Benzinga Trade Alerts Snacks giant Mondelez International Inc MDLZ shares are trading lower in premarket on Wednesday.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/What-Happened_0.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.77141"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.998333"
-                }
-            ],
-            "overall_sentiment_score": 0.058383,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MDLZ",
-                    "relevance_score": "0.588876",
-                    "ticker_sentiment_score": "-0.028525",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "WOO X extends fee sharing with $WOO stakers",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43488898/woo-x-extends-fee-sharing-with-woo-stakers",
-            "time_published": "20250205T103724",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "KINGSTOWN, St. Vincent and the Grenadines, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- WOO X, a leading global centralized crypto trading platform known for its innovative trading solutions, has announced the extension of its fee-sharing program, to further align the platform's success with the ...",
-            "banner_image": "https://ml.globenewswire.com/media/b302a73b-782c-4233-aa27-1c45fb8e41cd/small/woo-x-additional-s-1-png.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.99977"
-                }
-            ],
-            "overall_sentiment_score": 0.432201,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Alstom S.A: Alstom and KNDS have reached agreement: a secure future for the industrial site in G\u00f6rlitz in Germany",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021006/0/en/Alstom-S-A-Alstom-and-KNDS-have-reached-agreement-a-secure-future-for-the-industrial-site-in-G%C3%B6rlitz-in-Germany.html",
-            "time_published": "20250205T103700",
-            "authors": [
-                "ALSTOM SA"
-            ],
-            "summary": "5 February , 2025 - The negotiations between Alstom and KNDS Deutschland GmbH & Co. KG ( KNDS ) about the G\u00f6rlitz site have reached an important milestone. On 5 February, 2025, both sides signed a framework agreement on the takeover of the site by KNDS. In the presence of Federal Chancellor Olaf ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/22e4c3bb-a275-4591-a830-f89a36246a58",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [],
-            "overall_sentiment_score": 0.359115,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AOMFF",
-                    "relevance_score": "0.357783",
-                    "ticker_sentiment_score": "0.453657",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Aerospike 8 Delivers The First Real-Time Distributed ACID Transaction Database With High Performance at Scale",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43488840/aerospike-8-delivers-the-first-real-time-distributed-acid-transaction-database-with-high-performan",
-            "time_published": "20250205T103019",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "MOUNTAIN VIEW, Calif., Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Aerospike, Inc. ( \"Aerospike\" ) , today unveiled Database 8, a major upgrade of its flagship multi-model distributed database. Version 8 adds distributed ACID transactions to support large-scale online transaction processing ( OLTP ) ...",
-            "banner_image": "https://ml.globenewswire.com/media/a0b1947a-5071-4fae-bd2f-a258b1f95c42/small/aerospike-logo-space-blue-rgb-1-png.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [],
-            "overall_sentiment_score": 0.230745,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PYPL",
-                    "relevance_score": "0.059488",
-                    "ticker_sentiment_score": "0.064325",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SNEJF",
-                    "relevance_score": "0.059488",
-                    "ticker_sentiment_score": "0.064325",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRTO",
-                    "relevance_score": "0.059488",
-                    "ticker_sentiment_score": "0.064325",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Prediction: Nvidia's DeepSeek AI Uncertainty Is a Buy Opportunity",
-            "url": "https://www.fool.com/investing/2025/02/05/prediction-nvidia-stock-uncertainty-is-a-buy-oppor/",
-            "time_published": "20250205T103000",
-            "authors": [
-                "Jose Najarro"
-            ],
-            "summary": "DeepSeek AI is creating buying opportunities for various semiconductor stocks.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806484/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.330797,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.885652",
-                    "ticker_sentiment_score": "0.336232",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Get a Slice of International Diversification With This Vanguard ETF",
-            "url": "https://www.fool.com/investing/2025/02/05/get-a-slice-of-international-diversification-with/",
-            "time_published": "20250205T103000",
-            "authors": [
-                "George Budwell"
-            ],
-            "summary": "Global stock markets have gotten off to a healthy start in 2025. Late last year, Goldman Sachs, along with several other major investment firms, forecast around a 10% total return for the benchmark S&P 500 this year.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806395%2Fgettyimages-2195340917.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.293566,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.06179",
-                    "ticker_sentiment_score": "0.071062",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TCTZF",
-                    "relevance_score": "0.06179",
-                    "ticker_sentiment_score": "0.098253",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSM",
-                    "relevance_score": "0.06179",
-                    "ticker_sentiment_score": "0.098253",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Spatial social platform ZOME appoints acclaimed designer Hussein Chalayan MBE as Creative Director",
-            "url": "https://www.benzinga.com/pressreleases/25/02/n43488812/spatial-social-platform-zome-appoints-acclaimed-designer-hussein-chalayan-mbe-as-creative-director",
-            "time_published": "20250205T102800",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "LONDON, Feb. 5, 2025 /PRNewswire/ -- ZOME, the Spatial Social Platform and Location-Based Message Capsule app company, today announces that acclaimed British-Cypriot artist and fashion designer Hussein Chalayan MBE has been appointed as Creative Director.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.31316,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.030026",
-                    "ticker_sentiment_score": "0.064825",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "6 Things All Retirees Need to Know About Social Security COLAs",
-            "url": "https://www.fool.com/retirement/2025/02/05/6-things-all-retirees-need-to-know-about-social-se/",
-            "time_published": "20250205T102200",
-            "authors": [
-                "Matt Frankel"
-            ],
-            "summary": "Tens of millions of Americans rely on Social Security benefits for a substantial portion of their retirement income. Not only is Social Security a valuable source of retirement income, with the average retired worker receiving about $1,975 per month, but it is also the only inflation-protected ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F805928%2Folder-couple-with-check-2022.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.111327,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "3 Reasons Domino's Pizza Stock Can Be a Good Long-Term Buy",
-            "url": "https://www.fool.com/investing/2025/02/05/3-reasons-dominos-pizza-stock-can-be-a-good-long-t/",
-            "time_published": "20250205T101800",
-            "authors": [
-                "David Jagielski"
-            ],
-            "summary": "Do you want a good dividend growth stock to buy? What about one that also has good growth prospects? If you want to check off both boxes, then one stock you'll want to consider is Domino's Pizza ( NASDAQ: DPZ ) . The pizza chain has more than 21,000 locations over the world, spanning more than 90 ...",
-            "banner_image": "https://media.ycharts.com/charts/9f4c43ac5fa3e66e434a796f7c733520.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.623304"
-                }
-            ],
-            "overall_sentiment_score": 0.38117,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "DMPZF",
-                    "relevance_score": "0.139265",
-                    "ticker_sentiment_score": "0.312198",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "BNXYF",
-                    "relevance_score": "0.0699",
-                    "ticker_sentiment_score": "0.081173",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "DPZ",
-                    "relevance_score": "0.207571",
-                    "ticker_sentiment_score": "0.398814",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Midland suggests property-friendly changes to city's cash-for-residency scheme",
-            "url": "https://www.scmp.com/business/article/3297488/midland-chief-suggests-property-friendly-changes-hong-kongs-cash-residency-scheme",
-            "time_published": "20250205T101524",
-            "authors": [
-                "Leopold Chen"
-            ],
-            "summary": "Freddie Wong Kin-yip says changes would help to support Hong Kong's struggling real estate market.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/05/889ed269-d4f3-44b7-96ca-d919f3a6e6d2_1ce490f7.jpg?itok=7DjzwSrj&v=1738750469",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.026334,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Six Things to Know About HSAs",
-            "url": "https://www.fool.com/retirement/2025/02/05/six-things-to-know-about-hsas/",
-            "time_published": "20250205T101500",
-            "authors": [
-                "FINRA Staff"
-            ],
-            "summary": "In order to take advantage of HSAs, you'll need to understand how they work and the rules that apply.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806490/gettyimages-1373102265-1201x798-36b7a2e.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.071094,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "PepsiCo Revamps Lays, Cheetos, And Doritos Maker Frito Lay As North American Sales Take A Hit, Shifts Focus To Health-Conscious Customers - PepsiCo  ( NASDAQ:PEP ) , SPDR S&P 500  ( ARCA:SPY ) ",
-            "url": "https://www.benzinga.com/25/02/43488561/pepsico-responds-to-health-driven-demand-with-lays-cheetos-and-doritos-brand-owner-frito-lay-overhaul",
-            "time_published": "20250205T101124",
-            "authors": [
-                "Rishabh Mishra"
-            ],
-            "summary": "PepsiCo Inc. PEP reported a mixed fourth quarter, missing revenue while beating earnings per share estimates. The management highlighted key strategic changes to its snack business Frito-Lay North America, which manufactures popular products like Lays, Cheetos, and Doritos.",
-            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/05034243/PepsiCo-ANR-1024x383.png",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.998682"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.614606"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.190408,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PEP",
-                    "relevance_score": "0.541149",
-                    "ticker_sentiment_score": "0.319613",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
