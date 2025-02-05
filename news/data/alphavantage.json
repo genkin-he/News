@@ -1,8 +1,233 @@
 {
-    "items": "43",
+    "items": "45",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Annual Report 2024 of Spar Nord",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020928/0/en/Annual-Report-2024-of-Spar-Nord.html",
+            "time_published": "20250205T071500",
+            "authors": [
+                "Spar Nord Bank A/S"
+            ],
+            "summary": "Net profit of DKK 2,222 million and return on equity after tax of ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/6ff3420a-4dcb-45e3-b0d7-a8d12b1e01e4",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.331177,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Notification of major shareholding",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020927/0/en/Notification-of-major-shareholding.html",
+            "time_published": "20250205T071200",
+            "authors": [
+                "Nkt A/S"
+            ],
+            "summary": "Company Announcement ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/6fefa51b-6030-46dc-b4f6-64dd73a4512b",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.307318,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NRKBF",
+                    "relevance_score": "0.987581",
+                    "ticker_sentiment_score": "0.523282",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Disney, Alphabet And 3 Stocks To Watch Heading Into Wednesday - Advanced Micro Devices  ( NASDAQ:AMD ) , Walt Disney  ( NYSE:DIS ) ",
+            "url": "https://www.benzinga.com/25/02/43486753/disney-alphabet-and-3-stocks-to-watch-heading-into-wednesday",
+            "time_published": "20250205T070841",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "With U.S. stock futures trading lower this morning on Wednesday, some of the stocks that may grab investor focus today are as follows: Wall Street expects The Walt Disney Co. DIS to report quarterly earnings at $1.45 per share on revenue of $24.62 billion before the opening bell, according to ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/2--Prioritize-Quality-And-Brand-Integrit.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999346"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.290897,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.377142",
+                    "ticker_sentiment_score": "0.278524",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.377142",
+                    "ticker_sentiment_score": "0.140641",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.377142",
+                    "ticker_sentiment_score": "0.417191",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.256989",
+                    "ticker_sentiment_score": "0.07777",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DIS",
+                    "relevance_score": "0.256989",
+                    "ticker_sentiment_score": "0.392292",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Equinor ASA: Buy-back of shares to share programmes for employees - Equinor  ( NYSE:EQNR ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43486701/equinor-asa-buy-back-of-shares-to-share-programmes-for-employees",
+            "time_published": "20250205T070000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Shares acquired under the buy-back programme from 14 February 2025 to 15 May 2025 is based upon the authorization from the annual general meeting on 14 May 2024, registered in the Norwegian register for business enterprises.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Mergers",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.967645"
+                }
+            ],
+            "overall_sentiment_score": 0.242226,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Vow ASA appoints Gunnar Pedersen as New CEO",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020923/0/en/Vow-ASA-appoints-Gunnar-Pedersen-as-New-CEO.html",
+            "time_published": "20250205T070000",
+            "authors": [
+                "Vow ASA"
+            ],
+            "summary": "Oslo, 5 February 2025 - Vow ASA is pleased to announce the appointment of Gunnar Pedersen as its new Chief Executive Officer, effective no later than 1 August 2025.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/22e1a041-3b33-4b5a-839d-a868a6b8103f",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.435426,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSHPF",
+                    "relevance_score": "0.137278",
+                    "ticker_sentiment_score": "0.095448",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Transaction in Own Shares",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020918/0/en/Transaction-in-Own-Shares.html",
+            "time_published": "20250205T070000",
+            "authors": [
+                "PayPoint plc"
+            ],
+            "summary": "5th February ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/01c8cd71-2417-44ba-b4a3-462b7db307c0",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.121802,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IVTJF",
+                    "relevance_score": "0.608634",
+                    "ticker_sentiment_score": "-0.281315",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Novo Nordisk posts net profit beat as Wegovy sales jump 107% in fourth quarter",
+            "url": "https://www.cnbc.com/2025/02/05/novo-nordisk-nvo-earnings-q4-full-year-fy24.html",
+            "time_published": "20250205T065843",
+            "authors": [],
+            "summary": "Danish pharmaceutical behemoth Novo Nordisk reported better-than-expected net profit in the fourth quarter, amid soaring demand for its Wegovy obesity drugs.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Earnings",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.189066,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVO",
+                    "relevance_score": "0.323078",
+                    "ticker_sentiment_score": "0.439434",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
         {
             "title": "Pandora Announces a New DKK 4.0 Billion Share Buy-Back Programme",
             "url": "https://www.globenewswire.com/news-release/2025/02/05/3020917/0/en/Pandora-Announces-a-New-DKK-4-0-Billion-Share-Buy-Back-Programme.html",
@@ -193,6 +418,30 @@
             "overall_sentiment_score": 0.24875,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
+        },
+        {
+            "title": "Alm. Brand A/S - Interim report Q4 2024",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020911/0/en/Alm-Brand-A-S-Interim-report-Q4-2024.html",
+            "time_published": "20250205T063000",
+            "authors": [
+                "Alm. Brand A/S"
+            ],
+            "summary": "Highly satisfactory Q4 performance ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/69b3bbb6-1181-4a00-adce-3cc887c788d5",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.264126,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CODAF",
+                    "relevance_score": "0.072435",
+                    "ticker_sentiment_score": "0.234258",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
         },
         {
             "title": "Nykredit today announces the Annual Reports for 2024 - Nykredit Realkredit A/S",
@@ -558,6 +807,97 @@
             "overall_sentiment_score": 0.197355,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
+        },
+        {
+            "title": "Enphase Energy  ( ENPH )  Q4 2024 Earnings Call Transcript",
+            "url": "https://www.fool.com/earnings/call-transcripts/2025/02/05/enphase-energy-enph-q4-2024-earnings-call-transcri/",
+            "time_published": "20250205T060016",
+            "authors": [
+                "Motley Fool Transcribing"
+            ],
+            "summary": "ENPH earnings call for the period ending December 31, 2024.",
+            "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999897"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.218135,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ENPH",
+                    "relevance_score": "0.007815",
+                    "ticker_sentiment_score": "0.192037",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.003907",
+                    "ticker_sentiment_score": "0.111729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.007815",
+                    "ticker_sentiment_score": "0.134843",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DSSMY",
+                    "relevance_score": "0.003907",
+                    "ticker_sentiment_score": "0.111729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.003907",
+                    "ticker_sentiment_score": "0.111729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.003907",
+                    "ticker_sentiment_score": "0.111729",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "APG",
+                    "relevance_score": "0.003907",
+                    "ticker_sentiment_score": "0.186995",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.003907",
+                    "ticker_sentiment_score": "0.040713",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
         },
         {
             "title": "Valneva Receives Marketing Authorization in the UK for the World's First Chikungunya Vaccine, IXCHIQ\u00ae",
@@ -1878,237 +2218,6 @@
                     "ticker": "SPOT",
                     "relevance_score": "0.051774",
                     "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Abrdn and JPMorgan move to bolster European active ETF suites",
-            "url": "https://www.ft.com/content/1eea3f26-0d56-4834-9024-c1438ead8bb8",
-            "time_published": "20250205T050009",
-            "authors": [
-                "Alf Wilkinson"
-            ],
-            "summary": "Move will bring total of active fixed income ETFs offered by JPMAM in Europe to ...",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e08fd73-f4ce-4587-8e96-962cf78ae20b.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Markets",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.391216,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SLFPF",
-                    "relevance_score": "0.391311",
-                    "ticker_sentiment_score": "0.29846",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "BKRIF",
-                    "relevance_score": "0.081552",
-                    "ticker_sentiment_score": "0.098874",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:EUR",
-                    "relevance_score": "0.391311",
-                    "ticker_sentiment_score": "0.448044",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "UK's Leading Management Consultants 2025: the ratings",
-            "url": "https://www.ft.com/content/5b385146-a124-472b-ad66-953f2620f6f4",
-            "time_published": "20250205T050008",
-            "authors": [],
-            "summary": "Consultancies recommended by clients and peers, rated by sectors and services ...",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fpublic.flourish.studio%2Fvisualisation%2F21212909%2Fthumbnail%3FcacheBuster%3D965962?source=cp-content-pipeline&fit=scale-down&quality=highest&width=1020&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Companies",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.233704,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FPH",
-                    "relevance_score": "0.040622",
-                    "ticker_sentiment_score": "0.087872",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Why Big Oil is resisting Trump's call to 'drill, baby, drill'",
-            "url": "https://www.ft.com/content/32bf1a43-d31b-4382-a2c4-41b88ddba338",
-            "time_published": "20250205T050000",
-            "authors": [],
-            "summary": "Several factors are playing into energy producers' decisions on drilling ...",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F210ef42d-6f72-4e60-aa96-61e96652e909?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Companies",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": -0.04076,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Toyota Motor posts nearly 28% drop in third-quarter operating profit, missing estimates",
-            "url": "https://www.cnbc.com/2025/02/05/toyota-motor-posts-nearly-28percent-drop-in-third-quarter-operating-profit-missing-estimates.html",
-            "time_published": "20250205T044839",
-            "authors": [],
-            "summary": "Toyota Motor on Wednesday reported a second consecutive fall in profit, as it navigates competition in China and a market shift toward electric vehicles.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Top News",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.111946,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TM",
-                    "relevance_score": "0.238133",
-                    "ticker_sentiment_score": "0.057559",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:JPY",
-                    "relevance_score": "0.930964",
-                    "ticker_sentiment_score": "0.484161",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "OpenAI's Big Rebrand: ChatGPT-Parent Wants To Reflect A 'More Organic' Future With New Logo, Typeface",
-            "url": "https://www.benzinga.com/tech/25/02/43485775/openais-big-rebrand-chatgpt-parent-wants-to-reflect-a-more-organic-future-with-new-logo-typeface",
-            "time_published": "20250205T043655",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "On Tuesday, OpenAI introduced a comprehensive rebranding initiative featuring a new logo and typeface. What Happened: The revamped logo, referred to as a \"blossom,\" showcases a slightly larger central space and refined lines.",
-            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/04231210/OpenAI-black-monoblossom.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [],
-            "overall_sentiment_score": 0.173071,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SFTBF",
-                    "relevance_score": "0.129516",
-                    "ticker_sentiment_score": "0.182185",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Google AI's Search Revenue Matches Traditional Ads, Says Alphabet But There Is Rising Competition From OpenAI, Perplexity, DeepSeek - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/02/43485518/google-ais-search-revenue-matches-traditional-ads-says-alphabet-but-there-is-rising-competition-",
-            "time_published": "20250205T041710",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "Alphabet Inc. GOOGL GOOG revealed that its artificial intelligence-powered search features are achieving monetization rates comparable to traditional search results, marking a milestone in the company's AI strategy.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/The-Alphabet-Trade.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.905476"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.273835,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.317527",
-                    "ticker_sentiment_score": "0.145214",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Nikon Announces NIKKOR 35mm F1.2 S Lens, COOLPIX P1100 Super-Zoom Camera; First Look YouTube Video P1100 Camera and NIKKOR 35mm F1.2 S Lens: Preorder and More Info at B&H",
-            "url": "https://www.benzinga.com/pressreleases/25/02/n43485484/nikon-announces-nikkor-35mm-f1-2-s-lens-coolpix-p1100-super-zoom-camera-first-look-youtube-video-p",
-            "time_published": "20250205T040100",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "Nikon releases P1100 a new super-zoom camera, the 125x optical zoom COOLPIX P1100 Digital Camera, along with a long-awaited fast wide-angle prime lens, the NIKKOR 35mm f/1.2 S.",
-            "banner_image": "https://mma.prnewswire.com/media/2612728/Nikon_Nikkor_35mm_F1_2_Slens.jpg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.368581,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.153715",
-                    "ticker_sentiment_score": "0.240026",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NINOF",
-                    "relevance_score": "0.228789",
-                    "ticker_sentiment_score": "0.178348",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:NANO",
-                    "relevance_score": "0.038655",
-                    "ticker_sentiment_score": "0.070319",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
