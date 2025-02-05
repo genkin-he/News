@@ -2,6 +2,56 @@
     "news": [
         {
             "beta_headline": null,
+            "category": "investing",
+            "date": "2025-02-05",
+            "headline": "BOJ's Masaki sees price trend below 2% target",
+            "id": "1e508d93-0412-431e-a97c-85033508b0e5",
+            "is_major": false,
+            "source": "Tradex",
+            "source_type": "news",
+            "summary": null,
+            "tickers": [],
+            "time": "03:50:53",
+            "timestamp": "2025-02-05T03:50:53Z",
+            "url": null
+        },
+        {
+            "beta_headline": null,
+            "category": "commodities",
+            "date": "2025-02-05",
+            "headline": "North America railcar leasing market set to grow by USD 8.30 billion by 2029, driven by increased demand for tank cars from crude oil production.",
+            "id": "b7fb4989-7ac2-4b29-9869-b1ce75567b22",
+            "is_major": false,
+            "source": "PR NewsWire",
+            "source_type": "news",
+            "summary": "A recent report analyzed the influence of artificial intelligence on market dynamics, specifically focusing on the Railcar leasing sector in North America. The projected growth for the industry is significant, with an estimated increase of USD 8.30 billion expected between 2025 and 2029. This expansion is anticipated to occur at a Compound Annual Growth Rate (CAGR) of 9.1% throughout the forecast period.",
+            "tickers": [
+                "NDXP"
+            ],
+            "time": "03:49:03",
+            "timestamp": "2025-02-05T03:49:03Z",
+            "url": "https://www.prnewswire.com/news-releases/railcar-leasing-market-in-north-america-to-grow-by-usd-8-30-billion-by-2029--rising-demand-for-tank-cars-from-crude-oil-production-boosts-market-ai-driven-report---technavio-302367706.html"
+        },
+        {
+            "beta_headline": null,
+            "category": "crypto",
+            "date": "2025-02-05",
+            "headline": "BNB Chain sponsors ETH Oxford 2025 with a hacker house for blockchain innovation. $156,000 prize pool for hackathon.",
+            "id": "04fa00d5-7009-4ce2-a261-b2c4f6772845",
+            "is_major": false,
+            "source": "Blockchain News",
+            "source_type": "news",
+            "summary": "BNB Chain has announced its sponsorship of ETH Oxford 2025, with plans to set up a hacker house aimed at fostering blockchain innovation. The upcoming event will feature workshops, as well as a hackathon offering a generous prize pool of $156,000. Attendees can look forward to engaging in various activities geared towards advancing blockchain technology.",
+            "tickers": [
+                "ETH",
+                "POOL"
+            ],
+            "time": "03:46:17",
+            "timestamp": "2025-02-05T03:46:17Z",
+            "url": "https://Blockchain.News/news/bnb-chain-hacker-house-eth-oxford-2025"
+        },
+        {
+            "beta_headline": null,
             "category": "securities",
             "date": "2025-02-05",
             "headline": "South Korea to create $23B fund for battery and biotech support.",
@@ -795,55 +845,6 @@
             "time": "02:36:17",
             "timestamp": "2025-02-05T02:36:17Z",
             "url": "https://www.benzinga.com/pressreleases/25/02/g43485139/bus-duct-market-size-to-grow-16-60-billion-at-a-5-2-cagr-by-2029-report-by-marketsandmarkets"
-        },
-        {
-            "beta_headline": null,
-            "category": "securities",
-            "date": "2025-02-05",
-            "headline": "US stops parcel service from China as Trump's trade curbs start. Daily imports of 3M parcels had no inspections or duties.",
-            "id": "b6a77ad9-e6f3-492e-b387-7b46b8adb363",
-            "is_major": false,
-            "source": "NYT",
-            "source_type": "news",
-            "summary": "Every day, the United States receives approximately 3 million packages through imports without undergoing customs inspection or paying any duties.",
-            "tickers": [],
-            "time": "02:35:55",
-            "timestamp": "2025-02-05T02:35:55Z",
-            "url": "https://www.nytimes.com/2025/02/04/business/china-us-usps-de-minimis.html"
-        },
-        {
-            "beta_headline": null,
-            "category": "securities",
-            "date": "2025-02-05",
-            "headline": "Global fast fashion market expected to grow by $79.2 billion by 2029 due to youth demand, fueled by AI-defined report.",
-            "id": "cb712318-30a1-4f14-8cb3-ec157212b2bb",
-            "is_major": false,
-            "source": "PR NewsWire",
-            "source_type": "news",
-            "summary": "On February 4, 2025, a report utilizing AI to track market trends reveals that the global fast fashion industry is projected to increase by USD 79.2 billion between 2025 and 2029, as per Technavio. During this period, the market is expected to expand at a compound annual growth rate (CAGR) of 11%. The sector is witnessing significant growth, indicating a promising future for the fast fashion segment.",
-            "tickers": [
-                "NDXP"
-            ],
-            "time": "02:30:17",
-            "timestamp": "2025-02-05T02:30:17Z",
-            "url": "https://www.prnewswire.com/news-releases/fast-fashion-market-to-grow-by-usd-79-2-billion-by-2029--burgeoning-youth-populations-demand-for-fast-fashion-clothing-boosts-market-ai-redefined-report---technavio-302367665.html"
-        },
-        {
-            "beta_headline": null,
-            "category": "crypto",
-            "date": "2025-02-05",
-            "headline": "Malicious software found in Android, iOS app kits per Kaspersky: Malware can scan images for crypto wallet passwords.",
-            "id": "6c73138f-7766-466e-ace9-96e6a72a9dad",
-            "is_major": false,
-            "source": "Cointelegraph",
-            "source_type": "news",
-            "summary": "The software development kit for phone apps by Google and Apple has been reportedly identified by Kaspersky Labs to contain malware capable of scanning images for crypto wallet recovery phrases. This poses a significant security threat to users as their sensitive information could be at risk. It is crucial for users to remain vigilant and ensure their devices are protected from such malicious activity.",
-            "tickers": [
-                "AAPL"
-            ],
-            "time": "02:27:20",
-            "timestamp": "2025-02-05T02:27:20Z",
-            "url": "https://cointelegraph.com/news/crypto-stealing-malware-andriod-ios-app-kits-kaspersky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
     ]
 }
