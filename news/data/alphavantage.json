@@ -1,8 +1,273 @@
 {
-    "items": "39",
+    "items": "40",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Virtune AB  ( Publ )  launches two new Crypto ETPs on Nasdaq Helsinki",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020960/0/en/Virtune-AB-Publ-launches-two-new-Crypto-ETPs-on-Nasdaq-Helsinki.html",
+            "time_published": "20250205T092400",
+            "authors": [
+                "Virtune AB (Publ)"
+            ],
+            "summary": "Helsinki, February 5th, 2025 - Virtune, a Swedish regulated digital asset manager and issuer of crypto exchange-traded products, today announced the listing of Virtune Avalanche ETP and Virtune Staked Cardano ETP on Nasdaq Helsinki.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/da0bec69-79eb-4618-87fd-d96aa395aaed",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990893"
+                }
+            ],
+            "overall_sentiment_score": 0.212772,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.071357",
+                    "ticker_sentiment_score": "0.153252",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.071357",
+                    "ticker_sentiment_score": "0.049364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.071357",
+                    "ticker_sentiment_score": "0.049364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ADA",
+                    "relevance_score": "0.526267",
+                    "ticker_sentiment_score": "0.367828",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Form 8.5  ( EPT/RI ) - Alliance Pharma plc",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020958/0/en/Form-8-5-EPT-RI-Alliance-Pharma-plc.html",
+            "time_published": "20250205T092100",
+            "authors": [
+                "INVESTEC BANK PLC"
+            ],
+            "summary": "FORM ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "StarHub and Nokia upgrade fiber broadband network to deliver nationwide 10 Gbps services",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020957/0/en/StarHub-and-Nokia-upgrade-fiber-broadband-network-to-deliver-nationwide-10-Gbps-services.html",
+            "time_published": "20250205T091900",
+            "authors": [
+                "Nokia Oyj"
+            ],
+            "summary": "Press Release ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e6523d78-c43a-4057-8aa9-68206d3af4a8",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.472192,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NOK",
+                    "relevance_score": "0.441698",
+                    "ticker_sentiment_score": "0.537587",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "STRATEGIC EXPANSION INTO DATA CENTRE FACILITY BUSINESS AND GREEN ENERGY SECTOR, WITH PLANNED CAPITAL RAISE THROUGH ISSUANCE OF CONVERTIBLE LOAN NOTES",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020952/0/en/STRATEGIC-EXPANSION-INTO-DATA-CENTRE-FACILITY-BUSINESS-AND-GREEN-ENERGY-SECTOR-WITH-PLANNED-CAPITAL-RAISE-THROUGH-ISSUANCE-OF-CONVERTIBLE-LOAN-NOTES.html",
+            "time_published": "20250205T091400",
+            "authors": [
+                "HRC WORLD PLC"
+            ],
+            "summary": "HRC WORLD ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": 0.408167,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RKNEF",
+                    "relevance_score": "0.077593",
+                    "ticker_sentiment_score": "0.094931",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "MEXC Fuels DeFi Innovation and Liquidity Security with the Berachain  ( BERA )  Listing",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43487986/mexc-fuels-defi-innovation-and-liquidity-security-with-the-berachain-bera-listing",
+            "time_published": "20250205T090323",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "VICTORIA, Seychelles, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- MEXC, the world's leading cryptocurrency trading platform, announced the listing of the Berachain ( BERA ) , scheduled for February 6, 2025, at 13:00 ( UTC ) . The launch on MEXC will be accompanied by Airdrop+ rewards of 19,100 BERA and ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/7423d696-0d03-4630-a1e9-69d0a78c2b2d/photo-2025-02-05-14-22-05.jpeg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.434082,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.051886",
+                    "ticker_sentiment_score": "0.068987",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:USDT",
+                    "relevance_score": "0.441912",
+                    "ticker_sentiment_score": "0.533514",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Belt and robot: China's robotics industry is moving into Central Asia",
+            "url": "https://www.scmp.com/economy/china-economy/article/3297469/belt-and-robot-chinese-start-open-first-robotics-facility-central-asia",
+            "time_published": "20250205T085951",
+            "authors": [
+                "Mia Nulimaimaiti"
+            ],
+            "summary": "Shanghai-based start-up AgiBot will partner with Kazakhstan to open the first Chinese robotics manufacturing and research facilities in Central Asia.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/05/59da4bce-19f8-4ba0-97ad-25ff1ca8ec45_77810a2b.jpg?itok=eXH_CvHt&v=1738745990",
+            "source": "South China Morning Post",
+            "category_within_source": "Economy",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.270835,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XPEV",
+                    "relevance_score": "0.059488",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SZIHF",
+                    "relevance_score": "0.059488",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.059488",
+                    "ticker_sentiment_score": "0.117",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OPTGF",
+                    "relevance_score": "0.059488",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XIACY",
+                    "relevance_score": "0.059488",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Here's the Maximum Possible Social Security Benefit at 62, 67, and 70",
+            "url": "https://www.fool.com/retirement/2025/02/05/heres-the-maximum-possible-social-security-benefit/",
+            "time_published": "20250205T085100",
+            "authors": [
+                "Adam Levy"
+            ],
+            "summary": "The difference in claiming early versus waiting is magnified when you qualify for the maximum possible benefit.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806050%2Fgettyimages-social-security-card-covered-in-100s.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.308039,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
         {
             "title": "Tesla Launches Limited-Time Car Insurance Subsidy for Model 3 In China, Researcher Expects It To Have 'Limited Impact' On EV Maker's Delivery Hardships In Q1 - Tesla  ( NASDAQ:TSLA ) ",
             "url": "https://www.benzinga.com/25/02/43487852/tesla-launches-limited-time-8000-yuan-car-insurance-subsidy-for-model-3-in-china-researcher-expects-it-to-have-li",
@@ -1345,197 +1610,6 @@
                     "ticker_sentiment_label": "Bullish"
                 }
             ]
-        },
-        {
-            "title": "Pandora Announces a New DKK 4.0 Billion Share Buy-Back Programme",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020917/0/en/Pandora-Announces-a-New-DKK-4-0-Billion-Share-Buy-Back-Programme.html",
-            "time_published": "20250205T063200",
-            "authors": [
-                "Pandora A/S"
-            ],
-            "summary": "The Board of Directors has decided to launch a new share buy-back programme under which Pandora will buy back own shares for a maximum consideration of DKK 4.0 billion in the period from 6 February 2025 to 30 January 2026 at the latest, both days inclusive.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/ea13442a-2b4b-497e-93dd-90eb8214876e",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.87644"
-                }
-            ],
-            "overall_sentiment_score": 0.272013,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Transaction in Own Shares",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020914/0/en/Transaction-in-Own-Shares.html",
-            "time_published": "20250205T063000",
-            "authors": [
-                "Endeavour Mining PLC"
-            ],
-            "summary": "London, 05 February 2025 - Endeavour Mining plc ( LSE:EDV, TSX:EDV ) ( \"the Company\" ) announces it has purchased the following number of its ordinary shares of USD 0.01 each from Stifel Nicolaus Europe Limited.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/cff109e5-0693-447f-8afe-290bcfdfd66f",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.77141"
-                }
-            ],
-            "overall_sentiment_score": 0.152933,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CURN",
-                    "relevance_score": "0.063933",
-                    "ticker_sentiment_score": "0.020175",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "LDNXF",
-                    "relevance_score": "0.063933",
-                    "ticker_sentiment_score": "0.231468",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "JCDecaux to double the number of roadside screens in London",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020909/0/en/JCDecaux-to-double-the-number-of-roadside-screens-in-London.html",
-            "time_published": "20250205T063000",
-            "authors": [
-                "JCDecaux"
-            ],
-            "summary": "JCDecaux to double the number of roadside screens in London Paris, February 5th, 2025 - JCDecaux SE ( Euronext Paris: DEC ) , the number one outdoor advertising company worldwide, has unveiled its vision to double the number of digital roadside 2m\u00b2 screens in London.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/00b42215-5cad-4179-b06c-441f155e187f",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.251189,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "JCDXF",
-                    "relevance_score": "0.448513",
-                    "ticker_sentiment_score": "0.292049",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Pandora Delivers 13% Organic Growth in 2024 - Targeting 7-8% Growth in 2025",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020912/0/en/Pandora-Delivers-13-Organic-Growth-in-2024-Targeting-7-8-Growth-in-2025.html",
-            "time_published": "20250205T063000",
-            "authors": [
-                "Pandora A/S"
-            ],
-            "summary": "FY 2024 HIGHLIGHTS ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/ea13442a-2b4b-497e-93dd-90eb8214876e",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.423289,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Novo Nordisk's sales increased by 25% in Danish kroner and by 26% at constant exchange rates to DKK 290.4 billion in 2024",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020915/0/en/Novo-Nordisk-s-sales-increased-by-25-in-Danish-kroner-and-by-26-at-constant-exchange-rates-to-DKK-290-4-billion-in-2024.html",
-            "time_published": "20250205T063000",
-            "authors": [
-                "Novo Nordisk A/S"
-            ],
-            "summary": "Bagsv\u00e6rd, 5 February 2025 - Financial report for the period 1 January 2024 to 31 December ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/18c2fb08-e2c1-4a52-90dd-5c0f18213eb6",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.219022,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.071357",
-                    "ticker_sentiment_score": "0.039734",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.071357",
-                    "ticker_sentiment_score": "0.039734",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVO",
-                    "relevance_score": "0.345674",
-                    "ticker_sentiment_score": "0.261194",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Nykredit today announces the Annual Reports for 2024 - Nykredit Bank A/S",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020910/0/en/Nykredit-today-announces-the-Annual-Reports-for-2024-Nykredit-Bank-A-S.html",
-            "time_published": "20250205T063000",
-            "authors": [
-                "Nykredit Bank A/S"
-            ],
-            "summary": "Nykredit today announces the Annual Reports for 2024 of:Nykredit A/S, CVR no 12 71 92 48 Nykredit Realkredit A/S, CVR no 12 71 92 80 Nykredit Bank A/S, CVR no 10 51 96 08 Totalkredit A/S, CVR no ...",
-            "banner_image": "",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.77141"
-                }
-            ],
-            "overall_sentiment_score": 0.24875,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
         }
     ]
 }
