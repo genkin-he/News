@@ -1,8 +1,86 @@
 {
-    "items": "47",
+    "items": "45",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Google AI's Search Revenue Matches Traditional Ads, Says Alphabet But There Is Rising Competition From OpenAI, Perplexity, DeepSeek - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/02/43485518/google-ais-search-revenue-matches-traditional-ads-says-alphabet-but-there-is-rising-competition-",
+            "time_published": "20250205T041710",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "Alphabet Inc. GOOGL GOOG revealed that its artificial intelligence-powered search features are achieving monetization rates comparable to traditional search results, marking a milestone in the company's AI strategy.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/The-Alphabet-Trade.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.905476"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.273835,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.317527",
+                    "ticker_sentiment_score": "0.145214",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nikon Announces NIKKOR 35mm F1.2 S Lens, COOLPIX P1100 Super-Zoom Camera; First Look YouTube Video P1100 Camera and NIKKOR 35mm F1.2 S Lens: Preorder and More Info at B&H",
+            "url": "https://www.benzinga.com/pressreleases/25/02/n43485484/nikon-announces-nikkor-35mm-f1-2-s-lens-coolpix-p1100-super-zoom-camera-first-look-youtube-video-p",
+            "time_published": "20250205T040100",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "Nikon releases P1100 a new super-zoom camera, the 125x optical zoom COOLPIX P1100 Digital Camera, along with a long-awaited fast wide-angle prime lens, the NIKKOR 35mm f/1.2 S.",
+            "banner_image": "https://mma.prnewswire.com/media/2612728/Nikon_Nikkor_35mm_F1_2_Slens.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.368581,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.153715",
+                    "ticker_sentiment_score": "0.240026",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NINOF",
+                    "relevance_score": "0.228789",
+                    "ticker_sentiment_score": "0.178348",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:NANO",
+                    "relevance_score": "0.038655",
+                    "ticker_sentiment_score": "0.070319",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "INTEGRAL AD SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against Integral Ad Science Holding Corp. - IAS - Integral Ad Science  ( NASDAQ:IAS ) ",
             "url": "https://www.benzinga.com/pressreleases/25/02/g43485429/integral-ad-shareholder-alert-by-former-louisiana-attorney-general-kahn-swick-foti-llc-reminds-inv",
@@ -337,6 +415,37 @@
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
+        },
+        {
+            "title": "Pocket FM workforce reduction not mass layoff; key to long-term profitability, says CFO Anurag Sharma - ETCFO",
+            "url": "https://cfo.economictimes.indiatimes.com/news/strategy-operations/pocket-fm-workforce-reduction-not-mass-layoff-key-to-long-term-profitability-says-cfo-anurag-sharma/117933430",
+            "time_published": "20250205T031456",
+            "authors": [
+                "Alekh Shah",
+                "ETCFO"
+            ],
+            "summary": "Pocket FM CFO Anurag Sharma addresses the company's recent workforce reductions, saying that they are part of a strategic restructuring aimed at boosting long-term profitability. How is Pocket FM's bold vision, including an IPO and global expansion, driving these changes?",
+            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
+            "source": "Economic Times",
+            "category_within_source": "Top Stories",
+            "source_domain": "cfo.economictimes.indiatimes.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.87644"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.44668,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
         },
         {
             "title": "Gold Outshines Bitcoin As Trump's Gaza Plan, US-China Tensions Fuel Rally-Peter Schiff Calls It 'Extremely Bullish'",
@@ -1584,131 +1693,6 @@
             "overall_sentiment_score": 0.148296,
             "overall_sentiment_label": "Neutral",
             "ticker_sentiment": []
-        },
-        {
-            "title": "Compared to Estimates, Amgen  ( AMGN )  Q4 Earnings: A Look at Key Metrics",
-            "url": "https://www.zacks.com/stock/news/2409700/compared-to-estimates-amgen-amgn-q4-earnings-a-look-at-key-metrics",
-            "time_published": "20250205T003005",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "While the top- and bottom-line numbers for Amgen (AMGN) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Nov Inc.  ( NOV )  Reports Q4 Earnings: What Key Metrics Have to Say",
-            "url": "https://www.zacks.com/stock/news/2409702/nov-inc-nov-reports-q4-earnings-what-key-metrics-have-to-say",
-            "time_published": "20250205T003005",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "While the top- and bottom-line numbers for Nov Inc. (NOV) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "American Financial  ( AFG )  Reports Q4 Earnings: What Key Metrics Have to Say",
-            "url": "https://www.zacks.com/stock/news/2409701/american-financial-afg-reports-q4-earnings-what-key-metrics-have-to-say",
-            "time_published": "20250205T003005",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "The headline numbers for American Financial (AFG) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Compared to Estimates, Atmos  ( ATO )  Q1 Earnings: A Look at Key Metrics",
-            "url": "https://www.zacks.com/stock/news/2409703/compared-to-estimates-atmos-ato-q1-earnings-a-look-at-key-metrics",
-            "time_published": "20250205T003004",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "While the top- and bottom-line numbers for Atmos (ATO) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Here's How Many Shares of NextEra Energy You Should Own to Get $1,000 in Yearly Dividends",
-            "url": "https://www.fool.com/investing/2025/02/04/heres-how-many-shares-of-nextera-energy-dividends/",
-            "time_published": "20250205T003000",
-            "authors": [
-                "Selena Maranjian"
-            ],
-            "summary": "Dividend payers such as NextEra Energy ( NYSE: NEE ) can be powerful wealth builders. They're attractive for a bunch of reasons. For starters, companies typically wait until they're generating fairly reliable income before committing to a dividend payout.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806126%2Fgetty-outdoors-looking-up-garden-smiling-pleased.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.466895,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NEE",
-                    "relevance_score": "0.699089",
-                    "ticker_sentiment_score": "0.629392",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
         }
     ]
 }
