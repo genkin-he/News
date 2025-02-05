@@ -1,8 +1,528 @@
 {
-    "items": "48",
+    "items": "46",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Pasithea Therapeutics Announces Positive Safety Review Committee  ( SRC )  Recommendation from its ongoing Phase 1 Clinical Trial of PAS-004 in Advanced Cancer",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021033/0/en/Pasithea-Therapeutics-Announces-Positive-Safety-Review-Committee-SRC-Recommendation-from-its-ongoing-Phase-1-Clinical-Trial-of-PAS-004-in-Advanced-Cancer.html",
+            "time_published": "20250205T115900",
+            "authors": [
+                "Pasithea"
+            ],
+            "summary": "Pasithea's PAS-004 Phase 1 trial advances to 22mg dose with no DLTs or rash, reinforcing its safety profile as a next-gen MEK inhibitor for NF1 and cancer.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/0016f128-13c3-45a7-8455-cec1f4768995",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.088979,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "This NXP Semiconductors Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Wednesday - Janus Henderson Group  ( NYSE:JHG ) , Cardinal Health  ( NYSE:CAH ) ",
+            "url": "https://www.benzinga.com/25/02/43490291/this-nxp-semiconductors-analyst-is-no-longer-bearish-here-are-top-5-upgrades-for-wednesday",
+            "time_published": "20250205T115615",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades, downgrades and initiations, please see our analyst ratings page. Baird analyst Peter Arment upgraded Mercury Systems, Inc.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/05065433/image-40-1024x612.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.381845,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "JHG",
+                    "relevance_score": "0.390904",
+                    "ticker_sentiment_score": "0.458683",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.135347",
+                    "ticker_sentiment_score": "0.154821",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CAH",
+                    "relevance_score": "0.390904",
+                    "ticker_sentiment_score": "0.329727",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SLAB",
+                    "relevance_score": "0.390904",
+                    "ticker_sentiment_score": "0.374586",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MRCY",
+                    "relevance_score": "0.266828",
+                    "ticker_sentiment_score": "0.394307",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NXPI",
+                    "relevance_score": "0.390904",
+                    "ticker_sentiment_score": "0.329727",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "YieldMax\u2122 ETFs Announces Distributions on NFLY  ( $1.0705 ) , CONY  ( $1.0468 ) , PYPY  ( $0.6665 ) , YMAX  ( $0.1944 ) , YMAG  ( $0.1862 )  and Others",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43490250/yieldmax-etfs-announces-distributions-on-nfly-1-0705-cony-1-0468-pypy-0-6665-ymax-0-1944-ymag-0-18",
+            "time_published": "20250205T115500",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "CHICAGO, MILWAUKEE and NEW YORK, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- YieldMax\u2122 today announced distributions for the YieldMax\u2122 Weekly Payers and Group C ETFs listed in the table below. Note: DIPS, FIAT, CRSH and YQQQ are hereinafter referred to as the \"Short ETFs\".",
+            "banner_image": "https://ml.globenewswire.com/media/85b1a71e-663e-4de3-acbf-931582738c88/small/yieldmax-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.036491,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.012076",
+                    "ticker_sentiment_score": "-0.044247",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.214726",
+                    "ticker_sentiment_score": "-0.04293",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:XCP",
+                    "relevance_score": "0.012076",
+                    "ticker_sentiment_score": "0.035443",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Asia Markets Mixed, Europe Slips As China's Tariff Retaliation Hits Sentiment - Global Markets Today While US Slept - SmartETFs Asia Pacific Dividend Builder ETF  ( ARCA:ADIV ) ",
+            "url": "https://www.benzinga.com/markets/forex/25/02/43490229/asia-markets-mixed-europe-slips-as-chinas-tariff-retaliation-hits-sentiment-global-markets-today-wh",
+            "time_published": "20250205T115259",
+            "authors": [
+                "Akanksha Bakshi"
+            ],
+            "summary": "Crude Oil WTI traded lower by 0.85% at $72.05/bbl, and Brent was down 0.88% at $75.53/bbl. The U.S. Dollar Index declined 0.54% to 107.42, USD/JPY fell 1.11% to 152.64 and USD/AUD was down 0.49% to 1.5907.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Macro-Shot-Of-Computer-Monitor-With-Worl.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": -0.180427,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSTK",
+                    "relevance_score": "0.075397",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SZIHF",
+                    "relevance_score": "0.075397",
+                    "ticker_sentiment_score": "-0.151727",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "FOREX:JPY",
+                    "relevance_score": "0.294977",
+                    "ticker_sentiment_score": "-0.363301",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "FOREX:CNY",
+                    "relevance_score": "0.075397",
+                    "ticker_sentiment_score": "-0.045525",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.429845",
+                    "ticker_sentiment_score": "-0.463415",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "KK MINER: Best Free Bitcoin Litecoin and Dogecoin Cloud Mining Platform Regulated in the UK",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43489958/kk-miner-best-free-bitcoin-litecoin-and-dogecoin-cloud-mining-platform-regulated-in-the-uk",
+            "time_published": "20250205T114816",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "LONDON, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- KK MINER, the UK-regulated leader in free cloud mining for Bitcoin, Litecoin, Dogecoin, and more, is excited to announce the launch of its brand-new mobile app.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/e932729a-41c5-4185-9307-77fa3a95fe38/photo-2025-02-05-15-44-09.jpeg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.421879,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.138464",
+                    "ticker_sentiment_score": "0.253522",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.138464",
+                    "ticker_sentiment_score": "0.253522",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:LTC",
+                    "relevance_score": "0.138464",
+                    "ticker_sentiment_score": "0.253522",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk To Reportedly Meet Indian PM Modi Later This Month: Tesla, Starlink Launch Talks On Radar? - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/25/02/43489837/elon-musk-likely-to-meet-india-pm-later-this-month-report",
+            "time_published": "20250205T114047",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Indian Prime Minister Narendra Modi might meet with Tesla Inc. TSLA CEO Elon Musk during the former's visit to the U.S. later this month, Indian local media reported on Wednesday.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Elon-Musk-Narendra-Modi.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.100258,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.655281",
+                    "ticker_sentiment_score": "-0.014594",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Explainer | How is China retaliating against US tariffs, and what impact will it have?",
+            "url": "https://www.scmp.com/economy/china-economy/article/3297490/how-china-retaliating-against-us-tariffs-and-what-impact-will-it-have",
+            "time_published": "20250205T113008",
+            "authors": [
+                "Ji Siqi"
+            ],
+            "summary": "China has announced a basket of measures including tariffs, export restrictions and sanctions on US companies.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/05/ee7c464c-dcb0-456e-a66c-a5284d09a025_427fee96.jpg?itok=MxpIUOo-&v=1738751143",
+            "source": "South China Morning Post",
+            "category_within_source": "Economy",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": -0.012,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.19661",
+                    "ticker_sentiment_score": "0.010885",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.033098",
+                    "ticker_sentiment_score": "0.057246",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.033098",
+                    "ticker_sentiment_score": "-0.101718",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XIACY",
+                    "relevance_score": "0.033098",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ILMN",
+                    "relevance_score": "0.19661",
+                    "ticker_sentiment_score": "0.050373",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Fertilizer & Agricultural Chemical Market is Projected to Grow at 5.7% CAGR, Reaching US$ 785.26 Billion by 2034 | Fact.MR Report",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43489713/fertilizer-agricultural-chemical-market-is-projected-to-grow-at-5-7-cagr-reaching-us-785-26-billio",
+            "time_published": "20250205T113000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Rockville, MD , Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- According to a new industry report by Fact.MR, a market research and competitive intelligence provider, the global Fertilizer & Agricultural Chemical Market is forecasted to achieve a valuation of US$ 452.66 billion in 2024 and further reach ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/b55e9e91-fb94-4ac7-87bd-8d4cbc345a25/fertilizer-agricultural-chemical-market.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.296955,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "YRAIF",
+                    "relevance_score": "0.039483",
+                    "ticker_sentiment_score": "-0.040138",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CF",
+                    "relevance_score": "0.039483",
+                    "ticker_sentiment_score": "-0.040138",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ICL",
+                    "relevance_score": "0.039483",
+                    "ticker_sentiment_score": "-0.040138",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NTR",
+                    "relevance_score": "0.039483",
+                    "ticker_sentiment_score": "-0.040138",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RSSS",
+                    "relevance_score": "0.039483",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:NANO",
+                    "relevance_score": "0.07887",
+                    "ticker_sentiment_score": "0.097013",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Plutus Financial Group Limited Announces Pricing of Initial Public Offering",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021024/0/en/Plutus-Financial-Group-Limited-Announces-Pricing-of-Initial-Public-Offering.html",
+            "time_published": "20250205T113000",
+            "authors": [
+                "Plutus Financial Group Limited"
+            ],
+            "summary": "Hong Kong, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Plutus Financial Group Limited ( \"the \"Company\" ) ( NasdaqCM: PLUT ) , a Hong Kong-based financial services company, today announced the pricing of its initial public offering ( the \"Offering\" ) of 2,100,000 ordinary shares at a public offering ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/db311942-1e41-4dd9-91d3-155a3695f813",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999998"
+                }
+            ],
+            "overall_sentiment_score": 0.198037,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Plutus Financial Group Limited Announces Pricing of Initial Public Offering",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021022/0/en/Plutus-Financial-Group-Limited-Announces-Pricing-of-Initial-Public-Offering.html",
+            "time_published": "20250205T113000",
+            "authors": [
+                "Plutus Financial Group Limited"
+            ],
+            "summary": "HONG KONG, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Plutus Financial Group Limited ( \"the \"Company\" ) ( NasdaqCM: PLUT ) , a Hong Kong-based financial services company, today announced the pricing of its initial public offering ( the \"Offering\" ) of 2,100,000 ordinary shares at a public offering ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/db311942-1e41-4dd9-91d3-155a3695f813",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999998"
+                }
+            ],
+            "overall_sentiment_score": 0.195761,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "1 No-Brainer Artificial Intelligence  ( AI )  Stock to Buy With $35 and Hold for the Long Run",
+            "url": "https://www.fool.com/investing/2025/02/05/1-no-brainer-ai-stock-to-buy-with-35-hold-long-run/",
+            "time_published": "20250205T112900",
+            "authors": [
+                "Anthony Di Pizio"
+            ],
+            "summary": "According to a 2024 study by McKinsey and Company, 72% of businesses have adopted artificial intelligence ( AI ) in at least one business function. However, a mere 8% are using it in five functions or more, which indicates most businesses are still in the experimental phase of adoption.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806248%2Fa-line-chart-showing-c3ais-revenue-growth-over-the-last-seven-quartersai.jpeg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999174"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.189478,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.139534",
+                    "ticker_sentiment_score": "0.189623",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.046724",
+                    "ticker_sentiment_score": "0.103423",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "US Stocks Likely To Open Lower Following Alphabet, AMD Earnings: Walt Disney, Uber, Ford, Qualcomm In Focus - Advanced Micro Devices  ( NASDAQ:AMD ) , Cognizant Tech Solns  ( NASDAQ:CTSH ) ",
             "url": "https://www.benzinga.com/news/earnings/25/02/43489453/us-stocks-likely-to-open-lower-following-alphabet-amd-earnings-walt-disney-uber-ford-qualcomm-in-fo",
@@ -251,6 +771,100 @@
             ]
         },
         {
+            "title": "3 Rock-Solid Dividend Stocks to Buy, Even if There's a Stock Market Sell-Off in 2025",
+            "url": "https://www.fool.com/investing/2025/02/05/buy-dividend-stocks-stock-market-sell-off-2025/",
+            "time_published": "20250205T111500",
+            "authors": [
+                "Daniel Foelber",
+                "and Lee Samaha",
+                "Scott Levine"
+            ],
+            "summary": "When investors are optimistic, they may be willing to pay a premium price for a stock in the hopes that the company's future earnings grow rapidly. But when investors are pessimistic, or there's an economic downturn, they may prefer to go with companies that are valued based on where they are ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F805310%2Fgettyimages-1150533053-1200x800-5b2df79.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.993856"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.266008,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UNP",
+                    "relevance_score": "0.293214",
+                    "ticker_sentiment_score": "0.386173",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "WSO",
+                    "relevance_score": "0.293214",
+                    "ticker_sentiment_score": "0.194366",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NEE",
+                    "relevance_score": "0.361802",
+                    "ticker_sentiment_score": "0.344984",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "2 Monster Stocks to Buy and Hold Forever",
+            "url": "https://www.fool.com/investing/2025/02/05/2-monster-stocks-to-buy-and-hold-forever/",
+            "time_published": "20250205T110300",
+            "authors": [
+                "Prosper Junior Bakiny"
+            ],
+            "summary": "It's hard to predict which way the market, or any specific company, will move in a short period, like a single year. But the longer we expand our horizon, the more likely it is that excellent companies, and equities in general, will deliver solid returns.",
+            "banner_image": "https://media.ycharts.com/charts/88612feee0275c2852c330f438b3ff44.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.986714"
+                }
+            ],
+            "overall_sentiment_score": 0.366917,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ISRG",
+                    "relevance_score": "0.297061",
+                    "ticker_sentiment_score": "0.284203",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.432701",
+                    "ticker_sentiment_score": "0.48756",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
             "title": "Polysaccharide and Oligosaccharide Market is Projected to Reach a Value of US$ 22.48 Billion with a CAGR of 5% by 2034 | Fact.MR Report",
             "url": "https://www.benzinga.com/pressreleases/25/02/g43489214/polysaccharide-and-oligosaccharide-market-is-projected-to-reach-a-value-of-us-22-48-billion-with-a",
             "time_published": "20250205T110028",
@@ -325,6 +939,61 @@
                     "ticker": "HCSG",
                     "relevance_score": "0.035821",
                     "ticker_sentiment_score": "0.01697",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's next for DeepSeek? AI start-up stays mum amid post-holiday plaudits",
+            "url": "https://www.scmp.com/tech/big-tech/article/3297486/whats-next-deepseek-ai-start-stays-mum-amid-post-holiday-plaudits",
+            "time_published": "20250205T110020",
+            "authors": [
+                "Ann Cao"
+            ],
+            "summary": "A researcher's February 1 social-media post, which has since been removed, hinted use of 'reinforcement learning' to advance its AI systems.",
+            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/02/05/8fb91acd-3cbe-4d82-b1ef-d08603d61300_39a39935.jpg",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.226985,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.057907",
+                    "ticker_sentiment_score": "0.058964",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.057907",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.057907",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TCTZF",
+                    "relevance_score": "0.057907",
+                    "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -456,6 +1125,77 @@
             ]
         },
         {
+            "title": "Why Is PayPal Stock Down After Earnings?",
+            "url": "https://www.fool.com/investing/2025/02/05/why-is-paypal-stock-down-after-earnings/",
+            "time_published": "20250205T110000",
+            "authors": [
+                "Neil Rozenbaum"
+            ],
+            "summary": "In this video, I will go over PayPal's ( NASDAQ: PYPL ) fourth-quarter earnings report. Watch the short video to learn more, consider subscribing, and click the special offer link below.*Stock prices used were from the trading day of Feb. 2, 2025. The video was published on Feb. 12, 2025.Continue ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806415/person-holding-phone-with-paypal-app-3_paypal.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.121992,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "3 Reasons to Avoid These Meme Coins at all Costs",
+            "url": "https://www.fool.com/investing/2025/02/05/3-reasons-to-avoid-these-meme-coins-at-all-costs/",
+            "time_published": "20250205T110000",
+            "authors": [
+                "Dominic Basulto"
+            ],
+            "summary": "In the previous crypto bull market cycle, both Dogecoin ( CRYPTO: DOGE ) and Shiba Inu ( CRYPTO: SHIB ) were standout performers. They skyrocketed in price in a remarkably short period of time and helped to popularize the idea of investing in meme coins.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806247%2Fgettyimages-1320436824.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.961735"
+                }
+            ],
+            "overall_sentiment_score": 0.26353,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.045224",
+                    "ticker_sentiment_score": "0.035228",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:SHIB",
+                    "relevance_score": "0.349945",
+                    "ticker_sentiment_score": "0.190739",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.605043",
+                    "ticker_sentiment_score": "0.434589",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
             "title": "Leprechaun Open Pit Ore Control Drilling Increases Confidence and adds 30% Contained Gold versus the 2022 Reserve Model At the Valentine Gold Mine in Newfoundland and Labrador, Canada",
             "url": "https://www.globenewswire.com/news-release/2025/02/05/3021018/0/en/Leprechaun-Open-Pit-Ore-Control-Drilling-Increases-Confidence-and-adds-30-Contained-Gold-versus-the-2022-Reserve-Model-At-the-Valentine-Gold-Mine-in-Newfoundland-and-Labrador-Canad.html",
             "time_published": "20250205T110000",
@@ -498,6 +1238,114 @@
             "overall_sentiment_score": 0.450733,
             "overall_sentiment_label": "Bullish",
             "ticker_sentiment": []
+        },
+        {
+            "title": "Costamare Inc. Reports Results for the Fourth Quarter and Year Ended December 31, 2024",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021010/0/en/Costamare-Inc-Reports-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2024.html",
+            "time_published": "20250205T105900",
+            "authors": [
+                "Costamare Inc"
+            ],
+            "summary": "MONACO, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Costamare Inc. ( \"Costamare\" or the \"Company\" ) ( NYSE: CMRE ) today reported unaudited financial results for the fourth quarter ( \"Q4 2024\" ) and year ended December 31, 2024.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/24e05312-cb08-40c5-a0ab-41a695f945bc",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.623304"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.218167,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CISXF",
+                    "relevance_score": "0.005456",
+                    "ticker_sentiment_score": "-0.078166",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CMRE",
+                    "relevance_score": "0.076271",
+                    "ticker_sentiment_score": "0.082122",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.010912",
+                    "ticker_sentiment_score": "0.146792",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Dutch Bros Stock Soared 19% in January",
+            "url": "https://www.fool.com/investing/2025/02/05/why-dutch-bros-stock-soared-19-in-january/",
+            "time_published": "20250205T105623",
+            "authors": [
+                "Jennifer Saibil"
+            ],
+            "summary": "Investors are excited about the economy.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806524/broista-handing-hot-drink.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.306016,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.090816",
+                    "ticker_sentiment_score": "0.228729",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BROS",
+                    "relevance_score": "0.695399",
+                    "ticker_sentiment_score": "0.538869",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
         },
         {
             "title": "Hansen Trade Experiences Strong Growth, Strategic Market Expansion",
@@ -1108,887 +1956,6 @@
                     "relevance_score": "0.541149",
                     "ticker_sentiment_score": "0.319613",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Nykredit Realkredit A/S publish supplement no 5 to Euro Medium Term Note Programme - Nykredit Realkredit A/S",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020988/0/en/Nykredit-Realkredit-A-S-publish-supplement-no-5-to-Euro-Medium-Term-Note-Programme-Nykredit-Realkredit-A-S.html",
-            "time_published": "20250205T101000",
-            "authors": [
-                "Nykredit Realkredit A/S"
-            ],
-            "summary": "To Nasdaq Copenhagen ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/8d4b6c95-67cf-4128-bde2-9c93a0f894ca",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.451494"
-                }
-            ],
-            "overall_sentiment_score": -0.151034,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FOREX:EUR",
-                    "relevance_score": "0.622414",
-                    "ticker_sentiment_score": "-0.37762",
-                    "ticker_sentiment_label": "Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Expect Weak Stock Returns For Next 3 Months, Cautions Top Analyst Amid Trump's Trade And Immigration Policies Expect weak stock returns for the next 3 months, cautions Morgan Stanley citing Trump's trade and immigration policies - Microsoft  ( NASDAQ:MSFT ) , Meta Platforms  ( NASDAQ:META ) ",
-            "url": "https://www.benzinga.com/markets/25/02/43488523/expect-weak-stock-returns-for-next-3-months-cautions-top-analyst-amid-trumps-trade-and-immigration-polici",
-            "time_published": "20250205T100721",
-            "authors": [
-                "Namrata Sen"
-            ],
-            "summary": "Morgan Stanley's CIO cautioned investors regarding the risks of President, Donald Trump's growth-negative policies such as tariffs and immigration enforcement. What Happened: The Chief U.S. Equity Strategist and CIO of Morgan Stanley, Mike Wilson, predicted weak stock returns for the S&P 500 in ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/SP-500.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.929393"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": -0.064995,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.207571",
-                    "ticker_sentiment_score": "-0.104161",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.207571",
-                    "ticker_sentiment_score": "-0.104161",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.207571",
-                    "ticker_sentiment_score": "-0.104161",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.104683",
-                    "ticker_sentiment_score": "-0.084515",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.401331",
-                    "ticker_sentiment_score": "-0.14509",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "CGTN: China's Spring Festival holiday box office set historic record",
-            "url": "https://www.benzinga.com/pressreleases/25/02/n43488524/cgtn-chinas-spring-festival-holiday-box-office-set-historic-record",
-            "time_published": "20250205T100700",
-            "authors": [
-                "PRNewswire"
-            ],
-            "summary": "BEIJING, Feb. 5, 2025 /PRNewswire/ -- In a record-breaking achievement for China's film industry, as of 13:29 on February 5, 2025, the total box-office revenue of new films released during the 2025 Spring Festival holiday season exceeded 10 billion yuan ( around $1.37 billion ) , according to ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.374249,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Nykredit Realkredit A/S publishes supplement no 4 to Base Prospectus dated 8 May 2024 - Nykredit Realkredit A/S",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020986/0/en/Nykredit-Realkredit-A-S-publishes-supplement-no-4-to-Base-Prospectus-dated-8-May-2024-Nykredit-Realkredit-A-S.html",
-            "time_published": "20250205T100600",
-            "authors": [
-                "Nykredit Realkredit A/S"
-            ],
-            "summary": "To Nasdaq Copenhagen ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/8d4b6c95-67cf-4128-bde2-9c93a0f894ca",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": 0.0,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "2 Magnificent Dow Stocks You Can Confidently Buy in February, and 1 to Avoid",
-            "url": "https://www.fool.com/investing/2025/02/05/2-dow-stocks-you-can-buy-in-february-1-to-avoid/",
-            "time_published": "20250205T100600",
-            "authors": [
-                "Sean Williams"
-            ],
-            "summary": "Among the Dow's 30 components are two historically cheap stocks with well-defined competitive advantages, as well as a highflier whose parabolic climb may not be sustainable.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806188%2Fnyse-floor-trader-invest-buy-sell-options-stock-exchange-getty.png&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999922"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.818451"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.178408,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "KO",
-                    "relevance_score": "0.28664",
-                    "ticker_sentiment_score": "0.252628",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "VZ",
-                    "relevance_score": "0.193465",
-                    "ticker_sentiment_score": "0.153059",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.316846",
-                    "ticker_sentiment_score": "0.078166",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Nextrope Secures Funding to Build an AI Model for Web3 Security",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43488454/nextrope-secures-funding-to-build-an-ai-model-for-web3-security",
-            "time_published": "20250205T100326",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "WARSAW, Poland, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Blockchain security is evolving, and Nextrope is leading the way with an AI-driven platform designed to audit and enhance smart contract security. With a project value of $1 million, this initiative is set to raise the standards of Web3 security.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/ef57bb12-ecbb-48f1-a401-37d295ffcf7f/photo-2025-02-05-15-06-08.jpeg",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.9545"
-                }
-            ],
-            "overall_sentiment_score": 0.335306,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.095517",
-                    "ticker_sentiment_score": "0.016968",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Better Cryptocurrency to Buy With $5,000 in 2025: Solana vs. Bitcoin",
-            "url": "https://www.fool.com/investing/2025/02/05/better-cryptocurrency-to-buy-with-5000-in-2025-sol/",
-            "time_published": "20250205T100000",
-            "authors": [
-                "Alex Carchidi"
-            ],
-            "summary": "When it comes to choosing between leading cryptocurrencies like Bitcoin ( CRYPTO: BTC ) and Solana ( CRYPTO: SOL ) , there's a lot to understand, starting with your goals for your money. There are strong arguments for both coins.Whereas Bitcoin's strength is that its protocol is largely ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/805584/investor-looks-at-phone-in-cafe-while-drinking-espresso.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.769861"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.744043"
-                }
-            ],
-            "overall_sentiment_score": 0.156215,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.634467",
-                    "ticker_sentiment_score": "0.189452",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.055492",
-                    "ticker_sentiment_score": "0.006011",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Potbelly and Lovesac have been highlighted as Zacks Bull and Bear of the Day",
-            "url": "https://www.zacks.com/stock/news/2409737/potbelly-and-lovesac-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
-            "time_published": "20250205T100000",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "Chicago, IL - February 5, 2025 - Zacks Equity Research shares Potbelly ( PBPB Quick QuotePBPB - ) as the Bull of the Day and Lovesac ( LOVE Quick QuoteLOVE - ) as the Bear of the Day.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b4/769.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999999"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.922939"
-                }
-            ],
-            "overall_sentiment_score": 0.360153,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "TGT",
-                    "relevance_score": "0.059097",
-                    "ticker_sentiment_score": "0.037987",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "LOVE",
-                    "relevance_score": "0.214246",
-                    "ticker_sentiment_score": "0.194057",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "PBPB",
-                    "relevance_score": "0.156715",
-                    "ticker_sentiment_score": "0.253153",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "COST",
-                    "relevance_score": "0.289121",
-                    "ticker_sentiment_score": "0.428238",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "DG",
-                    "relevance_score": "0.059097",
-                    "ticker_sentiment_score": "0.037987",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "What Nvidia Stock Investors Should Know About Recent Updates",
-            "url": "https://www.fool.com/investing/2025/02/05/what-nvidia-stock-investors-should-know-about-rece/",
-            "time_published": "20250205T100000",
-            "authors": [
-                "Jose Najarro"
-            ],
-            "summary": "Tariffs add more volatility to Nvidia's stock.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806485/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.115113,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.947069",
-                    "ticker_sentiment_score": "0.316629",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "GPTBots.ai Integrates DeepSeek's Janus-Pro, Elevating AI Image Generation for Enterprise Applications - Aurora Mobile  ( NASDAQ:JG ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43488408/gptbots-ai-integrates-deepseeks-janus-pro-elevating-ai-image-generation-for-enterprise-application",
-            "time_published": "20250205T100000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "HONG KONG, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- GPTBots.ai, a leading enterprise AI agent platform, has announced the integration of DeepSeek's Janus-Pro into its ecosystem as an Open Tool, further expanding its comprehensive suite of AI capabilities.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.539809,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "APG",
-                    "relevance_score": "0.049424",
-                    "ticker_sentiment_score": "0.45287",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "HUBS",
-                    "relevance_score": "0.290033",
-                    "ticker_sentiment_score": "0.474916",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.147516",
-                    "ticker_sentiment_score": "0.407771",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "GPTBots.ai Integrates DeepSeek's Janus-Pro, Elevating AI Image Generation for Enterprise Applications",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020978/0/en/GPTBots-ai-Integrates-DeepSeek-s-Janus-Pro-Elevating-AI-Image-Generation-for-Enterprise-Applications.html",
-            "time_published": "20250205T100000",
-            "authors": [
-                "GPTBots"
-            ],
-            "summary": "GPTBots.ai integrates DeepSeek's Janus-Pro, a cutting-edge AI image generation tool, into its ecosystem to enhance visual content creation for enterprises.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/ab917919-e185-4336-92f6-85c59c05b07f",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.519854,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "HUBS",
-                    "relevance_score": "0.348919",
-                    "ticker_sentiment_score": "0.441705",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.060085",
-                    "ticker_sentiment_score": "0.281205",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Aurora Mobile's GPTBots.ai Integrates DeepSeek's Janus-Pro - Aurora Mobile  ( NASDAQ:JG ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43488406/aurora-mobiles-gptbots-ai-integrates-deepseeks-janus-pro",
-            "time_published": "20250205T100000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "SHENZHEN, China, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Aurora Mobile Limited JG ( \"Aurora Mobile\" or the \"Company\" ) , a leading provider of customer engagement and marketing technology services in China, today announced that its leading enterprise AI agent platform, GPTBots.ai, has integrated ...",
-            "banner_image": "https://ml.globenewswire.com/media/5e12f74e-0978-4008-a030-4c2b113ad11e/small/s-png.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.614606"
-                }
-            ],
-            "overall_sentiment_score": 0.420813,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "APG",
-                    "relevance_score": "0.033751",
-                    "ticker_sentiment_score": "0.446899",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.101012",
-                    "ticker_sentiment_score": "0.35023",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "SZIHF",
-                    "relevance_score": "0.033751",
-                    "ticker_sentiment_score": "0.106423",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "HUBS",
-                    "relevance_score": "0.200411",
-                    "ticker_sentiment_score": "0.367742",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "JG",
-                    "relevance_score": "0.296662",
-                    "ticker_sentiment_score": "0.295622",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Protecting Your Investment Accounts From Gen AI Fraud",
-            "url": "https://www.fool.com/retirement/2025/02/05/protecting-your-investment-accounts-from-gen-ai-fr/",
-            "time_published": "20250205T100000",
-            "authors": [
-                "FINRA Staff"
-            ],
-            "summary": "Generative AI has made it easier for fraudsters to impersonate consumers and commit fraud.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806488/gettyimages-1474112607-1200x800-5b2df79.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": -0.056734,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Aurora Mobile's GPTBots.ai Integrates DeepSeek's Janus-Pro",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020979/0/en/Aurora-Mobile-s-GPTBots-ai-Integrates-DeepSeek-s-Janus-Pro.html",
-            "time_published": "20250205T100000",
-            "authors": [
-                "Aurora Mobile Limited"
-            ],
-            "summary": "SHENZHEN, China, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Aurora Mobile Limited ( NASDAQ: JG ) ( \"Aurora Mobile\" or the \"Company\" ) , a leading provider of customer engagement and marketing technology services in China, today announced that its leading enterprise AI agent platform, GPTBots.ai, has ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/5e12f74e-0978-4008-a030-4c2b113ad11e",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.451494"
-                }
-            ],
-            "overall_sentiment_score": 0.41278,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.037098",
-                    "ticker_sentiment_score": "0.275379",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SZIHF",
-                    "relevance_score": "0.037098",
-                    "ticker_sentiment_score": "0.115566",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "HUBS",
-                    "relevance_score": "0.219809",
-                    "ticker_sentiment_score": "0.317418",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "JG",
-                    "relevance_score": "0.324495",
-                    "ticker_sentiment_score": "0.315824",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "2 Popular AI Stocks to Sell Before They Fall 65% and 73%, According to Certain Wall Street Analysts",
-            "url": "https://www.fool.com/investing/2025/02/05/2-popular-ai-stocks-sell-before-fall-65-and-73-wal/",
-            "time_published": "20250205T095500",
-            "authors": [
-                "Trevor Jennewine"
-            ],
-            "summary": "Palantir Technologies ( NASDAQ: PLTR ) and Tesla ( NASDAQ: TSLA ) were two of the most popular stocks among retail investors last year as measured by net inflows. But most Wall Street analysts expect both stocks to decline this year.Read on to learn more about Palantir and Tesla.Palantir is a ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806373/market-red-4.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.988787"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.109421,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FORR",
-                    "relevance_score": "0.046633",
-                    "ticker_sentiment_score": "0.132504",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MORN",
-                    "relevance_score": "0.046633",
-                    "ticker_sentiment_score": "0.136251",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.360098",
-                    "ticker_sentiment_score": "0.010577",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "OPTGF",
-                    "relevance_score": "0.093108",
-                    "ticker_sentiment_score": "0.159548",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.093108",
-                    "ticker_sentiment_score": "-0.06163",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.046633",
-                    "ticker_sentiment_score": "-0.017023",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Billionaire Money Managers Are Piling Into 3 High-Yield Dividend Stocks Amid a Historically Pricey Stock Market",
-            "url": "https://www.fool.com/investing/2025/02/05/billionaires-pile-into-3-high-yield-dividend-stock/",
-            "time_published": "20250205T095100",
-            "authors": [
-                "Sean Williams"
-            ],
-            "summary": "Value-focused billionaire asset managers are trading out pricey stocks for perceived-to-be safe, income-producing, brand-name businesses.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806234%2Fmoney-manager-stock-chart-market-level-2-data-invest-getty.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999701"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.25"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.839681"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.25"
-                }
-            ],
-            "overall_sentiment_score": 0.150883,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CVS",
-                    "relevance_score": "0.231018",
-                    "ticker_sentiment_score": "0.220927",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SIRI",
-                    "relevance_score": "0.198764",
-                    "ticker_sentiment_score": "0.046182",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PM",
-                    "relevance_score": "0.133285",
-                    "ticker_sentiment_score": "0.181173",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "HCSG",
-                    "relevance_score": "0.033468",
-                    "ticker_sentiment_score": "0.092756",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Google's Gemini AI Could Soon Include Ads - Sundar Pichai Hints At Future Monetization Beyond Subscriptions - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",
-            "url": "https://www.benzinga.com/25/02/43488268/googles-gemini-ai-could-soon-include-adssundar-pichai-hints-at-future-monetization-beyond-subscriptions",
-            "time_published": "20250205T094826",
-            "authors": [
-                "Ananya Gairola"
-            ],
-            "summary": "On Tuesday, Alphabet Inc. GOOG GOOGL CEO Sundar Pichai hinted at potential future monetization strategies for Gemini AI, including the introduction of ads.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Google-Gemini.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.279782,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.4499",
-                    "ticker_sentiment_score": "0.109961",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Innovative Industrial's Latest Tenant Default: Why the Situation was Never as Dire as It Seemed",
-            "url": "https://www.fool.com/investing/2025/02/05/innovative-industrials-latest-tenant-default-why-t/",
-            "time_published": "20250205T094500",
-            "authors": [
-                "Reuben Gregg Brewer"
-            ],
-            "summary": "Innovative Industrial Properties' ( NYSE: IIPR ) stock has lost almost half of its value since hitting a 52-week high in October 2024. Wall Street is increasingly worried about the real estate investment trust's ( REIT's ) strategy. A large tenant default at the end of 2024 hasn't helped.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806262%2F22_01_13-a-person-inside-an-industrial-marijuana-grow-house-writing-in-a-notebook-_gettyimages-1322979060.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                }
-            ],
-            "overall_sentiment_score": 0.160396,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "IIPR",
-                    "relevance_score": "0.173333",
-                    "ticker_sentiment_score": "0.052316",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PLD",
-                    "relevance_score": "0.087185",
-                    "ticker_sentiment_score": "0.04235",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "O",
-                    "relevance_score": "0.043658",
-                    "ticker_sentiment_score": "0.039005",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Endeavour Announces Additional Listing",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020973/0/en/Endeavour-Announces-Additional-Listing.html",
-            "time_published": "20250205T094500",
-            "authors": [
-                "Endeavour Mining PLC"
-            ],
-            "summary": "London, 5 February 2025 - Endeavour Mining plc ( LSE:EDV, TSX:EDV ) ( \"the Company\" ) announces that an application has been made to the Financial Conduct Authority and the London Stock Exchange for 350,000 ordinary shares of US$0.01 each in the Company ( \"New Shares\" ) to be admitted to the FCA ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/cff109e5-0693-447f-8afe-290bcfdfd66f",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.995973"
-                }
-            ],
-            "overall_sentiment_score": 0.47966,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LDNXF",
-                    "relevance_score": "0.55533",
-                    "ticker_sentiment_score": "0.597051",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Ethereum to Bitcoin Ratio Hits 4-Year Low-Here's Why",
-            "url": "https://decrypt.co/304517/ethereum-to-bitcoin-ratio-hits-4-year-low-heres-why",
-            "time_published": "20250205T094458",
-            "authors": [
-                "Vince Dioquino"
-            ],
-            "summary": "The ETH/BTC ratio has plunged to lows of 0.027, as institutional investors demonstrate a clear preference for Bitcoin ETFs.",
-            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/bitcoin-ethereum-tokens-gID_7.png",
-            "source": "Decrypt.co",
-            "category_within_source": "n/a",
-            "source_domain": "decrypt.co",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.081309,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSTR",
-                    "relevance_score": "0.058047",
-                    "ticker_sentiment_score": "-0.028009",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.487751",
-                    "ticker_sentiment_score": "-0.122038",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.833487",
-                    "ticker_sentiment_score": "0.069594",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
