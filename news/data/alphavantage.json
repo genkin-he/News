@@ -1,8 +1,374 @@
 {
-    "items": "47",
+    "items": "48",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "US Stocks Likely To Open Lower Following Alphabet, AMD Earnings: Walt Disney, Uber, Ford, Qualcomm In Focus - Advanced Micro Devices  ( NASDAQ:AMD ) , Cognizant Tech Solns  ( NASDAQ:CTSH ) ",
+            "url": "https://www.benzinga.com/news/earnings/25/02/43489453/us-stocks-likely-to-open-lower-following-alphabet-amd-earnings-walt-disney-uber-ford-qualcomm-in-fo",
+            "time_published": "20250205T112058",
+            "authors": [
+                "Rishabh Mishra"
+            ],
+            "summary": "U.S. stock futures declined on Wednesday after Tuesday's advances amid trade war concerns and major earnings reports. Three benchmark indices were trading lower, whereas the gauge tracking small-cap stocks, Russell 2000 rose marginally. Walt Disney Co. DIS, Qualcomm Inc. QCOM, Uber Technologies ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/5-Stocks-To-Watch-Heading-Into-Thursday.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.995077"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999919"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.048353,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "-0.015754",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.125025",
+                    "ticker_sentiment_score": "-0.008674",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "0.416886",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TTE",
+                    "relevance_score": "0.166169",
+                    "ticker_sentiment_score": "-0.11492",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.166169",
+                    "ticker_sentiment_score": "-0.11492",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "-0.021752",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "0.127996",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CTSH",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "-0.015754",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.041828",
+                    "ticker_sentiment_score": "-0.023011",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.166169",
+                    "ticker_sentiment_score": "-0.041627",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.083541",
+                    "ticker_sentiment_score": "0.416886",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.041828",
+                    "ticker_sentiment_score": "0.092602",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Non-Fungible Token  ( NFT )  Market to Grow by USD 84.13 Billion from 2025-2029, Increasing Demand for Digital Art Boosts Market, AI's Impact - Technavio",
+            "url": "https://www.benzinga.com/pressreleases/25/02/n43489414/non-fungible-token-nft-market-to-grow-by-usd-84-13-billion-from-2025-2029-increasing-demand-for-di",
+            "time_published": "20250205T111600",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "NEW YORK, Feb. 5, 2025 /PRNewswire/ -- Report with the AI impact on market trends - The global non-fungible token ( NFT ) market size is estimated to grow by USD 84.13 billion from 2025-2029, according to Technavio. The market is estimated to grow at a CAGR of 30.3% during the forecast period.",
+            "banner_image": "https://mma.prnewswire.com/media/2611268/IRTNTR73238_bw2.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.295938,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EBAY",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.151631",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FNKO",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.05467",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NFTM",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.133044",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.151631",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.088309",
+                    "ticker_sentiment_score": "0.154119",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:MANA",
+                    "relevance_score": "0.02212",
+                    "ticker_sentiment_score": "0.05467",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Google-Parent Alphabet Plunges 7% In Wednesday Pre-Market: What's Going On? Alphabet Plunges 7% In Pre-Market As Cloud Revenue Disappoints And AI Spending Surges - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",
+            "url": "https://www.benzinga.com/25/02/43489392/alphabet-plunges-71-in-pre-market-as-cloud-revenue-disappoints-and-ai-spending-surges",
+            "time_published": "20250205T111505",
+            "authors": [
+                "Namrata Sen"
+            ],
+            "summary": "The Class A and Class C shares of Alphabet Inc. GOOG GOOGL plunged 7.10 % and 6.9% respectively in pre-market hours trading on Wednesday following the company's fourth-quarter earnings announcement on Feb. 5.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Google-Just-Got-Fined-In-Russia-And-Its-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.858979"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.19313,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.18602",
+                    "ticker_sentiment_score": "0.017091",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.589793",
+                    "ticker_sentiment_score": "0.35433",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.18602",
+                    "ticker_sentiment_score": "0.017091",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Polysaccharide and Oligosaccharide Market is Projected to Reach a Value of US$ 22.48 Billion with a CAGR of 5% by 2034 | Fact.MR Report",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43489214/polysaccharide-and-oligosaccharide-market-is-projected-to-reach-a-value-of-us-22-48-billion-with-a",
+            "time_published": "20250205T110028",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Rockville, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- According to the recently updated report by Fact.MR, a market research and competitive intelligence provider, the global polysaccharide and oligosaccharide market is evaluated to reach US$ 13.8 billion in 2024.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/4bd35faa-ac94-484c-8109-cbf25f98568e/polysaccharide-and-oligosaccharide-market-analysis.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.327144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "INGR",
+                    "relevance_score": "0.035821",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WKCMF",
+                    "relevance_score": "0.035821",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PPG",
+                    "relevance_score": "0.035821",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LZAGF",
+                    "relevance_score": "0.035821",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KRYAY",
+                    "relevance_score": "0.035821",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVZMY",
+                    "relevance_score": "0.035821",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIHF",
+                    "relevance_score": "0.035821",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HCSG",
+                    "relevance_score": "0.035821",
+                    "ticker_sentiment_score": "0.01697",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "SunHydrogen Achieves Highest Known Efficiency for a Large-Area Hydrogen Module",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021012/0/en/SunHydrogen-Achieves-Highest-Known-Efficiency-for-a-Large-Area-Hydrogen-Module.html",
+            "time_published": "20250205T110000",
+            "authors": [
+                "SUNHYDROGEN",
+                "INC."
+            ],
+            "summary": "CORALVILLE, IA , Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- SunHydrogen, Inc. ( OTCQB: HYSR ) , the developer of a breakthrough technology to produce renewable hydrogen using sunlight and water, today shared strong test results from a recent trip to Japan where members of the SunHydrogen team ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/3167f93c-94a3-408c-b3e4-f45e55bfc898",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.307733,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.046363",
+                    "ticker_sentiment_score": "0.078157",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HYSR",
+                    "relevance_score": "0.514619",
+                    "ticker_sentiment_score": "0.365966",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
         {
             "title": "Bioflocculants Market is Expected to Expand at 6.9% CAGR, Reaching US$ 5,938.2 Million by 2034 | Fact.MR Report",
             "url": "https://www.benzinga.com/pressreleases/25/02/g43489177/bioflocculants-market-is-expected-to-expand-at-6-9-cagr-reaching-us-5-938-2-million-by-2034-fact-m",
@@ -39,6 +405,28 @@
             ]
         },
         {
+            "title": "Newsela Acquires Generation Genius to Enhance Real-World Connections in Science and Math",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43489180/newsela-acquires-generation-genius-to-enhance-real-world-connections-in-science-and-math",
+            "time_published": "20250205T110000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Newsela, a leading provider of high-quality instructional and assessment products for K-12, announced today that the company has acquired Generation Genius, a trusted educational streaming platform for K-8 science and math videos, activities, and ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Mergers",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.4776,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
             "title": "Quest Leads the Charge with Market-First Identity Security and Ransomware Recovery Advancements",
             "url": "https://www.benzinga.com/pressreleases/25/02/g43489181/quest-leads-the-charge-with-market-first-identity-security-and-ransomware-recovery-advancements",
             "time_published": "20250205T110000",
@@ -66,6 +454,28 @@
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
+        },
+        {
+            "title": "Leprechaun Open Pit Ore Control Drilling Increases Confidence and adds 30% Contained Gold versus the 2022 Reserve Model At the Valentine Gold Mine in Newfoundland and Labrador, Canada",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3021018/0/en/Leprechaun-Open-Pit-Ore-Control-Drilling-Increases-Confidence-and-adds-30-Contained-Gold-versus-the-2022-Reserve-Model-At-the-Valentine-Gold-Mine-in-Newfoundland-and-Labrador-Canad.html",
+            "time_published": "20250205T110000",
+            "authors": [
+                "Calibre Mining Corp."
+            ],
+            "summary": "VANCOUVER, British Columbia, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Calibre ( TSX: CXB. OTCQX: CXBMF ) ( \"Calibre\" or the \"Company\" ) is pleased to announce additional ore control reverse circulation ( \"RC\" ) drill results from its Leprechaun open pit ( \"Leprechaun\" ) at Valentine Gold Mine ( ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/24cc48c9-5ab7-4921-8f32-5524d432e1cc/calibremining.jpg",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.163281,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
         },
         {
             "title": "Introducing The Chemists' Club Hotel A Refuge of Elegance in the Heart of Manhattan",
@@ -112,6 +522,100 @@
             "ticker_sentiment": []
         },
         {
+            "title": "1 Unstoppable BlackRock ETF With 40.6% of Its Portfolio Invested in Broadcom, Amazon, Nvidia, Microsoft, and Palantir",
+            "url": "https://www.fool.com/investing/2025/02/05/1-blackrock-etf-406-portfolio-in-nvidia-palantir/",
+            "time_published": "20250205T105300",
+            "authors": [
+                "Anthony Di Pizio"
+            ],
+            "summary": "BlackRock ( NYSE: BLK ) oversees more than $11.6 trillion worth of client money, making it the largest asset manager in the world. Around $3.5 trillion of that is invested in exchange-traded funds ( ETFs ) which are operated by its iShares subsidiary. ETFs can hold hundreds or even thousands of ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806142%2Fa-digital-rendering-of-a-circuit-board-with-a-chip-embossed-with-the-letters-ai.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.995869"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.246375,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.104683",
+                    "ticker_sentiment_score": "0.088616",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.257805",
+                    "ticker_sentiment_score": "0.162334",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.306963",
+                    "ticker_sentiment_score": "0.158896",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PANW",
+                    "relevance_score": "0.052455",
+                    "ticker_sentiment_score": "0.166609",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "This Ultrahigh-Yield Dividend Stock Adds More Fuel to Its Growth Engine to Extend Its Growth Outlook Through 2029",
+            "url": "https://www.fool.com/investing/2025/02/05/this-ultra-high-yield-dividend-stock-adds-more-fue/",
+            "time_published": "20250205T105300",
+            "authors": [
+                "Matt DiLallo"
+            ],
+            "summary": "MPLX ( NYSE: MPLX ) continues to provide investors with the best of both worlds. The master limited partnership ( MLP ) offers investors a very lucrative cash distribution ( currently yielding over 7% ) . On top of that, it's delivering high-octane growth.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806427/dividend-growth-hundred-dollar-bills-arrow-up.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.252131,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ENB",
+                    "relevance_score": "0.058615",
+                    "ticker_sentiment_score": "0.128997",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OKE",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.051625",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Toyota Stock Rises 3% Pre-Market After It Upgrades Full Year Forecast Despite Drop In Q3 Earnings - Toyota Motor  ( NYSE:TM ) ",
             "url": "https://www.benzinga.com/markets/25/02/43488964/toyota-stock-rises-3-pre-market-after-it-upgrades-full-year-forecast-despite-drop-in-q3-earnings",
             "time_published": "20250205T104831",
@@ -153,6 +657,65 @@
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
+        },
+        {
+            "title": "Spotify Stock Jumps 10%: Here's What You Need to Know",
+            "url": "https://www.fool.com/investing/2025/02/05/spotify-stock-jumps-10-heres-what-you-need-to-know/",
+            "time_published": "20250205T104500",
+            "authors": [
+                "Travis Hoium"
+            ],
+            "summary": "Spotify continues to fire on all cylinders, including impressive margin improvements.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806400/music-played-on-a-smartphone.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.144047,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.9545",
+                    "ticker_sentiment_score": "0.374033",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Interval Funds: 6 Things to Know Before You Invest",
+            "url": "https://www.fool.com/retirement/2025/02/05/interval-funds-6-things-to-know-before-you-invest/",
+            "time_published": "20250205T104500",
+            "authors": [
+                "FINRA Staff"
+            ],
+            "summary": "Evaluate whether the product is right for you and the level of risk you're willing to accept with your investments.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/806492/gettyimages-1354077575-1200x800-5b2df79.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999864"
+                }
+            ],
+            "overall_sentiment_score": 0.164294,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
         },
         {
             "title": "Snacks Giant Mondelez Q4 Earnings: Sales Miss, EPS Falls Short, Cocoa Inflation Threatens 2025 & More - Mondelez International  ( NASDAQ:MDLZ ) ",
@@ -816,6 +1379,67 @@
             ]
         },
         {
+            "title": "Potbelly and Lovesac have been highlighted as Zacks Bull and Bear of the Day",
+            "url": "https://www.zacks.com/stock/news/2409737/potbelly-and-lovesac-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+            "time_published": "20250205T100000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Chicago, IL - February 5, 2025 - Zacks Equity Research shares Potbelly ( PBPB Quick QuotePBPB - ) as the Bull of the Day and Lovesac ( LOVE Quick QuoteLOVE - ) as the Bear of the Day.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b4/769.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999999"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.922939"
+                }
+            ],
+            "overall_sentiment_score": 0.360153,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TGT",
+                    "relevance_score": "0.059097",
+                    "ticker_sentiment_score": "0.037987",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LOVE",
+                    "relevance_score": "0.214246",
+                    "ticker_sentiment_score": "0.194057",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PBPB",
+                    "relevance_score": "0.156715",
+                    "ticker_sentiment_score": "0.253153",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.289121",
+                    "ticker_sentiment_score": "0.428238",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "DG",
+                    "relevance_score": "0.059097",
+                    "ticker_sentiment_score": "0.037987",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "What Nvidia Stock Investors Should Know About Recent Updates",
             "url": "https://www.fool.com/investing/2025/02/05/what-nvidia-stock-investors-should-know-about-rece/",
             "time_published": "20250205T100000",
@@ -1365,469 +1989,6 @@
                     "relevance_score": "0.833487",
                     "ticker_sentiment_score": "0.069594",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "This 6.5%-Yielding Dividend Stock Is Coming Off a Record Year and Has Plenty of Fuel to Continue Growing",
-            "url": "https://www.fool.com/investing/2025/02/05/this-65-yielding-dividend-stock-is-coming-off-a-re/",
-            "time_published": "20250205T094400",
-            "authors": [
-                "Matt DiLallo"
-            ],
-            "summary": "Enterprise Products Partners ( NYSE: EPD ) recently reported its fourth-quarter and full-year results for 2024. The master limited partnership ( MLP ) posted record financial results fueled by record volumes across its midstream network.",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806384/a-person-measuring-a-chart-showing-growth.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.296134,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Trump Media & Technology Trading Volume Falls Amid Expensive Valuations And Bearish Charts: Here's What Technical Analysis For DJT Stock Shows - Baidu  ( NASDAQ:BIDU ) , Trump Media & Technology  ( NASDAQ:DJT ) ",
-            "url": "https://www.benzinga.com/general/market-summary/25/02/43488205/trump-media-technology-trading-volume-falls-amid-expensive-valuations-and-bearish-charts-h",
-            "time_published": "20250205T093808",
-            "authors": [
-                "Rishabh Mishra"
-            ],
-            "summary": "Daily moving averages point toward a bearish downtrend. Momentum indicator draws a mixed picture. Brand New Membership Level: Benzinga Trade Alerts Trump Media & Technology Group Corp.",
-            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/05025129/DJT-tech-chart-1024x576.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.997405"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": 0.157748,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "DJT",
-                    "relevance_score": "0.351807",
-                    "ticker_sentiment_score": "0.136129",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.090816",
-                    "ticker_sentiment_score": "0.06323",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "AMD Merges Client, Gaming Segments After 59% Drop In Gaming Revenue, Aims To Align Reporting With Business Focus - Advanced Micro Devices  ( NASDAQ:AMD ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/02/43488193/amd-merges-client-gaming-segments-after-59-drop-in-gaming-revenue-aims-to-align-reporting-with-b",
-            "time_published": "20250205T093658",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "Advanced Micro Devices Inc. AMD announced plans to combine its client and gaming segments into a single reportable segment, following a steep 59% year-over-year decline in gaming revenue to $563 million in the fourth quarter of 2024.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/amd-shutter.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.77141"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.073782,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.601928",
-                    "ticker_sentiment_score": "-0.053557",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.112008",
-                    "ticker_sentiment_score": "0.049838",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SNEJF",
-                    "relevance_score": "0.112008",
-                    "ticker_sentiment_score": "0.049838",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.112008",
-                    "ticker_sentiment_score": "-0.059342",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Form 8.5  ( EPT/RI )  - De La Rue plc",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020966/0/en/Form-8-5-EPT-RI-De-La-Rue-plc.html",
-            "time_published": "20250205T093100",
-            "authors": [
-                "INVESTEC BANK PLC"
-            ],
-            "summary": "FORM ...",
-            "banner_image": "",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.160819,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Why Intel's Q4 Earnings Report Was Much Better Than It Looked. Is The Turnaround Story Intact?",
-            "url": "https://www.fool.com/investing/2025/02/05/intels-earnings-report-was-better-than-it-looked/",
-            "time_published": "20250205T093000",
-            "authors": [
-                "Billy Duberstein"
-            ],
-            "summary": "There aren't many deep value turnaround opportunities in the technology world these days. However, Intel ( NASDAQ: INTC ) is an interesting case.After falling behind Taiwan Semiconductor Manufacturing ( NYSE: TSM ) in process technology, Intel embarked on an ambitious and expensive turnaround ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806304%2Fintel-q4-segment-revenue-opinc.png&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.995015"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.211332,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.135921",
-                    "ticker_sentiment_score": "0.03902",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.068209",
-                    "ticker_sentiment_score": "0.048109",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "INTC",
-                    "relevance_score": "0.653558",
-                    "ticker_sentiment_score": "0.410908",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "TSM",
-                    "relevance_score": "0.068209",
-                    "ticker_sentiment_score": "0.01119",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Form 8.5  ( EPT/RI )  - Dowlais Group Plc",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020961/0/en/Form-8-5-EPT-RI-Dowlais-Group-Plc.html",
-            "time_published": "20250205T092700",
-            "authors": [
-                "INVESTEC BANK PLC"
-            ],
-            "summary": "FORM ...",
-            "banner_image": "",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.160819,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Warren Buffett Just Added $610 Million Worth of These 3 Stocks to Berkshire Hathaway's Portfolio. Here's the Best of the Bunch.",
-            "url": "https://www.fool.com/investing/2025/02/05/warren-buffett-add-610-million-stock-berkshire/",
-            "time_published": "20250205T092500",
-            "authors": [
-                "Adam Levy"
-            ],
-            "summary": "This truly wonderful business is more expensive, but it's worth the price.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806268%2Fbuffett2-tmf.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.503496"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999998"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.245677,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "OXY",
-                    "relevance_score": "0.039878",
-                    "ticker_sentiment_score": "0.065087",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SIRI",
-                    "relevance_score": "0.119235",
-                    "ticker_sentiment_score": "0.118571",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BRK-A",
-                    "relevance_score": "0.079656",
-                    "ticker_sentiment_score": "0.045903",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "VRSN",
-                    "relevance_score": "0.34729",
-                    "ticker_sentiment_score": "0.306205",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Virtune AB  ( Publ )  launches two new Crypto ETPs on Nasdaq Helsinki",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020960/0/en/Virtune-AB-Publ-launches-two-new-Crypto-ETPs-on-Nasdaq-Helsinki.html",
-            "time_published": "20250205T092400",
-            "authors": [
-                "Virtune AB (Publ)"
-            ],
-            "summary": "Helsinki, February 5th, 2025 - Virtune, a Swedish regulated digital asset manager and issuer of crypto exchange-traded products, today announced the listing of Virtune Avalanche ETP and Virtune Staked Cardano ETP on Nasdaq Helsinki.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/da0bec69-79eb-4618-87fd-d96aa395aaed",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.990893"
-                }
-            ],
-            "overall_sentiment_score": 0.212772,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "COIN",
-                    "relevance_score": "0.071357",
-                    "ticker_sentiment_score": "0.153252",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.071357",
-                    "ticker_sentiment_score": "0.049364",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.071357",
-                    "ticker_sentiment_score": "0.049364",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:ADA",
-                    "relevance_score": "0.526267",
-                    "ticker_sentiment_score": "0.367828",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Form 8.5  ( EPT/RI ) - Alliance Pharma plc",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020958/0/en/Form-8-5-EPT-RI-Alliance-Pharma-plc.html",
-            "time_published": "20250205T092100",
-            "authors": [
-                "INVESTEC BANK PLC"
-            ],
-            "summary": "FORM ...",
-            "banner_image": "",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.160819,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Where Will Oracle Stock Be in 3 Years?",
-            "url": "https://www.fool.com/investing/2025/02/05/where-will-oracle-stock-be-in-3-years/",
-            "time_published": "20250205T092000",
-            "authors": [
-                "Leo Sun"
-            ],
-            "summary": "The resilient cloud underdog still has plenty of irons in the fire.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806241%2Fai-digital-brain.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.995973"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.218911,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.064276",
-                    "ticker_sentiment_score": "0.039117",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.064276",
-                    "ticker_sentiment_score": "0.039117",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ORCL",
-                    "relevance_score": "0.427597",
-                    "ticker_sentiment_score": "0.255039",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "UBER",
-                    "relevance_score": "0.064276",
-                    "ticker_sentiment_score": "0.039117",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "StarHub and Nokia upgrade fiber broadband network to deliver nationwide 10 Gbps services",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020957/0/en/StarHub-and-Nokia-upgrade-fiber-broadband-network-to-deliver-nationwide-10-Gbps-services.html",
-            "time_published": "20250205T091900",
-            "authors": [
-                "Nokia Oyj"
-            ],
-            "summary": "Press Release ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e6523d78-c43a-4057-8aa9-68206d3af4a8",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.472192,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NOK",
-                    "relevance_score": "0.441698",
-                    "ticker_sentiment_score": "0.537587",
-                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         }
