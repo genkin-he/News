@@ -1,8 +1,180 @@
 {
-    "items": "50",
+    "items": "49",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "GH Research Announces Pricing of $150 Million Public Offering - GH Research  ( NASDAQ:GHRS ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43484870/gh-research-announces-pricing-of-150-million-public-offering",
+            "time_published": "20250205T015200",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "DUBLIN, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- GH Research PLC GHRS, a clinical-stage biopharmaceutical company dedicated to transforming the lives of patients by developing a practice-changing treatment in depression, today announced the pricing of its previously announced underwritten public ...",
+            "banner_image": "https://ml.globenewswire.com/media/a1baa9e5-3408-4f8f-b4aa-7c4204e0971b/small/full-colour-png.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.173484,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CCORF",
+                    "relevance_score": "0.052801",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BKRIF",
+                    "relevance_score": "0.052801",
+                    "ticker_sentiment_score": "0.096812",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GHRS",
+                    "relevance_score": "0.308891",
+                    "ticker_sentiment_score": "0.064559",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "GH Research Announces Pricing of $150 Million Public Offering",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020875/0/en/GH-Research-Announces-Pricing-of-150-Million-Public-Offering.html",
+            "time_published": "20250205T015200",
+            "authors": [
+                "GH Research PLC"
+            ],
+            "summary": "DUBLIN, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- GH Research PLC ( Nasdaq: GHRS ) , a clinical-stage biopharmaceutical company dedicated to transforming the lives of patients by developing a practice-changing treatment in depression, today announced the pricing of its previously announced ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/a1baa9e5-3408-4f8f-b4aa-7c4204e0971b",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.141588,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CCORF",
+                    "relevance_score": "0.044634",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BKRIF",
+                    "relevance_score": "0.044634",
+                    "ticker_sentiment_score": "0.102669",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GHRS",
+                    "relevance_score": "0.304787",
+                    "ticker_sentiment_score": "0.03182",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ChatGPT-Maker OpenAI's Future Hangs In The Balance As Judge Says Elon Musk's Lawsuit Will Partially Go To Trial - SoftBank Group  ( OTC:SFTBF ) , SoftBank Group  ( OTC:SFTBY ) ",
+            "url": "https://www.benzinga.com/25/02/43484737/chatgpt-maker-openais-future-hangs-in-the-balance-as-judge-says-musks-lawsuit-will-partially-proceed-to-trial",
+            "time_published": "20250205T014834",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "On Tuesday, a federal judge decided that parts of Elon Musk's lawsuit against OpenAI will advance to trial. This legal battle centers on Musk's efforts to halt OpenAI's transition to a for-profit model. What Happened: U.S.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Elon-Musk-and-Sam-Altman.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.178751,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SFTBF",
+                    "relevance_score": "0.377142",
+                    "ticker_sentiment_score": "0.276543",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Mark Zuckerberg Once Told Sam Altman That The Most Painful Moment In His Life Was Not Rejecting A $1 Billion Buyout Offer For Facebook But Losing An Entire Team - Here's Why - Meta Platforms  ( NASDAQ:META ) ",
+            "url": "https://www.benzinga.com/tech/25/02/43484644/mark-zuckerberg-once-told-sam-altman-that-the-most-painful-moment-in-his-life-was-not-rejecting-a-1-billion-",
+            "time_published": "20250205T013354",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "Facebook co-founder and CEO Mark Zuckerberg once revealed to Sam Altman that one of the most painful moments in his career was not rejecting a billion-dollar acquisition offer-but watching his entire management team walk away because they disagreed with his decision.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/04/Mark-Zuckerberg.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.158867,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.746491",
+                    "ticker_sentiment_score": "0.316736",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
         {
             "title": "Cathie Wood-Led Ark Invest Dumps $7M Worth Of Palantir Stock Amid Searing Rally - ARK Innovation ETF  ( ARCA:ARKK ) , Palantir Technologies  ( NASDAQ:PLTR ) ",
             "url": "https://www.benzinga.com/25/02/43484615/cathie-wood-led-ark-invest-dumps-7m-worth-of-palantir-stock-amid-searing-rally",
@@ -68,6 +240,98 @@
                     "ticker": "PLTR",
                     "relevance_score": "0.280615",
                     "ticker_sentiment_score": "0.509361",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Where Will Nike Stock Be in 1 Year?",
+            "url": "https://www.fool.com/investing/2025/02/04/where-will-nike-stock-be-in-1-year/",
+            "time_published": "20250205T011800",
+            "authors": [
+                "Leo Sun"
+            ],
+            "summary": "The leading athletic footwear and apparel brand faces formidable challenges.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F806081%2Finvestor-looking-at-stock-trading-screen.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.021808,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NKE",
+                    "relevance_score": "0.619419",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "This Magnificent Artificial Intelligence  ( AI )  Stock Has Shot Up Over 175% in Just 3 Months, and It Could Soar Higher in 2025",
+            "url": "https://www.fool.com/investing/2025/02/04/this-magnificent-artificial-intelligence-ai-stock/",
+            "time_published": "20250205T010000",
+            "authors": [
+                "Manali Pradhan"
+            ],
+            "summary": "SoundHound AI has soared over 175% in the past three months, and could jump even higher in 2025.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/805840/analyst_studying_stock_chart_on_a-desktop_screen.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.256266,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.043579",
+                    "ticker_sentiment_score": "-0.059558",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.043579",
+                    "ticker_sentiment_score": "-0.059558",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.043579",
+                    "ticker_sentiment_score": "-0.059558",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SOUN",
+                    "relevance_score": "0.377142",
+                    "ticker_sentiment_score": "0.351093",
                     "ticker_sentiment_label": "Bullish"
                 }
             ]
@@ -529,6 +793,204 @@
             "ticker_sentiment": []
         },
         {
+            "title": "Mercury Systems  ( MRCY )  Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
+            "url": "https://www.zacks.com/stock/news/2409690/mercury-systems-mrcy-q2-earnings-taking-a-look-at-key-metrics-versus-estimates",
+            "time_published": "20250205T000012",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "While the top- and bottom-line numbers for Mercury Systems (MRCY) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Douglas Emmett  ( DEI )  Reports Q4 Earnings: What Key Metrics Have to Say",
+            "url": "https://www.zacks.com/stock/news/2409693/douglas-emmett-dei-reports-q4-earnings-what-key-metrics-have-to-say",
+            "time_published": "20250205T000011",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Although the revenue and EPS for Douglas Emmett (DEI) give a sense of how its business performed in the quarter ended December 2024, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "The AZEK Company  ( AZEK )  Q1 Earnings: Taking a Look at Key Metrics Versus Estimates",
+            "url": "https://www.zacks.com/stock/news/2409691/the-azek-company-azek-q1-earnings-taking-a-look-at-key-metrics-versus-estimates",
+            "time_published": "20250205T000011",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "The headline numbers for The AZEK Company (AZEK) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Compared to Estimates, Mattel  ( MAT )  Q4 Earnings: A Look at Key Metrics",
+            "url": "https://www.zacks.com/stock/news/2409694/compared-to-estimates-mattel-mat-q4-earnings-a-look-at-key-metrics",
+            "time_published": "20250205T000011",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "The headline numbers for Mattel (MAT) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Match Group  ( MTCH )  Q4 Earnings: How Key Metrics Compare to Wall Street Estimates",
+            "url": "https://www.zacks.com/stock/news/2409692/match-group-mtch-q4-earnings-how-key-metrics-compare-to-wall-street-estimates",
+            "time_published": "20250205T000011",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "The headline numbers for Match Group (MTCH) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Compared to Estimates, Modine  ( MOD )  Q3 Earnings: A Look at Key Metrics",
+            "url": "https://www.zacks.com/stock/news/2409695/compared-to-estimates-modine-mod-q3-earnings-a-look-at-key-metrics",
+            "time_published": "20250205T000010",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Although the revenue and EPS for Modine (MOD) give a sense of how its business performed in the quarter ended December 2024, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Hanover Insurance  ( THG )  Reports Q4 Earnings: What Key Metrics Have to Say",
+            "url": "https://www.zacks.com/stock/news/2409697/hanover-insurance-thg-reports-q4-earnings-what-key-metrics-have-to-say",
+            "time_published": "20250205T000010",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Although the revenue and EPS for Hanover Insurance (THG) give a sense of how its business performed in the quarter ended December 2024, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "DXC Technology  ( DXC )  Reports Q3 Earnings: What Key Metrics Have to Say",
+            "url": "https://www.zacks.com/stock/news/2409696/dxc-technology-dxc-reports-q3-earnings-what-key-metrics-have-to-say",
+            "time_published": "20250205T000010",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Although the revenue and EPS for DXC Technology (DXC) give a sense of how its business performed in the quarter ended December 2024, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Compared to Estimates, Columbia Sportswear  ( COLM )  Q4 Earnings: A Look at Key Metrics",
+            "url": "https://www.zacks.com/stock/news/2409698/compared-to-estimates-columbia-sportswear-colm-q4-earnings-a-look-at-key-metrics",
+            "time_published": "20250205T000009",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Although the revenue and EPS for Columbia Sportswear (COLM) give a sense of how its business performed in the quarter ended December 2024, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.247144,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
             "title": "Landmark Bancorp, Inc. Announces 6.3% Increase in Net Earnings for the Year Ended December 31, 2024, and Fourth Quarter Earnings Per Share of $0.57. Declares Cash Dividend of $0.21 per Share",
             "url": "https://www.globenewswire.com/news-release/2025/02/05/3020862/0/en/Landmark-Bancorp-Inc-Announces-6-3-Increase-in-Net-Earnings-for-the-Year-Ended-December-31-2024-and-Fourth-Quarter-Earnings-Per-Share-of-0-57-Declares-Cash-Dividend-of-0-21-per-Sha.html",
             "time_published": "20250205T000000",
@@ -683,6 +1145,53 @@
                     "ticker": "MVES",
                     "relevance_score": "0.076847",
                     "ticker_sentiment_score": "-0.112104",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nov Inc.  ( NOV )  Beats Q4 Earnings and Revenue Estimates",
+            "url": "https://www.zacks.com/stock/news/2409689/nov-inc-nov-beats-q4-earnings-and-revenue-estimates",
+            "time_published": "20250204T235502",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Nov Inc. (NOV) delivered earnings and revenue surprises of 17.14% and 3.19%, respectively, for the quarter ended December 2024. Do the numbers hold clues to what lies ahead for the stock?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default155.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999992"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.126037,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NOV",
+                    "relevance_score": "0.391923",
+                    "ticker_sentiment_score": "0.072891",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MTRX",
+                    "relevance_score": "0.135729",
+                    "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -1105,572 +1614,6 @@
             "overall_sentiment_score": 0.247144,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
-        },
-        {
-            "title": "Compared to Estimates, H&R Block  ( HRB )  Q2 Earnings: A Look at Key Metrics",
-            "url": "https://www.zacks.com/stock/news/2409685/compared-to-estimates-hr-block-hrb-q2-earnings-a-look-at-key-metrics",
-            "time_published": "20250204T233011",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "While the top- and bottom-line numbers for H&R Block (HRB) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Compared to Estimates, Aspen Technology  ( AZPN )  Q2 Earnings: A Look at Key Metrics",
-            "url": "https://www.zacks.com/stock/news/2409683/compared-to-estimates-aspen-technology-azpn-q2-earnings-a-look-at-key-metrics",
-            "time_published": "20250204T233011",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "The headline numbers for Aspen Technology (AZPN) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Here's What Key Metrics Tell Us About Brandywine Realty Trust  ( BDN )  Q4 Earnings",
-            "url": "https://www.zacks.com/stock/news/2409684/heres-what-key-metrics-tell-us-about-brandywine-realty-trust-bdn-q4-earnings",
-            "time_published": "20250204T233011",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "While the top- and bottom-line numbers for Brandywine Realty Trust (BDN) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Snap  ( SNAP )  Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
-            "url": "https://www.zacks.com/stock/news/2409686/snap-snap-q4-earnings-taking-a-look-at-key-metrics-versus-estimates",
-            "time_published": "20250204T233011",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "While the top- and bottom-line numbers for Snap (SNAP) give a sense of how the business performed in the quarter ended December 2024, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Varonis  ( VRNS )  Reports Q4 Earnings: What Key Metrics Have to Say",
-            "url": "https://www.zacks.com/stock/news/2409687/varonis-vrns-reports-q4-earnings-what-key-metrics-have-to-say",
-            "time_published": "20250204T233010",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "The headline numbers for Varonis (VRNS) give insight into how the company performed in the quarter ended December 2024, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-            "banner_image": "https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.247144,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Match Group  ( MTCH )  Q4 Earnings Miss Estimates",
-            "url": "https://www.zacks.com/stock/news/2409688/match-group-mtch-q4-earnings-miss-estimates",
-            "time_published": "20250204T233002",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "Match Group (MTCH) delivered earnings and revenue surprises of -2.38% and 0.48%, respectively, for the quarter ended December 2024. Do the numbers hold clues to what lies ahead for the stock?",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default45.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.999997"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                }
-            ],
-            "overall_sentiment_score": 0.177338,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BKNG",
-                    "relevance_score": "0.204072",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Veea Issues Letter to Shareholders",
-            "url": "https://www.globenewswire.com/news-release/2025/02/04/3020859/0/en/Veea-Issues-Letter-to-Shareholders.html",
-            "time_published": "20250204T233000",
-            "authors": [
-                "Veea Inc."
-            ],
-            "summary": "NEW YORK, Feb. 04, 2025 ( GLOBE NEWSWIRE ) -- Veea Inc. ( NASDAQ: VEEA ) , a pioneer in edge computing and AI-driven solutions, today issued a Letter to Shareholders from Founder and Chief Executive Officer Allen Salmasi.",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/5f37562f-c3a2-410c-9d7e-35e4e5883dcb",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.857896"
-                }
-            ],
-            "overall_sentiment_score": 0.367173,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.017306",
-                    "ticker_sentiment_score": "0.125516",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Markets Reverse Tariff Panic; Many Q4 Beats After Hours",
-            "url": "https://www.zacks.com/stock/news/2409675/markets-reverse-tariff-panic-many-q4-beats-after-hours",
-            "time_published": "20250204T232900",
-            "authors": [
-                "Mark Vickery"
-            ],
-            "summary": "Google parent Alphabet (GOOGL) posted beats on both top and bottom lines after today's close.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9c/868.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.857896"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.117948,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMD",
-                    "relevance_score": "0.105604",
-                    "ticker_sentiment_score": "0.168607",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "GOOG",
-                    "relevance_score": "0.052918",
-                    "ticker_sentiment_score": "0.132639",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CMG",
-                    "relevance_score": "0.105604",
-                    "ticker_sentiment_score": "0.062018",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SNAP",
-                    "relevance_score": "0.105604",
-                    "ticker_sentiment_score": "0.179923",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "QCOM",
-                    "relevance_score": "0.105604",
-                    "ticker_sentiment_score": "-0.017472",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Meet the US Congressman Who's Now Repping Ethereum on His X Profile",
-            "url": "https://decrypt.co/304425/meet-us-congressman-repping-ethereum-x-profile",
-            "time_published": "20250204T232528",
-            "authors": [
-                "Andr\u00e9 Beganski"
-            ],
-            "summary": "Rep. William Timmons said that he created a self-custodial Ethereum wallet to gain familiarity with technology enabling financial sovereignty.",
-            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/02/IMG_1706-gID_7.jpg",
-            "source": "Decrypt.co",
-            "category_within_source": "n/a",
-            "source_domain": "decrypt.co",
-            "topics": [
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": 0.236645,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.158519",
-                    "ticker_sentiment_score": "0.256231",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Why AeroVironment Stock Zoomed Nearly 8% Higher on Tuesday",
-            "url": "https://www.fool.com/investing/2025/02/04/why-aerovironment-stock-zoomed-nearly-8-higher-on/",
-            "time_published": "20250204T232503",
-            "authors": [
-                "Eric Volkman"
-            ],
-            "summary": "Drone specialist AeroVironment ( NASDAQ: AVAV ) saw its stock gain notable altitude on Tuesday, thanks to an update from the company on a lucrative government contract. The company's share price soared almost 8% higher on the day, comparing very favorably to the S&P 500's ( SNPINDEX: ^GSPC ) ...",
-            "banner_image": "https://g.foolcdn.com/editorial/images/806493/person-flying-a-drone-at-dusk-or-twilight.jpg",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.137053,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AVAV",
-                    "relevance_score": "0.849667",
-                    "ticker_sentiment_score": "0.232921",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "$1000 Invested In This Stock 20 Years Ago Would Be Worth This Much Today - American Tower  ( NYSE:AMT ) ",
-            "url": "https://www.benzinga.com/insights/news/25/02/43483200/1000-invested-in-this-stock-20-years-ago-would-be-worth-this-much-today",
-            "time_published": "20250204T231718",
-            "authors": [
-                "Benzinga Insights"
-            ],
-            "summary": "American Tower AMT has outperformed the market over the past 20 years by 4.07% on an annualized basis producing an average annual return of 12.43%. Currently, American Tower has a market capitalization of $86.04 billion.",
-            "banner_image": "https://www.benzinga.com/files/images/story/2025/1738711035_0.png",
-            "source": "Benzinga",
-            "category_within_source": "Trading",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.238974,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMT",
-                    "relevance_score": "0.9545",
-                    "ticker_sentiment_score": "0.384186",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Zoetis  ( ZTS )  Ascends But Remains Behind Market: Some Facts to Note",
-            "url": "https://www.zacks.com/stock/news/2409655/zoetis-zts-ascends-but-remains-behind-market-some-facts-to-note",
-            "time_published": "20250204T231523",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "In the closing of the recent trading day, Zoetis (ZTS) stood at $172.24, denoting a +0.17% change from the preceding trading day.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default253.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.95493"
-                },
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.239788,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ZTS",
-                    "relevance_score": "0.575407",
-                    "ticker_sentiment_score": "0.308454",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Here's Why VICI Properties Inc.  ( VICI )  Gained But Lagged the Market Today",
-            "url": "https://www.zacks.com/stock/news/2409654/heres-why-vici-properties-inc-vici-gained-but-lagged-the-market-today",
-            "time_published": "20250204T231523",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "In the most recent trading session, VICI Properties Inc. (VICI) closed at $29.80, indicating a +0.03% shift from the previous trading day.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default252.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.917436"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.365926"
-                }
-            ],
-            "overall_sentiment_score": 0.230654,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "VICI",
-                    "relevance_score": "0.653175",
-                    "ticker_sentiment_score": "0.362803",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Rocket Lab USA, Inc.  ( RKLB )  Laps the Stock Market: Here's Why",
-            "url": "https://www.zacks.com/stock/news/2409653/rocket-lab-usa-inc-rklb-laps-the-stock-market-heres-why",
-            "time_published": "20250204T231523",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "Rocket Lab USA, Inc. (RKLB) reachead $28.68 at the closing of the latest trading day, reflecting a +1.06% change compared to its last close.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default74.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.684621"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                }
-            ],
-            "overall_sentiment_score": 0.174314,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "RKLB",
-                    "relevance_score": "0.495015",
-                    "ticker_sentiment_score": "0.259394",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "ChargePoint Holdings, Inc.  ( CHPT )  Stock Sinks As Market Gains: Here's Why",
-            "url": "https://www.zacks.com/stock/news/2409659/chargepoint-holdings-inc-chpt-stock-sinks-as-market-gains-heres-why",
-            "time_published": "20250204T231522",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "ChargePoint Holdings, Inc. (CHPT) closed the most recent trading day at $0.92, moving -1.01% from the previous trading session.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default126.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.227337,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CHPT",
-                    "relevance_score": "0.491255",
-                    "ticker_sentiment_score": "0.293106",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "American Tower  ( AMT )  Stock Drops Despite Market Gains: Important Facts to Note",
-            "url": "https://www.zacks.com/stock/news/2409660/american-tower-amt-stock-drops-despite-market-gains-important-facts-to-note",
-            "time_published": "20250204T231522",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "In the latest trading session, American Tower (AMT) closed at $184.13, marking a -0.67% move from the previous day.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default34.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.839681"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.413559"
-                }
-            ],
-            "overall_sentiment_score": 0.224109,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AMT",
-                    "relevance_score": "0.670305",
-                    "ticker_sentiment_score": "0.301543",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Pan American Silver  ( PAAS )  Outpaces Stock Market Gains: What You Should Know",
-            "url": "https://www.zacks.com/stock/news/2409656/pan-american-silver-paas-outpaces-stock-market-gains-what-you-should-know",
-            "time_published": "20250204T231522",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "The latest trading day saw Pan American Silver (PAAS) settling at $24.20, representing a +1.42% change from its previous close.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default334.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.839681"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                }
-            ],
-            "overall_sentiment_score": 0.227841,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "PAAS",
-                    "relevance_score": "0.532043",
-                    "ticker_sentiment_score": "0.321915",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
         }
     ]
 }
