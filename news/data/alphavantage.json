@@ -1,8 +1,423 @@
 {
-    "items": "42",
+    "items": "43",
     "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
+        {
+            "title": "Alex Karp Says Elon Musk's DOGE Initiative Will Be 'Very Good' For Palantir: 'Expecting To See Really Unexpected Things And To Win' Palantir CEO Hails Elon Musk's DOGE Initiative, Anticipates Positive Outcome - Tesla  ( NASDAQ:TSLA ) , Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/25/02/43487682/palantir-ceo-hails-elon-musks-doge-initiative-anticipates-positive-outcome",
+            "time_published": "20250205T082048",
+            "authors": [
+                "Namrata Sen"
+            ],
+            "summary": "Palantir Technologies Inc. PLTR CEO, Alex Karp, has shown enthusiasm for the Elon Musk-led Department of Government Efficiency ( DOGE ) and its potential influence on his company. What Happened: Established by President Trump two weeks ago with Elon Musk at the helm, DOGE aims to implement ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/The-Palantir-Trade.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.94762"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.338457,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.283323",
+                    "ticker_sentiment_score": "0.295817",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.19117",
+                    "ticker_sentiment_score": "0.165861",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "AMD CEO Lisa Su On DeepSeek's AI Disruption: 'Training And Inference With Less Infrastructure Is A Good Thing' - But GPUs, Not ASICs, Will Still Power The Future Of AI Chips - NVIDIA  ( NASDAQ:NVDA ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",
+            "url": "https://www.benzinga.com/tech/25/02/43487668/amd-ceo-lisa-su-on-deepseeks-ai-disruption-training-and-inference-with-less-infrastructure-is-a-good-thingbu",
+            "time_published": "20250205T081609",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "Advanced Micro Devices Inc. AMD CEO Lisa Su has addressed DeepSeek's AI advancements and their potential impact on the semiconductor market. What Happened: During AMD's fourth-quarter earnings call on Tuesday, Su expressed optimism about the innovations in AI.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Lisa-Su---Amd-Chairman-And-Ceo-Hold-A-Ch.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.19097,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.087237",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ASCCF",
+                    "relevance_score": "0.238913",
+                    "ticker_sentiment_score": "0.186317",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ON",
+                    "relevance_score": "0.080728",
+                    "ticker_sentiment_score": "0.080367",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Trump Media or Trump Coin: Where Have Investors Lost More Money Since the 47th President Entered the White House? - Trump Media & Technology  ( NASDAQ:DJT ) ",
+            "url": "https://www.benzinga.com/general/market-summary/25/02/43487630/trump-media-or-trump-coin-where-have-investors-lost-more-money-since-the-47th-president-en",
+            "time_published": "20250205T080931",
+            "authors": [
+                "Rishabh Mishra"
+            ],
+            "summary": "TRUMP coin has declined by about 40.08% since Trump's first day in office. DJT stock has declined 9.78% since the presidential elections on Nov. 5. Brand New Membership Level: Benzinga Trade Alerts TRUMP Coin TRUMP/USD and Trump Media & Technology Group Corp.",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/02/05014829/DJT-since-Jan.-19-1024x576.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.858979"
+                }
+            ],
+            "overall_sentiment_score": 0.259743,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DJT",
+                    "relevance_score": "0.500753",
+                    "ticker_sentiment_score": "0.259182",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.107495",
+                    "ticker_sentiment_score": "0.067206",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Intchains Group Limited to Participate in the \"Digital Assets 2025: To Bitcoin and Beyond,\" Virtual Conference Presented by Maxim Group LLC on Wednesday, February 12th at 9:30 a.m. EST",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020938/0/en/Intchains-Group-Limited-to-Participate-in-the-Digital-Assets-2025-To-Bitcoin-and-Beyond-Virtual-Conference-Presented-by-Maxim-Group-LLC-on-Wednesday-February-12th-at-9-30-a-m-EST.html",
+            "time_published": "20250205T080800",
+            "authors": [
+                "Shanghai Intchains Technology Co.",
+                "Ltd."
+            ],
+            "summary": "SHANGHAI, Feb. 05, 2025 ( GLOBE NEWSWIRE ) -- Intchains Group Limited ( Nasdaq: ICG ) ( \"we,\" or the \"Company\" ) , an innovative altcoins development company that primarily focuses on providing integrated solutions consisting of mining products for altcoins, and on acquiring and holding ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.918141"
+                }
+            ],
+            "overall_sentiment_score": 0.300469,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ICG",
+                    "relevance_score": "0.321673",
+                    "ticker_sentiment_score": "0.364839",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.321673",
+                    "ticker_sentiment_score": "0.263015",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Telegram Lands Move-to-Earn Game 'StepMania' With Token Launch Ahead",
+            "url": "https://decrypt.co/304484/telegram-move-earn-game-stepmania-ton-token",
+            "time_published": "20250205T080102",
+            "authors": [
+                "Andrew Hayward"
+            ],
+            "summary": "Like Stepn on Solana, StepMania lets players earn rewards via physical movement-with plans for a TON token to come.",
+            "banner_image": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/stepmania-screens.png@webp",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.399125,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.169676",
+                    "ticker_sentiment_score": "0.173093",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Meta's Global Affairs Chief Slams EU AI Code, Calls It A Burden On 'Western Open Source AI Models' Tensions escalate as Mark Zuckerberg's Meta Refuses To Comply With EU's AI Code - Meta Platforms  ( NASDAQ:META ) ",
+            "url": "https://www.benzinga.com/25/02/43487588/metas-global-affairs-head-dismisses-eus-ai-regulations-reignites-regulatory-tensions-for-the-mark-zuckerberg-led-",
+            "time_published": "20250205T080049",
+            "authors": [
+                "Namrata Sen"
+            ],
+            "summary": "Meta Platforms Inc. META decided not to comply with the European Union's AI Code of Practice. Joel Kaplan, the new head of global affairs at Meta, made this announcement, escalating the company's ongoing disputes with European regulators.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Price-Action.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.04099,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.295867",
+                    "ticker_sentiment_score": "-0.147945",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nokia and Orange France extend long-term partnership with new 5G deal",
+            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020935/0/en/Nokia-and-Orange-France-extend-long-term-partnership-with-new-5G-deal.html",
+            "time_published": "20250205T080000",
+            "authors": [
+                "Nokia Oyj"
+            ],
+            "summary": "Nokia and Orange France extend long-term partnership with new 5G deal \u2022 New 5G contract extends companies' long-standing partnership with upgraded network boosting performance and customer experience.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e6523d78-c43a-4057-8aa9-68206d3af4a8",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.433976,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NOK",
+                    "relevance_score": "0.638154",
+                    "ticker_sentiment_score": "0.611512",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Yandex develops and open-sources Perforator, an open-source tool that can save businesses billions of dollars a year on server infrastructure",
+            "url": "https://www.benzinga.com/pressreleases/25/02/g43487577/yandex-develops-and-open-sources-perforator-an-open-source-tool-that-can-save-businesses-billions-",
+            "time_published": "20250205T080000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Yandex introduces Perforator, a tool that can identify and evaluate code inefficiencies across a company's entire code base. The solution can help businesses reduce CPU resource usage by 20% annually.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/7d65842c-92ec-4c79-af73-20fd3c53d024/bswciodc.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.386742,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "III",
+                    "relevance_score": "0.041466",
+                    "ticker_sentiment_score": "0.104098",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Rival Figure AI Ends Collaboration With OpenAI After 'Major Breakthrough,' Says It Will Show 'Something No One Has Ever Seen On A Humanoid' In Next 30 Days - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/tech/25/02/43487564/tesla-rival-figure-ai-ends-collaboration-with-openai-after-major-breakthrough-says-it-will-show-something-no",
+            "time_published": "20250205T075929",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Robotics company Figure AI is leaving its collaboration agreement with OpenAI following a 'major breakthrough' on its in-house robot AI, the company's CEO Brett Adcock said in a social media post on Tuesday.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/02/05/Figure-AI-humanoid.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.140485,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "OPTGF",
+                    "relevance_score": "0.25168",
+                    "ticker_sentiment_score": "-0.020532",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.127456",
+                    "ticker_sentiment_score": "-0.044009",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nissan to bow out of historic tie-up with Honda, Nikkei reports",
+            "url": "https://www.scmp.com/business/companies/article/3297448/nissan-bow-out-historic-tie-honda-nikkei-reports",
+            "time_published": "20250205T075855",
+            "authors": [
+                "Bloomberg"
+            ],
+            "summary": "The pair had been negotiating the terms of a tie-up under which Honda would absorb Nissan, bringing the two brands under a single holding company in 2026.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/02/05/24e67794-44f9-4a67-9463-551bed73259a_5a6ec0a5.jpg?itok=ljb1_jgg&v=1738742333",
+            "source": "South China Morning Post",
+            "category_within_source": "Companies",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.091785,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSBHF",
+                    "relevance_score": "0.087503",
+                    "ticker_sentiment_score": "0.141461",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RNSDF",
+                    "relevance_score": "0.087503",
+                    "ticker_sentiment_score": "-0.023836",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TM",
+                    "relevance_score": "0.087503",
+                    "ticker_sentiment_score": "0.021218",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MMTOF",
+                    "relevance_score": "0.087503",
+                    "ticker_sentiment_score": "0.141461",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NSANF",
+                    "relevance_score": "0.087503",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HMC",
+                    "relevance_score": "0.087503",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
         {
             "title": "Sundar Pichai Downplays DeepSeek Threat - Google's Gemini Still Leads In Cost, Performance, And Latency - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",
             "url": "https://www.benzinga.com/25/02/43487551/sundar-pichai-acknowledges-deepseeks-ai-advancementsbut-says-googles-gemini-still-leads-in-cost-performance-and-l",
@@ -1277,449 +1692,6 @@
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
-        },
-        {
-            "title": "Ringkj\u00f8bing Landbobank's annual report for 2024",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020904/0/en/Ringkj%C3%B8bing-Landbobank-s-annual-report-for-2024.html",
-            "time_published": "20250205T060700",
-            "authors": [
-                "Ringkj\u00f8bing Landbobank A/S"
-            ],
-            "summary": "Nasdaq CopenhagenLondon Stock ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/55d08077-3c98-4206-8aec-a29d8e1d064e",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.451494"
-                }
-            ],
-            "overall_sentiment_score": 0.476053,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "World's demand for gold hit another record high last year; appetite for bullion in 2025 remains firm",
-            "url": "https://www.cnbc.com/2025/02/05/worlds-demand-for-gold-hit-another-record-high-in-2024.html",
-            "time_published": "20250205T060540",
-            "authors": [],
-            "summary": "The world's demand for gold hit another record high in 2024 amid robust central bank purchases and investment demand growth, the World Gold Council said.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Top News",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.838487"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.99994"
-                }
-            ],
-            "overall_sentiment_score": 0.197355,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Enphase Energy  ( ENPH )  Q4 2024 Earnings Call Transcript",
-            "url": "https://www.fool.com/earnings/call-transcripts/2025/02/05/enphase-energy-enph-q4-2024-earnings-call-transcri/",
-            "time_published": "20250205T060016",
-            "authors": [
-                "Motley Fool Transcribing"
-            ],
-            "summary": "ENPH earnings call for the period ending December 31, 2024.",
-            "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999897"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.495866"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.218135,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ENPH",
-                    "relevance_score": "0.007815",
-                    "ticker_sentiment_score": "0.192037",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "BCS",
-                    "relevance_score": "0.003907",
-                    "ticker_sentiment_score": "0.111729",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.007815",
-                    "ticker_sentiment_score": "0.134843",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "DSSMY",
-                    "relevance_score": "0.003907",
-                    "ticker_sentiment_score": "0.111729",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "WFC",
-                    "relevance_score": "0.003907",
-                    "ticker_sentiment_score": "0.111729",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.003907",
-                    "ticker_sentiment_score": "0.111729",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "APG",
-                    "relevance_score": "0.003907",
-                    "ticker_sentiment_score": "0.186995",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.003907",
-                    "ticker_sentiment_score": "0.040713",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Valneva Receives Marketing Authorization in the UK for the World's First Chikungunya Vaccine, IXCHIQ\u00ae",
-            "url": "https://www.benzinga.com/pressreleases/25/02/g43486284/valneva-receives-marketing-authorization-in-the-uk-for-the-worlds-first-chikungunya-vaccine-ixchiq",
-            "time_published": "20250205T060000",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "Saint Herblain ( France ) , February 5, 2025 - Valneva SE VALNVLA, a specialty vaccine company, today announced that the Medicines and Healthcare products Regulatory Agency ( MHRA ) has granted marketing authorization in the United Kingdom ( UK ) for the world's first and only chikungunya ...",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "General",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.175628,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.020544",
-                    "ticker_sentiment_score": "0.048676",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "VALN",
-                    "relevance_score": "0.604556",
-                    "ticker_sentiment_score": "0.331197",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "PFE",
-                    "relevance_score": "0.020544",
-                    "ticker_sentiment_score": "0.128188",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Valneva Receives Marketing Authorization in the UK for the World's First Chikungunya Vaccine, IXCHIQ\u00ae",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020900/0/en/Valneva-Receives-Marketing-Authorization-in-the-UK-for-the-World-s-First-Chikungunya-Vaccine-IXCHIQ.html",
-            "time_published": "20250205T060000",
-            "authors": [
-                "VALNEVA"
-            ],
-            "summary": "Saint Herblain ( France ) , February 5, 2025 - Valneva SE ( Nasdaq: VALN. Euronext Paris: VLA ) , a specialty vaccine company, today announced that the Medicines and Healthcare products Regulatory Agency ( MHRA ) has granted marketing authorization in the United Kingdom ( UK ) for the world's ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Life Sciences",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.173453,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "META",
-                    "relevance_score": "0.020958",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "VALN",
-                    "relevance_score": "0.614003",
-                    "ticker_sentiment_score": "0.336847",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "PFE",
-                    "relevance_score": "0.020958",
-                    "ticker_sentiment_score": "0.094464",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Credit Agricole SA : CONTINUED STRONG EARNINGS MOMENTUM IN 2024",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020902/0/en/Credit-Agricole-SA-CONTINUED-STRONG-EARNINGS-MOMENTUM-IN-2024.html",
-            "time_published": "20250205T060000",
-            "authors": [
-                "CREDIT AGRICOLE SA"
-            ],
-            "summary": "At the meeting of the Board of Directors of Cr\u00e9dit Agricole S.A. on 4 february 2025, SAS Rue La Bo\u00e9tie informed the company of its intention to purchase Cr\u00e9dit Agricole S.A. shares on the market for a maximum amount of 500 million euros in line with the operations announced in August 2023 and in ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e3774544-3555-4fd2-a441-7324d52be277",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.682689"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.972756"
-                },
-                {
-                    "topic": "Economy - Macro",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.176898,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRARF",
-                    "relevance_score": "0.215487",
-                    "ticker_sentiment_score": "0.102097",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AMDUF",
-                    "relevance_score": "0.019198",
-                    "ticker_sentiment_score": "0.14213",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "DYNXU",
-                    "relevance_score": "0.001745",
-                    "ticker_sentiment_score": "0.252155",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "RNSDF",
-                    "relevance_score": "0.001745",
-                    "ticker_sentiment_score": "-0.02366",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRBO",
-                    "relevance_score": "0.005236",
-                    "ticker_sentiment_score": "0.093436",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "VCTR",
-                    "relevance_score": "0.005236",
-                    "ticker_sentiment_score": "0.034981",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NNXXY",
-                    "relevance_score": "0.001745",
-                    "ticker_sentiment_score": "0.078297",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "WWLNF",
-                    "relevance_score": "0.003491",
-                    "ticker_sentiment_score": "0.100339",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AWON",
-                    "relevance_score": "0.005236",
-                    "ticker_sentiment_score": "0.004718",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MCLE",
-                    "relevance_score": "0.001745",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:EUR",
-                    "relevance_score": "0.019198",
-                    "ticker_sentiment_score": "0.07857",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:CNY",
-                    "relevance_score": "0.001745",
-                    "ticker_sentiment_score": "0.03085",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:EGP",
-                    "relevance_score": "0.003491",
-                    "ticker_sentiment_score": "0.113293",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.005236",
-                    "ticker_sentiment_score": "0.035048",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Equinor to commence first tranche of the 2025 share buy-back programme",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020898/0/en/Equinor-to-commence-first-tranche-of-the-2025-share-buy-back-programme.html",
-            "time_published": "20250205T054700",
-            "authors": [
-                "Equinor ASA"
-            ],
-            "summary": "Equinor ( OSE: EQNR, NYSE: EQNR ) will on 6 February 2025 commence the first tranche of up to USD 1.2 billion of the share buy-back programme for 2025, as announced at the Capital Market Update 5 February 2025.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e60cd9f0-14f4-48a6-8ef3-351dd8211a6c",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.98396"
-                }
-            ],
-            "overall_sentiment_score": 0.303868,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "Equinor ASA: Key information relating to proposed cash dividend for fourth quarter 2024",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020897/0/en/Equinor-ASA-Key-information-relating-to-proposed-cash-dividend-for-fourth-quarter-2024.html",
-            "time_published": "20250205T054600",
-            "authors": [
-                "Equinor ASA"
-            ],
-            "summary": "Key information relating to the proposed cash dividend to be paid by Equinor ( OSE: EQNR, NYSE: EQNR ) for fourth quarter 2024.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e60cd9f0-14f4-48a6-8ef3-351dd8211a6c",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                }
-            ],
-            "overall_sentiment_score": 0.255043,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "EQNR",
-                    "relevance_score": "0.916507",
-                    "ticker_sentiment_score": "0.498135",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Equinor fourth quarter and full year 2024 results",
-            "url": "https://www.globenewswire.com/news-release/2025/02/05/3020896/0/en/Equinor-fourth-quarter-and-full-year-2024-results.html",
-            "time_published": "20250205T054500",
-            "authors": [
-                "Equinor ASA"
-            ],
-            "summary": "Equinor ( OSE:EQNR, NYSE:EQNR ) delivered adjusted operating income* of USD 7.90 billion and USD 2.29 billion after tax in the fourth quarter of 2024. Net operating income was USD 8.74 billion and net income was USD 2.00 billion, leading to adjusted earnings per share* of USD 0.63.",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/e60cd9f0-14f4-48a6-8ef3-351dd8211a6c",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.714479"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.99999"
-                }
-            ],
-            "overall_sentiment_score": 0.252444,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
         }
     ]
 }
